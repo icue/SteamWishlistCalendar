@@ -31,7 +31,7 @@ _GAME_URL_PREFIX = 'https://store.steampowered.com/app/'
 
 _BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', 'coming soon')
 _TO_REMOVE = ('coming', 'wishlist now', '!', '--', 'wishlist and follow', 'play demo now',
-              'add to wishlist', 'wishlist to be notified', 'wishlist', '愿望单', '添加'
+              'add to wishlist', 'wishlist to be notified', 'wishlist', '愿望单', '添加', 'now',
               '(', ')', '（', '）', '↘', '↙', '↓', ':', '：')
 _TO_REPLACE = (
     ('spring', 'mar'), ('summer', 'june'), ('fall', 'sep'), ('winter', 'dec'),
@@ -103,7 +103,6 @@ for index in range(0, args.max_page):
                                                    'PREFER_DAY_OF_MONTH': 'last',
                                                    'PREFER_DATES_FROM': 'future'})
             if translated_date:
-                # print(value['release_string'] + '   translating to   ' + str(translated_date.date()))
                 release_date = translated_date
             else:
                 failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
