@@ -109,8 +109,10 @@ for index in range(0, args.max_page):
                 failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
                 continue
 
+        if not release_date:
+            continue
         successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
-        if not release_date or value[_TYPE] == _DLC and not args.include_dlc:
+        if value[_TYPE] == _DLC and not args.include_dlc:
             continue
         event = Event(uid=key, name=game_name + _EVENT_SUFFIX,
                       description=_GAME_URL_PREFIX + key,
