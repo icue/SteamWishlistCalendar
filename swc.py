@@ -56,7 +56,7 @@ parser.add_argument('-p', '--max-page', type=int, default=20)
 parser.add_argument('-d', '--include-dlc', type=bool, default=False)
 args = parser.parse_args()
 
-if(args.id.isnumeric()):
+if args.id.isnumeric():
     url = f'https://store.steampowered.com/wishlist/profiles/{args.id}/wishlistdata/'
 else:
     url = f'https://store.steampowered.com/wishlist/id/{args.id}/wishlistdata/'
@@ -130,10 +130,8 @@ os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
 
 with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(successful_deductions))
-
 with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(failed_deductions))
-
 with open(_OUTPUT_FOLDER + _ICS_FILE, 'w', encoding='utf-8') as f:
     f.write(str(cal))
 
@@ -143,7 +141,6 @@ data = {}
 if os.path.isfile(history_file_path):
     with open(history_file_path) as f:
         data = json.load(f)
-
 data[datetime.today().strftime('%Y-%m-%d')] = count
 with open(history_file_path, 'w') as f:
     json.dump(data, f)
