@@ -20,7 +20,8 @@ _CREATER = 'SteamWishlistCalendar'
 _NAME = 'name'
 _TYPE = 'type'
 _DLC = 'DLC'
-_SEP = ' sep'
+_SEP = '-09-15'
+_DEC = '-12-31'
 _CATEGORY = 'game_release'
 _RELEASE_DATE = 'release_date'
 _RELEASE_STRING = 'release_string'
@@ -53,7 +54,7 @@ _HISTORY_CHART_FILE = 'wishlist_history_chart.png'
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--id', type=str, required=True)
-parser.add_argument('-p', '--max-page', type=int, default=15)
+parser.add_argument('-p', '--max-page', type=int, default=20)
 parser.add_argument('-d', '--include-dlc', type=bool, default=False)
 args = parser.parse_args()
 
@@ -79,6 +80,7 @@ for index in range(0, args.max_page):
     for key, value in response.json().items():
         count += 1
         game_name = value[_NAME]
+        description_suffix = ''
         if value[_RELEASE_DATE]:
             release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]))
         if _PRERELEASE in value:
@@ -96,7 +98,9 @@ for index in range(0, args.max_page):
             release_string = release_string.lstrip().rstrip()
             if re.match(_YEAR_REGEX, release_string):
                 # Release string only contains a year.
-                release_string += _SEP
+                # If XXXX.09.15 has already passed, uses the last day of that year.
+                sep_release_datetime = datetime.strptime(release_string + _SEP, '%Y-%m-%d')
+                release_string += _SEP if sep_release_datetime > now else _DEC
 
             # Tries to parse a machine-readable date from the release string.
             translated_date = dateparser.parse(release_string,
@@ -105,6 +109,7 @@ for index in range(0, args.max_page):
                                                    'PREFER_DATES_FROM': 'future'})
             if translated_date:
                 release_date = translated_date
+                description_suffix = f'\n此日期由"{value[_RELEASE_STRING]}"推断得出，与最终发售日可能有较大出入'
             else:
                 failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
                 continue
@@ -115,7 +120,7 @@ for index in range(0, args.max_page):
         if value[_TYPE] == _DLC and not args.include_dlc:
             continue
         event = Event(uid=key, name=game_name + _EVENT_SUFFIX,
-                      description=_GAME_URL_PREFIX + key,
+                      description=_GAME_URL_PREFIX + key + description_suffix,
                       begin=release_date, last_modified=now,
                       categories=[_CATEGORY])
         event.make_all_day()
