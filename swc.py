@@ -43,11 +43,12 @@ _TO_REPLACE = (
     ('年末', 'dec')
 )
 
-_SUCCESS_FILE = '/successful.txt'
-_FAILURE_FILE = '/failed_deductions.txt'
-_ICS_FILE = '/wishlist.ics'
-_HISTORY_FILE = '/history.json'
-_HISTORY_CHART_FILE = '/wishlist_history_chart.png'
+_OUTPUT_FOLDER = 'output/'
+_SUCCESS_FILE = 'successful.txt'
+_FAILURE_FILE = 'failed_deductions.txt'
+_ICS_FILE = 'wishlist.ics'
+_HISTORY_FILE = 'history.json'
+_HISTORY_CHART_FILE = 'wishlist_history_chart.png'
 
 
 parser = argparse.ArgumentParser()
@@ -122,19 +123,19 @@ for index in range(0, args.max_page):
     time.sleep(3)
 
 
-os.makedirs(args.id, exist_ok=True)
+os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
 
-with open(args.id + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
+with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(successful_deductions))
 
-with open(args.id + _FAILURE_FILE, 'w', encoding='utf-8') as f:
+with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(failed_deductions))
 
-with open(args.id + _ICS_FILE, 'w', encoding='utf-8') as f:
+with open(_OUTPUT_FOLDER + _ICS_FILE, 'w', encoding='utf-8') as f:
     f.write(str(cal))
 
 # Overwrites history.
-history_file_path = args.id + _HISTORY_FILE
+history_file_path = _OUTPUT_FOLDER + _HISTORY_FILE
 data = {}
 if os.path.isfile(history_file_path):
     with open(history_file_path) as f:
@@ -150,4 +151,4 @@ pyplot.plot(x, y, marker='.')
 pyplot.xlabel('Date')
 pyplot.ylabel('# of items on Wishlist')
 pyplot.title('Wishlist History')
-pyplot.savefig(args.id + _HISTORY_CHART_FILE)
+pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE)
