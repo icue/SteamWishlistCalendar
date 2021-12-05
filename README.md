@@ -1,3 +1,3 @@
 # SteamWishlistCalendar
-![Alt text](/76561198091123480/wishlist_history_chart.png?raw=true "Wishlist History")
+![Alt text](/output/wishlist_history_chart.png?raw=true "Wishlist History")
  
