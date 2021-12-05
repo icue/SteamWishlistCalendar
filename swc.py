@@ -9,6 +9,7 @@ import warnings
 from datetime import datetime
 from ics import Calendar, Event
 from matplotlib import pyplot
+from matplotlib import ticker
 
 # Ignores dateparser warnings regarding pytz
 warnings.filterwarnings(
@@ -37,11 +38,8 @@ _TO_REMOVE = ('coming', 'wishlist now', '!', '--', 'wishlist and follow', 'play 
 _TO_REPLACE = (
     ('spring', 'mar'), ('summer', 'june'), ('fall', 'sep'), ('winter', 'dec'),
     ('q1', 'feb'), ('q2', 'may'), ('q3', 'aug'), ('q4', 'nov'),
-    ('early 2', 'march 2'),
-    (' 年 ', '年'), (' 月 ', '月'),
-    (' 年', '年'), (' 月', '月'), (' 日', '日'),
-    ('年 ', '年'), ('月 ', '月'),
-    ('年末', 'dec')
+    ('early 2', 'march 2'), ('年末', 'dec'), ('年底', 'dec'),
+    ('年', '.'), ('月', '.'), ('日', '.'), ('号', '.')
 )
 
 _OUTPUT_FOLDER = 'output/'
@@ -150,10 +148,13 @@ data[datetime.today().strftime('%Y-%m-%d')] = count
 with open(history_file_path, 'w') as f:
     json.dump(data, f)
 
+fig, ax = pyplot.subplots()
 # Redraws a line chart.
 x, y = zip(*sorted(data.items()))
-pyplot.plot(x, y, marker='.')
-pyplot.xlabel('Date')
+ax.plot(x, y, marker='.')
+ax.yaxis.set_major_locator(ticker.MultipleLocator(5))
 pyplot.ylabel('# of items on Wishlist')
 pyplot.title('Wishlist History')
+pyplot.grid()
+fig.autofmt_xdate()
 pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE)
