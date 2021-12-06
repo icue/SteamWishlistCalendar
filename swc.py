@@ -74,6 +74,9 @@ for index in range(0, args.max_page):
     if not response.json():
         # No more remaining items.
         break
+    if 'success' in response.json().keys():
+        # User profile is private.
+        exit()
 
     for key, value in response.json().items():
         count += 1
