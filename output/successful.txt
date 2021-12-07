@@ -1,6 +1,6 @@
 Suicide Squad: Kill the Justice League		2022-09-15
 Marvel's Midnight Suns		2022-09-15
-Thunder Tier One		2021-12-07
+Thunder Tier One		2022-12-07
 Way of the Samurai 3		2016-03-23
 Buried: An Interactive Story		2016-01-22
 DUAL GEAR		2020-07-29
@@ -37,7 +37,6 @@ ATOM RPG Trudograd		2021-09-13
 Roadwarden		2022-12-31
 One Dreamer		2021-12-31
 DIMENSION REIGN - ROGUELIKE DECKBUILDER		2020-03-19
-Teardown		2020-10-29
 Red Dead Redemption 2		2019-12-05
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
@@ -78,10 +77,10 @@ MONARK		2022-03-31
 Inbox Unbox		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
-Shadow Tactics: Blades of the Shogun 爱子的选择		2022-12-06
+Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
 Where The Heart Leads		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-06
+Beasties - Monster Trainer Puzzle RPG		2021-12-07
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2021-12-31
