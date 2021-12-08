@@ -42,13 +42,6 @@ _TO_REPLACE = (
     ('年', '.'), ('月', '.'), ('日', '.'), ('号', '.')
 )
 
-_OUTPUT_FOLDER = 'output/'
-_SUCCESS_FILE = 'successful.txt'
-_FAILURE_FILE = 'failed_deductions.txt'
-_ICS_FILE = 'wishlist.ics'
-_HISTORY_FILE = 'history.json'
-_HISTORY_CHART_FILE = 'wishlist_history_chart.png'
-
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--id', type=str, required=True)
@@ -129,6 +122,20 @@ for index in range(0, args.max_page):
     time.sleep(3)
 
 
+# File outputs.
+_OUTPUT_FOLDER = 'output/'
+_SUCCESS_FILE = 'successful.txt'
+_FAILURE_FILE = 'failed_deductions.txt'
+_ICS_FILE = 'wishlist.ics'
+_HISTORY_FILE = 'history.json'
+_HISTORY_CHART_FILE = 'wishlist_history_chart.png'
+
+_COLOR = '#EBDBB2'
+_LINE_COLOR = '#FB4934'
+_GRID_COLOR = '#A89984'
+_LABEL_COLOR = '#FABD2F'
+_BACKGROUND_COLOR = '#32302F'
+
 os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
 
 with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
@@ -148,13 +155,31 @@ data[datetime.today().strftime('%Y-%m-%d')] = count
 with open(history_file_path, 'w') as f:
     json.dump(data, f)
 
-fig, ax = pyplot.subplots()
 # Redraws a line chart.
+fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 x, y = zip(*sorted(data.items()))
-ax.plot(x, y, marker='.')
-ax.yaxis.set_major_locator(ticker.MultipleLocator(5))
-pyplot.ylabel('# of items on Wishlist')
-pyplot.title('Wishlist History')
-pyplot.grid()
+ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
+
+y_range = max(y) - min(y)
+y_step = 1
+if y_range > 70:
+    y_step = 10
+elif y_range > 10:
+    y_step = 5
+ax.yaxis.set_major_locator(ticker.MultipleLocator(y_step))
+
+ax.plot(x, y, marker='.', color=_LINE_COLOR)
+ax.tick_params(color=_GRID_COLOR, labelcolor=_LABEL_COLOR)
+ax.set_facecolor(_BACKGROUND_COLOR)
+ax.set_ylabel('# of items on Wishlist')
+ax.yaxis.label.set_color(_LABEL_COLOR)
+
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['bottom'].set_color(_COLOR)
+ax.spines['left'].set_color(_COLOR)
+
+pyplot.title('Wishlist History', color=_LABEL_COLOR)
+pyplot.grid(color=_GRID_COLOR)
 fig.autofmt_xdate()
-pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE)
+pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=800)
