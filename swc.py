@@ -23,7 +23,9 @@ _TYPE = 'type'
 _DLC = 'DLC'
 _SEP = '-09-15'
 _DEC = '-12-31'
+_TOTAL = 'total'
 _CATEGORY = 'game_release'
+_RELEASED = 'released'
 _RELEASE_DATE = 'release_date'
 _RELEASE_STRING = 'release_string'
 _PRERELEASE = 'prerelease'
@@ -56,6 +58,7 @@ else:
 # l may also be 'english' or 'tchinese'. See https://partner.steamgames.com/doc/store/localization
 params = {'l': 'schinese'}
 count = 0
+prerelease_count = 0
 successful_deductions = []
 failed_deductions = []
 cal = Calendar(creator=_CREATER)
@@ -78,6 +81,7 @@ for index in range(0, args.max_page):
         if value[_RELEASE_DATE]:
             release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]))
         if _PRERELEASE in value:
+            prerelease_count += 1
             # Games that are not release yet will have a 'free-form' release string.
             release_string = value[_RELEASE_STRING].lower()
             if any(substring in release_string for substring in _BLOCK_LIST):
@@ -129,9 +133,11 @@ _FAILURE_FILE = 'failed_deductions.txt'
 _ICS_FILE = 'wishlist.ics'
 _HISTORY_FILE = 'history.json'
 _HISTORY_CHART_FILE = 'wishlist_history_chart.png'
+_HISTORY_STACK_PLOT_FILE = 'wishlist_history_stack_plot.png'
 
 _COLOR = '#EBDBB2'
 _LINE_COLOR = '#FB4934'
+_LINE_COLOR_ALT = '#B8BB26'
 _GRID_COLOR = '#A89984'
 _LABEL_COLOR = '#FABD2F'
 _BACKGROUND_COLOR = '#32302F'
@@ -151,28 +157,26 @@ data = {}
 if os.path.isfile(history_file_path):
     with open(history_file_path) as f:
         data = json.load(f)
-data[datetime.today().strftime('%Y-%m-%d')] = count
+data[datetime.today().strftime('%Y-%m-%d')] = {_PRERELEASE: prerelease_count, _TOTAL: count}
 with open(history_file_path, 'w') as f:
     json.dump(data, f)
 
 # Redraws a line chart.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
-x, y = zip(*sorted(data.items()))
-ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
+x, y = zip(*sorted({k: v[_TOTAL] for k, v in data.items()}.items()))
+prerelease_x, prerelease_y = zip(*sorted({k: v[_PRERELEASE] for k, v in data.items()}.items()))
 
-y_range = max(y) - min(y)
-y_step = 1
-if y_range > 70:
-    y_step = 10
-elif y_range > 10:
-    y_step = 5
-ax.yaxis.set_major_locator(ticker.MultipleLocator(y_step))
+ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
+y_range = max(max(y), max(prerelease_y)) - min(min(y), min(prerelease_y))
+ax.yaxis.set_major_locator(ticker.MultipleLocator(max(1, int(y_range / 10))))
 
 ax.plot(x, y, marker='.', color=_LINE_COLOR)
+ax.plot(prerelease_x, prerelease_y, marker='.', color=_LINE_COLOR_ALT)
 ax.tick_params(color=_GRID_COLOR, labelcolor=_LABEL_COLOR)
 ax.set_facecolor(_BACKGROUND_COLOR)
 ax.set_ylabel('# of items on Wishlist')
 ax.yaxis.label.set_color(_LABEL_COLOR)
+ax.axes.grid(color=_GRID_COLOR, linestyle='dashed')
 
 ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
@@ -183,3 +187,30 @@ pyplot.title('Wishlist History', color=_LABEL_COLOR)
 pyplot.grid(color=_GRID_COLOR)
 fig.autofmt_xdate()
 pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=600)
+
+
+# Redraws a stackplot.
+fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
+ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
+ax.yaxis.set_major_locator(ticker.MultipleLocator(max(1, int(max(max(y), max(prerelease_y)) / 10))))
+
+ax.stackplot(x,
+             [[total_count - prerelease_count for total_count, prerelease_count in zip(y, prerelease_y)],
+              prerelease_y],
+             labels=[_RELEASED, _PRERELEASE], colors=['#8EC07C', '#D3869B'])
+legend = ax.legend(loc='upper left', frameon=True, labelcolor=_LABEL_COLOR)
+legend.get_frame().set_facecolor('#282828')
+legend.get_frame().set_edgecolor(_GRID_COLOR)
+ax.tick_params(color=_COLOR, labelcolor=_LABEL_COLOR)
+ax.set_facecolor(_BACKGROUND_COLOR)
+ax.set_ylabel('# of items on Wishlist')
+ax.yaxis.label.set_color(_LABEL_COLOR)
+
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['bottom'].set_color(_COLOR)
+ax.spines['left'].set_color(_COLOR)
+
+pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
+fig.autofmt_xdate()
+pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_STACK_PLOT_FILE, dpi=600)
