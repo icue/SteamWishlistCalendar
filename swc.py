@@ -38,7 +38,7 @@ _TO_REMOVE = ('coming', 'wishlist now', '!', '--', 'wishlist and follow', 'play 
 _TO_REPLACE = (
     ('spring', 'mar'), ('summer', 'june'), ('fall', 'sep'), ('winter', 'dec'),
     ('q1', 'feb'), ('q2', 'may'), ('q3', 'aug'), ('q4', 'nov'),
-    ('early 2', 'march 2'), ('年末', 'dec'), ('年底', 'dec'),
+    ('early 2', 'march 2'), ('late 2', 'sep 2'), ('年末', 'dec'), ('年底', 'dec'),
     ('年', '.'), ('月', '.'), ('日', '.'), ('号', '.')
 )
 
