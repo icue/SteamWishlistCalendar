@@ -138,6 +138,7 @@ _HISTORY_STACK_PLOT_FILE = 'wishlist_history_stack_plot.png'
 _COLOR = '#EBDBB2'
 _LINE_COLOR = '#FB4934'
 _LINE_COLOR_ALT = '#B8BB26'
+_LEGEND_BACKGROUND = '#282828'
 _GRID_COLOR = '#A89984'
 _LABEL_COLOR = '#FABD2F'
 _BACKGROUND_COLOR = '#32302F'
@@ -170,8 +171,8 @@ ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
 y_range = max(max(y), max(prerelease_y)) - min(min(y), min(prerelease_y))
 ax.yaxis.set_major_locator(ticker.MultipleLocator(max(1, int(y_range / 10))))
 
-ax.plot(x, y, marker='.', color=_LINE_COLOR)
-ax.plot(prerelease_x, prerelease_y, marker='.', color=_LINE_COLOR_ALT)
+ax.plot(x, y, marker='.', color=_LINE_COLOR, label=_TOTAL)
+ax.plot(prerelease_x, prerelease_y, marker='.', color=_LINE_COLOR_ALT, label=_PRERELEASE)
 ax.tick_params(color=_GRID_COLOR, labelcolor=_LABEL_COLOR)
 ax.set_facecolor(_BACKGROUND_COLOR)
 ax.set_ylabel('# of items on Wishlist')
@@ -182,6 +183,10 @@ ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 ax.spines['bottom'].set_color(_COLOR)
 ax.spines['left'].set_color(_COLOR)
+
+legend = ax.legend(loc='center left', frameon=True, labelcolor=_LABEL_COLOR)
+legend.get_frame().set_facecolor(_LEGEND_BACKGROUND)
+legend.get_frame().set_edgecolor(_GRID_COLOR)
 
 pyplot.title('Wishlist History', color=_LABEL_COLOR)
 pyplot.grid(color=_GRID_COLOR)
@@ -198,9 +203,6 @@ ax.stackplot(x,
              [[total_count - prerelease_count for total_count, prerelease_count in zip(y, prerelease_y)],
               prerelease_y],
              labels=[_RELEASED, _PRERELEASE], colors=['#8EC07C', '#D3869B'])
-legend = ax.legend(loc='upper left', frameon=True, labelcolor=_LABEL_COLOR)
-legend.get_frame().set_facecolor('#282828')
-legend.get_frame().set_edgecolor(_GRID_COLOR)
 ax.tick_params(color=_COLOR, labelcolor=_LABEL_COLOR)
 ax.set_facecolor(_BACKGROUND_COLOR)
 ax.set_ylabel('# of items on Wishlist')
@@ -210,6 +212,10 @@ ax.spines['top'].set_visible(False)
 ax.spines['right'].set_visible(False)
 ax.spines['bottom'].set_color(_COLOR)
 ax.spines['left'].set_color(_COLOR)
+
+legend = ax.legend(loc='upper left', frameon=True, labelcolor=_LABEL_COLOR)
+legend.get_frame().set_facecolor(_LEGEND_BACKGROUND)
+legend.get_frame().set_edgecolor(_GRID_COLOR)
 
 pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
 fig.autofmt_xdate()
