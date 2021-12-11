@@ -2,7 +2,7 @@
 ![Wishlist History](/output/wishlist_history_chart.png?raw=true "Wishlist History")
  
 ![Wishlist History Stack Plot](/output/wishlist_history_stack_plot.png?raw=true "Wishlist History Stack Plot")
-
+---
 **Instructions**
 1. Make sure your Steam profile is public.
 2. `pip install -r requirements.txt`
