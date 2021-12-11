@@ -170,7 +170,7 @@ def set_legend(ax, location):
 
 
 def annotate_run_time(pyplot):
-    pyplot.annotate(f'Last run: {datetime.now():%Y-%m-%d %H:%M:%S} UTC', (0.5, 0), (0, -60),
+    pyplot.annotate(f'Last run: {now:%Y-%m-%d %H:%M:%S} UTC', (0.5, 0), (0, -60),
                     xycoords='axes fraction', ha='center', textcoords='offset points',
                     color=_COLOR, fontsize=8)
 
