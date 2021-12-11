@@ -134,6 +134,7 @@ _LEGEND_BACKGROUND = '#282828'
 _GRID_COLOR = '#A89984'
 _LABEL_COLOR = '#FABD2F'
 _BACKGROUND_COLOR = '#32302F'
+_DPI = 600
 
 os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
 
@@ -191,7 +192,7 @@ set_legend(ax, 'center left')
 pyplot.title('Wishlist History', color=_LABEL_COLOR)
 pyplot.grid(color=_GRID_COLOR)
 fig.autofmt_xdate()
-pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=600)
+pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=_DPI)
 
 
 # Redraws a stackplot.
@@ -213,4 +214,4 @@ set_legend(ax, 'upper left')
 
 pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
 fig.autofmt_xdate()
-pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_STACK_PLOT_FILE, dpi=600)
+pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_STACK_PLOT_FILE, dpi=_DPI)
