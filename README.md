@@ -19,4 +19,4 @@
     * [`wishlist_history_chart.png`](/output/wishlist_history_chart.png): a line chart that shows the trend of the wishlist. What gets displayed here also depends on data in [`history.json`](/output/history.json).
     * [`wishlist_history_stack_plot.png`](/output/wishlist_history_chart.png): a stack plot that shows the trend of the wishlist. What gets displayed here also depends on data in [`history.json`](/output/history.json).
 5. You may refer to the [workflow yml file](/.github/workflows/analyze-wishlist.yml) in this repo, to automatically run the script on schedule.
-6. If you choose to publish the `.ICS` file, such as on GitHub, you may then have your calendar app subscribe to that file. Effectively what you get is a calendar that keeps track of the release dates of the items on your wishlist.
+6. If you choose to publish the `.ICS` file, such as on GitHub, you may then have your calendar app subscribe to that file. Effectively what you get is a calendar that syncs with the release dates of the items on your wishlist.
