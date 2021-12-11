@@ -109,7 +109,7 @@ for index in range(0, args.max_page):
         successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
         if value['type'] == 'DLC' and not args.include_dlc:
             continue
-        event = Event(uid=key, name=game_name + ' Release',
+        event = Event(uid=key, name=game_name,
                       description='https://store.steampowered.com/app/' + key + description_suffix,
                       begin=release_date, last_modified=now,
                       categories=['game_release'])
@@ -154,6 +154,20 @@ data[datetime.today().strftime('%Y-%m-%d')] = {_PRERELEASE: prerelease_count, _T
 with open(history_file_path, 'w') as f:
     json.dump(data, f)
 
+
+def set_spine_visibility(ax):
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['bottom'].set_color(_COLOR)
+    ax.spines['left'].set_color(_COLOR)
+
+
+def set_legend(ax, location):
+    legend = ax.legend(loc=location, frameon=True, labelcolor=_LABEL_COLOR)
+    legend.get_frame().set_facecolor(_LEGEND_BACKGROUND)
+    legend.get_frame().set_edgecolor(_GRID_COLOR)
+
+
 # Redraws a line chart.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 x, y = zip(*sorted({k: v[_TOTAL] for k, v in data.items()}.items()))
@@ -171,14 +185,8 @@ ax.set_ylabel('# of items on Wishlist')
 ax.yaxis.label.set_color(_LABEL_COLOR)
 ax.axes.grid(color=_GRID_COLOR, linestyle='dashed')
 
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
-ax.spines['bottom'].set_color(_COLOR)
-ax.spines['left'].set_color(_COLOR)
-
-legend = ax.legend(loc='center left', frameon=True, labelcolor=_LABEL_COLOR)
-legend.get_frame().set_facecolor(_LEGEND_BACKGROUND)
-legend.get_frame().set_edgecolor(_GRID_COLOR)
+set_spine_visibility(ax)
+set_legend(ax, 'center left')
 
 pyplot.title('Wishlist History', color=_LABEL_COLOR)
 pyplot.grid(color=_GRID_COLOR)
@@ -200,14 +208,8 @@ ax.set_facecolor(_BACKGROUND_COLOR)
 ax.set_ylabel('# of items on Wishlist')
 ax.yaxis.label.set_color(_LABEL_COLOR)
 
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
-ax.spines['bottom'].set_color(_COLOR)
-ax.spines['left'].set_color(_COLOR)
-
-legend = ax.legend(loc='upper left', frameon=True, labelcolor=_LABEL_COLOR)
-legend.get_frame().set_facecolor(_LEGEND_BACKGROUND)
-legend.get_frame().set_edgecolor(_GRID_COLOR)
+set_spine_visibility(ax)
+set_legend(ax, 'upper left')
 
 pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
 fig.autofmt_xdate()
