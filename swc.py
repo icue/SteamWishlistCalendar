@@ -169,6 +169,12 @@ def set_legend(ax, location):
     legend.get_frame().set_edgecolor(_GRID_COLOR)
 
 
+def annotate_run_time(pyplot):
+    pyplot.annotate(f'Last run: {datetime.now():%Y-%m-%d %H:%M:%S}', (0.5, 0), (0, -60),
+                    xycoords='axes fraction', ha='center', textcoords='offset points',
+                    color=_COLOR, fontsize=8)
+
+
 # Redraws a line chart.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 x, y = zip(*sorted({k: v[_TOTAL] for k, v in data.items()}.items()))
@@ -190,6 +196,7 @@ set_spine_visibility(ax)
 set_legend(ax, 'center left')
 
 pyplot.title('Wishlist History', color=_LABEL_COLOR)
+annotate_run_time(pyplot)
 pyplot.grid(color=_GRID_COLOR)
 fig.autofmt_xdate()
 pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=_DPI)
@@ -213,5 +220,6 @@ set_spine_visibility(ax)
 set_legend(ax, 'upper left')
 
 pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
+annotate_run_time(pyplot)
 fig.autofmt_xdate()
 pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_STACK_PLOT_FILE, dpi=_DPI)
