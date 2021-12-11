@@ -13,25 +13,17 @@ from matplotlib import ticker
 
 # Ignores dateparser warnings regarding pytz
 warnings.filterwarnings(
-    "ignore",
-    message="The localize method is no longer necessary, as this time zone supports the fold attribute",
+    'ignore',
+    message='The localize method is no longer necessary, as this time zone supports the fold attribute',
 )
 
-_CREATER = 'SteamWishlistCalendar'
-_NAME = 'name'
-_TYPE = 'type'
-_DLC = 'DLC'
 _SEP = '-09-15'
-_DEC = '-12-31'
 _TOTAL = 'total'
-_CATEGORY = 'game_release'
-_RELEASED = 'released'
 _RELEASE_DATE = 'release_date'
 _RELEASE_STRING = 'release_string'
+_RELEASED = 'released'
 _PRERELEASE = 'prerelease'
-_EVENT_SUFFIX = ' 发售'
 _YEAR_REGEX = '^\\d{4}$'
-_GAME_URL_PREFIX = 'https://store.steampowered.com/app/'
 
 _BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', 'coming soon')
 _TO_REMOVE = ('coming', 'wishlist now', '!', '--', 'wishlist and follow', 'play demo now',
@@ -61,7 +53,7 @@ count = 0
 prerelease_count = 0
 successful_deductions = []
 failed_deductions = []
-cal = Calendar(creator=_CREATER)
+cal = Calendar(creator='SteamWishlistCalendar')
 now = datetime.now()
 
 for index in range(0, args.max_page):
@@ -76,7 +68,7 @@ for index in range(0, args.max_page):
 
     for key, value in response.json().items():
         count += 1
-        game_name = value[_NAME]
+        game_name = value['name']
         description_suffix = ''
         if value[_RELEASE_DATE]:
             release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]))
@@ -98,7 +90,7 @@ for index in range(0, args.max_page):
                 # Release string only contains a year.
                 # If XXXX.09.15 has already passed, uses the last day of that year.
                 sep_release_datetime = datetime.strptime(release_string + _SEP, '%Y-%m-%d')
-                release_string += _SEP if sep_release_datetime > now else _DEC
+                release_string += _SEP if sep_release_datetime > now else '-12-31'
 
             # Tries to parse a machine-readable date from the release string.
             translated_date = dateparser.parse(release_string,
@@ -107,7 +99,7 @@ for index in range(0, args.max_page):
                                                    'PREFER_DATES_FROM': 'future'})
             if translated_date:
                 release_date = translated_date
-                description_suffix = f'\n此日期由"{value[_RELEASE_STRING]}"推断得出，与最终发售日可能有较大出入'
+                description_suffix = f'\nEstimation based on "{value[_RELEASE_STRING]}"'
             else:
                 failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
                 continue
@@ -115,12 +107,12 @@ for index in range(0, args.max_page):
         if not release_date:
             continue
         successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
-        if value[_TYPE] == _DLC and not args.include_dlc:
+        if value['type'] == 'DLC' and not args.include_dlc:
             continue
-        event = Event(uid=key, name=game_name + _EVENT_SUFFIX,
-                      description=_GAME_URL_PREFIX + key + description_suffix,
+        event = Event(uid=key, name=game_name + ' Release',
+                      description='https://store.steampowered.com/app/' + key + description_suffix,
                       begin=release_date, last_modified=now,
-                      categories=[_CATEGORY])
+                      categories=['game_release'])
         event.make_all_day()
         cal.events.add(event)
     time.sleep(3)
