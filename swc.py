@@ -11,7 +11,7 @@ from ics import Calendar, Event
 from matplotlib import pyplot
 from matplotlib import ticker
 
-# Ignores dateparser warnings regarding pytz
+# Ignores dateparser warnings regarding pytz.
 warnings.filterwarnings(
     'ignore',
     message='The localize method is no longer necessary, as this time zone supports the fold attribute',
@@ -195,7 +195,7 @@ fig.autofmt_xdate()
 pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=_DPI)
 
 
-# Redraws a stackplot.
+# Redraws a stack plot.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
 ax.yaxis.set_major_locator(ticker.MultipleLocator(max(1, int(max(max(y), max(prerelease_y)) / 10))))
