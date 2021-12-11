@@ -7,6 +7,7 @@
 1. Make sure your Steam profile is public.
 2. `pip install -r requirements.txt`
 3.  `python ./swc.py -i={steam ID}`
+    
     Optional parameters:
     * `-d`: whether to include DLCs. Default is `False`.
     * `-p`: maximum number of pages to process. Default is `20`. By design of Steam API, each page contains 100 items, so this determines how many items on the wishlist get processed in total. If the wishlist contains more than 2000 items, you may want to raise this number, or the data will be cut off.
