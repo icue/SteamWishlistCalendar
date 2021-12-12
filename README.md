@@ -6,11 +6,11 @@
 **Instructions**
 1. Make sure your Steam profile is public.
 2. `pip install -r requirements.txt`
-3.  `python ./swc.py -i={steam ID}`
+3. `python ./swc.py -i={steam ID}`
     
-    Optional parameters:
-    * `-d`: whether to include DLCs. Default is `False`.
-    * `-p`: maximum number of pages to process. Default is `20`. By design of Steam API, each page contains 100 items, so this determines how many items on the wishlist get processed in total. If the wishlist contains more than 2000 items, you may want to raise this number, or the data will be cut off.
+   Optional parameters:
+   * `-d`: whether to include DLCs. Default is `False`.
+   * `-p`: maximum number of pages to process. Default is `20`. By design of Steam API, each page contains 100 items, so this determines how many items on the wishlist get processed in total. If the wishlist contains more than 2000 items, you may want to raise this number, or the data will be cut off.
 4. When finished, the script generates 6 files in [`/output`](output/) directory.
     * [`wishlist.ics`](output/wishlist.ics): an `.ICS` file, which can be imported into common calendar applications, such as Google Calendar and Outlook. Learn more about this format on [Wikipedia](https://en.wikipedia.org/wiki/ICalendar).
     * [`history.json`](output/history.json): stores the number of wishlisted items, as well as the number of pre-releases among them, of the day. Keeps growing.
