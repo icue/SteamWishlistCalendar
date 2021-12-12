@@ -7,6 +7,7 @@ import requests
 import time
 import warnings
 from datetime import datetime
+from datetime import timezone
 from ics import Calendar, Event
 from matplotlib import pyplot
 from matplotlib import ticker
@@ -54,7 +55,7 @@ prerelease_count = 0
 successful_deductions = []
 failed_deductions = []
 cal = Calendar(creator='SteamWishlistCalendar')
-now = datetime.now()
+now = datetime.now(timezone.utc)
 
 for index in range(0, args.max_page):
     params['p'] = index
@@ -89,8 +90,8 @@ for index in range(0, args.max_page):
             if re.match(_YEAR_REGEX, release_string):
                 # Release string only contains a year.
                 # If XXXX.09.15 has already passed, uses the last day of that year.
-                sep_release_datetime = datetime.strptime(release_string + _SEP, '%Y-%m-%d')
-                release_string += _SEP if sep_release_datetime > now else '-12-31'
+                sep_release_date = datetime.strptime(release_string + _SEP, '%Y-%m-%d').date()
+                release_string += _SEP if sep_release_date > now.date() else '-12-31'
 
             # Tries to parse a machine-readable date from the release string.
             translated_date = dateparser.parse(release_string,
