@@ -12,7 +12,7 @@ The Invincible		2022-09-15
 绯红结系		2021-06-24
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
-The Last Hex		2019-05-10
+The Last Hex		2021-12-13
 SNKRX		2021-05-17
 骇游侠探		2021-09-16
 Campfire Pro		2018-11-14
@@ -41,7 +41,7 @@ DIMENSION REIGN - ROGUELIKE DECKBUILDER		2020-03-19
 Red Dead Redemption 2		2019-12-05
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
-Shovel Knight Pocket Dungeon		2022-12-13
+Shovel Knight Pocket Dungeon		2021-12-13
 Coromon		2022-02-28
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
@@ -81,7 +81,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
 Where The Heart Leads		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-13
+Beasties - Monster Trainer Puzzle RPG		2021-12-14
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2021-12-31
@@ -92,7 +92,6 @@ S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-04-28
 Two Point Campus		2022-09-15
 I Am Future		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-12-31
-MADiSON		2022-01-07
 Fading Afternoon		2022-09-15
 Mahokenshi		2022-02-28
 变成大人也不要忘记		2022-01-12
@@ -105,3 +104,4 @@ The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Sniper Elite 5		2022-09-15
 Nevermore: The Chamber Door		2021-12-10
+门里		2021-12-16
