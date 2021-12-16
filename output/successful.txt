@@ -81,7 +81,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
 Where The Heart Leads		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-15
+Beasties - Monster Trainer Puzzle RPG		2021-12-16
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2021-12-31
@@ -104,4 +104,4 @@ The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Sniper Elite 5		2022-09-15
 Nevermore: The Chamber Door		2021-12-10
-门里		2021-12-16
+门里		2022-12-16
