@@ -18,6 +18,8 @@ SNKRX		2021-05-17
 Campfire Pro		2018-11-14
 STEINS;GATE: My Darling's Embrace		2019-12-10
 Olaguna Chronicles 命运启示录-阿尔巴雷克战纪-		2021-08-02
+深埋之星		2021-11-29
+Sniper Elite 5		2022-09-15
 Shadow Warrior 3		2022-09-15
 Eternal Threads		2022-03-31
 暗邪西部		2022-09-15
@@ -28,7 +30,6 @@ Baldur's Gate 3		2020-10-06
 Weird West		2022-01-11
 鬼哭岭		2021-12-31
 Yakuza 5 Remastered		2021-01-28
-Nonlinear System Tools		2021-12-03
 逆向坍塌：面包房行动		2022-09-15
 战匠杜沃		2022-09-15
 Hometopia		2022-01-31
@@ -37,12 +38,12 @@ ATOM RPG Trudograd		2021-09-13
 Roadwarden		2022-12-31
 One Dreamer		2022-02-28
 DIMENSION REIGN - ROGUELIKE DECKBUILDER		2020-03-19
-大多数		2022-09-15
 Red Dead Redemption 2		2019-12-05
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
 Coromon		2022-02-28
+门里		2021-12-17
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-31
@@ -52,6 +53,7 @@ MasterPlan		2021-01-27
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 Disciples: Liberation		2021-10-21
+薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
 UNREAL LIFE		2020-11-19
@@ -76,32 +78,30 @@ Wartales		2021-12-01
 MONARK		2022-03-31
 极限竞速：地平线 5		2021-11-09
 Inbox Unbox		2022-09-15
+Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
+Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Where The Heart Leads		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-19
+Beasties - Monster Trainer Puzzle RPG		2021-12-20
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2021-12-31
+白日梦的构想图		2021-12-31
 Survivors of the Void		2022-02-28
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-04-28
 Two Point Campus		2022-09-15
+Jigsaw Puzzle Dreams		2021-12-02
 I Am Future		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-12-31
 Fading Afternoon		2022-09-15
+The Stanley Parable: Ultra Deluxe		2022-03-31
+Starfield		2022-11-11
 Mahokenshi		2022-02-28
 变成大人也不要忘记		2022-01-12
-深埋之星		2021-11-29
-Jigsaw Puzzle Dreams		2021-12-02
-薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
-Dead Cells: The Queen and the Sea		2022-01-06
-The Stanley Parable: Ultra Deluxe		2022-03-31
-白日梦的构想图		2021-12-31
-Starfield		2022-11-11
-Sniper Elite 5		2022-09-15
-门里		2021-12-17
+Nonlinear System Tools		2021-12-03
+大多数		2022-09-15
 Telepath Tactics Liberated		2022-03-14
