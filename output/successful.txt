@@ -30,6 +30,7 @@ Baldur's Gate 3		2020-10-06
 Weird West		2022-01-11
 鬼哭岭		2021-12-31
 Yakuza 5 Remastered		2021-01-28
+《文字游戏》		2022-01-21
 逆向坍塌：面包房行动		2022-09-15
 战匠杜沃		2022-09-15
 Hometopia		2022-01-31
@@ -84,7 +85,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-21
+Beasties - Monster Trainer Puzzle RPG		2021-12-22
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2021-12-31
