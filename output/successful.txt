@@ -12,7 +12,7 @@ The Invincible		2022-09-15
 绯红结系		2021-06-24
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
-The Last Hex		2021-12-13
+Ready or Not		2021-12-17
 SNKRX		2021-05-17
 骇游侠探		2021-09-16
 Campfire Pro		2018-11-14
@@ -84,7 +84,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-25
+Beasties - Monster Trainer Puzzle RPG		2021-12-26
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
