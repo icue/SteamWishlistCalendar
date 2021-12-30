@@ -15,7 +15,6 @@ STEINS;GATE ELITE		2019-02-19
 Ready or Not		2021-12-17
 SNKRX		2021-05-17
 骇游侠探		2021-09-16
-Campfire Pro		2018-11-14
 STEINS;GATE: My Darling's Embrace		2019-12-10
 Olaguna Chronicles 命运启示录-阿尔巴雷克战纪-		2021-08-02
 深埋之星		2021-11-29
@@ -81,7 +80,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-29
+Beasties - Monster Trainer Puzzle RPG		2021-12-30
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
