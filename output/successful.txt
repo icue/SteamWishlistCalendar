@@ -42,7 +42,7 @@ Red Dead Redemption 2		2019-12-05
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
 Coromon		2022-02-28
-阿龙与地下城		2022-12-31
+阿龙与地下城		2021-12-31
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-31
@@ -101,3 +101,4 @@ Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Telepath Tactics Liberated		2022-03-14
 中华普信男生存指南		2022-01-01
+Lost in Random™		2021-09-10
