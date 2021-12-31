@@ -42,7 +42,7 @@ Red Dead Redemption 2		2019-12-05
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
 Coromon		2022-02-28
-阿龙与地下城		2021-12-31
+阿龙与地下城		2022-12-31
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-31
@@ -61,12 +61,11 @@ Flowstone Saga		2022-09-15
 Knell of St. Godhrkar		2021-12-04
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
-CORPSE FACTORY		2022-01-31
 NeuroNet: Mendax Proxy		2022-09-15
 Kingdom Gun		2022-03-31
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
-琉隐		2021-12-31
+琉隐		2021-12-30
 Acolyte		2021-12-31
 凯瑞尔轮回		2021-02-01
 Himig		2022-09-15
@@ -80,7 +79,7 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-30
+Beasties - Monster Trainer Puzzle RPG		2021-12-31
 Demon's Mirror		2022-12-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
@@ -101,3 +100,4 @@ Mahokenshi		2022-02-28
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Telepath Tactics Liberated		2022-03-14
+中华普信男生存指南		2022-01-01
