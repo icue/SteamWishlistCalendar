@@ -21,10 +21,9 @@ Olaguna Chronicles 命运启示录-阿尔巴雷克战纪-		2021-08-02
 Sniper Elite 5		2022-09-15
 Shadow Warrior 3		2022-09-15
 Eternal Threads		2022-03-31
-暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
-Wayward Strand		2022-12-31
+Wayward Strand		2022-01-31
 Baldur's Gate 3		2020-10-06
 Weird West		2022-03-31
 鬼哭岭		2021-12-31
@@ -34,7 +33,7 @@ Yakuza 5 Remastered		2021-01-28
 战匠杜沃		2022-09-15
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
-Roadwarden		2022-12-31
+Roadwarden		2022-01-31
 One Dreamer		2022-02-28
 DIMENSION REIGN - ROGUELIKE DECKBUILDER		2020-03-19
 Red Dead Redemption 2		2019-12-05
@@ -79,8 +78,8 @@ OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Dead Cells: The Queen and the Sea		2022-01-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2021-12-31
-Demon's Mirror		2022-12-31
+Beasties - Monster Trainer Puzzle RPG		2022-01-01
+Demon's Mirror		2022-01-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-28
@@ -91,7 +90,7 @@ S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-04-28
 Two Point Campus		2022-09-15
 Jigsaw Puzzle Dreams		2021-12-02
 I Am Future		2022-09-15
-斗技场的阿利娜 Alina of the Arena		2022-12-31
+斗技场的阿利娜 Alina of the Arena		2022-01-31
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
