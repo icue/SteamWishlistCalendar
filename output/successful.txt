@@ -4,6 +4,7 @@ Thunder Tier One		2021-12-07
 Way of the Samurai 3		2016-03-23
 DUAL GEAR		2020-07-29
 Project Haven		2022-09-15
+Eternal Card Game		2018-11-15
 Dying Light 2 Stay Human		2022-02-04
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2022-09-15
@@ -11,7 +12,6 @@ The Invincible		2022-09-15
 绯红结系		2021-06-24
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
-Ready or Not		2021-12-17
 SNKRX		2021-05-17
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
@@ -30,6 +30,7 @@ Yakuza 5 Remastered		2021-01-28
 战匠杜沃		2022-09-15
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
+Ready or Not		2021-12-17
 Roadwarden		2022-01-31
 One Dreamer		2022-02-28
 DIMENSION REIGN - ROGUELIKE DECKBUILDER		2020-03-19
@@ -55,6 +56,8 @@ Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 NeuroNet: Mendax Proxy		2022-09-15
 Kingdom Gun		2022-03-31
+Nobody Saves the World		2022-01-18
+Lost in Random™		2021-09-10
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Acolyte		2021-12-31
@@ -90,9 +93,6 @@ Mahokenshi		2022-02-28
 变成大人也不要忘记		2022-01-12
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
-Telepath Tactics Liberated		2022-03-14
-None		2022-01-31
-Lost in Random™		2021-09-10
 Nightmare: The Lunatic		2022-01-07
-Nobody Saves the World		2022-01-18
-Eternal Card Game		2018-11-15
+Telepath Tactics Liberated		2022-03-14
+元宇宙普信男生存指南		2022-01-31
