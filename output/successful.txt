@@ -12,12 +12,14 @@ The Invincible		2022-09-15
 绯红结系		2021-06-24
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
+完美的一天		2022-02-25
 SNKRX		2021-05-17
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
 Sniper Elite 5		2022-09-15
 Shadow Warrior 3		2022-09-15
 Eternal Threads		2022-03-31
+暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
 Wayward Strand		2022-01-31
@@ -96,3 +98,4 @@ Nonlinear System Tools		2021-12-03
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 元宇宙普信男生存指南		2022-01-31
+BYTEPATH		2018-02-24
