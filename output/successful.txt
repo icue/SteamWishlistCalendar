@@ -9,10 +9,12 @@ Dying Light 2 Stay Human		2022-02-04
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2022-09-15
 The Invincible		2022-09-15
+BYTEPATH		2018-02-24
 绯红结系		2021-06-24
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 完美的一天		2022-02-25
+ELEX II		2022-03-01
 SNKRX		2021-05-17
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
@@ -49,6 +51,7 @@ The Life and Suffering of Sir Brante		2021-03-04
 薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
+猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
 Borderlands 3: Director's Cut		2021-04-08
 纪元:变异		2022-02-28
@@ -93,14 +96,12 @@ The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Mahokenshi		2022-02-28
 Stones Keeper		2022-03-31
+Spelldrifter		2022-02-15
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
+Vampire Survivors		2021-12-17
 大多数		2022-09-15
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
-元宇宙普信男生存指南		2022-01-31
-BYTEPATH		2018-02-24
-ELEX II		2022-03-01
-猪头三大冒险		2023-02-24
-Spelldrifter		2022-02-15
-Vampire Survivors		2021-12-17
+元宇宙普信男生存指南		2023-01-16
+Hero Lodge		2022-01-12
