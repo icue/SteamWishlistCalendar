@@ -90,7 +90,7 @@ S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-12-08
 Two Point Campus		2022-09-15
 Jigsaw Puzzle Dreams		2021-12-02
 I Am Future		2022-09-15
-斗技场的阿利娜 Alina of the Arena		2023-01-19
+斗技场的阿利娜 Alina of the Arena		2022-01-19
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
@@ -104,8 +104,7 @@ Vampire Survivors		2021-12-17
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 Three in a Rogue		2022-09-15
-Hero Lodge		2022-01-12
 Rescue Quest Gold		2017-06-05
 Berserk Mode		2022-01-09
-Sentimental K		2022-01-18
 临渊觉醒		2022-01-21
+SacriFire		2022-09-15
