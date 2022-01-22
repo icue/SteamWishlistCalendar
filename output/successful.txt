@@ -29,7 +29,6 @@ Baldur's Gate 3		2020-10-06
 Weird West		2022-03-31
 鬼哭岭		2021-12-31
 Yakuza 5 Remastered		2021-01-28
-《文字游戏》		2023-01-21
 逆向坍塌：面包房行动		2022-09-15
 战匠杜沃		2022-09-15
 诈欺娇娃		2021-08-31
@@ -62,6 +61,7 @@ Midnight Fight Express		2022-06-30
 NeuroNet: Mendax Proxy		2022-09-15
 Kingdom Gun		2022-03-31
 Nobody Saves the World		2022-01-18
+主播女孩重度依赖		2022-01-21
 Lost in Random™		2021-09-10
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
