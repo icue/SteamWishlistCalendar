@@ -7,6 +7,7 @@ Project Haven		2022-09-15
 Eternal Card Game		2018-11-15
 Dying Light 2 Stay Human		2022-02-04
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
+Rescue Quest Gold		2017-06-05
 Arcadian Atlas		2022-09-15
 The Invincible		2022-09-15
 BYTEPATH		2018-02-24
@@ -86,16 +87,22 @@ Unusual Findings		2022-09-15
 Survivors of the Void		2022-02-28
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
+临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-12-08
 Two Point Campus		2022-09-15
+Berserk Mode		2022-01-09
 Jigsaw Puzzle Dreams		2021-12-02
 I Am Future		2022-09-15
+HITMAN 3		2022-01-20
+SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Mahokenshi		2022-02-28
 Stones Keeper		2022-03-31
+Three in a Rogue		2022-09-15
+Lushfoil Photography Sim		2022-09-15
 Spelldrifter		2022-02-15
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
@@ -103,9 +110,3 @@ Vampire Survivors		2021-12-17
 大多数		2022-09-15
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
-Three in a Rogue		2022-09-15
-Lushfoil Photography Sim		2022-09-15
-Rescue Quest Gold		2017-06-05
-Berserk Mode		2022-01-09
-SacriFire		2022-09-15
-HITMAN 3		2022-01-20
