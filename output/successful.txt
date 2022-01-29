@@ -8,7 +8,6 @@ ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
 Arcadian Atlas		2022-09-15
 The Invincible		2022-01-31
-BYTEPATH		2018-02-24
 Gems of War - 独角兽同捆包		2020-10-28
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
