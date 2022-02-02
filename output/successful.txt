@@ -2,6 +2,7 @@ Suicide Squad: Kill the Justice League		2022-09-15
 Marvel's Midnight Suns		2022-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
+方砖地牢		2022-03-04
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
 Arcadian Atlas		2022-09-15
@@ -37,7 +38,7 @@ Coromon		2022-02-28
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-31
-Life is Strange Remastered		2023-02-01
+Life is Strange Remastered		2022-02-01
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
@@ -68,6 +69,7 @@ Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
+Dungeon Wizards		2022-02-04
 Lakeburg Legacies		2022-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-03-31
 Demon's Mirror		2022-02-28
