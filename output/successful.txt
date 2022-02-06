@@ -2,12 +2,11 @@ Suicide Squad: Kill the Justice League		2022-09-15
 Marvel's Midnight Suns		2022-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
-方砖地牢		2022-03-04
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
+Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
 The Invincible		2022-02-28
-Gems of War - 独角兽同捆包		2020-10-28
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 完美的一天		2022-02-25
@@ -39,6 +38,7 @@ Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-31
 Life is Strange Remastered		2022-02-01
+Land of Screens		2022-02-04
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
@@ -46,12 +46,12 @@ The Life and Suffering of Sir Brante		2021-03-04
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
-Puzzle Quest 3		2022-03-31
 纪元:变异		2022-02-28
 Flowstone Saga		2022-09-15
-Know by heart		2022-02-10
+Puzzle Quest 3		2022-03-31
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
+Gems of War - 独角兽同捆包		2020-10-28
 NeuroNet: Mendax Proxy		2022-09-15
 Kingdom Gun		2022-03-25
 Nobody Saves the World		2022-01-18
@@ -69,7 +69,6 @@ Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
-Dungeon Wizards		2022-02-04
 Lakeburg Legacies		2022-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-03-31
 Demon's Mirror		2022-02-28
@@ -78,7 +77,6 @@ Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-28
 Survivors of the Void		2022-03-01
 Planet of Lana		2022-09-15
-Deflector		2022-01-27
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-01-22
@@ -94,11 +92,14 @@ The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Mahokenshi		2022-02-28
 Stones Keeper		2022-03-31
+Deflector		2022-01-27
 Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2022-09-15
 Spelldrifter		2022-02-15
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
+方砖地牢		2022-03-04
+Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
