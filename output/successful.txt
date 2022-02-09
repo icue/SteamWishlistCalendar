@@ -51,7 +51,7 @@ Flowstone Saga		2022-09-15
 Puzzle Quest 3		2022-03-31
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
-Gems of War - 独角兽同捆包		2020-10-28
+迷失幻途		2022-09-15
 NeuroNet: Mendax Proxy		2022-09-15
 Kingdom Gun		2022-03-25
 Nobody Saves the World		2022-01-18
@@ -70,7 +70,7 @@ Where The Heart Leads		2022-09-15
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2022-03-31
+Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Demon's Mirror		2022-02-28
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
@@ -103,3 +103,5 @@ Nonlinear System Tools		2021-12-03
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
+Nightmare Reaper		2019-07-16
+Gems of War - Exclusive Pet		2019-04-22
