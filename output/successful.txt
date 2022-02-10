@@ -4,7 +4,7 @@ Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
-Know by heart		2022-02-10
+Know by heart		2023-02-10
 Arcadian Atlas		2022-09-15
 The Invincible		2022-02-28
 Gloomhaven		2021-10-20
@@ -48,7 +48,7 @@ Stray		2022-09-15
 GunBlocks - Chapter 1		2022-09-15
 纪元:变异		2022-02-28
 Flowstone Saga		2022-09-15
-Puzzle Quest 3		2022-03-31
+Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 迷失幻途		2022-09-15
@@ -74,8 +74,8 @@ Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Demon's Mirror		2022-02-28
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
-白日梦的构想图		2022-02-28
-Survivors of the Void		2022-03-01
+白日梦的构想图		2022-02-09
+Risk of Rain 2: Survivors of the Void		2022-03-01
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
@@ -103,5 +103,6 @@ Nonlinear System Tools		2021-12-03
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
+OS:Memories		2022-02-09
 Nightmare Reaper		2019-07-16
 Gems of War - Exclusive Pet		2019-04-22
