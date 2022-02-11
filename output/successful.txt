@@ -4,7 +4,7 @@ Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
-Know by heart		2023-02-10
+Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
 The Invincible		2022-02-28
 Gloomhaven		2021-10-20
@@ -106,3 +106,4 @@ Telepath Tactics Liberated		2022-03-14
 OS:Memories		2022-02-09
 Nightmare Reaper		2019-07-16
 Gems of War - Exclusive Pet		2019-04-22
+Instruments of Destruction		2022-03-02
