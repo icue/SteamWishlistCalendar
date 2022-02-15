@@ -16,7 +16,9 @@ STEINS;GATE: My Darling's Embrace		2019-12-10
 Sniper Elite 5		2022-09-15
 Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
+Nightmare Reaper		2019-07-16
 暗邪西部		2022-09-15
+Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
 Wayward Strand		2022-02-28
 Baldur's Gate 3		2020-10-06
@@ -36,8 +38,9 @@ Shovel Knight Pocket Dungeon		2021-12-13
 Coromon		2022-03-31
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
-Hyperbolica		2022-03-31
+Hyperbolica		2022-03-14
 Life is Strange Remastered		2022-02-01
+迷失幻途		2022-09-15
 Land of Screens		2022-02-04
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
@@ -51,8 +54,8 @@ Flowstone Saga		2022-09-15
 Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
-迷失幻途		2022-09-15
 NeuroNet: Mendax Proxy		2022-09-15
+Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-03-25
 Nobody Saves the World		2022-01-18
 主播女孩重度依赖		2022-01-21
@@ -70,6 +73,7 @@ Where The Heart Leads		2022-09-15
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
+Liberte		2023-02-15
 Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Demon's Mirror		2022-02-28
 Soulstice		2022-09-15
@@ -94,7 +98,7 @@ Mahokenshi		2022-02-28
 Deflector		2022-01-27
 Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2022-09-15
-Spelldrifter		2022-02-15
+Spelldrifter		2023-02-15
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
@@ -103,7 +107,3 @@ Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 OS:Memories		2022-02-09
-Nightmare Reaper		2019-07-16
-Gems of War - Exclusive Pet		2019-04-22
-Instruments of Destruction		2022-03-02
-Liberte		2022-02-15
