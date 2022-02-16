@@ -73,7 +73,7 @@ Where The Heart Leads		2022-09-15
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
-Liberte		2023-02-15
+Liberte		2022-02-15
 Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Demon's Mirror		2022-02-28
 Soulstice		2022-09-15
@@ -87,6 +87,7 @@ iii︰走马灯仙境		2023-09-15
 S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-12-08
 Two Point Campus		2022-05-17
 Berserk Mode		2022-01-09
+Crown of Pain		2022-02-15
 I Am Future		2022-09-15
 HITMAN 3		2022-01-20
 SacriFire		2022-09-15
@@ -98,7 +99,7 @@ Mahokenshi		2022-02-28
 Deflector		2022-01-27
 Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2022-09-15
-Spelldrifter		2023-02-15
+Spelldrifter		2022-02-15
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
@@ -106,4 +107,3 @@ Nonlinear System Tools		2021-12-03
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
-OS:Memories		2022-02-09
