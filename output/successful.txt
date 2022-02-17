@@ -49,7 +49,7 @@ The Life and Suffering of Sir Brante		2021-03-04
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
-纪元:变异		2022-02-28
+纪元:变异		2022-03-17
 Flowstone Saga		2022-09-15
 Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
@@ -73,7 +73,6 @@ Where The Heart Leads		2022-09-15
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
-Liberte		2022-02-15
 Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Demon's Mirror		2022-02-28
 Soulstice		2022-09-15
@@ -107,3 +106,4 @@ Nonlinear System Tools		2021-12-03
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
+Scathe		2022-09-15
