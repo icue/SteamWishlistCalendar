@@ -44,12 +44,12 @@ Life is Strange Remastered		2022-02-01
 Land of Screens		2022-02-04
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
-薄暮夏梦(Dream Of Summer Dusk)		2022-03-15
+薄暮夏梦(Dream Of Summer Dusk)		2022-07-20
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
-纪元:变异		2022-03-17
+纪元: 变异		2022-03-17
 Flowstone Saga		2022-09-15
 Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
@@ -66,7 +66,6 @@ Acolyte		2021-12-31
 Himig		2022-09-15
 Tyrant's Blessing		2022-02-28
 Wartales		2021-12-01
-罪恶王权／Monark		2023-02-22
 极限竞速：地平线 5		2021-11-09
 Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
@@ -83,6 +82,7 @@ Risk of Rain 2: Survivors of the Void		2022-03-01
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
+Terranova		2022-04-22
 临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chernobyl		2022-12-08
 Two Point Campus		2022-05-17
