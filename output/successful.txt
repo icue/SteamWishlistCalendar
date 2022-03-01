@@ -6,21 +6,21 @@ ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Invincible		2022-02-28
+The Invincible		2022-03-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 完美的一天		2022-02-25
-ELEX II		2022-03-01
+ELEX II		2023-03-01
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
 Sniper Elite 5		2022-09-15
-Shadow Warrior 3		2022-03-01
+Shadow Warrior 3		2023-03-01
 Eternal Threads		2022-09-15
 Nightmare Reaper		2019-07-16
 暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
-Wayward Strand		2022-02-28
+Wayward Strand		2022-03-31
 Baldur's Gate 3		2020-10-06
 Weird West		2022-03-31
 鬼哭岭		2021-12-31
@@ -30,7 +30,7 @@ Yakuza 5 Remastered		2021-01-28
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
 Ready or Not		2021-12-17
-Roadwarden		2022-02-28
+Roadwarden		2022-03-31
 One Dreamer		2022-02-28
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
@@ -73,11 +73,11 @@ Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-06-30
 Chronicon - Ancient Beasts		2022-02-25
-Demon's Mirror		2022-02-28
+Demon's Mirror		2022-03-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
-虚空幸存者		2022-03-01
+虚空幸存者		2023-03-01
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
