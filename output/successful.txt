@@ -10,11 +10,11 @@ The Invincible		2022-03-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 完美的一天		2022-02-25
-ELEX II		2023-03-01
+ELEX II		2022-03-01
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
 Sniper Elite 5		2022-09-15
-Shadow Warrior 3		2023-03-01
+Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
 Nightmare Reaper		2019-07-16
 暗邪西部		2022-09-15
@@ -55,15 +55,16 @@ Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 NeuroNet: Mendax Proxy		2022-09-15
-Instruments of Destruction		2022-03-02
+Instruments of Destruction		2023-03-02
 Kingdom Gun		2022-03-25
 Nobody Saves the World		2022-01-18
 主播女孩重度依赖		2022-01-21
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
+Crimson Tactics: The Rise of The White Banner		2022-05-31
 Acolyte		2021-12-31
 Himig		2022-09-15
-Tyrant's Blessing		2022-02-28
+Tyrant's Blessing		2022-08-31
 Wartales		2021-12-01
 极限竞速：地平线 5		2021-11-09
 Where The Heart Leads		2022-09-15
@@ -77,7 +78,7 @@ Demon's Mirror		2022-03-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
-虚空幸存者		2023-03-01
+虚空幸存者		2022-03-01
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
