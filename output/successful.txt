@@ -51,11 +51,10 @@ Stray		2022-09-15
 GunBlocks - Chapter 1		2022-09-15
 纪元: 变异		2022-03-17
 Flowstone Saga		2022-09-15
-Puzzle Quest 3		2022-03-01
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 NeuroNet: Mendax Proxy		2022-09-15
-Instruments of Destruction		2023-03-02
+Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-03-25
 Nobody Saves the World		2022-01-18
 主播女孩重度依赖		2022-01-21
@@ -78,7 +77,6 @@ Demon's Mirror		2022-03-31
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
-虚空幸存者		2022-03-01
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
@@ -107,3 +105,4 @@ Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 Silence is a lie - Excommunication		2022-08-31
+Kentucky Route Zero: PC Edition		2013-02-22
