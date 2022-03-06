@@ -1,3 +1,4 @@
+Kentucky Route Zero: PC Edition		2013-02-22
 Suicide Squad: Kill the Justice League		2022-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
@@ -8,7 +9,6 @@ Arcadian Atlas		2022-09-15
 The Invincible		2022-03-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
-游戏开发物语 (Game Dev Story)		2022-03-31
 ELEX II		2022-03-01
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
@@ -94,6 +94,7 @@ Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-03-31
 Starfield		2022-11-11
 Mahokenshi		2022-02-28
+Silence is a lie - Excommunication		2022-08-31
 Terranova		2022-04-22
 Deflector		2022-01-27
 Three in a Rogue		2022-09-15
@@ -103,6 +104,5 @@ Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
+游戏开发物语 (Game Dev Story)		2022-03-31
 Telepath Tactics Liberated		2022-03-14
-Silence is a lie - Excommunication		2022-08-31
-Kentucky Route Zero: PC Edition		2013-02-22
