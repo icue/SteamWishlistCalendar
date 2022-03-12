@@ -12,7 +12,7 @@ STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
-Sniper Elite 5		2022-09-15
+狙击精英5		2022-09-15
 Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
 Nightmare Reaper		2019-07-16
@@ -30,7 +30,7 @@ Yakuza 5 Remastered		2021-01-28
 ATOM RPG Trudograd		2021-09-13
 Ready or Not		2021-12-17
 Roadwarden		2022-03-31
-One Dreamer		2022-02-28
+One Dreamer		2022-05-31
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
