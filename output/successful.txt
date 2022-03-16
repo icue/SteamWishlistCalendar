@@ -1,4 +1,5 @@
 Kentucky Route Zero: PC Edition		2013-02-22
+Call of Duty®: Black Ops III		2015-11-06
 Suicide Squad: Kill the Justice League		2022-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
@@ -49,7 +50,7 @@ The Life and Suffering of Sir Brante		2021-03-04
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
-纪元: 变异		2022-03-17
+纪元: 变异		2023-03-16
 Flowstone Saga		2022-09-15
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
@@ -61,10 +62,11 @@ Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
-Acolyte		2021-12-31
+Acolyte		2022-05-26
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
 Wartales		2021-12-01
+Ignited Steel: Mech Tactics		2022-03-09
 极限竞速：地平线 5		2021-11-09
 Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
@@ -104,8 +106,6 @@ Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
-Ignited Steel: Mech Tactics		2022-03-09
 Telepath Tactics Liberated		2022-03-14
-Call of Duty®: Black Ops III		2015-11-06
 冒险村物语 (Dungeon Village)		2022-03-31
 幸福公寓物语DX (Dream House Days DX)		2022-03-31
