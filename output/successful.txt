@@ -13,7 +13,7 @@ STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
 STEINS;GATE: My Darling's Embrace		2019-12-10
 深埋之星		2021-11-29
-狙击精英5		2022-09-15
+TUNIC		2022-03-16
 Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
 Nightmare Reaper		2019-07-16
@@ -50,7 +50,7 @@ The Life and Suffering of Sir Brante		2021-03-04
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
 GunBlocks - Chapter 1		2022-09-15
-纪元: 变异		2023-03-16
+纪元: 变异		2022-03-17
 Flowstone Saga		2022-09-15
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
@@ -100,7 +100,7 @@ Silence is a lie - Excommunication		2022-08-31
 Terranova		2022-04-22
 Deflector		2022-01-27
 Three in a Rogue		2022-09-15
-Lushfoil Photography Sim		2022-09-15
+Lushfoil Photography Sim		2023-03-31
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
