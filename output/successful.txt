@@ -73,7 +73,7 @@ Where The Heart Leads		2022-09-15
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2022-09-15
-Beasties - Monster Trainer Puzzle RPG		2022-06-30
+Beasties - Monster Trainer Puzzle RPG		2022-07-31
 Chronicon - Ancient Beasts		2022-02-25
 Demon's Mirror		2022-03-31
 Soulstice		2022-09-15
@@ -109,3 +109,4 @@ Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
+众神陨落		2022-04-07
