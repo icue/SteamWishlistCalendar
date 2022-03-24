@@ -110,4 +110,5 @@ Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 众神陨落		2022-04-07
-Ragdolls Playground: The Sandbox		2022-06-01
+Ragdolls Playground: The Sandbox		2022-06-29
+Hogwarts Legacy		2022-09-15
