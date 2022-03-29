@@ -18,7 +18,7 @@ Hogwarts Legacy		2022-09-15
 深埋之星		2021-11-29
 Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
-Nightmare Reaper		2019-07-16
+Nightmare Reaper		2022-03-28
 暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
@@ -111,5 +111,5 @@ Ragdolls Playground: The Sandbox		2022-06-29
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
-冒险村物语 (Dungeon Village)		2023-03-28
-幸福公寓物语DX (Dream House Days DX)		2023-03-28
+冒险村物语 (Dungeon Village)		2022-03-28
+幸福公寓物语DX (Dream House Days DX)		2022-03-28
