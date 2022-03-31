@@ -73,7 +73,7 @@ Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
-Lakeburg Legacies		2022-09-15
+Lakeburg Legacies		2023-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-07-31
 Chronicon - Ancient Beasts		2022-02-25
 Demon's Mirror		2022-03-31
@@ -93,9 +93,9 @@ HITMAN 3		2022-01-20
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 ABRISS - build to destroy		2022-04-14
-Your mom		2022-04-01
+Your mom		2022-05-02
 Fading Afternoon		2022-09-15
-The Stanley Parable: Ultra Deluxe		2022-03-31
+The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2022-11-11
 Mahokenshi		2022-02-28
 Silence is a lie - Excommunication		2022-08-31
@@ -112,3 +112,4 @@ Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
+Deliver At All Costs		2024-02-29
