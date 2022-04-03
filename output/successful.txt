@@ -17,7 +17,6 @@ STEINS;GATE: My Darling's Embrace		2019-12-10
 Hogwarts Legacy		2022-09-15
 Shadow Warrior 3		2022-03-01
 Eternal Threads		2022-09-15
-Nightmare Reaper		2022-03-28
 暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
@@ -36,7 +35,6 @@ Chinatown Detective Agency		2022-04-07
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
-Coromon		2022-03-31
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-14
@@ -82,6 +80,7 @@ Unusual Findings		2022-09-15
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
+Crystal Project		2022-03-31
 临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-08
 Two Point Campus		2022-05-17
@@ -112,4 +111,3 @@ Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
-Crystal Project		2022-03-31
