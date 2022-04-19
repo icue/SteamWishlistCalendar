@@ -6,7 +6,7 @@ ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Iron Oath		2022-04-19
+The Iron Oath		2023-04-19
 The Invincible		2022-04-30
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
@@ -78,7 +78,6 @@ Unusual Findings		2022-09-15
 Planet of Lana		2022-09-15
 Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
-Crystal Project		2022-03-31
 临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-08
 Two Point Campus		2022-08-09
