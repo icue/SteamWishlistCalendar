@@ -6,7 +6,6 @@ ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Iron Oath		2022-04-19
 The Invincible		2022-04-30
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
@@ -42,7 +41,7 @@ Land of Screens		2022-02-04
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 星座上升		2022-04-12
-Tandis		2022-04-21
+Tandis		2023-04-21
 薄暮夏梦(Dream Of Summer Dusk)		2022-07-20
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
@@ -88,7 +87,7 @@ I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 MADiSON		2022-06-24
-Your mom		2022-05-02
+Ultra Age		2022-04-28
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2022-11-11
@@ -105,7 +104,7 @@ Ragdolls Playground: The Sandbox		2022-06-29
 Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
-侍神大乱战		2022-04-21
+侍神大乱战		2023-04-21
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
