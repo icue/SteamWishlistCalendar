@@ -70,7 +70,6 @@ Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lakeburg Legacies		2023-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-07-31
 Chronicon - Ancient Beasts		2022-02-25
-Demon's Mirror		2022-04-30
 Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
@@ -107,3 +106,5 @@ Telepath Tactics Liberated		2022-03-14
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
 都市大亨物语 (Venture Towns)		2022-05-31
+Achilles: Legends Untold		2022-05-12
+Metal Mind		2022-04-25
