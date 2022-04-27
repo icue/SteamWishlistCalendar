@@ -5,6 +5,7 @@ Project Haven		2022-09-15
 Gems of War - Starter Bundle		2016-10-28
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Rescue Quest Gold		2017-06-05
+Atomic Heart		2022-11-30
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
 The Invincible		2022-04-30
@@ -52,7 +53,7 @@ Midnight Fight Express		2022-06-30
 505资源包 - 战争的宝石		2020-09-03
 NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
-Kingdom Gun		2022-05-13
+Kingdom Gun		2022-07-13
 Nobody Saves the World		2022-01-18
 主播女孩重度依赖		2022-01-21
 巴别号漫游指南		2022-09-15
@@ -85,9 +86,9 @@ I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 MADiSON		2022-06-24
-Ultra Age		2022-04-27
+Ultra Age		2023-04-27
 Fading Afternoon		2022-09-15
-The Stanley Parable: Ultra Deluxe		2022-04-27
+The Stanley Parable: Ultra Deluxe		2023-04-27
 Starfield		2022-11-11
 Mahokenshi		2022-09-15
 Silence is a lie - Excommunication		2022-08-31
