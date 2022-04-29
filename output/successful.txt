@@ -59,6 +59,7 @@ Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
+Loot River		2022-05-03
 Acolyte		2022-05-26
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
@@ -92,7 +93,6 @@ The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2022-11-11
 Mahokenshi		2022-09-15
 Silence is a lie - Excommunication		2022-08-31
-Terranova		2022-04-28
 Asterigos: Curse of the Stars		2022-09-30
 Deflector		2022-01-27
 Three in a Rogue		2022-09-15
