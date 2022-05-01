@@ -8,7 +8,7 @@ Rescue Quest Gold		2017-06-05
 Atomic Heart		2022-11-30
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Invincible		2022-04-30
+The Invincible		2022-05-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
@@ -19,7 +19,7 @@ Eternal Threads		2022-05-19
 暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
-Wayward Strand		2022-04-30
+Wayward Strand		2022-05-31
 Baldur's Gate 3		2020-10-06
 鬼哭岭		2022-09-15
 Yakuza 5 Remastered		2021-01-28
@@ -28,8 +28,9 @@ Yakuza 5 Remastered		2021-01-28
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
 Ready or Not		2021-12-17
-Roadwarden		2022-04-30
+Roadwarden		2022-05-31
 One Dreamer		2022-05-31
+Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
@@ -42,7 +43,8 @@ Land of Screens		2022-02-04
 The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 星座上升		2022-04-12
-薄暮夏梦(Dream Of Summer Dusk)		2022-07-20
+Achilles: Legends Untold		2022-05-12
+薄暮夏梦(Dream Of Summer Dusk)		2022-08-26
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
@@ -108,5 +110,3 @@ Telepath Tactics Liberated		2022-03-14
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
 都市大亨物语 (Venture Towns)		2022-05-31
-Achilles: Legends Untold		2022-05-12
-Metal Mind		2022-04-25
