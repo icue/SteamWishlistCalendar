@@ -40,7 +40,6 @@ Hyperbolica		2022-03-14
 迷失幻途		2022-09-15
 Monorail Stories		2022-11-30
 Land of Screens		2022-02-04
-The Life and Suffering of Sir Brante		2021-03-04
 聚点危机：英雄联盟外传™		2022-09-15
 星座上升		2022-04-12
 Achilles: Legends Untold		2022-05-12
@@ -48,6 +47,7 @@ Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
 Stray		2022-09-15
 猪头三大冒险		2023-02-24
+记忆边境		2022-08-09
 GunBlocks - Chapter 1		2022-09-15
 Flowstone Saga		2022-09-15
 Yakuza 6: The Song of Life		2021-03-25
@@ -61,7 +61,7 @@ Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
-Loot River		2022-05-03
+Loot River		2023-05-03
 Acolyte		2022-05-26
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
@@ -110,3 +110,5 @@ Telepath Tactics Liberated		2022-03-14
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
 都市大亨物语 (Venture Towns)		2022-05-31
+Lost Eidolons		2022-08-31
+RUNES Magica		2022-05-02
