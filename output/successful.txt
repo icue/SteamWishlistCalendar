@@ -61,7 +61,7 @@ Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
-Loot River		2023-05-03
+Loot River		2022-05-03
 Acolyte		2022-05-26
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
@@ -83,7 +83,6 @@ iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-08
 Two Point Campus		2022-08-09
-Berserk Mode		2022-01-09
 Crown of Pain		2022-02-15
 I Am Future		2022-09-15
 SacriFire		2022-09-15
@@ -103,7 +102,6 @@ Lushfoil Photography Sim		2023-03-31
 Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Ragdolls Playground: The Sandbox		2022-06-29
-Dungeon Wizards		2022-02-04
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
