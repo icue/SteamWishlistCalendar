@@ -61,7 +61,6 @@ Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
-Loot River		2022-05-03
 Acolyte		2022-05-26
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
@@ -110,3 +109,4 @@ Deliver At All Costs		2024-02-29
 都市大亨物语 (Venture Towns)		2022-05-31
 Lost Eidolons		2022-08-31
 RUNES Magica		2022-05-02
+Dark Envoy		2022-09-15
