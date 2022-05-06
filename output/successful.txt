@@ -37,7 +37,7 @@ Shovel Knight Pocket Dungeon		2021-12-13
 Test Drive Unlimited Solar Crown		2022-09-30
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-14
-迷失幻途		2022-09-15
+迷失幻途		2022-08-31
 Monorail Stories		2022-11-30
 Land of Screens		2022-02-04
 聚点危机：英雄联盟外传™		2022-09-15
@@ -66,7 +66,6 @@ Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
 Wartales		2021-12-01
 极限竞速：地平线 5		2021-11-09
-Where The Heart Leads		2022-09-15
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
@@ -110,3 +109,4 @@ Deliver At All Costs		2024-02-29
 Lost Eidolons		2022-08-31
 RUNES Magica		2022-05-02
 Dark Envoy		2022-09-15
+Citizen Sleeper		2022-05-05
