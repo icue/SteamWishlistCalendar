@@ -1,4 +1,3 @@
-Dark Messiah of Might &amp; Magic		2006-10-25
 Suicide Squad: Kill the Justice League		2022-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
@@ -53,6 +52,7 @@ Flowstone Saga		2022-09-15
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 505资源包 - 战争的宝石		2020-09-03
+CORPSE FACTORY		2022-05-31
 NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-13
@@ -76,7 +76,6 @@ Soulstice		2022-09-15
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
 Planet of Lana		2022-09-15
-Scarlet Hollow		2021-06-11
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-01-22
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-08
@@ -110,3 +109,4 @@ Lost Eidolons		2022-08-31
 RUNES Magica		2022-05-02
 Dark Envoy		2022-09-15
 Citizen Sleeper		2022-05-05
+Swarm the City: Full Release Prologue		2022-05-10
