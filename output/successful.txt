@@ -11,6 +11,7 @@ The Invincible		2022-05-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
+Dark Envoy		2022-09-15
 STEINS;GATE: My Darling's Embrace		2019-12-10
 Hogwarts Legacy		2022-09-15
 Shadow Warrior 3		2022-03-01
@@ -68,7 +69,9 @@ Wartales		2021-12-01
 极限竞速：地平线 5		2021-11-09
 流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
+Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
+Lost Eidolons		2022-08-31
 Lakeburg Legacies		2023-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-07-31
 Chronicon - Ancient Beasts		2022-02-25
@@ -104,9 +107,6 @@ Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
-都市大亨物语 (Venture Towns)		2022-05-31
-Lost Eidolons		2022-08-31
 RUNES Magica		2022-05-02
-Dark Envoy		2022-09-15
-Citizen Sleeper		2022-05-05
+都市大亨物语 (Venture Towns)		2022-05-31
 Swarm the City: Full Release Prologue		2022-05-10
