@@ -15,7 +15,7 @@ Dark Envoy		2022-09-15
 STEINS;GATE: My Darling's Embrace		2019-12-10
 Hogwarts Legacy		2022-09-15
 Shadow Warrior 3		2022-03-01
-Eternal Threads		2022-05-19
+无穷时线		2022-05-19
 暗邪西部		2022-09-15
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
@@ -75,7 +75,7 @@ Lost Eidolons		2022-08-31
 Lakeburg Legacies		2023-09-15
 Beasties - Monster Trainer Puzzle RPG		2022-07-31
 Chronicon - Ancient Beasts		2022-02-25
-Soulstice		2022-09-15
+Soulstice		2022-09-30
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
 Planet of Lana		2022-09-15
@@ -91,7 +91,7 @@ MADiSON		2022-06-24
 Ultra Age		2022-04-27
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-04-27
-Starfield		2022-11-11
+Starfield		2023-09-15
 Mahokenshi		2022-09-15
 Silence is a lie - Excommunication		2022-08-31
 失落迷城：群星的诅咒		2022-09-30
