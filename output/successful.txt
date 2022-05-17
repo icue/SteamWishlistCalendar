@@ -58,7 +58,6 @@ NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-13
 Nobody Saves the World		2022-01-18
-Escape the Backrooms		2022-06-30
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-05-31
@@ -107,7 +106,8 @@ Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
+Routine Feat / Бытовой подвиг		2022-05-11
 RUNES Magica		2022-05-02
 都市大亨物语 (Venture Towns)		2022-05-23
+Escape the Backrooms		2022-06-30
 方境战记BlockFight		2022-05-25
-Routine Feat / Бытовой подвиг		2022-05-11
