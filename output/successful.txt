@@ -1,4 +1,4 @@
-Suicide Squad: Kill the Justice League		2022-09-15
+Suicide Squad: Kill the Justice League		2023-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
 Gems of War - Starter Bundle		2016-10-28
@@ -104,7 +104,6 @@ Ragdolls Playground: The Sandbox		2022-06-29
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
-幸福公寓物语DX (Dream House Days DX)		2022-03-28
 Deliver At All Costs		2024-02-29
 Routine Feat / Бытовой подвиг		2022-05-11
 RUNES Magica		2022-05-02
@@ -112,3 +111,5 @@ RUNES Magica		2022-05-02
 都市大亨物语 (Venture Towns)		2022-05-23
 Escape the Backrooms		2022-06-30
 方境战记BlockFight		2022-05-25
+BANCHOU TACTICS		2023-02-28
+Spirit Hunters: Infinite Horde		2022-05-25
