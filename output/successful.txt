@@ -34,7 +34,7 @@ Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
 Shovel Knight Pocket Dungeon		2021-12-13
-Test Drive Unlimited Solar Crown		2022-09-30
+Test Drive Unlimited Solar Crown		2023-09-15
 Portal Reloaded		2021-04-19
 Hyperbolica		2022-03-14
 迷失幻途		2022-08-31
@@ -112,4 +112,4 @@ RUNES Magica		2022-05-02
 Escape the Backrooms		2022-06-30
 方境战记BlockFight		2022-05-25
 BANCHOU TACTICS		2023-02-28
-Spirit Hunters: Infinite Horde		2022-05-25
+Spirit Hunters: Infinite Horde		2023-05-25
