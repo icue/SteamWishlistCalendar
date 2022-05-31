@@ -54,7 +54,7 @@ Obsidian Prince		2022-05-24
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 505资源包 - 战争的宝石		2020-09-03
-CORPSE FACTORY		2022-05-31
+CORPSE FACTORY		2023-05-31
 NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-13
@@ -114,4 +114,5 @@ Spirit Hunters: Infinite Horde		2022-05-25
 Escape the Backrooms		2022-06-30
 BANCHOU TACTICS		2023-02-28
 Home Designer - Architecture		2022-05-26
-方境战记BlockFight		2022-05-25
+Grindstone		2022-06-23
+Placid Plastic Duck Simulator		2022-07-01
