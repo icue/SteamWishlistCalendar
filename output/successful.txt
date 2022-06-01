@@ -7,7 +7,7 @@ Rescue Quest Gold		2017-06-05
 Atomic Heart		2022-11-30
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Invincible		2022-05-31
+The Invincible		2022-06-30
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
@@ -24,11 +24,10 @@ Baldur's Gate 3		2020-10-06
 鬼哭岭		2022-09-15
 Yakuza 5 Remastered		2021-01-28
 逆向坍塌：面包房行动		2022-09-15
-战匠杜沃		2022-05-31
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
 Ready or Not		2021-12-17
-Roadwarden		2022-05-31
+Roadwarden		2022-06-30
 One Dreamer		2022-05-31
 Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
@@ -54,7 +53,7 @@ Obsidian Prince		2022-05-24
 Yakuza 6: The Song of Life		2021-03-25
 Midnight Fight Express		2022-06-30
 505资源包 - 战争的宝石		2020-09-03
-CORPSE FACTORY		2023-05-31
+CORPSE FACTORY		2022-05-31
 NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-13
@@ -87,7 +86,7 @@ Crown of Pain		2022-02-15
 I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
-MADiSON		2022-06-24
+MADiSON		2022-07-08
 Ultra Age		2022-04-27
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-04-27
@@ -108,7 +107,6 @@ Telepath Tactics Liberated		2022-03-14
 Deliver At All Costs		2024-02-29
 Routine Feat / Бытовой подвиг		2022-05-11
 RUNES Magica		2022-05-02
-Spirit Hunters: Infinite Horde		2022-05-25
 口袋学院物语2 (Pocket Academy)		2022-06-30
 都市大亨物语 (Venture Towns)		2022-05-23
 Escape the Backrooms		2022-06-30
