@@ -44,7 +44,7 @@ Land of Screens		2022-02-04
 Achilles: Legends Untold		2022-05-12
 薄暮夏梦(Dream Of Summer Dusk)		2022-08-26
 《质量效应》传奇版		2021-05-14
-Stray		2022-09-15
+Stray		2022-07-19
 猪头三大冒险		2023-02-24
 记忆边境		2022-08-09
 GunBlocks - Chapter 1		2022-09-15
@@ -62,7 +62,7 @@ Nobody Saves the World		2022-01-18
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-07-31
 命途		2022-05-21
-看见飘扬的斗篷了吗		2022-06-03
+看见飘扬的斗篷了吗		2023-06-03
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
 Wartales		2021-12-01
@@ -115,3 +115,4 @@ BANCHOU TACTICS		2023-02-28
 Home Designer - Architecture		2022-05-26
 Grindstone		2022-06-23
 Placid Plastic Duck Simulator		2022-07-01
+ナツノカナタ		2021-08-04
