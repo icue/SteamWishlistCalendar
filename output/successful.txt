@@ -16,7 +16,7 @@ STEINS;GATE: My Darling's Embrace		2019-12-10
 Hogwarts Legacy		2022-09-15
 Shadow Warrior 3		2022-03-01
 无穷时线		2022-05-19
-暗邪西部		2022-09-15
+暗邪西部		2022-09-20
 Gems of War - Exclusive Pet		2019-04-22
 Echo Generation		2021-12-31
 Wayward Strand		2022-07-21
@@ -109,10 +109,11 @@ RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
 都市大亨物语 (Venture Towns)		2022-05-23
 Escape the Backrooms		2022-06-30
-20 Minutes Till Dawn		2022-06-08
+黎明前20分钟		2022-06-08
 BANCHOU TACTICS		2023-02-28
 Home Designer - Architecture		2022-05-26
 Grindstone		2022-06-23
 Placid Plastic Duck Simulator		2022-07-01
 ナツノカナタ		2021-08-04
 剑与魔法与学园任务		2022-09-07
+Wanted: Dead		2022-09-15
