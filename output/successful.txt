@@ -29,7 +29,6 @@ Yakuza 5 Remastered		2021-01-28
 ATOM RPG Trudograd		2021-09-13
 Ready or Not		2021-12-17
 Roadwarden		2022-06-30
-One Dreamer		2022-05-31
 Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
 Speak Lies		2022-09-15
@@ -43,7 +42,7 @@ Land of Screens		2022-02-04
 聚点危机：英雄联盟外传™		2022-09-15
 星座上升		2022-04-12
 Achilles: Legends Untold		2022-05-12
-薄暮夏梦(Dream Of Summer Dusk)		2022-08-26
+薄暮夏梦(Dream Of Summer Dusk)		2022-09-09
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
 猪头三大冒险		2023-02-24
@@ -63,7 +62,6 @@ Nobody Saves the World		2022-01-18
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-07-31
 命途		2022-05-21
-Symphony of War: The Nephilim Saga		2022-06-10
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
 Wartales		2021-12-01
@@ -122,3 +120,4 @@ Madshot		2022-06-09
 Wanted: Dead		2022-09-15
 灵魂骇客2		2022-08-25
 Anger Foot		2023-09-15
+Aces and Adventures		2022-09-30
