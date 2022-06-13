@@ -8,7 +8,7 @@ Rescue Quest Gold		2017-06-05
 Atomic Heart		2022-11-30
 Know by heart		2022-02-10
 Arcadian Atlas		2022-09-15
-The Invincible		2022-06-30
+The Invincible		2023-06-30
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
@@ -64,6 +64,7 @@ Crimson Tactics: The Rise of The White Banner		2022-07-31
 命途		2022-05-21
 Himig		2022-09-15
 Tyrant's Blessing		2022-08-31
+Madshot		2022-06-09
 Wartales		2021-12-01
 极限竞速：地平线 5		2021-11-09
 流言侦探		2021-04-23
@@ -87,10 +88,11 @@ SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 MADiSON		2022-07-08
 Ultra Age		2022-04-27
+ナツノカナタ		2021-08-04
 Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2023-09-15
-Mahokenshi		2022-09-15
+Mahokenshi		2023-09-15
 Silence is a lie - Excommunication		2022-08-31
 失落迷城：群星的诅咒		2022-09-30
 Deflector		2022-01-27
@@ -98,26 +100,24 @@ Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2023-03-31
 变成大人也不要忘记		2022-01-13
 Nonlinear System Tools		2021-12-03
+灵魂骇客2		2022-08-25
 大多数		2022-09-15
 Ragdolls Playground: The Sandbox		2022-06-29
+Aces and Adventures		2022-09-30
+Grindstone		2022-06-20
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
 Deliver At All Costs		2024-02-29
 Routine Feat / Бытовой подвиг		2022-05-11
+剑与魔法与学园任务		2022-09-07
 RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
 都市大亨物语 (Venture Towns)		2022-05-23
 Escape the Backrooms		2022-06-30
 黎明前20分钟		2022-06-08
-BANCHOU TACTICS		2023-02-28
-Home Designer - Architecture		2022-05-26
-Grindstone		2022-06-20
-Placid Plastic Duck Simulator		2022-07-01
-ナツノカナタ		2021-08-04
-Madshot		2022-06-09
-剑与魔法与学园任务		2022-09-07
-Wanted: Dead		2022-09-15
-灵魂骇客2		2022-08-25
 Anger Foot		2023-09-15
-Aces and Adventures		2022-09-30
+BANCHOU TACTICS		2023-02-28
+Wanted: Dead		2022-09-15
+Home Designer - Architecture		2022-05-26
+Placid Plastic Duck Simulator		2022-07-01
