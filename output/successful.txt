@@ -19,7 +19,7 @@ Shadow Warrior 3		2022-03-01
 无穷时线		2022-05-19
 暗邪西部		2022-09-20
 Gems of War - Exclusive Pet		2019-04-22
-Echo Generation		2021-12-31
+Echo Generation		2023-09-15
 Wayward Strand		2022-07-21
 Baldur's Gate 3		2020-10-06
 鬼哭岭		2022-09-15
@@ -81,7 +81,7 @@ Unusual Findings		2022-09-15
 Planet of Lana		2022-09-15
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-01-22
-S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-08
+S.T.A.L.K.E.R. 2: Heart of Chornobyl		2022-12-31
 Crown of Pain		2022-02-15
 I Am Future		2022-09-15
 SacriFire		2022-09-15
@@ -89,7 +89,6 @@ SacriFire		2022-09-15
 MADiSON		2022-07-08
 Ultra Age		2022-04-27
 ナツノカナタ		2021-08-04
-Fading Afternoon		2022-09-15
 The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2023-09-15
 Mahokenshi		2023-09-15
