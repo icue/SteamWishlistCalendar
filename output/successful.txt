@@ -27,7 +27,6 @@ Yakuza 5 Remastered		2021-01-28
 逆向坍塌：面包房行动		2022-09-15
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
-Ready or Not		2021-12-17
 Roadwarden		2022-06-30
 Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
@@ -91,7 +90,7 @@ Ultra Age		2022-04-27
 ナツノカナタ		2021-08-04
 The Stanley Parable: Ultra Deluxe		2022-04-27
 Starfield		2023-09-15
-Mahokenshi		2023-09-15
+Mahokenshi		2023-06-30
 Silence is a lie - Excommunication		2022-08-31
 失落迷城：群星的诅咒		2022-09-30
 Deflector		2022-01-27
@@ -120,3 +119,4 @@ BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
 Home Designer - Architecture		2022-05-26
 Placid Plastic Duck Simulator		2022-07-01
+FINAL FANTASY VII REMAKE INTERGRADE		2023-06-17
