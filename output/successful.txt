@@ -73,7 +73,7 @@ Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-08-31
 Lakeburg Legacies		2023-09-15
-Beasties - Monster Trainer Puzzle RPG		2022-07-31
+Beasties - Monster Trainer Puzzle RPG		2022-07-01
 Chronicon - Ancient Beasts		2022-02-25
 Soulstice		2022-09-20
 Unusual Findings		2022-09-15
@@ -103,7 +103,6 @@ Nonlinear System Tools		2021-12-03
 大多数		2022-09-15
 Ragdolls Playground: The Sandbox		2022-06-29
 Aces and Adventures		2022-09-30
-Grindstone		2022-06-20
 Nightmare: The Lunatic		2022-01-07
 Telepath Tactics Liberated		2022-03-14
 冒险村物语 (Dungeon Village)		2022-03-28
