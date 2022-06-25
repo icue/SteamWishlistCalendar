@@ -56,7 +56,6 @@ Himig		2022-09-15
 Tyrant's Blessing		2022-08-08
 Madshot		2022-06-09
 Wartales		2021-12-01
-流言侦探		2021-04-23
 OXENFREE II: Lost Signals		2022-09-15
 Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
@@ -91,7 +90,6 @@ Aces and Adventures		2022-09-30
 Nightmare: The Lunatic		2022-01-07
 冒险村物语 (Dungeon Village)		2022-03-28
 Deliver At All Costs		2024-02-29
-Routine Feat / Бытовой подвиг		2022-05-11
 剑与魔法与学园任务		2022-09-07
 RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
@@ -100,5 +98,4 @@ Escape the Backrooms		2022-06-30
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
-Home Designer - Architecture		2022-05-26
 Placid Plastic Duck Simulator		2022-07-06
