@@ -23,7 +23,7 @@ Baldur's Gate 3		2020-10-06
 逆向坍塌：面包房行动		2022-09-15
 诈欺娇娃		2021-08-31
 ATOM RPG Trudograd		2021-09-13
-Ready or Not		2021-12-17
+诺科		2022-03-24
 Roadwarden		2022-07-31
 Metal Mind		2022-04-25
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2022-09-30
@@ -98,5 +98,5 @@ RUNES Magica		2022-05-02
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
-Placid Plastic Duck Simulator		2022-07-06
+Placid Plastic Duck Simulator		2023-07-06
 神领编年史 The DioField Chronicle		2022-09-15
