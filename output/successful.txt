@@ -45,7 +45,7 @@ Kingdom Gun		2022-07-13
 Nobody Saves the World		2022-01-18
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2022-08-31
+Crimson Tactics: The Rise of The White Banner		2022-09-30
 命途		2022-05-21
 Acolyte		2022-06-28
 Himig		2022-09-15
@@ -57,7 +57,7 @@ Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-08-31
 Lakeburg Legacies		2023-09-15
-Beasties - Monster Trainer Puzzle RPG		2022-07-31
+Beasties - Monster Trainer Puzzle RPG		2022-07-27
 Chronicon - Ancient Beasts		2022-02-25
 Soulstice		2022-09-20
 Unusual Findings		2022-09-15
@@ -92,3 +92,4 @@ Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
 神领编年史 The DioField Chronicle		2022-09-22
+Stones Keeper: King Aurelius		2022-07-14
