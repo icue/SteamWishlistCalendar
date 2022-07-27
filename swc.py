@@ -144,7 +144,7 @@ with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
 with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(failed_deductions))
 with open(_OUTPUT_FOLDER + _ICS_FILE, 'w', encoding='utf-8') as f:
-    f.write(str(cal))
+    f.write(cal.serialize())
 
 # Overwrites history.
 history_file_path = _OUTPUT_FOLDER + _HISTORY_FILE
