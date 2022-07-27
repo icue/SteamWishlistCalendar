@@ -54,7 +54,7 @@ Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-08-31
 Lakeburg Legacies		2023-09-15
-Beasties - Monster Trainer Puzzle RPG		2022-07-27
+Beasties - Monster Trainer Puzzle RPG		2023-07-27
 Chronicon - Ancient Beasts		2022-02-25
 Soulstice		2022-09-20
 Unusual Findings		2022-09-15
@@ -63,6 +63,7 @@ Planet of Lana		2022-09-15
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-06-19
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
+末日度假村		2022-08-18
 I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
@@ -90,4 +91,4 @@ VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
-大富翁4		2022-07-27
+大富翁4		2023-07-27
