@@ -17,6 +17,7 @@ Echo Generation		2023-09-15
 Wayward Strand		2022-09-15
 Baldur's Gate 3		2020-10-06
 鬼哭岭		2022-09-15
+Hindsight		2022-08-04
 逆向坍塌：面包房行动		2022-09-15
 诈欺娇娃		2021-08-31
 Roadwarden		2022-08-31
@@ -29,7 +30,6 @@ Monorail Stories		2022-11-30
 Together in Battle		2023-01-31
 聚点危机：英雄联盟外传™		2022-09-15
 Achilles: Legends Untold		2022-05-12
-薄暮夏梦(Dream Of Summer Dusk)		2022-09-09
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
 猪头三大冒险		2023-02-24
@@ -42,13 +42,13 @@ NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-28
 Nobody Saves the World		2022-01-18
+Tactics Ogre: Reborn		2022-11-11
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-09-30
 命途		2022-05-21
 Acolyte		2022-06-28
 Himig		2023-09-15
-Tyrant's Blessing		2022-08-08
 Wartales		2021-12-01
 OXENFREE II: Lost Signals		2022-09-15
 Citizen Sleeper		2022-05-05
@@ -74,6 +74,7 @@ Silence is a lie - Excommunication		2022-08-31
 失落迷城：群星的诅咒		2022-09-30
 Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2023-03-31
+ADACA		2022-07-26
 变成大人也不要忘记		2022-01-13
 灵魂骇客2		2022-08-25
 大多数		2022-09-15
@@ -92,7 +93,4 @@ VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
-Hindsight		2022-08-04
-ADACA		2022-07-26
 蜡笔小新 我与博士的暑假 ～没有终点的七日之旅～		2022-08-31
-Tactics Ogre: Reborn		2022-11-11
