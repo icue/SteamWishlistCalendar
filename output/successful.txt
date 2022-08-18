@@ -8,7 +8,7 @@ The Invincible		2023-08-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
-Dark Envoy		2022-09-15
+Dark Envoy		2023-09-15
 STEINS;GATE: My Darling's Embrace		2019-12-10
 霍格沃茨之遗		2023-02-10
 暗邪西部		2022-11-22
@@ -33,7 +33,7 @@ Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
 猪头三大冒险		2023-02-24
-记忆边境		2022-08-18
+记忆边境		2023-08-18
 GunBlocks - Chapter 1		2022-09-15
 Flowstone Saga		2022-09-15
 Midnight Fight Express		2022-08-23
@@ -59,7 +59,7 @@ Chronicon - Ancient Beasts		2022-02-25
 Soulstice		2022-09-20
 Unusual Findings		2022-09-15
 白日梦的构想图		2022-02-09
-Planet of Lana		2022-09-15
+Planet of Lana		2023-03-31
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-06-19
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
@@ -68,7 +68,7 @@ S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
-ナツノカナタ		2021-08-04
+ナツノカナタ		2022-08-17
 Starfield		2023-09-15
 Mahokenshi		2023-08-31
 Silence is a lie - Excommunication		2022-08-31
@@ -96,3 +96,5 @@ Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2022-09-15
 蜡笔小新 我与博士的暑假 ～没有终点的七日之旅～		2022-08-31
+枪火重生 - 灵界来客		2022-08-29
+Far Away From Home		2023-08-18
