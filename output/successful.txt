@@ -4,7 +4,7 @@ Project Haven		2022-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Atomic Heart		2022-11-30
 Arcadian Atlas		2023-06-30
-The Invincible		2023-08-31
+The Invincible		2023-09-30
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
@@ -45,7 +45,7 @@ Nobody Saves the World		2022-01-18
 Tactics Ogre: Reborn		2022-11-11
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2022-09-30
+Crimson Tactics: The Rise of The White Banner		2022-10-31
 命途		2022-05-21
 Himig		2023-09-15
 Wartales		2021-12-01
@@ -95,6 +95,5 @@ VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2023-02-28
-蜡笔小新 我与博士的暑假 ～没有终点的七日之旅～		2023-08-31
+蜡笔小新 我与博士的暑假 ～没有终点的七日之旅～		2022-08-31
 Capes		2023-09-15
-LO FI - A YEAR TO FULFILL MY DREAM.mp3		2023-08-31
