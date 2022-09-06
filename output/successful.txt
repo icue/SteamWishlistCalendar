@@ -19,6 +19,7 @@ Baldur's Gate 3		2020-10-06
 Hindsight		2022-08-04
 逆向坍塌：面包房行动		2022-09-15
 诈欺娇娃		2021-08-31
+Gloomwood		2022-09-05
 Roadwarden		2022-09-08
 One Dreamer		2022-09-09
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2023-09-30
@@ -68,6 +69,7 @@ I Am Future		2022-09-15
 SacriFire		2022-09-15
 斗技场的阿利娜 Alina of the Arena		2022-01-19
 ナツノカナタ		2022-08-17
+Fading Afternoon		2023-09-15
 Starfield		2023-09-15
 Mahokenshi		2023-01-31
 The Simple Balance		2022-08-31
@@ -80,7 +82,7 @@ Mask of the Rose		2023-04-30
 The Devil Within: Satgat		2023-09-15
 大多数		2022-09-15
 Ragdolls Playground: The Sandbox		2022-08-10
-Aces and Adventures		2022-09-30
+Aces and Adventures		2023-03-31
 Marvel’s Spider-Man Remastered		2022-08-12
 角色扮演遊戲時間！～光之傳說～		2022-09-13
 Nightmare: The Lunatic		2022-01-07
