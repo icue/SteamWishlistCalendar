@@ -20,7 +20,7 @@ Hindsight		2022-08-04
 逆向坍塌：面包房行动		2022-09-15
 诈欺娇娃		2021-08-31
 Gloomwood		2022-09-05
-Roadwarden		2022-09-08
+Roadwarden		2022-09-12
 One Dreamer		2022-09-09
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2023-09-30
 Speak Lies		2022-09-15
@@ -73,7 +73,7 @@ Fading Afternoon		2023-09-15
 Starfield		2023-09-15
 Mahokenshi		2023-01-31
 The Simple Balance		2022-08-31
-失落迷城：群星的诅咒		2022-09-30
+失落迷城：群星的诅咒		2022-10-11
 Three in a Rogue		2022-09-15
 Lushfoil Photography Sim		2023-03-31
 ADACA		2022-07-26
@@ -90,7 +90,7 @@ Nightmare: The Lunatic		2022-01-07
 Far Away From Home		2022-08-18
 Deliver At All Costs		2025-02-28
 Know by heart... Soundtrack		2022-02-10
-剑与魔法与学园任务		2022-09-07
+剑与魔法与学园任务		2023-09-07
 RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
 都市大亨物语 (Venture Towns)		2022-05-23
