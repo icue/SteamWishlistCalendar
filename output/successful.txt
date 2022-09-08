@@ -2,7 +2,6 @@ Suicide Squad: Kill the Justice League		2023-09-15
 Way of the Samurai 3		2016-03-23
 Project Haven		2022-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
-Atomic Heart		2022-11-30
 Arcadian Atlas		2023-06-30
 The Invincible		2023-09-30
 Gloomhaven		2021-10-20
@@ -35,7 +34,8 @@ Achilles: Legends Untold		2022-05-12
 Stray		2022-07-19
 猪头三大冒险		2023-09-15
 记忆边境		2022-08-18
-GunBlocks - Chapter 1		2022-09-15
+GunBlocks - Chapter 1		2022-12-31
+Bomb Rush Cyberfunk		2023-06-30
 Flowstone Saga		2022-09-15
 Midnight Fight Express		2022-08-23
 神领编年史 The DioField Chronicle		2022-09-22
@@ -90,7 +90,7 @@ Nightmare: The Lunatic		2022-01-07
 Far Away From Home		2022-08-18
 Deliver At All Costs		2025-02-28
 Know by heart... Soundtrack		2022-02-10
-剑与魔法与学园任务		2023-09-07
+剑与魔法与学园任务		2022-09-07
 RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
 都市大亨物语 (Venture Towns)		2022-05-23
