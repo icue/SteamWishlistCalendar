@@ -25,7 +25,7 @@ One Dreamer		2022-09-09
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2023-09-30
 Test Drive Unlimited Solar Crown		2023-09-15
 Portal Reloaded		2021-04-19
-迷失幻途		2022-09-27
+迷失幻途		2022-09-26
 Monorail Stories		2022-09-26
 Together in Battle		2023-01-31
 聚点危机：英雄联盟外传™		2022-09-15
@@ -43,6 +43,7 @@ NeuroNet: Mendax Proxy		2022-09-15
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-28
 Nobody Saves the World		2022-01-18
+Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-31
 Tactics Ogre: Reborn		2022-11-11
 巴别号漫游指南		2022-09-15
 SYNTHETIK 2		2021-11-11
@@ -85,7 +86,7 @@ The Devil Within: Satgat		2023-09-15
 Ragdolls Playground: The Sandbox		2022-08-10
 Aces and Adventures		2023-03-31
 Marvel’s Spider-Man Remastered		2022-08-12
-角色扮演遊戲時間！～光之傳說～		2023-09-13
+角色扮演遊戲時間！～光之傳說～		2022-09-13
 Nightmare: The Lunatic		2022-01-07
 冒险村物语 (Dungeon Village)		2022-03-28
 我是两个人		2022-09-30
