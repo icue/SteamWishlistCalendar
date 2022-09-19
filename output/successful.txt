@@ -19,7 +19,6 @@ Baldur's Gate 3		2020-10-06
 逆向坍塌：面包房行动		2022-12-31
 诈欺娇娃		2021-08-31
 Gloomwood		2022-09-05
-Else Heart.Break()		2015-09-24
 《The Dreamwalkers》——一部浅度奇幻视觉小说		2023-09-30
 Test Drive Unlimited Solar Crown		2023-09-15
 Portal Reloaded		2021-04-19
@@ -107,3 +106,4 @@ LO FI - A YEAR TO FULFILL MY DREAM.mp3		2022-09-01
 审判之逝：湮灭的记忆		2022-09-14
 Gales of Nayeli		2023-09-15
 女神异闻录5皇家版		2022-10-21
+奇怪的RPG		2022-10-31
