@@ -23,7 +23,7 @@ Gloomwood		2022-09-05
 Test Drive Unlimited Solar Crown		2023-09-15
 Portal Reloaded		2021-04-19
 迷失幻途		2022-09-26
-Monorail Stories		2022-09-26
+Monorail Stories		2022-09-30
 Together in Battle		2023-01-31
 聚点危机：英雄联盟外传™		2022-12-31
 Achilles: Legends Untold		2022-05-12
@@ -55,7 +55,7 @@ Lost Eidolons		2022-10-13
 Lakeburg Legacies		2023-09-15
 Terra Nil		2023-03-31
 Chronicon - Ancient Beasts		2022-02-25
-Soulstice		2023-09-20
+Soulstice		2022-09-20
 Unusual Findings		2022-10-12
 白日梦的构想图		2022-02-09
 Planet of Lana		2023-03-31
