@@ -35,7 +35,6 @@ GunBlocks - Chapter 1		2022-12-31
 Bomb Rush Cyberfunk		2023-06-30
 星石传说		2022-12-31
 Midnight Fight Express		2022-08-23
-神领编年史 The DioField Chronicle		2022-09-22
 NeuroNet: Mendax Proxy		2022-12-31
 Instruments of Destruction		2022-03-02
 Kingdom Gun		2022-07-28
@@ -44,11 +43,11 @@ Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-31
 Tactics Ogre: Reborn		2022-11-11
 巴别号漫游指南		2022-12-31
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2022-11-30
+Crimson Tactics: The Rise of The White Banner		2022-12-31
 命途		2022-05-21
 Himig		2023-09-15
 Wartales		2021-12-01
-OXENFREE II: Lost Signals		2022-12-31
+OXENFREE II: Lost Signals		2023-09-15
 Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-10-13
@@ -99,8 +98,8 @@ BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2023-02-28
 Capes		2023-09-15
 Stick It to the Stickman		2023-09-15
-LO FI - A YEAR TO FULFILL MY DREAM.mp3		2022-09-01
-勇者之书		2022-09-27
+TRIANGLE STRATEGY		2022-10-13
+勇者之书		2022-09-24
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
 Gales of Nayeli		2023-09-15
