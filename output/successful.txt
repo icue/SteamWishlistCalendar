@@ -4,7 +4,7 @@ Way of the Samurai 3		2016-03-23
 Project Haven		2023-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2023-06-30
-The Invincible		2023-09-30
+The Invincible		2023-10-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
 ELEX II		2022-03-01
@@ -102,5 +102,5 @@ TRIANGLE STRATEGY		2022-10-13
 审判之逝：湮灭的记忆		2022-09-14
 Gales of Nayeli		2023-09-15
 女神异闻录5皇家版		2022-10-20
-奇怪的RPG		2022-10-31
+奇怪的RPG		2023-09-30
 The Entropy Centre		2022-11-03
