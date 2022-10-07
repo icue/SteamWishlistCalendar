@@ -2,6 +2,7 @@ Suicide Squad: Kill the Justice League		2023-09-15
 Marvel's Midnight Suns		2022-12-02
 Way of the Samurai 3		2016-03-23
 Project Haven		2023-09-15
+System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2023-06-30
 The Invincible		2023-10-31
@@ -107,3 +108,4 @@ Tiny Rogues		2022-09-23
 勇者之书		2022-09-24
 SFD : Rogue TRPG		2018-08-31
 Streets of Rogue 2		2023-09-15
+ZERO Sievert		2022-11-22
