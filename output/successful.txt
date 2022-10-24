@@ -5,12 +5,16 @@ Project Haven		2023-09-15
 System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2023-06-30
+Cogmind		2017-10-17
 The Invincible		2023-10-31
 Gloomhaven		2021-10-20
 STEINS;GATE ELITE		2019-02-19
+Fortune-499		2018-05-11
 ELEX II		2022-03-01
+SFD : Rogue TRPG		2018-08-31
 Dark Envoy		2023-09-15
 STEINS;GATE: My Darling's Embrace		2019-12-10
+Shadows of Doubt		2023-09-15
 霍格沃茨之遗		2023-02-10
 暗邪西部		2022-11-22
 Echo Generation		2023-09-15
@@ -44,6 +48,8 @@ SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-12-31
 命途		2022-05-21
 Himig		2023-09-15
+Deadeye Deepfake Simulacrum		2022-10-13
+Ctrl Alt Ego		2022-07-22
 OXENFREE II: Lost Signals		2023-09-15
 Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
@@ -51,14 +57,13 @@ Lost Eidolons		2022-10-13
 Lakeburg Legacies		2023-09-15
 Terra Nil		2023-03-31
 Chronicon - Ancient Beasts		2022-02-25
-NEO: The World Ends with You		2022-10-19
 白日梦的构想图		2022-02-09
 Planet of Lana		2023-03-31
-Grey Heritage: Faded Vision		2022-12-09
 Gungrave G.O.R.E		2022-11-22
 iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-06-19
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
+NEO: The World Ends with You		2022-10-19
 I Am Future		2022-12-31
 SacriFire		2022-12-31
 ナツノカナタ		2022-08-17
@@ -73,6 +78,8 @@ Lushfoil Photography Sim		2023-03-31
 ADACA		2022-07-26
 变成大人也不要忘记		2022-01-13
 Mask of the Rose		2023-04-30
+Grey Heritage: Faded Vision		2022-12-09
+ZERO Sievert		2022-11-22
 The Devil Within: Satgat		2023-09-15
 大多数		2022-12-31
 Ragdolls Playground: The Sandbox		2022-08-10
@@ -81,12 +88,14 @@ Marvel’s Spider-Man Remastered		2022-08-12
 角色扮演遊戲時間！～光之傳說～		2022-09-13
 Nightmare: The Lunatic		2022-01-07
 TRIANGLE STRATEGY		2022-10-13
+Escape From Hard Drive		2022-07-11
 冒险村物语 (Dungeon Village)		2022-03-28
 Gales of Nayeli		2023-09-15
 Know by heart... Soundtrack		2022-02-10
 RUNES Magica		2022-05-02
 口袋学院物语2 (Pocket Academy)		2022-06-13
 都市大亨物语 (Venture Towns)		2022-05-23
+《WILD HEARTS™》		2023-02-16
 Brotato		2022-09-27
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2023-09-15
@@ -99,13 +108,4 @@ Capes		2023-09-15
 Stick It to the Stickman		2023-09-15
 Tiny Rogues		2022-09-23
 勇者之书		2022-09-24
-SFD : Rogue TRPG		2018-08-31
 Streets of Rogue 2		2023-09-15
-《WILD HEARTS™》		2023-02-16
-ZERO Sievert		2022-11-22
-Ctrl Alt Ego		2022-07-22
-Escape From Hard Drive		2022-07-11
-Deadeye Deepfake Simulacrum		2022-10-13
-Fortune-499		2018-05-11
-Shadows of Doubt		2023-09-15
-Cogmind		2017-10-17
