@@ -37,6 +37,7 @@ GunBlocks		2023-12-22
 Bomb Rush Cyberfunk		2023-06-30
 Where Birds Go to Sleep		2023-10-31
 Midnight Fight Express		2022-08-23
+Twilight Wars		2023-04-27
 NeuroNet: Mendax Proxy		2022-12-31
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
@@ -46,7 +47,7 @@ Tactics Ogre: Reborn		2022-11-11
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-12-31
 命途		2022-05-21
-Himig		2023-09-15
+Himig		2023-10-31
 Deadeye Deepfake Simulacrum		2022-10-13
 OXENFREE II: Lost Signals		2023-10-31
 Citizen Sleeper		2022-05-05
