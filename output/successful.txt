@@ -1,12 +1,12 @@
 Suicide Squad: Kill the Justice League		2023-09-15
 Marvel's Midnight Suns		2022-12-02
 Way of the Samurai 3		2016-03-23
-Project Haven		2023-10-31
+Project Haven		2023-11-30
 System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Arcadian Atlas		2023-06-30
 Cogmind		2017-10-17
-The Invincible		2023-10-31
+The Invincible		2023-11-30
 STEINS;GATE ELITE		2019-02-19
 Fortune-499		2018-05-11
 ELEX II		2022-03-01
@@ -35,7 +35,7 @@ Achilles: Legends Untold		2022-05-12
 Stray		2022-07-19
 GunBlocks		2023-12-22
 Bomb Rush Cyberfunk		2023-06-30
-Where Birds Go to Sleep		2023-10-31
+Where Birds Go to Sleep		2023-11-30
 Midnight Fight Express		2022-08-23
 Twilight Wars		2023-04-27
 NeuroNet: Mendax Proxy		2022-12-31
@@ -47,13 +47,13 @@ Tactics Ogre: Reborn		2022-11-11
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2022-12-31
 命途		2022-05-21
-Himig		2023-10-31
+Himig		2023-11-30
 Deadeye Deepfake Simulacrum		2022-10-13
-OXENFREE II: Lost Signals		2023-10-31
+OXENFREE II: Lost Signals		2023-11-30
 Citizen Sleeper		2022-05-05
 Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-10-13
-Lakeburg Legacies		2023-10-31
+Lakeburg Legacies		2023-11-30
 Terra Nil		2023-03-31
 Chronicon - Ancient Beasts		2022-02-25
 白日梦的构想图		2022-02-09
@@ -63,7 +63,7 @@ iii︰走马灯仙境		2023-09-15
 临渊觉醒		2022-06-19
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 NEO: The World Ends with You		2022-10-19
-I Am Future		2023-10-31
+I Am Future		2023-11-30
 SacriFire		2022-12-31
 ナツノカナタ		2022-08-17
 Fading Afternoon		2023-09-15
@@ -79,7 +79,6 @@ ADACA		2022-07-26
 Mask of the Rose		2023-04-30
 Grey Heritage: Faded Vision		2022-12-09
 ZERO Sievert		2022-11-15
-The Devil Within: Satgat		2023-09-15
 大多数		2022-11-17
 Ragdolls Playground: The Sandbox		2022-08-10
 Marvel’s Spider-Man Remastered		2022-08-12
@@ -107,3 +106,4 @@ Stick It to the Stickman		2023-09-15
 Tiny Rogues		2022-09-23
 勇者之书		2022-09-24
 Streets of Rogue 2		2023-09-15
+盗版代码		2022-11-03
