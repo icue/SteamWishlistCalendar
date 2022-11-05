@@ -14,7 +14,7 @@ ELEX II		2022-03-01
 SFD : Rogue TRPG		2018-08-31
 Dark Envoy		2023-09-15
 STEINS;GATE: My Darling's Embrace		2019-12-10
-Shadows of Doubt		2023-09-15
+Shadows of Doubt - 凶影疑云		2023-09-15
 霍格沃茨之遗		2023-02-10
 暗邪西部		2022-11-22
 Echo Generation		2023-09-15
@@ -51,8 +51,6 @@ Crimson Tactics: The Rise of The White Banner		2022-12-31
 Himig		2023-11-30
 Deadeye Deepfake Simulacrum		2022-10-13
 OXENFREE II: Lost Signals		2023-11-30
-Citizen Sleeper		2022-05-05
-Shadow Tactics: 爱子的选择 Aiko's Choice		2021-12-06
 Lost Eidolons		2022-10-13
 Lakeburg Legacies		2023-11-30
 Terra Nil		2023-03-31
@@ -71,7 +69,6 @@ Fading Afternoon		2023-09-15
 女神异闻录5皇家版		2022-10-21
 Starfield		2023-09-15
 Mahokenshi		2023-01-31
-The Entropy Centre		2022-11-03
 Three in a Rogue		2022-12-31
 Lushfoil Photography Sim		2023-03-31
 ADACA		2022-07-26
