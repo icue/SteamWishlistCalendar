@@ -1,6 +1,5 @@
 Suicide Squad: Kill the Justice League		2023-09-15
 Marvel's Midnight Suns		2022-12-02
-Way of the Samurai 3		2016-03-23
 Project Haven		2023-11-30
 System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
@@ -8,11 +7,9 @@ Atomic Heart		2023-02-20
 Arcadian Atlas		2023-06-30
 Cogmind		2017-10-17
 无敌号		2023-11-30
-STEINS;GATE ELITE		2019-02-19
 Fortune-499		2018-05-11
 ELEX II		2022-03-01
 Dark Envoy		2023-09-15
-STEINS;GATE: My Darling's Embrace		2019-12-10
 Shadows of Doubt - 凶影疑云		2023-09-15
 霍格沃茨之遗		2023-02-10
 Echo Generation		2023-09-15
@@ -76,14 +73,9 @@ ZERO Sievert		2022-11-15
 Marvel’s Spider-Man Remastered		2022-08-12
 角色扮演遊戲時間！～光之傳說～		2022-09-13
 Nightmare: The Lunatic		2022-01-07
-Escape From Hard Drive		2022-07-11
-冒险村物语 (Dungeon Village)		2022-03-28
 Gales of Nayeli		2023-09-15
 Titan Station		2022-11-11
 Know by heart... Soundtrack		2022-02-10
-RUNES Magica		2022-05-02
-口袋学院物语2 (Pocket Academy)		2022-06-13
-都市大亨物语 (Venture Towns)		2022-05-23
 《WILD HEARTS™》		2023-02-16
 Brotato		2022-09-27
 VALKYRIE ELYSIUM		2022-11-11
@@ -96,7 +88,7 @@ Repetendium		2022-11-04
 审判之逝：湮灭的记忆		2022-09-14
 Capes		2023-09-15
 Stick It to the Stickman		2023-09-15
-Tiny Rogues		2022-09-23
+Seals of the Bygone		2020-03-13
 雾雨飘零之森		2022-11-16
 勇者之书		2022-09-24
 Streets of Rogue 2		2023-09-15
