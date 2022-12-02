@@ -54,7 +54,7 @@ Chronicon - Ancient Beasts		2022-02-25
 白日梦的构想图		2022-02-09
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 NEO: The World Ends with You		2022-10-19
-I Am Future		2023-12-31
+我是未来		2023-12-31
 黑羊		2022-12-15
 ナツノカナタ		2022-08-17
 Fading Afternoon		2023-09-15
@@ -83,7 +83,7 @@ Brotato		2022-09-27
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
-Wanted: Dead		2023-02-28
+Wanted: Dead		2023-02-13
 异梦迷城		2023-09-15
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
@@ -92,3 +92,6 @@ Capes		2023-09-15
 Stick It to the Stickman		2023-09-15
 雾雨飘零之森		2022-11-16
 Streets of Rogue 2		2023-09-15
+Runic Survivor		2022-09-30
+原点计划：序章		2022-12-02
+原点计划		2022-12-16
