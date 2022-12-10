@@ -9,7 +9,7 @@ Cogmind		2017-10-17
 无敌号		2023-12-31
 Fortune-499		2018-05-11
 ELEX II		2022-03-01
-Dark Envoy		2023-09-15
+Dark Envoy		2023-12-31
 Shadows of Doubt - 凶影疑云		2023-09-15
 霍格沃茨之遗		2023-02-10
 Echo Generation		2023-09-15
@@ -93,3 +93,5 @@ Stick It to the Stickman		2023-09-15
 Streets of Rogue 2		2023-09-15
 Runic Survivor		2022-09-30
 Spire of Glory		2022-12-03
+The Last of Us™ Part I		2023-03-03
+Forspoken		2023-01-24
