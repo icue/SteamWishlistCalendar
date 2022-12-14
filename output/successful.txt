@@ -1,5 +1,4 @@
 Suicide Squad: Kill the Justice League		2023-09-15
-Marvel's Midnight Suns		2022-12-02
 Project Haven		2023-12-31
 System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
@@ -83,6 +82,7 @@ Soccer Story		2022-11-29
 《WILD HEARTS™》		2023-02-16
 Brotato		2022-09-27
 VALKYRIE ELYSIUM		2022-11-11
+Desktop Dungeons: Rewind		2023-12-31
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2023-02-13
@@ -96,3 +96,4 @@ Stick It to the Stickman		2023-09-15
 Runic Survivor		2022-09-30
 Streets of Rogue 2		2023-09-15
 Spire of Glory		2022-12-03
+女巫悲歌		2022-12-15
