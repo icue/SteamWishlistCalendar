@@ -45,9 +45,11 @@ Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-03
 SYNTHETIK 2		2021-11-11
 命途		2022-05-21
 Himig		2023-12-31
+女巫悲歌		2022-12-15
 Deadeye Deepfake Simulacrum		2022-10-13
 OXENFREE II: Lost Signals		2023-12-31
 Lost Eidolons		2022-10-13
+High On Life		2022-12-13
 Lakeburg Legacies		2023-12-31
 Lil Gator Game		2022-12-14
 Chronicon - Ancient Beasts		2022-02-25
@@ -97,5 +99,3 @@ Stick It to the Stickman		2023-09-15
 Runic Survivor		2022-09-30
 Streets of Rogue 2		2023-09-15
 Spire of Glory		2022-12-03
-女巫悲歌		2022-12-15
-High On Life		2022-12-13
