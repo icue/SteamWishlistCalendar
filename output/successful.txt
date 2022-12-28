@@ -89,3 +89,5 @@ Runic Survivor		2022-09-30
 Streets of Rogue 2		2023-09-15
 Spire of Glory		2022-12-03
 Risk of Rain Returns		2023-12-31
+Tinykin		2022-08-30
+Togges		2022-12-07
