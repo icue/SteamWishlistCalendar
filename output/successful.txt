@@ -29,6 +29,7 @@ Crawl Tactics		2022-12-09
 Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
+Risk of Rain Returns		2023-12-31
 GunBlocks		2023-12-22
 Bomb Rush Cyberfunk		2023-06-30
 Where Birds Go to Sleep		2023-12-31
@@ -41,12 +42,14 @@ Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-03
 SYNTHETIK 2		2021-11-11
 命途		2022-05-21
 Himig		2023-12-31
+Togges		2022-12-07
 OXENFREE II: Lost Signals		2023-12-31
 Lost Eidolons		2022-10-13
 High On Life		2022-12-13
 Lakeburg Legacies		2023-12-31
 Lil Gator Game		2022-12-14
 Chronicon - Ancient Beasts		2022-02-25
+Tinykin		2022-08-30
 白日梦的构想图		2022-02-09
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 NEO: The World Ends with You		2022-10-19
@@ -71,13 +74,13 @@ Nightmare: The Lunatic		2022-01-07
 Gales of Nayeli		2023-09-15
 Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-03
-Leapgate		2023-12-31
 《WILD HEARTS™》		2023-02-16
 VALKYRIE ELYSIUM		2022-11-11
 Desktop Dungeons: Rewind		2023-12-31
 Anger Foot		2023-09-15
 BANCHOU TACTICS		2023-02-28
 Wanted: Dead		2023-02-13
+Leapgate		2023-12-31
 异梦迷城		2023-09-15
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
@@ -88,6 +91,4 @@ Stick It to the Stickman		2023-09-15
 Runic Survivor		2022-09-30
 Streets of Rogue 2		2023-09-15
 Spire of Glory		2022-12-03
-Risk of Rain Returns		2023-12-31
-Tinykin		2022-08-30
-Togges		2022-12-07
+Endless Samurai		2023-12-31
