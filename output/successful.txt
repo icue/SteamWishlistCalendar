@@ -73,6 +73,7 @@ Nightmare: The Lunatic		2022-01-07
 Gales of Nayeli		2023-09-15
 Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-03
+Tendryll		2023-01-31
 《WILD HEARTS™》		2023-02-16
 VALKYRIE ELYSIUM		2022-11-11
 Desktop Dungeons: Rewind		2023-01-31
@@ -91,3 +92,4 @@ Runic Survivor		2022-09-30
 Streets of Rogue 2		2023-09-15
 Spire of Glory		2022-12-03
 Endless Samurai		2023-01-31
+LONE RUIN		2023-01-12
