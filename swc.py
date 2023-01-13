@@ -26,14 +26,11 @@ _RELEASED = 'released'
 _PRERELEASE = 'prerelease'
 _YEAR_REGEX = '^\\d{4}$'
 
-_BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', 'coming soon')
-_TO_REMOVE = ('coming', 'wishlist now', '!', '--', 'wishlist and follow', 'play demo now',
-              'add to wishlist', 'wishlist to be notified', 'wishlist', '愿望单', '添加', 'now',
-              '(', ')', '（', '）', '↘', '↙', '↓', ':', '：')
+_BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', '即将宣布', 'coming soon')
 _TO_REPLACE = (
     ('spring', 'mar'), ('summer', 'june'), ('fall', 'sep'), ('winter', 'dec'),
     ('q1', 'feb'), ('q2', 'may'), ('q3', 'aug'), ('q4', 'nov'),
-    ('early 2', 'march 2'), ('late 2', 'sep 2'), ('年末', 'dec'), ('年底', 'dec'),
+    ('第一季度', 'feb'), ('第二季度', 'may'), ('第三季度', 'aug'), ('第四季度', 'nov'),
     ('年', '.'), ('月', '.'), ('日', '.'), ('号', '.')
 )
 
@@ -80,9 +77,6 @@ for index in range(0, args.max_page):
             if any(substring in release_string for substring in _BLOCK_LIST):
                 # Release date not announced.
                 continue
-            # Removes noises.
-            for w in _TO_REMOVE:
-                release_string = release_string.replace(w, '')
             # Heuristically maps vague words such as 'Q1', 'summer' to months.
             for pair in _TO_REPLACE:
                 release_string = release_string.replace(pair[0], pair[1])
