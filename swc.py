@@ -135,8 +135,9 @@ os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
 
 with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
     f.write('\n'.join(successful_deductions))
-with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
-    f.write('\n'.join(failed_deductions))
+if failed_deductions:
+    with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(failed_deductions))
 with open(_OUTPUT_FOLDER + _ICS_FILE, 'w', encoding='utf-8') as f:
     f.write(cal.serialize())
 
