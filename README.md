@@ -6,7 +6,7 @@
 **Instructions** ([简体中文/Simplified Chinese version](https://github.com/icue/SteamWishlistCalendar/wiki/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E))
 1. Make sure your Steam profile is public.
 2. `pip install -r requirements.txt`
-3. `python ./swc.py -i={steam ID}`
+3. `python swc.py -i={steam ID}` or `python -m swc -i={steam ID}`
     
    Optional parameters:
    * `-d`: whether to include DLCs. Default is `False`.
