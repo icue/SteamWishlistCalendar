@@ -15,7 +15,7 @@
     * [`wishlist.ics`](output/wishlist.ics): an `.ICS` file, which can be imported into common calendar applications, such as Google Calendar and Outlook. Learn more about this format on [Wikipedia](https://en.wikipedia.org/wiki/ICalendar).
     * [`history.json`](output/history.json): stores the number of wishlisted items, as well as the number of pre-releases among them, of the day. Keeps growing.
     * [`successful.txt`](output/successful.txt): stores the items that either has an explicit release date or has a vague release date successfully converted into an exact date. Each line contains first the item name, then the release date.
-    * [`failed_deductions.txt`](output/failed_deductions.txt): stores the items that do not have a meaningful enough release date, or have a release string that is too complicated to parse.
+    * [`failed_deductions.txt`](output/failed_deductions.txt): stores the items that do not have a meaningful enough release date, or have a release string that is too complicated to parse. This file will only be generated when there are such items.
     * [`wishlist_history_chart.png`](output/wishlist_history_chart.png): a line chart that shows the trend of the wishlist. What gets displayed here also depends on data in [`history.json`](output/history.json).
     * [`wishlist_history_stack_plot.png`](output/wishlist_history_chart.png): a stack plot that shows the trend of the wishlist. What gets displayed here also depends on data in [`history.json`](output/history.json).
 5. Refer to the [workflow yml file](.github/workflows/analyze-wishlist.yml) in this repo, to automatically run the script on schedule.
