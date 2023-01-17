@@ -1,7 +1,6 @@
 Project Haven		2023-01-31
 System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
-Phantom Brigade		2023-02-28
 Atomic Heart		2023-02-20
 Cogmind		2017-10-17
 无敌号		2023-01-31
@@ -11,7 +10,6 @@ Dark Envoy		2023-01-31
 Definitely Not Fried Chicken		2023-01-18
 Wayward Strand		2022-09-15
 Baldur's Gate 3		2020-10-06
-鬼哭岭		2023-02-28
 逆向坍塌：面包房行动		2023-01-31
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2023-08-31
@@ -83,3 +81,4 @@ Runic Survivor		2022-09-30
 Endless Samurai		2023-01-31
 Super Sol Standard		2023-01-31
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-01-31
+大家一起观颜察色。		2020-03-30
