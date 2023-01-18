@@ -38,6 +38,7 @@ Lost Eidolons		2022-10-13
 High On Life		2022-12-13
 Lakeburg Legacies		2023-01-31
 Lil Gator Game		2022-12-14
+Terra Nil		2023-01-31
 白日梦的构想图		2022-02-09
 Planet of Lana		2023-05-31
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
@@ -66,12 +67,14 @@ Tendryll		2023-01-31
 Nemire		2023-02-28
 VALKYRIE ELYSIUM		2022-11-11
 Desktop Dungeons: Rewind		2023-01-31
+Anger Foot		2023-01-31
 Wanted: Dead		2023-02-13
 Leapgate		2023-01-31
 异梦迷城		2023-03-10
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
+Capes		2023-01-31
 特修斯协议		2023-01-17
 Dead Cells: Return to Castlevania		2023-02-28
 雾雨飘零之森		2022-11-16
@@ -82,3 +85,4 @@ Endless Samurai		2023-01-31
 Super Sol Standard		2023-01-31
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-01-31
 大家一起观颜察色。		2020-03-30
+漂流佣兵		2023-01-12
