@@ -38,7 +38,7 @@ Togges		2022-12-07
 OXENFREE II: Lost Signals		2023-01-31
 Lost Eidolons		2022-10-13
 High On Life		2022-12-13
-Lakeburg Legacies		2023-01-31
+Lakeburg Legacies		2023-05-31
 Lil Gator Game		2022-12-14
 Terra Nil		2023-01-31
 白日梦的构想图		2022-02-09
@@ -88,3 +88,4 @@ Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-08-31
 Endless Samurai 無限武者		2023-01-31
 影子策略：被诅咒的船员		2023-01-31
+Hotel Renovator		2023-03-07
