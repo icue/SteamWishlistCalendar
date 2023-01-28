@@ -32,7 +32,7 @@ Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-03
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-02-28
 命途		2022-05-21
-挣脱		2024-06-01
+挣脱		2024-05-31
 Himig		2023-01-31
 Togges		2022-12-07
 OXENFREE II: Lost Signals		2023-01-31
@@ -89,3 +89,5 @@ Chronicon - The Mechanist		2023-01-25
 Endless Samurai 無限武者		2023-01-31
 影子策略：被诅咒的船员		2023-01-31
 Hotel Renovator		2023-03-07
+Tokyo Stories		2023-01-31
+Redemption Reapers		2023-02-28
