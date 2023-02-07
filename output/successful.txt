@@ -28,6 +28,7 @@ Twilight Wars		2023-11-09
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
 Wo Long: Fallen Dynasty （卧龙：苍天陨落）		2023-03-03
+巴别号漫游指南		2023-02-28
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-02-28
 命途		2022-05-21
@@ -55,6 +56,7 @@ ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-08-31
 Aces &amp; Adventures		2023-02-23
 Marvel’s Spider-Man Remastered		2022-08-12
+Dungeon Drafters		2023-05-31
 Nightmare: The Lunatic		2022-01-07
 Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-28
@@ -71,7 +73,7 @@ Leapgate		2023-02-28
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
-Capes		2023-02-28
+正义四侠 Capes		2023-02-28
 特修斯协议		2023-01-17
 Dead Cells: Return to Castlevania		2023-02-28
 雾雨飘零之森		2022-11-16
@@ -85,3 +87,4 @@ Endless Samurai 無限武者		2023-02-28
 Hotel Renovator		2023-03-07
 Tokyo Stories		2023-02-28
 Redemption Reapers		2023-02-28
+MatchR: Now Hiring		2023-02-28
