@@ -1,5 +1,4 @@
 Project Haven		2023-02-28
-System Shock		2023-03-31
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Phantom Brigade		2023-02-28
 Atomic Heart		2023-02-20
@@ -46,6 +45,7 @@ NEO: The World Ends with You		2022-10-19
 Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
+Inkbound		2023-05-31
 Mahokenshi		2023-01-24
 Tokyo Stranger 东京诡事		2023-04-20
 Mask of the Rose		2023-04-30
