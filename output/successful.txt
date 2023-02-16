@@ -1,7 +1,7 @@
 Project Haven		2023-02-28
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Phantom Brigade		2023-02-28
-Atomic Heart		2023-02-20
+原子之心		2023-02-20
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Dark Envoy		2023-02-28
@@ -85,6 +85,6 @@ Endless Samurai 無限武者		2023-02-28
 影子策略：被诅咒的船员		2023-02-28
 Hotel Renovator		2023-03-07
 Tokyo Stories		2023-02-28
-Redemption Reapers		2023-02-28
+Redemption Reapers		2023-02-22
 MatchR: Now Hiring		2023-02-28
 时灵 星辰愚者		2023-02-14
