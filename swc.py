@@ -5,18 +5,12 @@ import os
 import re
 import requests
 import time
-import warnings
 from datetime import datetime
 from datetime import timezone
 from ics import Calendar, Event
 from matplotlib import pyplot
 from matplotlib import ticker
 
-# Ignores dateparser warnings regarding pytz.
-warnings.filterwarnings(
-    'ignore',
-    message='The localize method is no longer necessary, as this time zone supports the fold attribute',
-)
 
 _SEP = '-09-15'
 _TOTAL = 'total'
