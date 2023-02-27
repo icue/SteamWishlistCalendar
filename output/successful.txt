@@ -1,19 +1,19 @@
-Project Haven		2023-02-28
+Project Haven		2023-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Phantom Brigade		2023-02-28
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
-Dark Envoy		2023-02-28
-Shadows of Doubt - 凶影疑云		2023-02-28
+Dark Envoy		2023-09-15
+Shadows of Doubt - 凶影疑云		2023-09-15
 霍格沃茨之遗		2023-02-10
 Definitely Not Fried Chicken		2023-01-18
 Inkbound		2023-05-31
 Wayward Strand		2022-09-15
 Baldur's Gate 3		2020-10-06
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
-逆向坍塌：面包房行动		2023-02-28
+逆向坍塌：面包房行动		2023-09-15
 Gloomwood		2022-09-05
-Homicidal All-Stars		2023-02-28
+Homicidal All-Stars		2023-09-15
 Neverlooted Dungeon		2023-08-31
 无垠之心 - A Space for the Unbound		2023-01-19
 叛逆神魂GODSOUL		2023-08-31
@@ -25,19 +25,19 @@ Ravenbound		2023-03-30
 Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
-Risk of Rain Returns		2023-02-28
+Risk of Rain Returns		2023-09-15
 Twilight Wars		2023-11-09
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
 The Bookwalker		2023-04-25
-巴别号漫游指南		2023-02-28
+巴别号漫游指南		2023-09-15
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-02-28
 命途		2022-05-21
 挣脱		2024-05-31
-Himig		2023-02-28
-影子策略：被诅咒的船员		2023-02-28
-OXENFREE II: Lost Signals		2023-02-28
+Himig		2023-09-15
+影子策略：被诅咒的船员		2023-09-15
+OXENFREE II: Lost Signals		2023-09-15
 High On Life		2022-12-13
 Lil Gator Game		2022-12-14
 Terra Nil		2023-03-28
@@ -60,20 +60,20 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Nightmare: The Lunatic		2022-01-07
 Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-28
-Tendryll		2023-02-28
-学园构想家		2023-02-28
+Tendryll		2023-09-15
+学园构想家		2023-09-15
 Nemire		2023-02-28
 VALKYRIE ELYSIUM		2022-11-11
-Desktop Dungeons: Rewind		2023-02-28
-Anger Foot		2023-02-28
+Desktop Dungeons: Rewind		2023-09-15
+Anger Foot		2023-09-15
 Wanted: Dead		2023-02-14
 MatchR: Now Hiring		2023-02-28
-Leapgate		2023-02-28
+Leapgate		2023-09-15
 异梦迷城		2023-03-10
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
-正义四侠 Capes		2023-02-28
+正义四侠 Capes		2023-09-15
 特修斯协议		2023-01-17
 Dead Cells: Return to Castlevania		2023-02-28
 雾雨飘零之森		2022-11-16
@@ -81,7 +81,8 @@ Dead Cells: Return to Castlevania		2023-02-28
 Runic Survivor		2022-09-30
 Redemption Reapers		2023-02-22
 Chronicon - The Mechanist		2023-01-25
-佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-02-28
+佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
-Tokyo Stories		2023-02-28
-Endless Samurai 無限武者		2023-02-28
+Tokyo Stories		2023-09-15
+Endless Samurai 無限武者		2023-09-15
+The Excrawlers		2023-02-28
