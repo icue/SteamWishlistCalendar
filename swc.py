@@ -24,7 +24,7 @@ _RELEASE_DATE = 'release_date'
 _RELEASE_STRING = 'release_string'
 _RELEASED = 'released'
 _PRERELEASE = 'prerelease'
-_YEAR_REGEX = '^\\d{4}$'
+_YEAR_ONLY_REGEX = '^(\\d{4}) \\.$'
 
 _BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', '即将宣布', 'coming soon')
 _TO_REPLACE = (
@@ -45,7 +45,8 @@ if args.id.isnumeric():
     url = f'https://store.steampowered.com/wishlist/profiles/{args.id}/wishlistdata/'
 else:
     url = f'https://store.steampowered.com/wishlist/id/{args.id}/wishlistdata/'
-# l may also be 'english' or 'tchinese'. See https://partner.steamgames.com/doc/store/localization
+# l may also be 'english' or 'tchinese', but then _YEAR_ONLY_REGEX and _TO_REPLACE may need to be modified as well.
+# See https://partner.steamgames.com/doc/store/localization
 params = {'l': 'schinese'}
 count = 0
 prerelease_count = 0
@@ -69,7 +70,7 @@ for index in range(0, args.max_page):
         game_name = value['name']
         description_suffix = ''
         if value[_RELEASE_DATE]:
-            release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]))
+            release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]), tz=timezone.utc)
         if _PRERELEASE in value:
             prerelease_count += 1
             # Games that are not release yet will have a 'free-form' release string.
@@ -81,11 +82,13 @@ for index in range(0, args.max_page):
             for pair in _TO_REPLACE:
                 release_string = release_string.replace(pair[0], pair[1])
             release_string = release_string.lstrip().rstrip()
-            if re.match(_YEAR_REGEX, release_string):
-                # Release string only contains a year.
+            year_only_match = re.match(_YEAR_ONLY_REGEX, release_string)
+            if year_only_match:
+                # Release string only contains information about the year.
+                year = year_only_match.group(1)
                 # If XXXX.09.15 has already passed, uses the last day of that year.
-                sep_release_date = datetime.strptime(release_string + _SEP, '%Y-%m-%d').date()
-                release_string += _SEP if sep_release_date > now.date() else '-12-31'
+                sep_release_date = datetime.strptime(year + _SEP, '%Y-%m-%d').date()
+                release_string = year + (_SEP if sep_release_date > now.date() else '-12-31')
 
             # Tries to parse a machine-readable date from the release string.
             translated_date = dateparser.parse(release_string,
