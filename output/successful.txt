@@ -54,7 +54,6 @@ Mask of the Rose		2023-04-30
 Grey Heritage: Faded Vision		2022-12-09
 ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-08-31
-Aces &amp; Adventures		2023-02-23
 Marvel’s Spider-Man Remastered		2022-08-12
 魔卡地下城		2023-05-31
 Nightmare: The Lunatic		2022-01-07
@@ -85,4 +84,4 @@ Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-08-31
 Tokyo Stories		2023-09-15
 Endless Samurai 無限武者		2023-09-15
-The Excrawlers		2023-02-28
+The Excrawlers		2023-02-27
