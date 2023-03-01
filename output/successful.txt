@@ -20,7 +20,7 @@ Neverlooted Dungeon		2023-08-31
 Hotel Renovator		2023-03-07
 大家一起观颜察色。		2020-03-30
 Portal Reloaded		2021-04-19
-Together in Battle		2023-05-31
+Together in Battle		2023-04-25
 Ravenbound		2023-03-30
 Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
@@ -54,6 +54,7 @@ Mask of the Rose		2023-04-30
 Grey Heritage: Faded Vision		2022-12-09
 ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-08-31
+Dungeons of Aether		2023-02-28
 Marvel’s Spider-Man Remastered		2022-08-12
 魔卡地下城		2023-05-31
 Nightmare: The Lunatic		2022-01-07
@@ -84,4 +85,3 @@ Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-08-31
 Tokyo Stories		2023-09-15
 Endless Samurai 無限武者		2023-09-15
-The Excrawlers		2023-02-27
