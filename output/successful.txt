@@ -40,7 +40,7 @@ Himig		2023-09-15
 OXENFREE II: Lost Signals		2023-09-15
 High On Life		2022-12-13
 Lil Gator Game		2022-12-14
-Terra Nil		2023-03-28
+伊始之地		2023-03-28
 白日梦的构想图		2022-02-09
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
@@ -54,7 +54,7 @@ Mask of the Rose		2023-04-30
 Grey Heritage: Faded Vision		2022-12-09
 ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-08-31
-Dungeons of Aether		2023-02-28
+尘封大陆		2023-05-16
 Marvel’s Spider-Man Remastered		2022-08-12
 魔卡地下城		2023-05-31
 Nightmare: The Lunatic		2022-01-07
@@ -85,3 +85,5 @@ Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-08-31
 Tokyo Stories		2023-09-15
 Endless Samurai 無限武者		2023-09-15
+CRYMACHINA		2023-09-15
+Sifu		2023-03-28
