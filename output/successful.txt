@@ -26,6 +26,7 @@ Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
 Stray		2022-07-19
 Risk of Rain Returns		2023-09-15
+Bomb Rush Cyberfunk		2023-08-31
 Twilight Wars		2023-11-09
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
@@ -74,6 +75,7 @@ Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
 正义四侠 Capes		2023-09-15
+打工火柴人		2023-09-15
 特修斯协议		2023-01-17
 Dead Cells: Return to Castlevania		2023-03-06
 雾雨飘零之森		2022-11-16
@@ -88,3 +90,4 @@ Endless Samurai 無限武者		2023-09-15
 CRYMACHINA		2023-09-15
 Sifu		2023-03-28
 Call of Duty®: Modern Warfare®		2023-03-08
+Ghost Trick: Phantom Detective		2023-06-29
