@@ -19,12 +19,13 @@ Hotel Renovator		2023-03-07
 尘封大陆		2023-05-16
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
+诸神灰烬：抉择		2023-04-27
 Ravenbound		2023-03-30
 Achilles: Legends Untold		2022-05-12
 《质量效应》传奇版		2021-05-14
-Trinity Fusion		2023-04-13
 Risk of Rain Returns		2023-09-15
 Bomb Rush Cyberfunk		2023-08-31
+Viewfinder		2023-09-15
 Twilight Wars		2023-11-09
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
@@ -38,6 +39,7 @@ Himig		2023-09-15
 OXENFREE II: Lost Signals		2023-09-15
 伊始之地		2023-03-28
 白日梦的构想图		2022-02-09
+斩妖Raksasi: 暗之试炼		2023-03-24
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 NEO: The World Ends with You		2022-10-19
@@ -55,6 +57,7 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Nightmare: The Lunatic		2022-01-07
 Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-28
+Trinity Fusion		2023-04-13
 Tendryll		2023-09-15
 学园构想家		2023-09-15
 Nemire		2023-05-31
@@ -66,10 +69,10 @@ Wanted: Dead		2023-02-14
 Call of Duty®: Modern Warfare®		2023-03-08
 MatchR: Now Hiring		2023-05-31
 Leapgate		2023-09-15
-The Farmer Was Replaced		2023-02-10
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
+The Farmer Was Replaced		2023-02-10
 正义四侠 Capes		2023-09-15
 打工火柴人		2023-09-15
 特修斯协议		2023-01-17
@@ -79,6 +82,7 @@ Dead Cells: Return to Castlevania		2023-03-06
 Runic Survivor		2022-09-30
 Sifu		2023-03-28
 Redemption Reapers		2023-02-22
+末光		2023-04-25
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
@@ -86,4 +90,3 @@ Tokyo Stories		2023-09-15
 CRYMACHINA		2023-09-15
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
-斩妖Raksasi: 暗之试炼		2023-03-24
