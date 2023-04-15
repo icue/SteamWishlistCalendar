@@ -15,7 +15,7 @@ Baldur's Gate 3		2020-10-06
 Gloomwood		2022-09-05
 Showgunners		2023-05-02
 Trepang2		2023-06-21
-Neverlooted Dungeon		2023-08-31
+Neverlooted Dungeon		2023-09-15
 叛逆神魂GODSOUL		2023-08-31
 Hotel Renovator		2023-03-07
 尘封大陆		2023-08-10
@@ -32,6 +32,7 @@ STRANGER OF PARADISE FINAL FANTASY ORIGIN		2023-04-06
 Viewfinder		2023-09-15
 Twilight Wars		2023-11-09
 Plasma		2023-03-30
+NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
 Nobody Saves the World		2022-01-18
 巴别号漫游指南		2023-09-15
