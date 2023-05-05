@@ -21,7 +21,6 @@ Hotel Renovator		2023-03-07
 尘封大陆		2023-08-10
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
-诸神灰烬：抉择		2023-04-27
 Ravenbound 渡鸦之境		2023-03-30
 Achilles: Legends Untold		2022-05-12
 Cassette Beasts 磁带妖怪		2023-04-26
@@ -97,3 +96,4 @@ STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass		2023-04-06
 CRYMACHINA		2023-09-15
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
+岛不能倒		2023-05-31
