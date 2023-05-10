@@ -21,6 +21,7 @@ Hotel Renovator		2023-03-07
 尘封大陆		2023-08-10
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
+田园记		2023-06-13
 Ravenbound 渡鸦之境		2023-03-30
 Achilles: Legends Untold		2022-05-12
 Cassette Beasts 磁带妖怪		2023-04-26
@@ -53,6 +54,7 @@ Forspoken		2023-01-24
 女神异闻录5皇家版		2022-10-21
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2023-08-14
+Super Sol Standard		2023-09-15
 Mask of the Rose		2023-06-08
 Grey Heritage: Faded Vision		2022-12-09
 ZERO Sievert		2022-11-15
@@ -87,7 +89,6 @@ Dead Cells: Return to Castlevania		2023-03-06
 Runic Survivor		2022-09-30
 Redemption Reapers		2023-02-22
 末光		2023-04-25
-Magical Drop VI		2023-04-25
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
@@ -97,6 +98,5 @@ CRYMACHINA		2023-09-15
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
 岛不能倒		2023-05-31
-Dungeons &amp; Jewels		2023-04-21
 星球大战 绝地：幸存者™		2023-04-28
 CHR$(143)		2021-08-04
