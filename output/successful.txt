@@ -42,7 +42,7 @@ SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-05-31
 命途		2022-05-21
 挣脱		2024-05-31
-Himig		2023-09-15
+Himig		2024-09-15
 影子诡局：被诅咒的海盗		2023-09-15
 OXENFREE II: Lost Signals		2023-07-12
 白日梦的构想图		2022-02-09
@@ -102,3 +102,4 @@ CRYMACHINA		2023-09-15
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
 离火长明		2023-06-07
+枪火重生 - 神谋巧匠		2023-05-31
