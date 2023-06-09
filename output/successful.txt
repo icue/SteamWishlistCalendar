@@ -22,7 +22,7 @@ Hotel Renovator		2023-03-07
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 田园记		2023-06-13
-Voidigo		2021-02-25
+Voidigo		2023-06-08
 Achilles: Legends Untold		2022-05-12
 Cassette Beasts 磁带妖怪		2023-04-26
 《质量效应》传奇版		2021-05-14
@@ -38,7 +38,7 @@ Nobody Saves the World		2022-01-18
 Soul Delivery Chapter 1+2		2023-05-15
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2023-05-31
+Crimson Tactics: The Rise of The White Banner		2023-07-31
 命途		2022-05-21
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
@@ -104,6 +104,7 @@ Slime 3K: Rise Against Despot		2023-09-15
 枪火重生 - 神谋巧匠		2023-06-01
 Rerun		2023-05-29
 Eternal Dread 3		2023-03-10
-世界树的迷宫Ⅲ 星海的访客 HD REMASTER		2023-06-01
+人中之龙7外传 无名之龙		2023-11-08
 拾光集		2023-08-31
 Bandit Brawler		2023-08-31
+Cross Tails		2023-07-19
