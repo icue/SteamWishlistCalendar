@@ -29,7 +29,7 @@ Cassette Beasts 磁带妖怪		2023-04-26
 Risk of Rain Returns		2023-09-15
 Bomb Rush Cyberfunk		2023-08-18
 STRANGER OF PARADISE FINAL FANTASY ORIGIN		2023-04-06
-Viewfinder		2023-09-15
+Viewfinder		2023-07-18
 Twilight Wars		2023-11-09
 Plasma		2023-03-30
 NeuroNet: Mendax Proxy		2023-05-04
@@ -106,5 +106,5 @@ Rerun		2023-05-29
 Eternal Dread 3		2023-03-10
 人中之龙7外传 无名之龙		2023-11-08
 拾光集		2023-08-31
-Bandit Brawler		2023-08-31
+Bandit Brawler		2023-06-21
 Cross Tails		2023-07-19
