@@ -4,7 +4,6 @@ ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Dark Envoy		2023-09-15
-Cities: Skylines II		2023-10-24
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Inkbound		2023-05-22
