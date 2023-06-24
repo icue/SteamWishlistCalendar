@@ -80,10 +80,9 @@ Repetendium		2022-11-04
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 Ravenswatch 鸦卫奇旅		2023-04-06
-正义四侠 Capes		2023-09-15
+神奇英侠 Capes		2023-09-15
 打工火柴人		2024-09-15
 En Garde!		2023-08-31
-特修斯协议		2023-01-17
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 雾雨飘零之森		2022-11-16
@@ -102,7 +101,6 @@ Rerun		2023-05-29
 Eternal Dread 3		2023-03-10
 人中之龙7外传 无名之龙		2023-11-08
 拾光集		2023-08-31
-Bandit Brawler		2023-06-21
 Avowed		2024-09-15
 《赛博朋克 2077：往日之影》		2023-09-25
 湮灭线		2023-06-14
