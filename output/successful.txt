@@ -22,17 +22,14 @@ Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 田园记		2023-06-13
 Achilles: Legends Untold		2022-05-12
-Cassette Beasts 磁带妖怪		2023-04-26
 《质量效应》传奇版		2021-05-14
 雨中冒险: 回归		2023-09-15
 Bomb Rush Cyberfunk		2023-08-18
-STRANGER OF PARADISE FINAL FANTASY ORIGIN		2023-04-06
 Viewfinder		2023-07-18
 Twilight Wars		2023-11-09
 Plasma		2023-03-30
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
-Nobody Saves the World		2022-01-18
 书行者		2023-06-22
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
@@ -62,7 +59,6 @@ The Devil Within: Satgat		2023-11-30
 Marvel’s Spider-Man Remastered		2022-08-12
 魔卡地下城		2023-04-27
 Nightmare: The Lunatic		2022-01-07
-Titan Station		2022-11-11
 The Last of Us™ Part I		2023-03-28
 Trinity Fusion		2023-04-13
 Tendryll		2023-11-30
@@ -71,8 +67,6 @@ VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
 BANCHOU TACTICS		2023-08-10
 Hollow Cocoon		2023-11-30
-Call of Duty®: Modern Warfare®		2023-03-08
-MatchR: Now Hiring		2023-05-17
 Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
@@ -83,14 +77,12 @@ Ravenswatch 鸦卫奇旅		2023-04-06
 En Garde!		2023-08-31
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
-雾雨飘零之森		2022-11-16
 十五		2023-05-26
 地牢地牢！		2023-08-31
 伪信号		2023-05-25
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
-STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass		2023-04-06
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
@@ -108,3 +100,4 @@ Rogue Voltage		2023-09-15
 Fortune's Run		2023-09-01
 Lies of P		2023-09-19
 无敌号		2023-09-15
+NARUTO X BORUTO 火影忍者 终极风暴羁绊		2023-09-15
