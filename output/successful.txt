@@ -16,7 +16,6 @@ Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2023-09-15
 叛逆神魂GODSOUL		2023-11-30
-Hotel Renovator		2023-03-07
 尘封大陆		2023-08-10
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
@@ -33,7 +32,7 @@ Instruments of Destruction		2022-03-02
 书行者		2023-06-22
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2023-07-31
+Crimson Tactics: The Rise of The White Banner		2023-07-25
 命途		2022-05-21
 尼瓦利斯（Nivalis）		2024-09-15
 挣脱：十三号站点		2024-05-31
@@ -67,7 +66,6 @@ VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
 BANCHOU TACTICS		2023-08-10
 Hollow Cocoon		2023-11-30
-Repetendium		2022-11-04
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
@@ -79,7 +77,6 @@ Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 十五		2023-05-26
 地牢地牢！		2023-08-31
-伪信号		2023-05-25
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
@@ -101,3 +98,4 @@ Fortune's Run		2023-09-01
 Lies of P		2023-09-19
 无敌号		2023-09-15
 NARUTO X BORUTO 火影忍者 终极风暴羁绊		2023-09-15
+The Complex: Expedition		2023-07-17
