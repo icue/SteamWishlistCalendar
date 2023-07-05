@@ -1,10 +1,12 @@
 Project Haven		2023-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
 Cogmind		2017-10-17
+无敌号		2023-09-15
 Fortune-499		2018-05-11
 Dark Envoy		2023-09-15
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
+NARUTO X BORUTO 火影忍者 终极风暴羁绊		2023-09-15
 Inkbound		2023-05-22
 Wayward Strand		2022-09-15
 Jagged Alliance 3		2023-07-14
@@ -17,6 +19,7 @@ Gloomwood		2022-09-05
 Neverlooted Dungeon		2023-09-15
 叛逆神魂GODSOUL		2023-11-30
 尘封大陆		2023-08-10
+This Bed We Made		2023-09-15
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 田园记		2023-06-13
@@ -30,24 +33,30 @@ Plasma		2023-03-30
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
 书行者		2023-06-22
-巴别号漫游指南		2023-08-03
+巴别号漫游指南		2023-08-02
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-07-25
 命途		2022-05-21
 尼瓦利斯（Nivalis）		2024-09-15
+Rogue Voltage		2023-09-15
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
 影子诡局：被诅咒的海盗		2023-08-17
+Six Days in Fallujah		2023-06-22
 OXENFREE II: Lost Signals		2023-07-12
+Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
 斩妖Raksasi: 暗之试炼		2023-03-24
 Suit for Hire		2021-08-31
+Lies of P		2023-09-19
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 NEO: The World Ends with You		2022-10-19
+En Garde!		2023-08-31
 Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
+Fortune's Run		2023-09-01
 STARFIELD		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
 Super Sol Standard		2023-09-15
@@ -62,40 +71,31 @@ The Last of Us™ Part I		2023-03-28
 Trinity Fusion		2023-04-13
 Tendryll		2023-11-30
 学园构想家		2023-07-26
+湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
 BANCHOU TACTICS		2023-08-10
-Hollow Cocoon		2023-11-30
 审判之眼：死神的遗言 Remastered		2022-09-14
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 Ravenswatch 鸦卫奇旅		2023-04-06
 神奇英侠 Capes		2023-09-15
 打工火柴人		2024-09-15
-En Garde!		2023-08-31
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 十五		2023-05-26
 地牢地牢！		2023-08-31
+《赛博朋克 2077：往日之影》		2023-09-25
+Rerun		2023-05-29
+The Complex: Expedition		2023-07-17
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的拼图 -阿拉伯夜喵篇-		2023-09-15
 棋弈无限：中国象棋		2023-08-31
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2023-09-15
 Slime 3K: Rise Against Despot		2023-09-15
-枪火重生 - 神谋巧匠		2023-06-01
-Rerun		2023-05-29
-Eternal Dread 3		2023-03-10
 人中之龙7外传 无名之龙		2023-11-08
 拾光集		2023-08-31
+Hollow Cocoon		2023-11-30
+枪火重生 - 神谋巧匠		2023-06-01
 Avowed		2024-09-15
-《赛博朋克 2077：往日之影》		2023-09-25
-湮灭线		2023-06-14
-Six Days in Fallujah		2023-06-22
-This Bed We Made		2023-09-15
-Rogue Voltage		2023-09-15
-Fortune's Run		2023-09-01
-Lies of P		2023-09-19
-无敌号		2023-09-15
-NARUTO X BORUTO 火影忍者 终极风暴羁绊		2023-09-15
-The Complex: Expedition		2023-07-17
