@@ -1,6 +1,5 @@
 Project Haven		2023-09-15
 ATOM RPG: Post-apocalyptic indie game		2018-12-19
-Arcadian Atlas		2023-07-27
 Cogmind		2017-10-17
 无敌号		2023-09-15
 Fortune-499		2018-05-11
@@ -68,7 +67,6 @@ Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 Trinity Fusion		2023-04-13
 Tendryll		2023-11-30
-学园构想家		2023-07-27
 湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
