@@ -49,6 +49,7 @@ Lies of P		2023-09-19
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
 En Garde!		2023-08-16
+Deadlink		2023-07-27
 Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
@@ -56,7 +57,6 @@ Fortune's Run		2023-09-27
 STARFIELD		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
 Super Sol Standard		2023-09-15
-Mask of the Rose		2023-06-08
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-11-30
@@ -83,7 +83,7 @@ Indoor Kickball		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
 The Complex: Expedition		2023-07-17
 Chronicon - The Mechanist		2023-01-25
-佩露夏与魔法的迷宫塔 -阿拉伯夜喵篇-		2023-09-15
+佩露夏与魔法的迷宫塔 -阿拉伯夜喵篇-		2023-09-30
 棋弈无限：中国象棋		2023-11-30
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2023-09-15
@@ -93,4 +93,3 @@ Slime 3K: Rise Against Despot		2023-09-15
 Hollow Cocoon		2023-11-30
 枪火重生 - 神谋巧匠		2023-06-01
 Avowed		2024-09-15
-Deadlink		2023-07-27
