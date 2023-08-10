@@ -15,7 +15,7 @@ Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2023-09-15
 叛逆神魂GODSOUL		2023-11-30
-尘封大陆		2023-08-10
+尘封大陆		2023-08-09
 This Bed We Made		2023-09-15
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
@@ -55,7 +55,7 @@ Forspoken		2023-01-24
 Fortune's Run		2023-09-27
 STARFIELD		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
-Super Sol Standard		2023-09-15
+Superstar Strategy		2023-09-15
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 The Devil Within: Satgat		2023-11-30
