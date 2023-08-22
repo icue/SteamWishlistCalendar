@@ -1,6 +1,6 @@
 Project Haven		2023-09-15
 Cogmind		2017-10-17
-无敌号		2023-09-15
+无敌号		2023-11-06
 Fortune-499		2018-05-11
 Dark Envoy		2023-09-15
 Shadows of Doubt - 凶影疑云		2023-04-24
@@ -88,3 +88,5 @@ Slime 3K: Rise Against Despot		2023-09-15
 Hollow Cocoon		2023-11-30
 枪火重生 - 神谋巧匠		2023-06-01
 Avowed		2024-09-15
+Aliens: Dark Descent		2023-06-19
+威赫战线 MENACE		2024-09-15
