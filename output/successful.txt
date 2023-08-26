@@ -2,7 +2,7 @@ Project Haven		2023-09-15
 Cogmind		2017-10-17
 无敌号		2023-11-06
 Fortune-499		2018-05-11
-Dark Envoy		2023-09-15
+Dark Envoy		2023-10-24
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 NARUTO X BORUTO 火影忍者 终极风暴羁绊		2023-09-15
@@ -45,7 +45,7 @@ Eternal Dread 3		2023-03-10
 Suit for Hire		2021-08-31
 Lies of P		2023-09-19
 Gatedelvers		2023-02-20
-S.T.A.L.K.E.R. 2: Heart of Chornobyl		2023-12-31
+S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-02-29
 Deadlink		2023-07-27
 Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
