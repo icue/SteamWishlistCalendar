@@ -11,6 +11,7 @@ Wayward Strand		2022-09-15
 Baldur's Gate 3		2023-08-03
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2023-09-15
+Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2023-09-15
@@ -37,7 +38,6 @@ Crimson Tactics: The Rise of The White Banner		2023-07-25
 Rogue Voltage		2023-09-15
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
-影子诡局：被诅咒的海盗		2023-08-17
 Six Days in Fallujah		2023-06-22
 Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
@@ -76,8 +76,10 @@ Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 十五		2023-05-26
 地牢地牢！		2023-09-22
+Devil Peach Soda		2023-09-08
 《赛博朋克 2077：往日之影》		2023-09-25
 Streets of Rogue 2		2024-09-15
+Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
 佩露夏与魔法的迷宫塔 -阿拉伯夜喵篇-		2023-09-30
 棋弈无限：中国象棋		2023-11-30
@@ -88,8 +90,5 @@ Slime 3K: Rise Against Despot		2023-09-15
 拾光集		2023-08-28
 Hollow Cocoon		2023-11-30
 枪火重生 - 神谋巧匠		2023-06-01
-Avowed		2024-09-15
-Aliens: Dark Descent		2023-06-19
 威赫战线 MENACE		2024-09-15
-Devil Peach Soda		2023-09-08
-Tiny Glade		2024-09-15
+Avowed		2024-09-15
