@@ -15,7 +15,7 @@ Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2023-09-15
-叛逆神魂GODSOUL		2023-11-30
+叛逆神魂GODSOUL		2024-02-29
 This Bed We Made		2023-10-04
 Portal Reloaded		2021-04-19
 田园记		2023-06-13
@@ -30,7 +30,7 @@ NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
-Crimson Tactics: The Rise of The White Banner		2023-07-25
+Crimson Tactics: The Rise of The White Banner		2023-09-05
 命途		2022-05-21
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-02-29
@@ -49,7 +49,7 @@ Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
 Fortune's Run		2023-09-27
-Starfield		2023-09-05
+Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
 Superstar Strategy		2023-09-15
 星球大战 绝地：幸存者™		2023-04-28
@@ -90,3 +90,4 @@ Hollow Cocoon		2023-11-30
 Avowed		2024-09-15
 Nour: Play with Your Food		2023-09-12
 SUPER 56		2023-09-29
+New Arc Line		2024-09-15
