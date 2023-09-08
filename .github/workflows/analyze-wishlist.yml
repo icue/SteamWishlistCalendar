@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: python swc.py -i=76561198091123480 -d=True
+        run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
           
       - name: commit files
         run: |
