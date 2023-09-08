@@ -6,6 +6,7 @@ import re
 import requests
 import time
 from datetime import datetime
+from datetime import timedelta
 from datetime import timezone
 from ics import Calendar, Event
 from matplotlib import pyplot
@@ -27,6 +28,27 @@ _TO_REPLACE = (
     ('第一季度', 'feb'), ('第二季度', 'may'), ('第三季度', 'aug'), ('第四季度', 'nov'),
     ('年', '.'), ('月', '.'), ('日', '.'), ('号', '.')
 )
+
+
+def last_day_of_next_month(dt):
+    """
+    Returns the datetime of the last day of the next month.
+
+    Args:
+    dt: A datetime.datetime object.
+
+    Returns:
+    A datetime.datetime object.
+    """
+
+    year = dt.year
+    next_next_month = dt.month + 2
+    if next_next_month > 12:
+        next_next_month -= 12
+        year = dt.year + 1
+
+    # Subtracting 1 day from the first day of the next next month, to get the last day of next month.
+    return datetime(year, next_next_month, 1) - timedelta(days=1)
 
 
 parser = argparse.ArgumentParser()
@@ -63,8 +85,10 @@ for index in range(0, args.max_page):
         count += 1
         game_name = value['name']
         description_suffix = ''
+
         if value[_RELEASE_DATE]:
             release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]), tz=timezone.utc)
+
         if _PRERELEASE in value:
             prerelease_count += 1
             # Games that are not release yet will have a 'free-form' release string.
@@ -72,9 +96,11 @@ for index in range(0, args.max_page):
             if any(substring in release_string for substring in _BLOCK_LIST):
                 # Release date not announced.
                 continue
+
             # Heuristically maps vague words such as 'Q1', 'summer' to months.
             for pair in _TO_REPLACE:
                 release_string = release_string.replace(pair[0], pair[1])
+
             release_string = release_string.lstrip().rstrip()
             year_only_match = re.match(_YEAR_ONLY_REGEX, release_string)
             if year_only_match:
@@ -91,6 +117,10 @@ for index in range(0, args.max_page):
                                                    'PREFER_DATES_FROM': 'future'})
             if translated_date:
                 release_date = translated_date
+                while release_date.date() < now.date():
+                    # A game is pre-release but the estimated release date has already passed. In this case, pick the earliest last-of-a-month date in the future.
+                    # Note the difference between this case and the case where only a year is provided, which has been addressed above.
+                    release_date = last_day_of_next_month(release_date)
                 description_suffix = f'\nEstimation based on "{value[_RELEASE_STRING]}"'
             else:
                 failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
@@ -98,15 +128,18 @@ for index in range(0, args.max_page):
 
         if not release_date:
             continue
+
         successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
         if value['type'] == 'DLC' and not args.include_dlc:
             continue
+
         event = Event(uid=key, name=game_name,
                       description='https://store.steampowered.com/app/' + key + description_suffix,
                       begin=release_date, last_modified=now,
                       categories=['game_release'])
         event.make_all_day()
         cal.events.add(event)
+
     time.sleep(3)
 
 
