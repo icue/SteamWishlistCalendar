@@ -36,6 +36,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 Rogue Voltage		2024-02-29
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
+Galactic Glitch: Infinity's Edge		2023-12-31
 Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
 斩妖Raksasi: 暗之试炼		2023-03-24
@@ -49,6 +50,7 @@ Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
 Fortune's Run		2023-09-27
+鬼灵双盗		2023-09-19
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
 Superstar Strategy		2023-12-31
@@ -76,6 +78,7 @@ Indoor Kickball		2023-05-26
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
+佩露夏与魔法的迷宫塔 -阿拉伯夜喵篇-		2023-09-19
 棋弈无限：中国象棋		2023-11-30
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2023-12-31
@@ -88,4 +91,3 @@ Hollow Cocoon		2023-11-30
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-Galactic Glitch: Infinity's Edge		2023-12-31
