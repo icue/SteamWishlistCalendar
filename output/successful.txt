@@ -50,7 +50,6 @@ Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 女神异闻录5皇家版		2022-10-21
 Fortune's Run		2023-09-27
-鬼灵双盗		2023-09-19
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
 Superstar Strategy		2023-12-31
@@ -78,7 +77,6 @@ Indoor Kickball		2023-05-26
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
-佩露夏与魔法的迷宫塔 -阿拉伯夜喵篇-		2023-09-19
 棋弈无限：中国象棋		2023-11-30
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2023-12-31
