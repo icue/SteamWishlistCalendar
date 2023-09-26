@@ -72,7 +72,6 @@ Ravenswatch 鸦卫奇旅		2023-04-06
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 十五		2023-05-26
-地牢地牢！		2023-09-22
 《赛博朋克 2077：往日之影》		2023-09-25
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
@@ -91,3 +90,4 @@ Avowed		2024-09-15
 New Arc Line		2024-09-15
 破晓传奇　黎明新程 扩充套组		2023-11-08
 Astrea: Six-Sided Oracles		2023-09-21
+Broken Roads		2023-11-14
