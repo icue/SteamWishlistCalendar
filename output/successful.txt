@@ -12,11 +12,11 @@ Baldur's Gate 3		2023-08-03
 逆向坍塌：面包房行动		2023-12-31
 Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
-The Bloodline		2023-10-05
 海参2		2023-06-21
-Neverlooted Dungeon		2023-12-31
+Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-02-29
 This Bed We Made		2023-11-01
+American Arcadia		2023-11-15
 Portal Reloaded		2021-04-19
 田园记		2023-06-13
 Achilles: Legends Untold		2022-05-12
@@ -36,7 +36,6 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 Rogue Voltage		2024-02-29
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
-Galactic Glitch: Infinity's Edge		2023-12-31
 Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
 斩妖Raksasi: 暗之试炼		2023-03-24
@@ -77,7 +76,7 @@ Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-11-30
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2024-09-15
-Slime 3K: Rise Against Despot		2023-12-31
+Slime 3K: Rise Against Despot		2023-11-02
 人中之龙7外传 无名之龙		2023-11-08
 拾光集		2023-08-28
 Hollow Cocoon		2023-12-31
@@ -90,3 +89,9 @@ New Arc Line		2024-09-15
 Astrea: Six-Sided Oracles		2023-09-21
 Broken Roads		2023-11-14
 塑战核心		2023-10-03
+The Lamplighters League		2023-10-03
+Stop Dead		2023-10-05
+致命解药		2024-09-15
+Dreadhunter		2023-10-18
+七度荒域		2023-11-30
+Grand Arms: March of the Red Dragon		2023-11-30
