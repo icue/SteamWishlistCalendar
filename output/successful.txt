@@ -1,4 +1,5 @@
 Project Haven		2023-12-31
+Alvora Tactics		2017-06-01
 Cogmind		2017-10-17
 无敌号		2023-11-06
 Fortune-499		2018-05-11
@@ -13,8 +14,10 @@ Baldur's Gate 3		2023-08-03
 Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
+The Lamplighters League		2023-10-03
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-02-29
+A Highland Song		2023-12-31
 This Bed We Made		2023-11-01
 American Arcadia		2023-11-15
 Portal Reloaded		2021-04-19
@@ -24,8 +27,9 @@ Achilles: Legends Untold		2022-05-12
 雨中冒险: 回归		2023-12-31
 Bomb Rush Cyberfunk		2023-08-18
 Viewfinder		2023-07-18
-Twilight Wars		2023-11-09
+Broken Roads		2023-11-14
 Plasma		2023-09-13
+塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
 巴别号漫游指南		2023-08-03
@@ -35,14 +39,16 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-02-29
 挣脱：十三号站点		2024-05-31
+Spells &amp; Secrets		2023-11-09
 Himig		2024-09-15
+Galactic Glitch: Infinity's Edge		2024-02-29
+Dreadhunter		2023-10-18
 Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
 斩妖Raksasi: 暗之试炼		2023-03-24
-Gatekeeper: Infinity		2023-11-07
-人中之龙８		2024-01-25
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-02-29
+Sovereign Syndicate		2024-01-15
 Deadlink		2023-07-27
 Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
@@ -50,7 +56,9 @@ Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2023-11-29
-Superstar Strategy		2023-12-31
+Cascade Tactics		2022-02-17
+Astrea: Six-Sided Oracles		2023-09-21
+Superstar Strategy		2024-02-29
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 Marvel’s Spider-Man Remastered		2022-08-12
@@ -61,37 +69,35 @@ Tendryll		2024-02-29
 湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
+Grand Arms: March of the Red Dragon		2023-11-30
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 Ravenswatch 鸦卫奇旅		2023-04-06
+人中之龙８		2024-01-25
 神奇英侠 Capes		2024-09-15
 打工火柴人		2024-09-15
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 十五		2023-05-26
+七度荒域：双生树		2023-11-16
 《赛博朋克 2077：往日之影》		2023-09-25
+Stop Dead		2023-10-05
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
 棋弈无限：中国象棋		2023-11-30
+致命解药		2024-09-15
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2024-09-15
-Slime 3K: Rise Against Despot		2023-11-02
+JOY OF PROGRAMMING - Software Engineering Simulator		2024-02-29
 人中之龙7外传 无名之龙		2023-11-08
+Kingsvein		2023-12-31
+Gatekeeper: Infinity		2023-11-07
+破晓传奇　黎明新程 扩充套组		2023-11-08
 拾光集		2023-08-28
-Hollow Cocoon		2023-12-31
+Hollow Cocoon		2023-12-06
 枪火重生 - 神谋巧匠		2023-06-01
 威赫战线 MENACE		2024-09-15
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-破晓传奇　黎明新程 扩充套组		2023-11-08
-Astrea: Six-Sided Oracles		2023-09-21
-Broken Roads		2023-11-14
-塑战核心		2023-10-03
-The Lamplighters League		2023-10-03
-Stop Dead		2023-10-05
-致命解药		2024-09-15
-Dreadhunter		2023-10-18
-七度荒域		2023-11-30
-Grand Arms: March of the Red Dragon		2023-11-30
