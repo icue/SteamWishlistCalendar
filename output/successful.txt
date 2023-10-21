@@ -14,7 +14,6 @@ Baldur's Gate 3		2023-08-03
 Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
-The Lamplighters League		2023-10-03
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-02-29
 A Highland Song		2023-12-31
@@ -27,7 +26,7 @@ Achilles: Legends Untold		2022-05-12
 雨中冒险: 回归		2023-12-31
 Bomb Rush Cyberfunk		2023-08-18
 Viewfinder		2023-07-18
-Broken Roads		2023-11-14
+Broken Roads		2023-11-13
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -62,6 +61,7 @@ Superstar Strategy		2024-02-29
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 Marvel’s Spider-Man Remastered		2022-08-12
+棋境漫游		2023-11-30
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 Trinity Fusion		2023-04-13
@@ -85,24 +85,23 @@ Stop Dead		2023-10-05
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
+JOY OF PROGRAMMING - Software Engineering Simulator		2024-02-29
+Interregnum Chronicles: False Prophet		2024-02-29
 棋弈无限：中国象棋		2023-11-30
 致命解药		2024-09-15
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2024-09-15
-完蛋！我被美女包围了！		2023-10-17
-JOY OF PROGRAMMING - Software Engineering Simulator		2024-02-29
-人中之龙7外传 无名之龙		2023-11-08
 Kingsvein		2023-12-31
+人中之龙7外传 无名之龙		2023-11-08
 Gatekeeper: Infinity		2023-11-07
 破晓传奇　黎明新程 扩充套组		2023-11-08
+subpar pool		2023-10-12
 拾光集		2023-08-28
+Anime Tokyo		2023-11-30
 Hollow Cocoon		2023-12-06
 枪火重生 - 神谋巧匠		2023-06-01
 威赫战线 MENACE		2024-09-15
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-Anime Tokyo		2023-11-30
-subpar pool		2023-10-12
-Interregnum Chronicles: False Prophet		2024-02-29
-棋境漫游		2023-11-30
+深渊之影		2024-05-31
