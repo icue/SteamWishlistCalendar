@@ -54,7 +54,7 @@ Forspoken		2023-01-24
 女神异闻录5皇家版		2022-10-21
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
-Tokyo Stranger 东京诡事		2023-11-29
+Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-02-29
@@ -87,9 +87,8 @@ Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-02-29
 Interregnum Chronicles: False Prophet		2024-02-29
-REMORE: INFESTED KINGDOM		2023-10-30
+REMORE: INFESTED KINGDOM		2023-10-31
 棋弈无限：中国象棋		2023-11-30
-致命解药		2024-09-15
 CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2024-09-15
 Kingsvein		2023-12-31
@@ -109,3 +108,4 @@ New Arc Line		2024-09-15
 Space Wreck		2023-10-10
 Cyber Knights: Flashpoint		2023-10-17
 BEAST		2023-10-25
+BABBDI		2022-12-22
