@@ -24,9 +24,9 @@ This Bed We Made		2023-11-01
 American Arcadia		2023-11-15
 Portal Reloaded		2021-04-19
 田园记		2023-06-13
-Achilles: Legends Untold		2022-05-12
+Achilles: Legends Untold		2023-11-02
 《质量效应》传奇版		2021-05-14
-雨中冒险: 回归		2023-12-31
+雨中冒险: 回归		2023-11-08
 Bomb Rush Cyberfunk		2023-08-18
 Viewfinder		2023-07-18
 Broken Roads		2023-11-13
@@ -72,10 +72,10 @@ Tendryll		2024-02-29
 湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
+潜入		2023-11-08
 Grand Arms: March of the Red Dragon		2023-11-30
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
-Ravenswatch 鸦卫奇旅		2023-04-06
 人中之龙８		2024-01-25
 神奇英侠 Capes		2024-09-15
 打工火柴人		2024-09-15
@@ -109,3 +109,4 @@ Hollow Cocoon		2023-12-06
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
+魔法工艺 Magicraft		2023-11-02
