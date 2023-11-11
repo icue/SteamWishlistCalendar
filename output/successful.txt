@@ -18,7 +18,7 @@ Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
-叛逆神魂GODSOUL		2024-02-29
+叛逆神魂GODSOUL		2024-05-31
 A Highland Song		2023-12-31
 This Bed We Made		2023-11-01
 American Arcadia		2023-11-15
@@ -26,7 +26,6 @@ Portal Reloaded		2021-04-19
 田园记		2023-06-13
 Achilles: Legends Untold		2023-11-02
 《质量效应》传奇版		2021-05-14
-雨中冒险: 回归		2023-11-08
 Bomb Rush Cyberfunk		2023-08-18
 Viewfinder		2023-07-18
 Broken Roads		2023-11-13
@@ -77,11 +76,13 @@ Grand Arms: March of the Red Dragon		2023-11-30
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 人中之龙８		2024-01-25
+The First Descendant		2024-09-15
 神奇英侠 Capes		2024-09-15
 打工火柴人		2024-09-15
 深渊之影		2024-05-31
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
+魔法工艺 Magicraft		2023-11-02
 十五		2023-05-26
 七度荒域：双生树		2023-11-16
 《赛博朋克 2077：往日之影》		2023-09-25
@@ -94,12 +95,10 @@ Interregnum Chronicles: False Prophet		2024-02-29
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 棋弈无限：中国象棋		2023-11-30
-CRYMACHINA		2023-10-24
 Endless Samurai 無限武者		2024-09-15
 Kingsvein		2023-12-31
 人中之龙7外传 无名之龙		2023-11-08
-Gatekeeper: Infinity		2023-11-09
-破晓传奇　黎明新程 扩充套组		2023-11-08
+Gatekeeper: Infinity		2023-11-10
 subpar pool		2023-10-12
 拾光集		2023-08-28
 Anime Tokyo		2023-11-30
@@ -109,4 +108,5 @@ Hollow Cocoon		2023-12-06
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-魔法工艺 Magicraft		2023-11-02
+Gerda: A Flame in Winter		2022-09-01
+空境奇旅		2023-11-07
