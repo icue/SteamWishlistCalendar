@@ -19,7 +19,7 @@ Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-05-31
-A Highland Song		2023-12-31
+A Highland Song		2023-12-05
 This Bed We Made		2023-11-01
 American Arcadia		2023-11-15
 Portal Reloaded		2021-04-19
@@ -28,7 +28,6 @@ Achilles: Legends Untold		2023-11-02
 《质量效应》传奇版		2021-05-14
 Bomb Rush Cyberfunk		2023-08-18
 Viewfinder		2023-07-18
-Broken Roads		2023-11-13
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -47,6 +46,7 @@ Dreadhunter		2023-10-18
 Eternal Dread 3		2023-03-10
 白日梦的构想图		2022-02-09
 斩妖Raksasi: 暗之试炼		2023-03-24
+纵横命途		2023-11-29
 Gatedelvers		2023-02-20
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-02-29
 Sovereign Syndicate		2024-01-15
@@ -60,10 +60,12 @@ Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-02-29
+Gerda: A Flame in Winter		2022-09-01
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
+空境奇旅		2023-11-07
 Marvel’s Spider-Man Remastered		2022-08-12
-棋境漫游		2023-11-30
+棋境漫游		2023-12-05
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 Trinity Fusion		2023-04-13
@@ -98,7 +100,6 @@ BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 Kingsvein		2023-12-31
 人中之龙7外传 无名之龙		2023-11-08
-Gatekeeper: Infinity		2023-11-10
 subpar pool		2023-10-12
 拾光集		2023-08-28
 Anime Tokyo		2023-11-30
@@ -108,5 +109,3 @@ Hollow Cocoon		2023-12-06
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-Gerda: A Flame in Winter		2022-09-01
-空境奇旅		2023-11-07
