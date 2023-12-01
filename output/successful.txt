@@ -8,6 +8,7 @@ Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Space Wreck		2023-10-10
+Unforetold: Witchstone		2024-01-25
 Baldur's Gate 3		2023-08-03
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2023-12-31
@@ -30,11 +31,11 @@ Instruments of Destruction		2022-03-02
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-09-05
-命途		2022-05-21
+Sephiria		2024-09-15
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-02-29
+Tchia		2024-03-31
 挣脱：十三号站点		2024-05-31
-Spells &amp; Secrets		2023-11-09
 Himig		2024-09-15
 Galactic Glitch: Infinity's Edge		2024-02-29
 Dreadhunter		2023-10-18
@@ -54,7 +55,7 @@ Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-02-29
-Gerda: A Flame in Winter		2022-09-01
+Netherguild		2023-03-27
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 空境奇旅		2023-11-07
@@ -62,13 +63,15 @@ Marvel’s Spider-Man Remastered		2022-08-12
 棋境漫游		2023-12-05
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
+REAVER		2023-11-30
 Trinity Fusion		2023-04-13
 Tendryll		2024-02-29
 湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
 潜入		2023-11-08
-Grand Arms: March of the Red Dragon		2023-11-30
+Dragon's Dogma 2		2024-03-21
+Grand Arms: March of the Red Dragon		2023-12-31
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 人中之龙８		2024-01-25
@@ -94,7 +97,7 @@ Kingsvein		2024-01-16
 人中之龙7外传 无名之龙		2023-11-08
 subpar pool		2023-10-12
 拾光集		2023-08-28
-Anime Tokyo		2023-11-30
+Anime Tokyo		2023-12-31
 Hollow Cocoon		2023-12-06
 威赫战线 MENACE		2024-09-15
 Dark Deity 2		2024-09-15
@@ -102,3 +105,4 @@ Avowed		2024-09-15
 New Arc Line		2024-09-15
 吃香		2023-11-17
 星之侵略者		2024-09-15
+Wild Bastards		2024-09-15
