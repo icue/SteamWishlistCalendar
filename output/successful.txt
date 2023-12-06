@@ -11,8 +11,8 @@ Space Wreck		2023-10-10
 Unforetold: Witchstone		2024-01-25
 Baldur's Gate 3		2023-08-03
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
+吃香		2023-11-17
 逆向坍塌：面包房行动		2023-12-31
-凶兽		2023-10-25
 Aliens: Dark Descent		2023-06-19
 Gloomwood		2022-09-05
 海参2		2023-06-21
@@ -28,10 +28,10 @@ Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2022-03-02
+Netherguild		2023-03-27
 巴别号漫游指南		2023-08-03
 SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-09-05
-Sephiria		2024-09-15
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-02-29
 Tchia		2024-03-31
@@ -45,6 +45,7 @@ Eternal Dread 3		2023-03-10
 纵横命途		2023-11-29
 Gatedelvers		2023-02-20
 潜行者2：切尔诺贝利之心		2024-02-29
+Wild Bastards		2024-09-15
 Sovereign Syndicate		2024-01-15
 Deadlink		2023-07-27
 Forspoken		2023-01-24
@@ -55,7 +56,6 @@ Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-02-29
-Netherguild		2023-03-27
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 空境奇旅		2023-11-07
@@ -78,6 +78,7 @@ The Farmer Was Replaced		2023-02-10
 The First Descendant		2024-09-15
 神奇英侠 Capes		2024-09-15
 打工火柴人		2024-09-15
+星之侵略者		2024-09-15
 深渊之影		2024-05-31
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
@@ -100,9 +101,10 @@ subpar pool		2023-10-12
 Anime Tokyo		2023-12-31
 Hollow Cocoon		2023-12-06
 威赫战线 MENACE		2024-09-15
+Sephiria		2024-09-15
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-吃香		2023-11-17
-星之侵略者		2024-09-15
-Wild Bastards		2024-09-15
+Svarog's Dream		2023-12-04
+化身大唐		2024-09-15
+Dream Tactics		2024-02-29
