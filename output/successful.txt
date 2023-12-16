@@ -63,7 +63,7 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
-Trinity Fusion		2023-04-13
+Trinity Fusion		2023-12-15
 Tendryll		2024-02-29
 湮灭线		2023-06-14
 VALKYRIE ELYSIUM		2022-11-11
@@ -88,7 +88,7 @@ Stop Dead		2023-10-05
 Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
-JOY OF PROGRAMMING - Software Engineering Simulator		2024-02-29
+JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum Chronicles: False Prophet		2024-02-29
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
@@ -105,4 +105,8 @@ Avowed		2024-09-15
 New Arc Line		2024-09-15
 Svarog's Dream		2023-12-04
 化身大唐		2024-09-15
-Dream Tactics		2024-02-29
+Dream Tactics		2024-05-31
+Stargate: Timekeepers		2024-01-23
+Ants Took My Eyeball		2024-09-15
+Warman		2023-04-03
+Soulslinger: Envoy of Death		2023-12-14
