@@ -20,7 +20,6 @@ Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-05-31
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
-田园记		2023-06-13
 Achilles: Legends Untold		2023-11-02
 《质量效应》传奇版		2021-05-14
 Viewfinder		2023-07-18
@@ -34,7 +33,7 @@ SYNTHETIK 2		2021-11-11
 Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-02-29
-Tchia		2024-03-31
+奇娅 Tchia		2024-03-31
 挣脱：十三号站点		2024-05-31
 Himig		2024-09-15
 Galactic Glitch: Infinity's Edge		2024-02-29
@@ -92,6 +91,7 @@ JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum Chronicles: False Prophet		2024-02-29
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
+棋弈无限：中国象棋		2024-01-25
 Endless Samurai 無限武者		2024-09-15
 Kingsvein		2024-01-16
 人中之龙7外传 无名之龙		2023-11-08
@@ -110,3 +110,5 @@ Stargate: Timekeepers		2024-01-23
 Ants Took My Eyeball		2024-09-15
 Warman		2023-04-03
 Soulslinger: Envoy of Death		2023-12-14
+Demonschool		2024-05-31
+Gem Wizard		2023-11-05
