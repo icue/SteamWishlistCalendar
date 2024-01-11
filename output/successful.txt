@@ -27,7 +27,6 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 Galactic Glitch: Infinity's Edge		2024-02-29
 Dreadhunter		2023-10-18
 白日梦的构想图		2022-02-09
-Rack and Slay		2024-02-29
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-02-29
 Wild Bastards		2024-09-15
@@ -71,7 +70,7 @@ Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
-Interregnum Chronicles: False Prophet		2024-02-29
+Interregnum Chronicles: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 棋弈无限：中国象棋		2024-01-25
@@ -94,7 +93,10 @@ Warman		2023-04-03
 Soulslinger: Envoy of Death		2023-12-14
 Demonschool		2024-05-31
 Gem Wizard		2023-11-05
+NEXT FLOOR		2024-01-18
 DemonStar - Original Missions		2023-12-12
 Kick Bastards		2024-01-05
 百剑讨妖传绮谭		2024-09-15
 Wantless : Solace at World’s End		2023-11-08
+Astral Throne		2024-09-15
+未元物质 Primateria		2024-01-09
