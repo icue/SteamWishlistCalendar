@@ -1,11 +1,12 @@
 Project Haven		2024-09-15
+The Iron Oath		2023-11-02
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
+Warman		2023-04-03
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Unforetold: Witchstone		2024-01-25
-The Iron Oath		2023-11-02
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-09-15
 Gloomwood		2022-09-05
@@ -15,6 +16,7 @@ Neverlooted Dungeon		2024-09-15
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
 Viewfinder		2023-07-18
+未元物质 Primateria		2024-01-09
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -23,11 +25,14 @@ Netherguild		2023-03-27
 Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 奇娅 Tchia		2024-03-31
+化身大唐		2024-09-15
 挣脱：十三号站点		2024-05-31
+Stargate: Timekeepers		2024-01-23
 Galactic Glitch: Infinity's Edge		2024-02-29
 Dreadhunter		2023-10-18
 白日梦的构想图		2022-02-09
 纵横命途		2023-11-29
+Ants Took My Eyeball		2024-09-15
 潜行者2：切尔诺贝利之心		2024-02-29
 Wild Bastards		2024-09-15
 Sovereign Syndicate		2024-01-15
@@ -38,18 +43,23 @@ Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
+Kick Bastards		2024-01-05
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-02-29
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
+Wantless : Solace at World’s End		2023-11-08
 Marvel’s Spider-Man Remastered		2022-08-12
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
+Dream Tactics		2024-05-31
+Demonschool		2024-08-31
 Trinity Fusion		2023-12-15
-Tendryll		2024-02-29
+Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 Anger Foot		2024-09-15
+Svarog's Dream		2023-12-04
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-21
 Grand Arms: March of the Red Dragon		2024-09-15
@@ -64,39 +74,30 @@ The First Descendant		2024-09-15
 Dead Cells: Return to Castlevania		2023-03-06
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
+Yggdra Union		2023-07-27
 十五		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
 Streets of Rogue 2		2024-09-15
+百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-09-15
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum Chronicles: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
-棋弈无限：中国象棋		2024-01-25
+棋弈无限：中国象棋		2024-01-15
 Endless Samurai 無限武者		2024-09-15
 Kingsvein		2024-01-16
 人中之龙7外传 无名之龙		2023-11-08
 subpar pool		2023-10-12
 拾光集		2023-08-28
+Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
 Sephiria		2024-09-15
 Dark Deity 2		2024-09-15
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-Svarog's Dream		2023-12-04
-化身大唐		2024-09-15
-Dream Tactics		2024-05-31
-Stargate: Timekeepers		2024-01-23
-Ants Took My Eyeball		2024-09-15
-Warman		2023-04-03
-Soulslinger: Envoy of Death		2023-12-14
-Demonschool		2024-05-31
-Gem Wizard		2023-11-05
-NEXT FLOOR		2024-01-18
-DemonStar - Original Missions		2023-12-12
-Kick Bastards		2024-01-05
-百剑讨妖传绮谭		2024-09-15
-Wantless : Solace at World’s End		2023-11-08
 Astral Throne		2024-09-15
-未元物质 Primateria		2024-01-09
+Gem Wizard		2023-11-05
+DemonStar - Original Missions		2023-12-12
+NEXT FLOOR		2024-01-18
