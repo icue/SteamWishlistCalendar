@@ -39,6 +39,7 @@ Forspoken		2023-01-24
 ナツノカナタ		2022-08-17
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
+Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Kick Bastards		2024-01-05
@@ -56,7 +57,7 @@ Demonschool		2024-05-31
 Trinity Fusion		2023-12-15
 Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
-Anger Foot		2024-09-15
+愤怒的大脚		2024-09-15
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-21
@@ -75,9 +76,10 @@ Indoor Kickball		2023-05-26
 Yggdra Union		2023-07-27
 十五		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
+莉丝梵嘉：时之刃		2024-02-13
 Streets of Rogue 2		2024-09-15
 百剑讨妖传绮谭		2024-09-15
-Tiny Glade		2024-09-15
+Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum Chronicles: False Prophet		2024-05-31
@@ -100,4 +102,4 @@ DemonStar - Original Missions		2023-12-12
 Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
-Into the Necrovale		2024-01-26
+多重人生		2024-09-15
