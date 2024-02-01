@@ -15,6 +15,7 @@ Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-07-31
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
+薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 未元物质 Primateria		2024-01-09
 Plasma		2023-09-13
@@ -76,7 +77,7 @@ Indoor Kickball		2023-05-26
 Yggdra Union		2023-07-27
 十五		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
-莉丝梵嘉：时之刃		2024-02-13
+时之刃 		2024-02-13
 Streets of Rogue 2		2024-09-15
 百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-08-31
@@ -103,3 +104,4 @@ Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
 多重人生		2024-09-15
+Maraka		2024-09-15
