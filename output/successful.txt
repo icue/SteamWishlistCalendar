@@ -2,7 +2,9 @@ Project Haven		2024-09-15
 The Iron Oath		2023-11-02
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
+Granblue Fantasy: Relink		2024-02-01
 Warman		2023-04-03
+Harold Halibut		2024-09-15
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
@@ -30,6 +32,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 挣脱：十三号站点		2024-05-31
 Galactic Glitch: Infinity's Edge		2024-02-29
 Dreadhunter		2023-10-18
+多重人生		2024-09-15
 白日梦的构想图		2022-02-09
 纵横命途		2023-11-29
 Ants Took My Eyeball		2024-09-15
@@ -53,9 +56,10 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Nightmare: The Lunatic		2022-01-07
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
-Dream Tactics		2024-05-31
+Dream Tactics		2024-09-15
 Demonschool		2024-05-31
 Trinity Fusion		2023-12-15
+风中行者		2024-09-15
 Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-09-15
@@ -88,8 +92,10 @@ REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 人中之龙7外传 无名之龙		2023-11-08
+Balatro		2024-02-20
 subpar pool		2023-10-12
 拾光集		2023-08-28
+Ancient Weapon Holly		2024-03-07
 AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
@@ -100,11 +106,10 @@ New Arc Line		2024-09-15
 Astral Throne		2024-09-15
 Gem Wizard		2023-11-05
 DemonStar - Original Missions		2023-12-12
+Maraka		2024-09-15
 Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
-多重人生		2024-09-15
-Maraka		2024-09-15
-Balatro		2024-02-20
-Granblue Fantasy: Relink		2024-02-01
-Harold Halibut		2024-09-15
+Dystopika		2024-09-15
+Crown Wars: The Black Prince		2024-03-07
+Dominion		2024-02-01
