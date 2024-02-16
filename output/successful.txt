@@ -11,6 +11,7 @@ Cyber Knights: Flashpoint		2023-10-17
 Unforetold: Witchstone		2024-01-25
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-09-15
+Dominion		2024-02-01
 Gloomwood		2022-09-05
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
@@ -35,8 +36,9 @@ Dreadhunter		2023-10-18
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
 纵横命途		2023-11-29
-Ants Took My Eyeball		2024-09-15
+Ants Took My Eyeball		2024-04-30
 潜行者2：切尔诺贝利之心		2024-09-05
+Crown Wars: The Black Prince		2024-03-14
 Wild Bastards		2024-09-15
 Deadlink		2023-07-27
 Forspoken		2023-01-24
@@ -48,7 +50,7 @@ Tokyo Stranger 东京诡事		2024-07-25
 Cascade Tactics		2022-02-17
 Kick Bastards		2024-01-05
 Astrea: Six-Sided Oracles		2023-09-21
-Superstar Strategy		2024-02-29
+Superstar Strategy		2024-09-15
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 Wantless : Solace at World’s End		2023-11-08
@@ -93,6 +95,7 @@ BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
+Dystopika		2024-09-15
 subpar pool		2023-10-12
 拾光集		2023-08-28
 Ancient Weapon Holly		2024-03-07
@@ -110,6 +113,6 @@ Maraka		2024-09-15
 Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
-Dystopika		2024-09-15
-Crown Wars: The Black Prince		2024-03-07
-Dominion		2024-02-01
+Dead Island 2		2024-04-22
+Helskate		2024-02-15
+Blade Prince Academy		2024-03-07
