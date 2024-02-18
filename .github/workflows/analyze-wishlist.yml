@@ -33,10 +33,10 @@ jobs:
 
       - name: check changes
         id: check_changes
-        run: if [[ $(git diff --name-only HEAD^ HEAD) == *"output/successful.txt"* ]]; then echo "::set-output name=changes::true"; else echo "::set-output name=changes::false"; fi
+        run: if [[ $(git diff --name-only HEAD) == *"output/successful.txt"* ]]; then echo "changes=true" > "$GITHUB_OUTPUT"; else echo "changes=false" > "$GITHUB_OUTPUT"; fi
 
       - name: commit files
-        if: steps.check_changes.outputs.changes == 'true'
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -44,7 +44,7 @@ jobs:
           git commit -m "Update wishlist data." -a
 
       - name: push changes
-        if: steps.check_changes.outputs.changes == 'true'
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
