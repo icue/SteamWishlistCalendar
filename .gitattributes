@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Force CRLF in ICS as per RFC 5545 3.1. Content Lines
+*.ics text eol=crlf

@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.11"]
+        python-version: ["3.12"]
     steps:
 
       - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
 
@@ -27,9 +27,16 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
-          
+        run: |
+          python swc.py -i=${{ secrets.STEAM_ID }} -d=True
+          sed -i 's/LAST-MODIFIED/DTSTAMP/g' output/wishlist.ics
+
+      - name: check changes
+        id: check_changes
+        run: if [[ $(git diff --name-only HEAD) == *"output/successful.txt"* ]]; then echo "changes=true" > "$GITHUB_OUTPUT"; else echo "changes=false" > "$GITHUB_OUTPUT"; fi
+
       - name: commit files
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -37,6 +44,7 @@ jobs:
           git commit -m "Update wishlist data." -a
 
       - name: push changes
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
