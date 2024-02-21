@@ -31,7 +31,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 奇娅 Tchia		2024-03-31
 化身大唐		2024-09-15
 挣脱：十三号站点		2024-05-31
-Galactic Glitch: Infinity's Edge		2024-02-29
+Galactic Glitch: Infinity's Edge		2024-04-30
 Dreadhunter		2023-10-18
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
@@ -63,6 +63,7 @@ Demonschool		2024-05-31
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
 Tendryll		2024-04-30
+Nemire		2024-02-19
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-09-15
 Svarog's Dream		2023-12-04
@@ -83,7 +84,6 @@ Indoor Kickball		2023-05-26
 Yggdra Union		2023-07-27
 十五		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
-时之刃 		2024-02-13
 Streets of Rogue 2		2024-09-15
 百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-08-31
