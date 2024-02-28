@@ -97,7 +97,7 @@ Interregnum Chronicles: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
-Blade Prince Academy		2024-03-07
+刃裔学院		2024-03-07
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-09-15
@@ -122,3 +122,5 @@ ELDEN RING Shadow of the Erdtree		2024-06-20
 Fountain		2024-02-29
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 REYNATIS		2024-09-15
+ゴブリンスレイヤー -ANOTHER ADVENTURER- NIGHTMARE FEAST		2024-02-29
+机械觉醒		2024-05-31
