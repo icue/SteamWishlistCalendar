@@ -24,6 +24,7 @@ Helskate		2024-02-15
 薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 未元物质 Primateria		2024-01-09
+Broken Roads		2024-04-10
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -82,7 +83,7 @@ The First Descendant		2024-09-15
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
 深渊之影		2024-05-31
-Dead Cells: Return to Castlevania		2023-03-06
+Infest		2024-11-30
 Enotria: The Last Song		2024-06-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
