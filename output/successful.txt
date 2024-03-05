@@ -24,7 +24,6 @@ Helskate		2024-02-15
 薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 未元物质 Primateria		2024-01-09
-Broken Roads		2024-04-10
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -50,7 +49,7 @@ Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
-Tokyo Stranger 东京诡事		2024-07-25
+Tokyo Stranger 东京诡事		2024-11-14
 Cascade Tactics		2022-02-17
 Kick Bastards		2024-01-05
 Astrea: Six-Sided Oracles		2023-09-21
@@ -69,8 +68,10 @@ Trinity Fusion		2023-12-15
 风中行者		2024-09-15
 Tendryll		2024-04-30
 Nemire		2024-02-19
+机械觉醒		2024-05-31
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-09-15
+神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-21
@@ -83,7 +84,6 @@ The First Descendant		2024-09-15
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
 深渊之影		2024-05-31
-Infest		2024-11-30
 Enotria: The Last Song		2024-06-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
@@ -100,6 +100,7 @@ REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
+Infest		2024-11-30
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-09-15
@@ -117,12 +118,11 @@ Astral Throne		2024-09-15
 Gem Wizard		2023-11-05
 DemonStar - Original Missions		2023-12-12
 Maraka		2024-09-15
+星际意志		2024-03-04
 Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
+REYNATIS		2024-09-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
 Fountain		2024-03-31
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
-REYNATIS		2024-09-15
-机械觉醒		2024-05-31
-神骰传说		2024-02-27
