@@ -51,7 +51,6 @@ Starfield		2023-09-06
 Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-11-14
 Cascade Tactics		2022-02-17
-Kick Bastards		2024-01-05
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 星球大战 绝地：幸存者™		2023-04-28
@@ -84,7 +83,6 @@ The First Descendant		2024-09-15
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
 深渊之影		2024-05-31
-Enotria: The Last Song		2024-06-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
 Yggdra Union		2023-07-27
@@ -124,5 +122,5 @@ Intravenous 2: Mercenarism		2024-01-19
 NEXT FLOOR		2024-01-18
 REYNATIS		2024-09-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
-Fountain		2024-03-31
+Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
