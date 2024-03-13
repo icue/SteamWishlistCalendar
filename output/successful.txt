@@ -21,6 +21,7 @@ Neverlooted Dungeon		2024-09-15
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
 Helskate		2024-02-15
+太阳之子		2024-04-09
 薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 未元物质 Primateria		2024-01-09
@@ -33,7 +34,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 奇娅 Tchia		2024-03-31
 化身大唐		2024-09-15
-挣脱：十三号站点		2024-05-31
+挣脱：十三号站点		2024-03-31
 Galactic Glitch: Infinity's Edge		2024-04-30
 Dreadhunter		2023-10-18
 多重人生		2024-09-15
@@ -41,7 +42,7 @@ Dreadhunter		2023-10-18
 纵横命途		2023-11-29
 Ants Took My Eyeball		2024-04-30
 潜行者2：切尔诺贝利之心		2024-09-05
-Crown Wars: The Black Prince		2024-03-14
+Crown Wars: The Black Prince		2024-05-23
 Wild Bastards		2024-09-15
 Deadlink		2023-07-27
 Forspoken		2023-01-24
@@ -92,7 +93,6 @@ Streets of Rogue 2		2024-09-15
 百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
-荣耀死斗2 - Mortal Glory 2		2024-03-04
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum Chronicles: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
@@ -126,3 +126,4 @@ ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
+Highwater		2024-03-14
