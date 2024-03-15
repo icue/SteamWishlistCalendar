@@ -56,6 +56,7 @@ Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
+笠鬼		2024-04-09
 Wantless : Solace at World’s End		2023-11-08
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
@@ -126,4 +127,5 @@ ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
+Slavania		2024-03-14
 Highwater		2024-03-14
