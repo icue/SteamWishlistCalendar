@@ -74,6 +74,7 @@ Nemire		2024-02-19
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-09-15
 神骰传说		2024-02-27
+Highwater		2024-03-14
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-21
@@ -128,4 +129,3 @@ ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
-Highwater		2024-03-14
