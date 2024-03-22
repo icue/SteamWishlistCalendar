@@ -4,14 +4,14 @@ Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Warman		2023-04-03
-Harold Halibut		2024-09-15
+Harold Halibut		2024-04-16
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Unforetold: Witchstone		2024-01-25
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
-逆向坍塌：面包房行动		2024-03-21
+逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
 Gloomwood		2022-09-05
 Japanese Drift Master		2024-09-15
@@ -25,6 +25,7 @@ Helskate		2024-02-15
 薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 未元物质 Primateria		2024-01-09
+Broken Roads		2024-04-10
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
@@ -33,9 +34,9 @@ Netherguild		2023-03-27
 Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 Rogue Voltage		2024-05-31
-奇娅 Tchia		2024-03-31
+奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
-挣脱：十三号站点		2024-03-31
+挣脱：十三号站点		2024-03-22
 Galactic Glitch: Infinity's Edge		2024-06-30
 Dreadhunter		2023-10-18
 Until Then		2024-05-23
@@ -78,7 +79,7 @@ VALKYRIE ELYSIUM		2022-11-11
 Highwater		2024-03-14
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
-Dragon's Dogma 2		2024-03-21
+Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2024-09-15
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
@@ -88,6 +89,7 @@ The First Descendant		2024-09-15
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
 深渊之影		2024-05-31
+Enotria: The Last Song		2024-08-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
 Yggdra Union		2023-07-27
@@ -130,3 +132,4 @@ ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
+Dragon Chronicles: Black Tears		2024-03-21
