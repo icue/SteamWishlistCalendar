@@ -88,7 +88,7 @@ The First Descendant		2024-09-15
 神奇英侠 Capes		2024-09-15
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
-深渊之影		2024-05-31
+深渊之影		2024-04-22
 Enotria: The Last Song		2024-08-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
@@ -133,3 +133,4 @@ Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Dragon Chronicles: Black Tears		2024-03-21
+BattleJuice Alchemist		2024-03-21
