@@ -13,7 +13,7 @@ Cyber Knights: Flashpoint		2023-10-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
 Gloomwood		2022-09-05
-Japanese Drift Master		2024-09-15
+JDM: Japanese Drift Master		2024-09-15
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-07-31
@@ -63,7 +63,7 @@ ZERO Sievert		2022-11-15
 Wantless : Solace at World’s End		2023-11-08
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
-Nightmare: The Lunatic		2022-01-07
+Nightmare: The Lunatic		2024-03-31
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
@@ -136,3 +136,6 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Inverted Angel		2024-05-31
 Vellum		2024-03-28
+符文竞技场		2024-06-30
+抓抓地牢		2024-08-31
+棋枪颂歌		2024-10-10
