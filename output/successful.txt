@@ -33,7 +33,7 @@ Instruments of Destruction		2022-03-02
 Netherguild		2023-03-27
 Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
-Rogue Voltage		2024-05-31
+末日电涌 Rogue Voltage		2024-05-31
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
 挣脱：十三号站点		2024-03-22
@@ -63,7 +63,7 @@ ZERO Sievert		2022-11-15
 Wantless : Solace at World’s End		2023-11-08
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
-Nightmare: The Lunatic		2024-03-31
+奇天烈相談ダイヤル		2024-04-26
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
@@ -100,11 +100,10 @@ Streets of Rogue 2		2024-09-15
 Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
-Interregnum Chronicles: False Prophet		2024-05-31
+Interregnum: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
 BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
-Acolyte of the Altar		2024-03-25
 刃裔学院		2024-03-07
 Infest		2024-11-30
 人中之龙7外传 无名之龙		2023-11-08
@@ -139,3 +138,7 @@ Vellum		2024-03-28
 符文竞技场		2024-06-30
 抓抓地牢		2024-08-31
 棋枪颂歌		2024-10-10
+Hard West 2		2022-08-04
+High Noon Shuffle		2024-09-15
+Secret of the Deep		2024-09-15
+Denizen		2024-04-29
