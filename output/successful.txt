@@ -4,6 +4,7 @@ Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Warman		2023-04-03
+Vellum		2024-03-28
 Harold Halibut		2024-04-16
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
@@ -19,8 +20,9 @@ Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-07-31
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
+Hard West 2		2022-08-04
 Helskate		2024-02-15
-太阳之子		2024-04-09
+的士快跑		2024-04-09
 薄暮夏梦		2024-02-07
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
@@ -63,7 +65,6 @@ ZERO Sievert		2022-11-15
 Wantless : Solace at World’s End		2023-11-08
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
-奇天烈相談ダイヤル		2024-04-26
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
@@ -78,6 +79,7 @@ VALKYRIE ELYSIUM		2022-11-11
 神骰传说		2024-02-27
 Highwater		2024-03-14
 Svarog's Dream		2023-12-04
+Denizen		2024-04-29
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2024-09-15
@@ -92,6 +94,7 @@ The First Descendant		2024-09-15
 Enotria: The Last Song		2024-08-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
+棋枪颂歌		2024-10-10
 Yggdra Union		2023-07-27
 十五		2023-05-26
 《赛博朋克 2077：往日之影》		2023-09-25
@@ -106,6 +109,8 @@ BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
 Infest		2024-11-30
+抓抓地牢		2024-08-31
+符文竞技场		2024-06-30
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-09-15
@@ -123,22 +128,18 @@ Astral Throne		2024-09-15
 Gem Wizard		2023-11-05
 DemonStar - Original Missions		2023-12-12
 Maraka		2024-09-15
+Spellbound Shuffle		2024-09-15
 Intravenous 2: Mercenarism		2024-01-19
 尘埃终须落定		2024-01-17
 NEXT FLOOR		2024-01-18
 Dragon Chronicles: Black Tears		2024-03-21
+Secret of the Deep		2024-09-15
 REYNATIS		2024-09-15
 The Roottrees are Dead		2024-09-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
+RKGK / Rakugaki		2024-05-31
 Inverted Angel		2024-05-31
-Vellum		2024-03-28
-符文竞技场		2024-06-30
-抓抓地牢		2024-08-31
-棋枪颂歌		2024-10-10
-Hard West 2		2022-08-04
-High Noon Shuffle		2024-09-15
-Secret of the Deep		2024-09-15
-Denizen		2024-04-29
+奇天烈相談ダイヤル		2024-04-26
