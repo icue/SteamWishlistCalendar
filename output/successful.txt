@@ -103,7 +103,6 @@ Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-05-31
 REMORE: INFESTED KINGDOM		2023-10-31
-BABBDI		2022-12-22
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
 Infest		2024-11-30
