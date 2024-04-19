@@ -1,7 +1,7 @@
 # Steam Wishlist Calendar
-![Wishlist History](output/wishlist_history_chart.png?raw=true "Wishlist History")
+![Wishlist History](https://github.com/icue/SteamWishlistCalendar/blob/output/output/wishlist_history_chart.png?raw=true)
  
-![Wishlist History Stack Plot](output/wishlist_history_stack_plot.png?raw=true "Wishlist History Stack Plot")
+![Wishlist History Stack Plot](https://github.com/icue/SteamWishlistCalendar/blob/output/output/wishlist_history_stack_plot.png?raw=true)
 ---
 **Instructions** ([简体中文/Simplified Chinese version](https://github.com/icue/SteamWishlistCalendar/wiki/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E))
 1. Make sure your Steam profile is public.
