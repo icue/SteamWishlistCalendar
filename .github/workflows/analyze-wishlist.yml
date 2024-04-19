@@ -49,3 +49,22 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+
+      - name: checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: commit plots
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit --amend --no-edit
+
+      - name: push plots to output branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: True
