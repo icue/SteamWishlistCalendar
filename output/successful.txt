@@ -1,4 +1,5 @@
 Project Haven		2024-09-15
+Braid, Anniversary Edition		2024-05-14
 The Iron Oath		2023-11-02
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
@@ -22,6 +23,7 @@ Portal Reloaded		2021-04-19
 Hard West 2		2022-08-04
 Helskate		2024-02-15
 薄暮夏梦		2024-02-07
+《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
@@ -44,6 +46,7 @@ Until Then		2024-05-23
 纵横命途		2023-11-29
 Ants Took My Eyeball		2024-04-20
 潜行者2：切尔诺贝利之心		2024-09-05
+&quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 Crown Wars: The Black Prince		2024-05-23
 Wild Bastards		2024-09-15
 Deadlink		2023-07-27
@@ -86,7 +89,7 @@ The First Descendant		2024-09-15
 神奇英侠 Capes		2024-05-29
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
-深渊之影		2024-04-22
+深渊之影		2024-04-23
 Enotria: The Last Song		2024-08-21
 Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
@@ -122,6 +125,7 @@ Avowed		2024-09-15
 New Arc Line		2024-09-15
 Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
+数字魅影: 极限竞赛		2024-04-24
 Astral Throne		2024-09-15
 DemonStar - Original Missions		2023-12-12
 Maraka		2024-09-15
@@ -140,4 +144,3 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Inverted Angel		2024-05-31
 奇天烈相談ダイヤル		2024-04-26
-《恶意不息》		2024-04-18
