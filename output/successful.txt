@@ -109,6 +109,7 @@ REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
 Infest		2024-11-30
+Arcane Assembly		2024-05-17
 抓抓地牢		2024-08-31
 符文竞技场		2024-06-30
 人中之龙7外传 无名之龙		2023-11-08
@@ -121,6 +122,7 @@ Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
 Sephiria		2024-09-15
 Dark Deity 2		2024-09-15
+鸡械绿洲 (Cluckmech Oasis)		2024-05-09
 Avowed		2024-09-15
 New Arc Line		2024-09-15
 Nine Realms		2024-04-15
@@ -144,3 +146,5 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Inverted Angel		2024-05-31
 奇天烈相談ダイヤル		2024-04-26
+铁山奇谭		2024-09-15
+Ashen Knights: Foreshadow		2024-04-22
