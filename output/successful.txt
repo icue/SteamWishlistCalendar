@@ -16,12 +16,12 @@ JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
-叛逆神魂GODSOUL		2024-07-31
+叛逆神魂GODSOUL		2024-08-31
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
 Hard West 2		2022-08-04
 Helskate		2024-02-15
-薄暮夏梦		2024-02-07
+候鸟		2023-01-11
 《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
@@ -147,3 +147,4 @@ Inverted Angel		2024-05-31
 奇天烈相談ダイヤル		2024-04-26
 铁山奇谭		2024-09-15
 Ashen Knights: Foreshadow		2024-04-22
+战姬拉斯蒂尔 无限的迷宫城		2024-04-25
