@@ -35,7 +35,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 末日电涌 Rogue Voltage		2024-05-31
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
-Galactic Glitch: Infinity's Edge		2024-06-30
+Galactic Glitch		2024-06-30
 Dreadhunter		2023-10-18
 Until Then		2024-05-23
 多重人生		2024-09-15
@@ -146,3 +146,5 @@ Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Inverted Angel		2024-05-31
+美女,应接不暇		2024-05-14
+亡者之地		2024-05-13
