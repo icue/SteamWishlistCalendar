@@ -11,6 +11,7 @@ Cyber Knights: Flashpoint		2023-10-17
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
+Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
@@ -19,7 +20,6 @@ Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
 A Highland Song		2023-12-05
 Portal Reloaded		2021-04-19
-Hard West 2		2022-08-04
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
@@ -35,7 +35,7 @@ Crimson Tactics: The Rise of The White Banner		2023-09-05
 末日电涌 Rogue Voltage		2024-05-10
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
-故障星系		2024-06-30
+故障星系 Galactic Glitch		2024-06-30
 Dreadhunter		2023-10-18
 Until Then		2024-09-15
 多重人生		2024-09-15
