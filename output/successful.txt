@@ -27,7 +27,7 @@ BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
-Instruments of Destruction		2022-03-02
+Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
 Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
@@ -121,7 +121,7 @@ Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
 Sephiria		2024-09-15
 Dark Deity 2		2024-09-15
-鸡械绿洲 (Cluckmech Oasis)		2024-05-10
+Trash of the Titans		2024-05-29
 Avowed		2024-09-15
 New Arc Line		2024-09-15
 Nine Realms		2024-04-15
