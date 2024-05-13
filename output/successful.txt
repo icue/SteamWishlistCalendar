@@ -18,6 +18,7 @@ Shady Knight		2024-08-31
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
+Severed Steel		2021-09-17
 Portal Reloaded		2021-04-19
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
@@ -65,6 +66,7 @@ Those Who Rule		2024-11-30
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
+Combat Complex		2024-09-15
 Demonschool		2024-05-31
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
@@ -94,6 +96,7 @@ Indoor Kickball		2023-05-26
 Yggdra Union		2023-07-27
 MULLET MADJACK		2024-05-15
 十五		2023-05-26
+亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
 RKGK / Rakugaki		2024-05-22
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
@@ -127,6 +130,7 @@ New Arc Line		2024-09-15
 Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
+雾隐战记 C.A.R.D.S. RPG		2024-05-22
 Astral Throne		2024-09-15
 DemonStar - Original Missions		2023-12-12
 Maraka		2024-09-15
@@ -139,15 +143,11 @@ Dragon Chronicles: Black Tears		2024-03-21
 彼方的她-Aliya		2024-04-25
 Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
+美女,应接不暇		2024-05-14
 The Roottrees are Dead		2024-09-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
-Inverted Angel		2024-05-31
-美女,应接不暇		2024-05-14
-亡者之地		2024-05-13
-Combat Complex		2024-09-15
-雾隐战记 C.A.R.D.S. RPG		2024-05-22
-Severed Steel		2021-09-17
 Food Devils		2025-11-30
+Inverted Angel		2024-05-31
