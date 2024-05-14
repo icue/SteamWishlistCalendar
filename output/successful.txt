@@ -1,5 +1,4 @@
 Project Haven		2024-09-15
-The Iron Oath		2023-11-02
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
@@ -30,7 +29,6 @@ Plasma		2023-09-13
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
-Crimson Tactics: The Rise of The White Banner		2023-09-05
 尼瓦利斯（Nivalis）		2024-09-15
 末日电涌 Rogue Voltage		2024-05-10
 奇娅 Tchia		2024-03-21
