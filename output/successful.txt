@@ -30,7 +30,6 @@ NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2024-09-15
-末日电涌 Rogue Voltage		2024-05-10
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-06-30
@@ -58,7 +57,7 @@ Superstar Strategy		2024-09-15
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
-Wantless : Solace at World’s End		2023-11-08
+Wantless : Solace at World’s End		2024-05-16
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
 The Last of Us™ Part I		2023-03-28
@@ -92,7 +91,7 @@ Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
 棋枪颂歌		2024-10-10
 Yggdra Union		2023-07-27
-MULLET MADJACK		2024-05-15
+托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 十五		2023-05-26
 亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
@@ -148,4 +147,5 @@ Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Food Devils		2025-11-30
-Inverted Angel		2024-05-31
+Inverted Angel		2024-06-30
+纺织者之咏		2024-08-31
