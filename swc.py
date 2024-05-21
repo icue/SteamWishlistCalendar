@@ -133,12 +133,12 @@ for index in range(0, args.max_page):
         if value['type'] == 'DLC' and not args.include_dlc:
             continue
 
-        event = Event(uid=key, name=game_name,
+        event = Event(uid=key, summary=game_name,
                       description='https://store.steampowered.com/app/' + key + description_suffix,
-                      begin=release_date, last_modified=now,
+                      begin=release_date, last_modified=now, dtstamp=now,
                       categories=['game_release'])
         event.make_all_day()
-        cal.events.add(event)
+        cal.events.append(event)
 
     time.sleep(3)
 

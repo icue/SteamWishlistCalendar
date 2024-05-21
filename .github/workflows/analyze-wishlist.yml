@@ -27,9 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: execute py script
-        run: |
-          python swc.py -i=${{ secrets.STEAM_ID }} -d=True
-          sed -i 's/LAST-MODIFIED/DTSTAMP/g' output/wishlist.ics
+        run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
 
       - name: check changes
         id: check_changes
