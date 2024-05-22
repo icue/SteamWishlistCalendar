@@ -30,7 +30,6 @@ NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2024-09-15
-Still Joking		2024-05-16
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-06-30
@@ -92,11 +91,11 @@ Indoor Kickball		2023-05-26
 魔法工艺 Magicraft		2023-11-02
 棋枪颂歌		2024-10-10
 Yggdra Union		2023-07-27
-托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 十五		2023-05-26
 亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
 RKGK / Rakugaki		2024-05-22
+Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
 Streets of Rogue 2		2024-09-15
 百剑讨妖传绮谭		2024-09-15
@@ -105,6 +104,7 @@ Chronicon - The Mechanist		2023-01-25
 踢踢地牢		2024-04-30
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-05-31
+纺织者之咏		2024-08-31
 REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
@@ -114,6 +114,7 @@ Infest		2024-11-30
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-05-31
+托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 subpar pool		2023-10-12
 拾光集		2023-08-28
 AI LIMIT 无限机兵		2024-09-15
@@ -140,7 +141,6 @@ Dragon Chronicles: Black Tears		2024-03-21
 彼方的她-Aliya		2024-04-25
 Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
-The End of You		2024-06-20
 The Roottrees are Dead		2024-09-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
@@ -148,4 +148,4 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Food Devils		2025-11-30
 Inverted Angel		2024-06-30
-纺织者之咏		2024-08-31
+The End of You		2024-06-20
