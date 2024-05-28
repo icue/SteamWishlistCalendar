@@ -124,7 +124,7 @@ Dark Deity 2		2024-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
 New Arc Line		2024-09-15
-Nine Realms		2024-04-15
+Thor's Ascension: Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
 Astral Throne		2024-09-15
@@ -145,5 +145,5 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Food Devils		2025-11-30
 Inverted Angel		2024-06-30
-The End of You		2024-06-20
 深 四目朝生-阴阳之巫女-		2024-09-15
+The End of You		2024-06-20
