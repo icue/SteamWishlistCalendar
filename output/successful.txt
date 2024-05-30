@@ -32,7 +32,7 @@ Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2024-09-15
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
-故障星系 Galactic Glitch		2024-06-30
+故障星系 Galactic Glitch		2024-07-31
 Dreadhunter		2023-10-18
 Until Then		2024-09-15
 多重人生		2024-09-15
@@ -102,7 +102,7 @@ Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
 踢踢地牢		2024-04-30
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
-Interregnum: False Prophet		2024-05-31
+Interregnum: False Prophet		2024-06-18
 纺织者之咏		2024-08-31
 REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
@@ -148,3 +148,4 @@ Inverted Angel		2024-06-30
 深 四目朝生-阴阳之巫女-		2024-09-15
 The End of You		2024-06-20
 崛起力量: 测试英雄		2024-08-31
+牛仔3030		2024-05-28
