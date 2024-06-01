@@ -55,6 +55,7 @@ Cascade Tactics		2022-02-17
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 候鸟		2023-01-11
+世上英雄		2024-06-14
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
@@ -65,7 +66,7 @@ The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
-Demonschool		2024-05-31
+Demonschool		2024-06-30
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
@@ -112,7 +113,7 @@ Infest		2024-11-30
 符文竞技场		2024-07-31
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
-Dystopika		2024-05-31
+Dystopika		2024-06-30
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 subpar pool		2023-10-12
 拾光集		2023-08-28
