@@ -74,7 +74,7 @@ Tendryll		2024-04-30
 Nemire		2024-02-19
 机械觉醒		2024-07-31
 VALKYRIE ELYSIUM		2022-11-11
-愤怒的大脚		2024-09-15
+愤怒的大脚		2024-07-11
 神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
@@ -83,7 +83,7 @@ Grand Arms: March of the Red Dragon		2024-09-15
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 人中之龙８		2024-01-25
-The First Descendant		2024-09-15
+The First Descendant		2024-07-02
 打工火柴人		2024-09-15
 星之侵略者		2024-09-15
 深渊之影		2024-04-23
@@ -120,7 +120,6 @@ subpar pool		2023-10-12
 AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
-Sephiria		2024-09-15
 Dark Deity 2		2024-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
@@ -130,6 +129,7 @@ Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
 Astral Throne		2024-09-15
 DemonStar - Original Missions		2023-12-12
+The Last Summer 那年夏末		2024-06-13
 Maraka		2024-09-15
 Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
