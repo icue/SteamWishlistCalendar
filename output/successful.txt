@@ -39,6 +39,7 @@ Dreadhunter		2023-10-18
 Until Then		2024-06-25
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
+The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 Ants Took My Eyeball		2024-04-20
 潜行者2：切尔诺贝利之心		2024-09-05
@@ -85,7 +86,7 @@ The Farmer Was Replaced		2023-02-10
 人中之龙８		2024-01-25
 The First Descendant		2024-07-02
 打工火柴人		2024-09-15
-星之侵略者		2024-09-15
+星之侵略者		2025-09-15
 深渊之影		2024-04-23
 Enotria: The Last Song		2024-09-18
 Indoor Kickball		2023-05-26
@@ -153,3 +154,5 @@ The End of You		2024-06-20
 牛仔3030		2024-05-28
 阿斯特：巨碑之刃		2024-05-30
 《方块战记》《Legend Square》		2024-10-01
+Kunitsu-Gami: Path of the Goddess		2024-07-18
+Project DOSA		2026-09-15
