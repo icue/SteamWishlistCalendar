@@ -68,6 +68,7 @@ The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
+Demonschool		2024-09-13
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
@@ -156,3 +157,5 @@ The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 Kunitsu-Gami: Path of the Goddess		2024-07-18
 Project DOSA		2026-09-15
+燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+Mixtape		2025-09-15
