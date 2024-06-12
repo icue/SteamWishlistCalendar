@@ -99,7 +99,7 @@ Yggdra Union		2023-07-27
 《赛博朋克 2077：往日之影》		2023-09-25
 Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
-Streets of Rogue 2		2024-09-15
+Streets of Rogue 2		2024-08-14
 百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
@@ -115,7 +115,7 @@ Infest		2024-11-30
 符文竞技场		2024-07-31
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
-Dystopika		2024-06-30
+Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 subpar pool		2023-10-12
 拾光集		2023-08-28
@@ -125,7 +125,6 @@ Soulslinger: Envoy of Death		2023-12-14
 Dark Deity 2		2024-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
-New Arc Line		2024-09-15
 Thor's Ascension: Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
@@ -160,3 +159,4 @@ Project DOSA		2026-09-15
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 Mixtape		2025-09-15
 I Am Your Beast		2024-08-15
+Cryohazard		2024-06-14
