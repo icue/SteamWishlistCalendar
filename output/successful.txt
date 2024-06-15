@@ -27,6 +27,7 @@ Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
 Plasma		2023-09-13
+Fallen Aces		2024-06-14
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
@@ -130,7 +131,6 @@ Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
 Astral Throne		2024-09-15
 DemonStar - Original Missions		2023-12-12
-The Last Summer 那年夏末		2024-07-31
 Maraka		2024-09-15
 Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
@@ -154,10 +154,11 @@ The End of You		2024-06-20
 牛仔3030		2024-05-28
 阿斯特：巨碑之刃		2024-05-30
 《方块战记》《Legend Square》		2024-10-01
+野狗子: Slitterhead		2024-11-08
 Kunitsu-Gami: Path of the Goddess		2024-07-18
 Project DOSA		2026-09-15
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 Mixtape		2025-09-15
 I Am Your Beast		2024-08-15
-Cryohazard		2024-06-14
+Cryohazard		2024-06-15
 REKA		2024-08-31
