@@ -18,7 +18,6 @@ Shady Knight		2024-08-31
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
-Rapture Recovery Squad		2024-11-30
 Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Helskate		2024-02-15
@@ -55,8 +54,10 @@ Starfield		2023-09-06
 Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-11-14
 Cascade Tactics		2022-02-17
+REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
+圣杯誓约		2024-09-15
 候鸟		2023-01-11
 世上英雄		2024-06-14
 星球大战 绝地：幸存者™		2023-04-28
@@ -65,6 +66,8 @@ ZERO Sievert		2022-11-15
 Wantless : Solace at World’s End		2024-05-16
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
+燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
 REAVER		2023-11-30
 Dream Tactics		2024-04-15
@@ -78,6 +81,7 @@ Nemire		2024-02-19
 机械觉醒		2024-07-31
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-07-11
+阿斯特：巨碑之刃		2024-05-30
 神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
 潜入		2023-11-08
@@ -112,6 +116,7 @@ REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
 刃裔学院		2024-03-07
 Infest		2024-11-30
+牛仔3030		2024-05-28
 抓抓地牢		2024-08-31
 符文竞技场		2024-07-31
 人中之龙7外传 无名之龙		2023-11-08
@@ -129,11 +134,14 @@ Avowed		2024-09-15
 Thor's Ascension: Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
+Kunitsu-Gami: Path of the Goddess		2024-07-18
 Astral Throne		2024-11-30
 DemonStar - Original Missions		2023-12-12
+Mixtape		2025-09-15
 Maraka		2024-09-15
 Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
+野狗子: Slitterhead		2024-11-08
 Intravenous 2: Mercenarism		2024-01-19
 NEXT FLOOR		2024-01-18
 Dragon Chronicles: Black Tears		2024-03-21
@@ -141,25 +149,17 @@ Dragon Chronicles: Black Tears		2024-03-21
 Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
 The Roottrees are Dead		2024-09-15
+Cryohazard		2024-06-15
 ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 怦然心动的她们		2024-06-14
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 Food Devils		2025-11-30
+Rapture Recovery Squad		2024-11-30
 Inverted Angel		2024-06-30
 深 四目朝生-阴阳之巫女-		2024-09-15
-The End of You		2024-06-20
-崛起力量: 测试英雄		2024-08-31
-牛仔3030		2024-05-28
-阿斯特：巨碑之刃		2024-05-30
-《方块战记》《Legend Square》		2024-10-01
-野狗子: Slitterhead		2024-11-08
-Kunitsu-Gami: Path of the Goddess		2024-07-18
 Project DOSA		2026-09-15
-燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
-Mixtape		2025-09-15
-I Am Your Beast		2024-08-15
-Cryohazard		2024-06-15
-REKA		2024-08-31
-圣杯誓约		2024-09-15
+崛起力量: 测试英雄		2024-08-31
+The End of You		2024-06-20
+《方块战记》《Legend Square》		2024-10-01
