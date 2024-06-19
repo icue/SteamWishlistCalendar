@@ -57,7 +57,6 @@ Cascade Tactics		2022-02-17
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
-圣杯誓约		2024-09-15
 候鸟		2023-01-11
 世上英雄		2024-06-14
 星球大战 绝地：幸存者™		2023-04-28
@@ -163,3 +162,4 @@ Project DOSA		2026-09-15
 崛起力量: 测试英雄		2024-08-31
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
+Shape of Dream		2025-03-31
