@@ -34,7 +34,7 @@ Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2024-09-15
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
-故障星系 Galactic Glitch		2024-07-31
+故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
 Until Then		2024-06-25
 多重人生		2024-09-15
@@ -48,7 +48,6 @@ Crown Wars: The Black Prince		2024-05-23
 Wild Bastards		2024-09-12
 Deadlink		2023-07-27
 Forspoken		2023-01-24
-ナツノカナタ		2022-08-17
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
@@ -163,3 +162,4 @@ Project DOSA		2026-09-15
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 Shape of Dream		2025-03-31
+夏日彼方 beyond		2024-06-20
