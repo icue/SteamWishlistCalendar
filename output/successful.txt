@@ -31,7 +31,7 @@ Fallen Aces		2024-06-14
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
-尼瓦利斯（Nivalis）		2024-09-15
+尼瓦利斯（Nivalis）		2025-09-15
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
@@ -48,6 +48,7 @@ Crown Wars: The Black Prince		2024-05-23
 Wild Bastards		2024-09-12
 Deadlink		2023-07-27
 Forspoken		2023-01-24
+享受这间餐厅吧		2023-07-31
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
@@ -148,7 +149,6 @@ Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
 The Roottrees are Dead		2024-09-15
 Cryohazard		2024-06-15
-ELDEN RING Shadow of the Erdtree		2024-06-20
 Dragon Is Dead		2024-06-07
 怦然心动的她们		2024-06-14
 Fountain		2024-03-07
@@ -162,4 +162,5 @@ Project DOSA		2026-09-15
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 Shape of Dream		2025-03-31
+深夏时光！　二十世纪的暑假		2024-06-26
 夏日彼方 beyond		2024-06-20
