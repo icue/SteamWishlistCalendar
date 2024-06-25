@@ -57,7 +57,6 @@ REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 候鸟		2023-01-11
-世上英雄		2024-06-14
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
@@ -116,7 +115,7 @@ Endless Samurai 無限武者		2024-09-15
 享受这间餐厅吧		2023-07-31
 Infest		2024-11-30
 牛仔3030		2024-05-28
-抓抓地牢		2024-08-31
+抓抓地牢		2024-11-30
 符文竞技场		2024-07-31
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
@@ -138,6 +137,7 @@ Kunitsu-Gami: Path of the Goddess		2024-07-18
 Astral Throne		2024-11-30
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-09-15
+The Last Summer 那年夏末		2024-06-24
 Maraka		2024-09-15
 Evercore Heroes		2024-09-15
 夏日彼方 beyond		2024-06-20
