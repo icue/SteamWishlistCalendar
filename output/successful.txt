@@ -45,7 +45,6 @@ The Star Named EOS：未晓星程		2024-07-23
 Ants Took My Eyeball		2024-04-20
 潜行者2：切尔诺贝利之心		2024-09-05
 &quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
-Crown Wars: The Black Prince		2024-05-23
 Wild Bastards		2024-09-12
 Deadlink		2023-07-27
 Forspoken		2023-01-24
@@ -67,7 +66,6 @@ Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
-REAVER		2023-11-30
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
 Demonschool		2024-09-13
@@ -122,7 +120,6 @@ Infest		2024-11-30
 Balatro		2024-02-20
 Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
-subpar pool		2023-10-12
 拾光集		2023-08-28
 AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
@@ -145,7 +142,7 @@ Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
 野狗子: Slitterhead		2024-11-08
 Intravenous 2: Mercenarism		2024-01-19
-NEXT FLOOR		2024-01-18
+Shoulders of Giants: Ultimate		2024-09-15
 Dragon Chronicles: Black Tears		2024-03-21
 彼方的她-Aliya		2024-04-25
 Secret of the Deep		2024-09-15
