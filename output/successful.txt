@@ -42,7 +42,6 @@ Until Then		2024-06-25
 沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
-Ants Took My Eyeball		2024-04-20
 潜行者2：切尔诺贝利之心		2024-09-05
 &quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 Wild Bastards		2024-09-12
@@ -52,7 +51,6 @@ Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-11-14
-Cascade Tactics		2022-02-17
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
@@ -86,7 +84,7 @@ Grand Arms: March of the Red Dragon		2024-09-15
 审判之逝：湮灭的记忆		2022-09-14
 The Farmer Was Replaced		2023-02-10
 人中之龙８		2024-01-25
-The First Descendant		2024-07-02
+The First Descendant		2024-06-30
 打工火柴人		2024-09-15
 星之侵略者		2025-09-15
 深渊之影		2024-04-23
@@ -104,7 +102,6 @@ Streets of Rogue 2		2024-08-14
 百剑讨妖传绮谭		2024-09-15
 Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
-踢踢地牢		2024-04-30
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-06-18
 纺织者之咏		2024-08-31
@@ -156,7 +153,6 @@ ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
 Rapture Recovery Squad		2024-11-30
-Inverted Angel		2024-06-30
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
 深 四目朝生-阴阳之巫女-		2024-09-15
 Project DOSA		2026-09-15
@@ -164,3 +160,4 @@ The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 零异机动队		2024-07-12
 Alpha Protocol™		2010-06-01
+BeamNG.drive		2015-05-29
