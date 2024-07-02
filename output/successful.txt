@@ -1,3 +1,5 @@
+Alpha Protocol™		2010-06-01
+BeamNG.drive		2015-05-29
 Project Haven		2024-09-15
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
@@ -38,7 +40,6 @@ Netherguild		2023-03-27
 Dreadhunter		2023-10-18
 Until Then		2024-06-25
 多重人生		2024-09-15
-白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
@@ -100,6 +101,7 @@ Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
 Streets of Rogue 2		2024-08-14
 百剑讨妖传绮谭		2024-09-15
+零异机动队		2024-07-12
 Tiny Glade		2024-08-31
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
@@ -107,6 +109,7 @@ Interregnum: False Prophet		2024-06-18
 纺织者之咏		2024-08-31
 REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
+Shoulders of Giants: Ultimate		2024-09-15
 刃裔学院		2024-03-07
 享受这间餐厅吧		2023-07-31
 Infest		2024-11-30
@@ -121,7 +124,7 @@ Dystopika		2024-06-21
 AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
-Shape of Dream		2025-03-31
+Shape of Dream		2025-05-31
 Dark Deity 2		2024-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
@@ -139,7 +142,6 @@ Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
 野狗子: Slitterhead		2024-11-08
 Intravenous 2: Mercenarism		2024-01-19
-Shoulders of Giants: Ultimate		2024-09-15
 Dragon Chronicles: Black Tears		2024-03-21
 彼方的她-Aliya		2024-04-25
 Secret of the Deep		2024-09-15
@@ -158,6 +160,3 @@ Rapture Recovery Squad		2024-11-30
 Project DOSA		2026-09-15
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
-零异机动队		2024-07-12
-Alpha Protocol™		2010-06-01
-BeamNG.drive		2015-05-29
