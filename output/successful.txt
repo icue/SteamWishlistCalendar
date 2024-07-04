@@ -8,6 +8,7 @@ Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
+Cyber Knights: Flashpoint		2023-10-17
 Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
@@ -37,7 +38,6 @@ Netherguild		2023-03-27
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
-Until Then		2024-06-25
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
@@ -68,6 +68,7 @@ The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
 Demonschool		2024-09-13
+Atomic Picnic		2024-09-30
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
