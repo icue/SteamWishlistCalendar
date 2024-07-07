@@ -13,7 +13,6 @@ Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
-Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
@@ -38,6 +37,7 @@ Netherguild		2023-03-27
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
+Until Then		2024-06-25
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
