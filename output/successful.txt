@@ -1,7 +1,6 @@
 Alpha Protocol™		2010-06-01
 BeamNG.drive		2015-05-29
 Project Haven		2024-09-15
-Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
@@ -13,6 +12,7 @@ Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
+Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
@@ -156,9 +156,10 @@ ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
 Rapture Recovery Squad		2024-11-30
-Inverted Angel		2024-07-05
+真·女神转生Ⅴ Vengeance		2024-06-14
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
 深 四目朝生-阴阳之巫女-		2024-09-15
 Project DOSA		2026-09-15
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
+Together in Battle		2023-04-25
