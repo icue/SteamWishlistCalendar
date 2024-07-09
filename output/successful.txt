@@ -1,6 +1,7 @@
 Alpha Protocol™		2010-06-01
 BeamNG.drive		2015-05-29
 Project Haven		2024-09-15
+Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
@@ -163,3 +164,5 @@ Project DOSA		2026-09-15
 The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 Together in Battle		2023-04-25
+Fictorum		2017-08-09
+Hidden Pass		2024-09-15
