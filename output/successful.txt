@@ -75,7 +75,7 @@ Trinity Fusion		2023-12-15
 风中行者		2024-09-15
 Tendryll		2024-04-30
 Nemire		2024-02-19
-机械觉醒		2024-07-31
+机械觉醒		2024-07-29
 VALKYRIE ELYSIUM		2022-11-11
 愤怒的大脚		2024-07-11
 阿斯特：巨碑之刃		2024-05-30
@@ -114,10 +114,10 @@ Endless Samurai 無限武者		2024-09-15
 Shoulders of Giants: Ultimate		2024-09-15
 刃裔学院		2024-03-07
 享受这间餐厅吧		2023-07-31
-Infest		2024-11-30
+Infest		2025-02-28
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
-符文竞技场		2024-07-31
+符文竞技场		2024-09-30
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-06-21
@@ -127,7 +127,7 @@ AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
 Shape of Dream		2025-05-31
-Dark Deity 2		2024-09-15
+Dark Deity 2		2025-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
 Thor's Ascension: Nine Realms		2024-04-15
