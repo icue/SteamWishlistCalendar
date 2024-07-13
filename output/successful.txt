@@ -38,6 +38,7 @@ Netherguild		2023-03-27
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
 Until Then		2024-06-25
+多重人生		2024-09-15
 白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
@@ -55,7 +56,6 @@ Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
-ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
@@ -162,3 +162,4 @@ The End of You		2024-06-20
 Together in Battle		2023-04-25
 ANIMAL WELL		2024-05-09
 Hidden Pass		2024-09-15
+Cascade Tactics		2022-02-17
