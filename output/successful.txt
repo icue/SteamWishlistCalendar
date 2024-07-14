@@ -20,7 +20,6 @@ Shady Knight		2024-08-31
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
 Test Drive Unlimited Solar Crown		2024-09-12
-Portal Reloaded		2021-04-19
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
@@ -56,6 +55,7 @@ Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
 候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
+ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
@@ -122,7 +122,7 @@ Dystopika		2024-06-21
 AI LIMIT 无限机兵		2024-09-15
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
-Shape of Dream		2025-05-31
+Shape of Dreams		2025-05-31
 Dark Deity 2		2025-09-15
 Trash of the Titans		2024-05-29
 Avowed		2024-09-15
@@ -163,3 +163,4 @@ Together in Battle		2023-04-25
 ANIMAL WELL		2024-05-09
 Hidden Pass		2024-09-15
 Cascade Tactics		2022-02-17
+堡垒：猎鹰战纪		2024-03-26
