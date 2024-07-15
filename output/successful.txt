@@ -20,6 +20,7 @@ Shady Knight		2024-08-31
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
 Test Drive Unlimited Solar Crown		2024-09-12
+Portal Reloaded		2021-04-19
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
@@ -65,7 +66,6 @@ The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
 Demonschool		2024-09-13
-Atomic Picnic		2024-09-30
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
@@ -164,3 +164,4 @@ ANIMAL WELL		2024-05-09
 Hidden Pass		2024-09-15
 Cascade Tactics		2022-02-17
 堡垒：猎鹰战纪		2024-03-26
+Shell Runner		2024-07-15
