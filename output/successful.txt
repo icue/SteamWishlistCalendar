@@ -46,7 +46,6 @@ The Star Named EOS：未晓星程		2024-07-23
 潜行者2：切尔诺贝利之心		2024-09-05
 &quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 Wild Bastards		2024-09-12
-Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
@@ -66,6 +65,7 @@ The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
 Demonschool		2024-09-13
+Atomic Picnic		2024-09-30
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
@@ -107,7 +107,7 @@ Interregnum: False Prophet		2024-06-18
 纺织者之咏		2024-08-31
 REMORE: INFESTED KINGDOM		2023-10-31
 Endless Samurai 無限武者		2024-09-15
-Shoulders of Giants: Ultimate		2024-09-15
+Shoulders of Giants: Ultimate		2024-08-12
 刃裔学院		2024-03-07
 享受这间餐厅吧		2023-07-31
 Infest		2025-02-28
@@ -140,7 +140,7 @@ Evercore Heroes		2024-09-15
 Spellbound Shuffle		2024-09-15
 野狗子: Slitterhead		2024-11-08
 Intravenous 2: Mercenarism		2024-01-19
-Dragon Chronicles: Black Tears		2024-03-21
+Dragon Chronicles: Black Tears		2024-07-15
 彼方的她-Aliya		2024-04-25
 Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
