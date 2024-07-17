@@ -46,6 +46,7 @@ The Star Named EOS：未晓星程		2024-07-23
 潜行者2：切尔诺贝利之心		2024-09-05
 &quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 Wild Bastards		2024-09-12
+Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
@@ -59,7 +60,6 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
-燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
@@ -110,7 +110,6 @@ Endless Samurai 無限武者		2024-09-15
 Shoulders of Giants: Ultimate		2024-08-12
 刃裔学院		2024-03-07
 享受这间餐厅吧		2023-07-31
-Infest		2025-02-28
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
 符文竞技场		2024-09-30
@@ -164,4 +163,5 @@ ANIMAL WELL		2024-05-09
 Hidden Pass		2024-09-15
 Cascade Tactics		2022-02-17
 堡垒：猎鹰战纪		2024-03-26
-Shell Runner		2024-07-15
+Shell Runner 攻壳行者		2024-07-15
+[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
