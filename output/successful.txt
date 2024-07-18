@@ -49,7 +49,6 @@ Wild Bastards		2024-09-12
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
-Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-11-14
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
@@ -60,6 +59,7 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
+燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
@@ -106,10 +106,12 @@ JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-06-18
 纺织者之咏		2024-08-31
 REMORE: INFESTED KINGDOM		2023-10-31
+勇闯死人谷：暗黑之日		2025-09-15
 Endless Samurai 無限武者		2024-09-15
 Shoulders of Giants: Ultimate		2024-08-12
 刃裔学院		2024-03-07
 享受这间餐厅吧		2023-07-31
+Infest		2024-07-31
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
 符文竞技场		2024-09-30
