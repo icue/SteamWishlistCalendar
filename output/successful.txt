@@ -8,7 +8,6 @@ Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
-Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
@@ -49,6 +48,7 @@ Wild Bastards		2024-09-12
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
+Into the Necrovale		2024-01-26
 Tokyo Stranger 东京诡事		2024-11-14
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
@@ -97,7 +97,7 @@ Yggdra Union		2023-07-27
 《赛博朋克 2077：往日之影》		2023-09-25
 Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
-Streets of Rogue 2		2024-08-14
+Streets of Rogue 2		2024-10-22
 百剑讨妖传绮谭		2024-09-15
 零异机动队		2024-07-11
 Tiny Glade		2024-08-31
@@ -130,7 +130,6 @@ Avowed		2024-09-15
 Thor's Ascension: Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
-Kunitsu-Gami: Path of the Goddess		2024-07-18
 Astral Throne		2024-11-30
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-09-15
