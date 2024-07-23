@@ -40,7 +40,6 @@ Netherguild		2023-03-27
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
-Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
@@ -48,6 +47,7 @@ Until Then		2024-06-25
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-09-05
+&quot;百英雄传   Eiyuden Chronicle: Hundred Heroes&quot;		2024-04-23
 Wild Bastards		2024-09-12
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
@@ -127,6 +127,7 @@ Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
 AI LIMIT 无限机兵		2024-09-15
+Hero Emblems II		2024-08-05
 Soulslinger: Envoy of Death		2023-12-14
 Hidden Pass		2024-09-15
 威赫战线 MENACE		2024-09-15
@@ -151,7 +152,6 @@ Shell Runner 攻壳行者		2024-07-15
 Intravenous 2: Mercenarism		2024-01-19
 Dragon Chronicles: Black Tears		2024-07-15
 彼方的她-Aliya		2024-04-25
-Secret of the Deep		2024-09-15
 REYNATIS		2024-09-27
 The Roottrees are Dead		2024-09-15
 Cryohazard		2024-06-15
