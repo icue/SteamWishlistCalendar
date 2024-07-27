@@ -30,6 +30,7 @@ Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
 Plasma		2023-09-13
+Fallen Aces		2024-06-14
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
@@ -64,7 +65,6 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
-燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
@@ -168,3 +168,4 @@ The End of You		2024-06-20
 《方块战记》《Legend Square》		2024-10-01
 失落矿场		2024-07-23
 Cryptmaster		2024-05-09
+On Track		2024-07-31
