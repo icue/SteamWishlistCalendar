@@ -24,7 +24,6 @@ Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
-《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
@@ -64,6 +63,7 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
+燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
@@ -168,3 +168,4 @@ The End of You		2024-06-20
 失落矿场		2024-07-23
 Cryptmaster		2024-05-09
 On Track		2024-07-31
+ARC SEED		2024-07-30
