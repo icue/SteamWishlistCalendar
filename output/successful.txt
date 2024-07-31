@@ -24,6 +24,7 @@ Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
+《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
@@ -169,3 +170,5 @@ The End of You		2024-06-20
 Cryptmaster		2024-05-09
 On Track		2024-07-31
 ARC SEED		2024-07-30
+Neon Village		2024-09-15
+枪火重生 - 墨雪画境		2024-08-31
