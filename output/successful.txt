@@ -25,7 +25,6 @@ Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
-Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 未元物质 Primateria		2024-01-09
 Plasma		2023-09-13
@@ -64,6 +63,7 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2024-11-30
+燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-08-15
 The Last of Us™ Part I		2023-03-28
@@ -154,7 +154,6 @@ REYNATIS		2024-09-27
 The Roottrees are Dead		2024-09-15
 Cryohazard		2024-06-15
 Dragon Is Dead		2024-06-07
-怦然心动的她们		2024-06-14
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 深夏时光！　二十世纪的暑假		2024-06-26
@@ -171,3 +170,4 @@ On Track		2024-07-31
 ARC SEED		2024-07-30
 Neon Village		2024-09-15
 枪火重生 - 墨雪画境		2024-08-31
+坠落：金属女仆救世录		2025-05-31
