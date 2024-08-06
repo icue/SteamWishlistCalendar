@@ -58,7 +58,6 @@ Cascade Tactics		2022-02-17
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
-候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
@@ -130,13 +129,13 @@ Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
 AI LIMIT 无限机兵		2024-09-15
-Hero Emblems II		2024-08-05
+Hero Emblems II		2024-08-06
 Soulslinger: Envoy of Death		2023-12-14
 威赫战线 MENACE		2024-09-15
 Shape of Dreams		2025-05-31
 Dark Deity 2		2025-09-15
 Trash of the Titans		2024-05-29
-Avowed		2024-09-15
+Avowed		2025-02-18
 Thor's Ascension: Nine Realms		2024-04-15
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
