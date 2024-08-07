@@ -14,7 +14,6 @@ Tactical Breach Wizards		2024-08-22
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
-Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
 海参2		2023-06-21
@@ -58,6 +57,7 @@ Cascade Tactics		2022-02-17
 REKA		2024-08-31
 Astrea: Six-Sided Oracles		2023-09-21
 Superstar Strategy		2024-09-15
+候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
