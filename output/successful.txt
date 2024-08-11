@@ -43,6 +43,7 @@ Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
+沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-11-20
@@ -175,3 +176,4 @@ The End of You		2024-06-20
 Salt Player for Windows		2024-12-31
 虐杀熔炉：竞技场		2024-08-13
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
+Our Adventurer Guild		2024-04-12
