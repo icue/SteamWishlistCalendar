@@ -63,7 +63,6 @@ Superstar Strategy		2024-09-15
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
-炎姬		2025-09-15
 Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
@@ -177,3 +176,4 @@ Salt Player for Windows		2024-12-31
 虐杀熔炉：竞技场		2024-08-13
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
 Our Adventurer Guild		2024-04-12
+Skillsworn		2024-08-09
