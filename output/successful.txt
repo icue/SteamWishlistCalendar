@@ -3,7 +3,6 @@ Alpha Protocol™		2010-06-01
 Project Haven		2024-09-15
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
-Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
@@ -63,6 +62,7 @@ Superstar Strategy		2024-09-15
 ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
+炎姬		2025-09-15
 Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
