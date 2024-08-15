@@ -1,4 +1,7 @@
 # Steam Wishlist Calendar
+Automatically tracks Steam wishlist release dates and publishes `.ICS` file that can be subscribed.
+
+Example track history output:
 ![Wishlist History](https://github.com/icue/SteamWishlistCalendar/blob/output/output/wishlist_history_chart.png?raw=true)
  
 ![Wishlist History Stack Plot](https://github.com/icue/SteamWishlistCalendar/blob/output/output/wishlist_history_stack_plot.png?raw=true)
