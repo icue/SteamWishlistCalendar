@@ -5,6 +5,9 @@ on:
     - cron: '0 4 * * *' # 4:00 UTC everyday
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,6 +23,17 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
+
+      - name: get site-packages path
+        id: site_packages
+        run: echo "site_dir=$(python -c 'import site; print(site.getsitepackages()[0])')" > "$GITHUB_OUTPUT"
+
+      - name: cache installed packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ steps.site_packages.outputs.site_dir }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
 
       - name: install python packages
         run: |
@@ -49,11 +63,13 @@ jobs:
           branch: main
 
       - name: checkout output branch
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: actions/checkout@v4
         with:
           ref: output
 
       - name: commit plots
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -61,6 +77,7 @@ jobs:
           git commit --amend --no-edit
 
       - name: push plots to output branch
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

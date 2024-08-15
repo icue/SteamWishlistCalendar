@@ -1,16 +1,14 @@
 import argparse
-import dateparser
 import json
 import os
 import re
-import requests
 import time
-from datetime import datetime
-from datetime import timedelta
-from datetime import timezone
+from datetime import datetime, timedelta, timezone
+
+import dateparser
+import requests
 from ics import Calendar, Event
-from matplotlib import pyplot
-from matplotlib import ticker
+from matplotlib import pyplot, ticker
 
 
 _SEP = '-09-15'
@@ -73,7 +71,7 @@ now = datetime.now(timezone.utc)
 
 for index in range(0, args.max_page):
     params['p'] = index
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout= 10)
     if not response.json():
         # No more remaining items.
         break
