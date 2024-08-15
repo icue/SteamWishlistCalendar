@@ -43,6 +43,9 @@ jobs:
       - name: execute py script
         run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
 
+      - name: Copy PNG files from main branch to temp dir
+        run: cp -r output/*.png $RUNNER_TEMP/
+
       - name: check changes
         id: check_changes
         run: if [[ $(git diff --name-only HEAD) == *"output/successful.txt"* ]]; then echo "changes=true" > "$GITHUB_OUTPUT"; else echo "changes=false" > "$GITHUB_OUTPUT"; fi
@@ -68,12 +71,14 @@ jobs:
         with:
           ref: output
 
+      - name: Copy PNG files back to output branch
+        run: cp -r $RUNNER_TEMP/*.png output/
+
       - name: commit plots
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git checkout origin/main -- output/*.png
           git add -A
           git commit --amend --no-edit
 
