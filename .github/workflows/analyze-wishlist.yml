@@ -49,11 +49,13 @@ jobs:
           branch: main
 
       - name: checkout output branch
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: actions/checkout@v4
         with:
           ref: output
 
       - name: commit plots
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -61,6 +63,7 @@ jobs:
           git commit --amend --no-edit
 
       - name: push plots to output branch
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
