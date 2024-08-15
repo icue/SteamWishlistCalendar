@@ -1,6 +1,7 @@
 Alpha Protocol™		2010-06-01
 堡垒：猎鹰战纪		2024-03-26
 Project Haven		2024-09-15
+Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
@@ -43,7 +44,6 @@ Until Then		2024-06-25
 Demon's Mirror		2024-09-05
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
-沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-11-20
