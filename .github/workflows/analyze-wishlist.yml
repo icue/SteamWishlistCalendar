@@ -73,7 +73,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git merge origin/main --no-edit --allow-unrelated-histories
+          git checkout origin/main -- output/*.png
           git add -A
           git commit --amend --no-edit
 
