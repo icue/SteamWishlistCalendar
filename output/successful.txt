@@ -1,7 +1,6 @@
 Alpha Protocol™		2010-06-01
 堡垒：猎鹰战纪		2024-03-26
 Project Haven		2024-09-15
-Cogmind		2017-10-17
 Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
@@ -162,7 +161,6 @@ Cryohazard		2024-06-15
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
-On Track		2024-07-31
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
 Rapture Recovery Squad		2024-11-30
