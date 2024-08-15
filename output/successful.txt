@@ -108,7 +108,7 @@ Still Joking		2024-05-16
 Streets of Rogue 2		2024-10-22
 百剑讨妖传绮谭		2024-09-15
 零异机动队		2024-07-11
-Tiny Glade		2024-08-31
+Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-06-18
@@ -179,3 +179,5 @@ Salt Player for Windows		2024-12-31
 Our Adventurer Guild		2024-04-12
 Skillsworn		2024-08-09
 Crime Scene Cleaner		2024-08-14
+七键骑士 RP7		2024-09-12
+Arco		2024-08-15
