@@ -4,6 +4,7 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import dateparser
 import requests
@@ -11,7 +12,9 @@ from ics import Calendar, Event
 from matplotlib import pyplot, ticker
 
 
+_UTC = timezone.utc
 _SEP = '-09-15'
+_LAST_DAY = '-12-31'
 _TOTAL = 'total'
 _RELEASE_DATE = 'release_date'
 _RELEASE_STRING = 'release_string'
@@ -62,87 +65,96 @@ else:
 # l may also be 'english' or 'tchinese', but then _YEAR_ONLY_REGEX and _TO_REPLACE may need to be modified as well.
 # See https://partner.steamgames.com/doc/store/localization
 params = {'l': 'schinese'}
+now = datetime.now(_UTC)
+
+# Initialize empty containers and counters
+wishlist_data = {}
 count = 0
 prerelease_count = 0
 successful_deductions = []
 failed_deductions = []
-cal = Calendar(creator='SteamWishlistCalendar')
-now = datetime.now(timezone.utc)
 
+# Fetch and store wishlist data
 for index in range(0, args.max_page):
     params['p'] = index
-    response = requests.get(url, params=params, timeout= 10)
-    if not response.json():
+    response = requests.get(url, params=params, timeout=10)
+    response_data = response.json()
+    if not response_data:
         # No more remaining items.
         break
-    if 'success' in response.json().keys():
+    if 'success' in response_data.keys():
         # User profile is private.
         exit()
 
-    for key, value in response.json().items():
-        count += 1
-        game_name = value['name']
-        description_suffix = ''
-
-        if value[_RELEASE_DATE]:
-            release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]), tz=timezone.utc)
-
-        if _PRERELEASE in value:
-            prerelease_count += 1
-            # Games that are not release yet will have a 'free-form' release string.
-            release_string = value[_RELEASE_STRING].lower()
-            if any(substring in release_string for substring in _BLOCK_LIST):
-                # Release date not announced.
-                continue
-
-            # Heuristically maps vague words such as 'Q1', 'summer' to months.
-            for pair in _TO_REPLACE:
-                release_string = release_string.replace(pair[0], pair[1])
-
-            release_string = release_string.lstrip().rstrip()
-            year_only_match = re.match(_YEAR_ONLY_REGEX, release_string)
-            if year_only_match:
-                # Release string only contains information about the year.
-                year = year_only_match.group(1)
-                # If XXXX.09.15 has already passed, uses the last day of that year.
-                sep_release_date = datetime.strptime(year + _SEP, '%Y-%m-%d').date()
-                release_string = year + (_SEP if sep_release_date > now.date() else '-12-31')
-
-            # Tries to parse a machine-readable date from the release string.
-            translated_date = dateparser.parse(release_string,
-                                               settings={
-                                                   'PREFER_DAY_OF_MONTH': 'last',
-                                                   'PREFER_DATES_FROM': 'future'})
-            if translated_date:
-                release_date = translated_date
-                while release_date.date() < now.date():
-                    # A game is pre-release but the estimated release date has already passed. In this case, pick the earliest last-of-a-month date in the future.
-                    # Note the difference between this case and the case where only a year is provided, which has been addressed above.
-                    release_date = last_day_of_next_month(release_date)
-                description_suffix = f'\nEstimation based on "{value[_RELEASE_STRING]}"'
-            else:
-                failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
-                continue
-
-        if not release_date:
-            continue
-
-        successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
-        if value['type'] == 'DLC' and not args.include_dlc:
-            continue
-
-        event = Event(uid=key, summary=game_name,
-                      description='https://store.steampowered.com/app/' + key + description_suffix,
-                      begin=release_date, last_modified=now, dtstamp=now,
-                      categories=['game_release'])
-        event.make_all_day()
-        cal.events.append(event)
+    # Convert key (appId) to int, and store the key-value pairs
+    wishlist_data.update({int(key): value for key, value in response_data.items()})
 
     time.sleep(3)
 
+# Process the wishlist data stored in the key's ascending order
+cal = Calendar(creator='SteamWishlistCalendar')
+for key, value in sorted(wishlist_data.items()):
+    count += 1
+    game_name = value['name']
+    description_suffix = ''
 
-# File outputs.
-_OUTPUT_FOLDER = 'output/'
+    if value[_RELEASE_DATE]:
+        release_date = datetime.fromtimestamp(float(value[_RELEASE_DATE]), tz=_UTC)
+
+    if _PRERELEASE in value:
+        prerelease_count += 1
+        # Games that are not released yet will have a 'free-form' release string.
+        release_string = value[_RELEASE_STRING].lower()
+        if any(substring in release_string for substring in _BLOCK_LIST):
+            # Release date not announced.
+            continue
+
+        # Heuristically maps vague words such as 'Q1', 'summer' to months.
+        for old, new in _TO_REPLACE:
+            release_string = release_string.replace(old, new)
+
+        release_string = release_string.strip()
+        year_only_match = re.match(_YEAR_ONLY_REGEX, release_string)
+        if year_only_match:
+            # Release string only contains information about the year.
+            year = year_only_match.group(1)
+            # If XXXX.09.15 has already passed, use the last day of that year.
+            sep_release_date = datetime.strptime(f'{year}{_SEP}', '%Y-%m-%d').replace(tzinfo=_UTC)
+            release_string = f'{year}{_SEP}' if sep_release_date > now else f'{year}{_LAST_DAY}'
+
+        # Try to parse a machine-readable date from the release string.
+        translated_date = dateparser.parse(release_string,
+                                           settings={
+                                               'PREFER_DAY_OF_MONTH': 'last',
+                                               'PREFER_DATES_FROM': 'future'})
+        if translated_date:
+            release_date = translated_date
+            while release_date.date() < now.date():
+                # A game is pre-release but the estimated release date has already passed. In this case, pick the earliest last-of-a-month date in the future.
+                # Note the difference between this case and the case where only a year is provided, which has been addressed above.
+                release_date = last_day_of_next_month(release_date)
+            description_suffix = f'\nEstimation based on "{value[_RELEASE_STRING]}"'
+        else:
+            failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
+            continue
+
+    if not release_date:
+        continue
+
+    successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
+    if value['type'] == 'DLC' and not args.include_dlc:
+        continue
+
+    event = Event(uid=str(key), summary=game_name,
+                  description=f'https://store.steampowered.com/app/{key}{description_suffix}',
+                  begin=release_date, last_modified=now, dtstamp=now,
+                  categories=['game_release'])
+    event.make_all_day()
+    cal.events.append(event)
+
+
+# File outputs
+_OUTPUT_FOLDER = 'output'
 _SUCCESS_FILE = 'successful.txt'
 _FAILURE_FILE = 'failed_deductions.txt'
 _ICS_FILE = 'wishlist.ics'
@@ -159,24 +171,33 @@ _LABEL_COLOR = '#FABD2F'
 _BACKGROUND_COLOR = '#32302F'
 _DPI = 600
 
-os.makedirs(_OUTPUT_FOLDER, exist_ok=True)
+output_folder = Path('output')
+output_folder.mkdir(exist_ok=True)
 
-with open(_OUTPUT_FOLDER + _SUCCESS_FILE, 'w', encoding='utf-8') as f:
+# Write successful deductions
+success_file = output_folder.joinpath(_SUCCESS_FILE)
+with success_file.open('w', encoding='utf-8') as f:
     f.write('\n'.join(successful_deductions))
+
+# Write failed deductions
 if failed_deductions:
-    with open(_OUTPUT_FOLDER + _FAILURE_FILE, 'w', encoding='utf-8') as f:
+    failure_file = output_folder.joinpath(_FAILURE_FILE)
+    with failure_file.open('w', encoding='utf-8') as f:
         f.write('\n'.join(failed_deductions))
-with open(_OUTPUT_FOLDER + _ICS_FILE, 'w', encoding='utf-8') as f:
+
+# Write the calendar
+ics_file = output_folder.joinpath(_ICS_FILE)
+with ics_file.open('w', encoding='utf-8') as f:
     f.write(cal.serialize())
 
-# Overwrites history.
-history_file_path = _OUTPUT_FOLDER + _HISTORY_FILE
+# Overwrite history
+history_file = output_folder.joinpath(_HISTORY_FILE)
 data = {}
-if os.path.isfile(history_file_path):
-    with open(history_file_path) as f:
+if history_file.is_file():
+    with history_file.open() as f:
         data = json.load(f)
 data[datetime.today().strftime('%Y-%m-%d')] = {_PRERELEASE: prerelease_count, _TOTAL: count}
-with open(history_file_path, 'w') as f:
+with history_file.open('w') as f:
     json.dump(data, f)
 
 
@@ -199,7 +220,7 @@ def annotate_run_time(pyplot):
                     color=_COLOR, fontsize=8)
 
 
-# Redraws a line chart.
+# Redraw a line chart.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 x, y = zip(*sorted({k: v[_TOTAL] for k, v in data.items()}.items()))
 prerelease_x, prerelease_y = zip(*sorted({k: v[_PRERELEASE] for k, v in data.items()}.items()))
@@ -223,10 +244,9 @@ pyplot.title('Wishlist History', color=_LABEL_COLOR)
 annotate_run_time(pyplot)
 pyplot.grid(color=_GRID_COLOR)
 fig.autofmt_xdate()
-pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_CHART_FILE, dpi=_DPI)
+pyplot.savefig(output_folder.joinpath(_HISTORY_CHART_FILE), dpi=_DPI)
 
-
-# Redraws a stack plot.
+# Redraw a stack plot.
 fig, ax = pyplot.subplots(facecolor=_BACKGROUND_COLOR)
 ax.xaxis.set_major_locator(ticker.MultipleLocator(max(1, int(len(x) / 8))))
 ax.yaxis.set_major_locator(ticker.MultipleLocator(max(1, int(max(max(y), max(prerelease_y)) / 10))))
@@ -246,4 +266,4 @@ set_legend(ax, 'upper left')
 pyplot.title('Wishlist History - Stack Plot', color=_LABEL_COLOR)
 annotate_run_time(pyplot)
 fig.autofmt_xdate()
-pyplot.savefig(_OUTPUT_FOLDER + _HISTORY_STACK_PLOT_FILE, dpi=_DPI)
+pyplot.savefig(output_folder.joinpath(_HISTORY_STACK_PLOT_FILE), dpi=_DPI)
