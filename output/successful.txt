@@ -9,12 +9,14 @@ Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
+Crime Scene Cleaner		2024-08-14
 Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
+JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
@@ -23,6 +25,7 @@ Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
+七键骑士 RP7		2024-09-12
 《恶意不息》		2024-04-18
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
@@ -38,12 +41,12 @@ Netherguild		2023-03-27
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
+Skillsworn		2024-08-09
 Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Demon's Mirror		2024-09-05
 多重人生		2024-09-15
 白日梦的构想图		2022-02-09
-沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-11-20
@@ -84,6 +87,7 @@ VALKYRIE ELYSIUM		2022-11-11
 阿斯特：巨碑之刃		2024-05-30
 神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
+Our Adventurer Guild		2024-04-12
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2024-09-15
@@ -125,14 +129,15 @@ Infest		2024-07-31
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
 符文竞技场		2024-09-30
+Arco		2024-08-15
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
 Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
 AI LIMIT 无限机兵		2024-09-15
-PhotoStudioSimulator		2024-10-31
 Soulslinger: Envoy of Death		2023-12-14
+Hidden Pass		2025-02-04
 威赫战线 MENACE		2024-09-15
 Shape of Dreams		2025-05-31
 Dark Deity 2		2025-09-15
@@ -150,6 +155,7 @@ Maraka		2024-09-15
 Evercore Heroes		2024-09-15
 夏日彼方 beyond		2024-06-20
 Spellbound Shuffle		2024-09-15
+静脉注射2		2024-08-15
 Shell Runner 攻壳行者		2024-07-15
 Slitterhead		2024-11-08
 Dragon Chronicles: Black Tears		2024-07-15
@@ -158,6 +164,7 @@ REYNATIS		2024-09-27
 The Roottrees are Dead		2024-09-15
 Cryohazard		2024-06-15
 坠落：金属女仆救世录		2025-05-31
+虐杀熔炉：竞技场		2024-08-13
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
@@ -169,13 +176,8 @@ Neon Village		2024-09-15
 深 四目朝生-阴阳之巫女-		2024-09-15
 Project DOSA		2026-09-15
 The End of You		2024-06-20
-《方块战记》《Legend Square》		2024-10-01
-枪火重生 - 墨雪画境		2024-08-31
 Salt Player for Windows		2024-12-31
-虐杀熔炉：竞技场		2024-08-13
+《方块战记》《Legend Square》		2024-10-01
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
-Our Adventurer Guild		2024-04-12
-Skillsworn		2024-08-09
-Crime Scene Cleaner		2024-08-14
-七键骑士 RP7		2024-09-12
-Arco		2024-08-15
+枪火重生 - 墨雪画境		2024-08-31
+PhotoStudioSimulator		2024-10-31
