@@ -78,6 +78,7 @@ jobs:
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git stash apply
+          git checkout --theirs -- output/*.png
           git stash drop
 
       - name: commit plots
