@@ -43,9 +43,6 @@ jobs:
       - name: execute py script
         run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
 
-      - name: Copy PNG files from main branch to temp dir
-        run: cp -r output/*.png $RUNNER_TEMP/
-
       - name: check changes
         id: check_changes
         run: if [[ $(git diff --name-only HEAD) == *"output/successful.txt"* ]]; then echo "changes=true" > "$GITHUB_OUTPUT"; else echo "changes=false" > "$GITHUB_OUTPUT"; fi
@@ -65,14 +62,23 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
 
+      - name: Stash png outputs
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
+        run: |
+          git add -f output/*.png
+          git stash
+
       - name: checkout output branch
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
         uses: actions/checkout@v4
         with:
           ref: output
 
-      - name: Copy PNG files back to output branch
-        run: cp -r $RUNNER_TEMP/*.png output/
+      - name: Get png outputs from stash
+        if: ${{ steps.check_changes.outputs.changes == 'true' }}
+        run: |
+          git stash apply
+          git stash drop
 
       - name: commit plots
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
