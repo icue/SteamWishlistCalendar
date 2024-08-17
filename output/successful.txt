@@ -3,6 +3,7 @@ Alpha Protocol™		2010-06-01
 Project Haven		2024-09-15
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
+Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
@@ -41,7 +42,6 @@ Netherguild		2023-03-27
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
 Skillsworn		2024-08-09
-Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Demon's Mirror		2024-09-05
 多重人生		2024-09-15
