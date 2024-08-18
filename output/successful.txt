@@ -42,6 +42,7 @@ Netherguild		2023-03-27
 故障星系 Galactic Glitch		2024-07-15
 Dreadhunter		2023-10-18
 Skillsworn		2024-08-09
+Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Demon's Mirror		2024-09-05
 多重人生		2024-09-15
@@ -70,7 +71,6 @@ Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
-Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
