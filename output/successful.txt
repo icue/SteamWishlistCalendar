@@ -12,6 +12,7 @@ Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
 Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
+CarX Street		2024-08-29
 CyberCorp		2024-08-19
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
@@ -19,6 +20,7 @@ Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2024-09-15
 Shady Knight		2024-08-31
+海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
 叛逆神魂GODSOUL		2024-08-31
 Test Drive Unlimited Solar Crown		2024-09-12
@@ -50,6 +52,7 @@ Demon's Mirror		2024-09-05
 沉没意志		2024-07-31
 The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
+勇敢小骑士		2024-09-17
 潜行者2：切尔诺贝利之心		2024-11-20
 Wild Bastards		2024-09-12
 Forspoken		2023-01-24
@@ -69,14 +72,14 @@ Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+Akimbot		2024-08-29
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-09-15
-Demonschool		2024-09-13
-Atomic Picnic		2024-09-30
+Demonschool		2025-02-28
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
 风中行者		2024-09-15
@@ -88,6 +91,7 @@ VALKYRIE ELYSIUM		2022-11-11
 阿斯特：巨碑之刃		2024-05-30
 神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
+CORPUS EDAX		2024-09-05
 Our Adventurer Guild		2024-04-12
 潜入		2023-11-08
 Dragon's Dogma 2		2024-03-22
@@ -106,6 +110,7 @@ Indoor Kickball		2023-05-26
 灵视异闻 FILE23 本所七大不可思议		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
+火湖		2024-09-15
 亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
 Still Joking		2024-05-16
@@ -123,7 +128,7 @@ REMORE: INFESTED KINGDOM		2023-10-31
 勇闯死人谷：暗黑之日		2025-09-15
 Endless Samurai 無限武者		2024-09-15
 Shoulders of Giants: Ultimate		2024-08-12
-Risk of Rain 2: Seekers of the Storm		2024-08-27
+雨中冒险 2: 风暴探寻者		2024-08-27
 ARC SEED		2024-07-30
 刃裔学院		2024-03-07
 机兵大乱战		2025-09-15
@@ -131,7 +136,7 @@ ARC SEED		2024-07-30
 Infest		2024-07-31
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
-符文竞技场		2024-09-30
+符文竞技场		2024-09-23
 Arco		2024-08-15
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
@@ -161,6 +166,9 @@ Spellbound Shuffle		2024-09-15
 静脉注射2		2024-08-15
 Shell Runner 攻壳行者		2024-07-15
 Slitterhead		2024-11-08
+首都高赛车		2025-09-15
+YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
+Cursebane		2024-11-30
 Dragon Chronicles: Black Tears		2024-07-15
 彼方的她-Aliya		2024-04-25
 REYNATIS		2024-09-27
@@ -174,7 +182,7 @@ ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
 Rapture Recovery Squad		2024-11-30
-Neon Village		2024-09-15
+Neon Village		2025-02-28
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
 深 四目朝生-阴阳之巫女-		2024-09-15
 Project DOSA		2026-09-15
