@@ -7,22 +7,20 @@ Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
-霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
 Tactical Breach Wizards		2024-08-22
 嗜血印 Bloody Spell DLC  剑仙		2023-02-17
-CarX Street		2024-08-29
 CyberCorp		2024-08-19
 逆向坍塌：面包房行动		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
-JDM: Japanese Drift Master		2024-09-15
-Shady Knight		2024-08-31
+JDM: 漂移大师		2024-09-15
+Shady Knight		2024-09-30
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
-叛逆神魂GODSOUL		2024-08-31
+叛逆神魂GODSOUL		2024-09-30
 Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
@@ -39,6 +37,7 @@ NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
 Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2025-09-15
+Eternal Strands		2025-02-28
 奇娅 Tchia		2024-03-21
 化身大唐		2024-09-15
 故障星系 Galactic Glitch		2024-07-15
@@ -72,13 +71,12 @@ Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2024-11-30
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
-Akimbot		2024-08-29
 真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
-Combat Complex		2024-09-15
+Combat Complex		2024-10-04
 Demonschool		2025-02-28
 铁山奇谭		2024-09-15
 Trinity Fusion		2023-12-15
@@ -122,13 +120,14 @@ Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Interregnum: False Prophet		2024-06-18
-纺织者之咏		2024-08-31
+纺织者之咏		2024-11-30
 REMORE: INFESTED KINGDOM		2023-10-31
 失落矿场		2024-07-23
 勇闯死人谷：暗黑之日		2025-09-15
 Endless Samurai 無限武者		2024-09-15
 Shoulders of Giants: Ultimate		2024-08-12
 雨中冒险 2: 风暴探寻者		2024-08-27
+SpongeBob SquarePants™: 派大星游戏		2024-10-04
 ARC SEED		2024-07-30
 刃裔学院		2024-03-07
 机兵大乱战		2025-09-15
@@ -172,7 +171,6 @@ Cursebane		2024-11-30
 Dragon Chronicles: Black Tears		2024-07-15
 彼方的她-Aliya		2024-04-25
 REYNATIS		2024-09-27
-The Roottrees are Dead		2024-09-15
 Cryohazard		2024-06-15
 坠落：金属女仆救世录		2025-05-31
 虐杀熔炉：竞技场		2024-08-13
@@ -190,5 +188,5 @@ The End of You		2024-06-20
 Salt Player for Windows		2024-12-31
 《方块战记》《Legend Square》		2024-10-01
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
-枪火重生 - 墨雪画境		2024-08-31
+枪火重生 - 墨雪画境		2024-09-30
 PhotoStudioSimulator		2024-10-31
