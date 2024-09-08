@@ -7,6 +7,7 @@ Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt - 凶影疑云		2023-04-24
+霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
 Tactical Breach Wizards		2024-08-22
@@ -20,7 +21,7 @@ JDM: 漂移大师		2024-09-15
 Shady Knight		2024-09-30
 海参2		2023-06-21
 Neverlooted Dungeon		2024-09-15
-叛逆神魂GODSOUL		2024-09-30
+叛逆神魂GODSOUL		2024-11-30
 Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
@@ -35,6 +36,7 @@ Fallen Aces		2024-06-14
 塑战核心		2023-10-03
 NeuroNet: Mendax Proxy		2023-05-04
 Instruments of Destruction		2024-05-10
+苏美尔六人组		2024-09-02
 Netherguild		2023-03-27
 尼瓦利斯（Nivalis）		2025-09-15
 Eternal Strands		2025-02-28
@@ -108,7 +110,7 @@ Indoor Kickball		2023-05-26
 灵视异闻 FILE23 本所七大不可思议		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
-火湖		2024-09-15
+火湖		2024-10-31
 亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
 Still Joking		2024-05-16
@@ -147,7 +149,6 @@ Soulslinger: Envoy of Death		2023-12-14
 Hidden Pass		2025-02-04
 威赫战线 MENACE		2024-09-15
 Shape of Dreams		2025-05-31
-Dark Deity 2		2025-09-15
 Trash of the Titans		2024-05-29
 Avowed		2025-02-18
 Thor's Ascension: Nine Realms		2024-04-15
@@ -155,6 +156,7 @@ Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Astral Throne		2024-11-30
+Burning Sword: Death Sun		2025-02-28
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-09-15
 The Last Summer 那年夏末		2024-06-24
@@ -167,9 +169,10 @@ Shell Runner 攻壳行者		2024-07-15
 Slitterhead		2024-11-08
 首都高赛车		2025-09-15
 YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
-Cursebane		2024-11-30
+Cursebane		2025-09-15
 Dragon Chronicles: Black Tears		2024-07-15
 彼方的她-Aliya		2024-04-25
+Afterplace		2024-07-23
 REYNATIS		2024-09-27
 Cryohazard		2024-06-15
 坠落：金属女仆救世录		2025-05-31
@@ -184,9 +187,11 @@ Neon Village		2025-02-28
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
 深 四目朝生-阴阳之巫女-		2024-09-15
 Project DOSA		2026-09-15
+Moonless Moon		2024-08-08
+崛起力量: 测试英雄		2024-10-22
 The End of You		2024-06-20
 Salt Player for Windows		2024-12-31
-《方块战记》《Legend Square》		2024-10-01
+《方块战记》《Legend Square》		2025-03-04
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
-枪火重生 - 墨雪画境		2024-09-30
+枪火重生 - 墨雪画境		2024-09-12
 PhotoStudioSimulator		2024-10-31
