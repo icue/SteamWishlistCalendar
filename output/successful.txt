@@ -7,7 +7,7 @@ Fortune-499		2018-05-11
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2024-03-28
 Dead Island 2		2024-04-22
-Shadows of Doubt - 凶影疑云		2023-04-24
+Shadows of Doubt - 凶影疑云		2024-09-26
 霍格沃茨之遗		2023-02-10
 Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
@@ -19,6 +19,7 @@ Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: 漂移大师		2024-12-31
+Shady Knight		2024-10-09
 海参2		2023-06-21
 Neverlooted Dungeon		2024-12-31
 叛逆神魂GODSOUL		2024-11-30
@@ -27,6 +28,7 @@ Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
+星石传说		2024-09-26
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
@@ -54,7 +56,7 @@ Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Into the Necrovale		2024-01-26
-Tokyo Stranger 东京诡事		2024-11-14
+Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
 候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
@@ -62,7 +64,7 @@ ZERO Sievert		2022-11-15
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
-Those Who Rule		2024-11-30
+Those Who Rule		2025-01-31
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
 Cryptmaster		2024-05-09
@@ -70,6 +72,7 @@ The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Combat Complex		2024-10-04
 Demonschool		2025-02-28
+Atomic Picnic		2024-11-30
 铁山奇谭		2024-12-31
 Trinity Fusion		2023-12-15
 风中行者		2024-12-31
@@ -114,6 +117,7 @@ REMORE: INFESTED KINGDOM		2023-10-31
 致命解药		2024-10-02
 Endless Samurai 無限武者		2024-12-31
 Shoulders of Giants: Ultimate		2024-08-12
+Isle of Swaps 集换岛		2024-09-27
 雨中冒险 2: 风暴探寻者		2024-08-27
 SpongeBob SquarePants™: 派大星游戏		2024-10-04
 ARC SEED		2024-07-30
@@ -123,7 +127,7 @@ ARC SEED		2024-07-30
 Infest		2024-07-31
 牛仔3030		2024-05-28
 抓抓地牢		2024-11-30
-符文竞技场		2024-09-23
+符文竞技场		2024-09-24
 Arco		2024-08-15
 人中之龙7外传 无名之龙		2023-11-08
 Balatro		2024-02-20
@@ -139,7 +143,9 @@ Trash of the Titans		2024-05-29
 浪漫沙加2 七英雄的复仇		2024-10-24
 Avowed		2025-02-18
 Thor's Ascension: Nine Realms		2024-04-15
+Pyrene		2024-09-13
 Dark Pact		2024-11-30
+骰子浪游者		2024-10-10
 Penny Blood: Hellbound		2024-03-07
 数字魅影: 极限竞赛		2024-04-25
 Kunitsu-Gami: Path of the Goddess		2024-07-19
@@ -148,7 +154,7 @@ Burning Sword: Death Sun		2025-02-28
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-09-15
 Maraka		2025-02-28
-Evercore Heroes : Ascension		2024-12-31
+Evercore Heroes : Ascension		2025-09-15
 夏日彼方 beyond		2024-06-20
 Spellbound Shuffle		2024-12-31
 静脉注射2		2024-08-15
@@ -175,10 +181,11 @@ Project DOSA		2026-09-15
 Moonless Moon		2024-08-08
 崛起力量: 测试英雄		2024-10-22
 The End of You		2024-06-20
+BANSHEE: Demon Girl		2025-09-30
 Salt Player for Windows		2024-12-31
 《方块战记》《Legend Square》		2025-03-04
 嗜血印 Bloody Spell DLC 汉服		2024-08-07
 枪火重生 - 墨雪画境		2024-09-12
-PhotoStudioSimulator		2024-10-31
+PhotoStudioSimulator		2024-11-30
 Moon and Away		2025-09-15
 Dragons Invade Scotland		2025-02-28
