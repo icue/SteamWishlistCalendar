@@ -21,7 +21,7 @@ Gloomwood		2022-09-05
 JDM: 漂移大师		2024-12-31
 Shady Knight		2024-10-09
 海参2		2023-06-21
-Neverlooted Dungeon		2024-12-31
+Neverlooted Dungeon		2025-02-28
 叛逆神魂GODSOUL		2024-11-30
 Test Drive Unlimited Solar Crown		2024-09-12
 Portal Reloaded		2021-04-19
@@ -53,9 +53,9 @@ The Star Named EOS：未晓星程		2024-07-23
 潜行者2：切尔诺贝利之心		2024-11-20
 Wild Bastards		2024-09-12
 Forspoken		2023-01-24
-Fortune's Run		2023-09-28
+Rogue Waters		2024-09-30
 Starfield		2023-09-06
-Into the Necrovale		2024-01-26
+Into the Necrovale		2024-09-30
 Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
 候鸟		2023-01-11
@@ -67,6 +67,7 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Those Who Rule		2025-01-31
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
+I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
