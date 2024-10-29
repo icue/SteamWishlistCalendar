@@ -44,6 +44,7 @@ Dreadhunter		2023-10-18
 Skillsworn		2024-08-09
 Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
+合金弹头：战略版		2024-11-05
 多重人生		2025-02-28
 白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
@@ -58,14 +59,14 @@ Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
 候鸟		2023-01-11
-星球大战 绝地：幸存者™		2023-04-28
-ZERO Sievert		2022-11-15
+ZERO Sievert		2024-10-23
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2025-01-31
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
 真·女神转生Ⅴ Vengeance		2024-06-14
+I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
@@ -99,6 +100,7 @@ Yggdra Union		2023-07-27
 Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
 Streets of Rogue 2		2024-11-30
+Sniper Elite: Resistance		2025-01-30
 百剑讨妖传绮谭		2024-12-31
 魂宠猎人		2024-11-22
 零异机动队		2024-07-11
@@ -107,11 +109,10 @@ Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
 House Hopper		2024-11-08
-While We Wait Here		2024-10-23
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 纺织者之咏		2024-11-30
 REMORE: INFESTED KINGDOM		2023-10-31
-[REDACTED]		2024-10-31
+[REDACTED]		2024-10-28
 失落矿场		2024-07-23
 勇闯死人谷：暗黑之日		2025-09-15
 Endless Samurai 無限武者		2025-09-15
@@ -159,10 +160,12 @@ Evercore Heroes : Ascension		2025-09-15
 夏日彼方 beyond		2024-06-20
 Spellbound Shuffle		2024-12-31
 静脉注射2		2024-08-15
-Slitterhead		2024-11-08
+野狗子: Slitterhead		2024-11-08
 首都高赛车		2025-09-15
+Warmage		2024-10-26
 YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
 彼方的她-Aliya		2024-04-25
+再見的備份		2024-10-25
 Afterplace		2024-07-23
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
@@ -175,14 +178,16 @@ Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
+Become the Moon		2025-09-15
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
+Call of Duty®: Black Ops 6		2024-10-24
 深 四目朝生-阴阳之巫女-		2024-12-31
 Project DOSA		2026-09-15
 Moonless Moon		2024-08-08
-崛起力量: 测试英雄		2024-10-22
+崛起力量: 测试英雄		2024-10-23
 The End of You		2024-06-20
 BANSHEE: Demon Girl		2025-09-30
-Salt Player for Windows		2024-12-31
+Salt Player for Windows		2025-09-15
 《方块战记》《Legend Square》		2025-03-04
 武林求生		2024-10-30
 枪火重生 - 墨雪画境		2024-09-12
