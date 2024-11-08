@@ -27,7 +27,6 @@ Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
 《恶意不息》		2024-04-18
-星石传说		2024-09-26
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
@@ -59,13 +58,13 @@ Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
 候鸟		2023-01-11
-星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2024-10-23
 笠鬼		2024-04-09
 Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2025-01-31
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
@@ -81,7 +80,6 @@ SpellRogue		2024-02-12
 神骰传说		2024-02-27
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
-潜入		2023-11-08
 Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2025-02-28
 审判之逝：湮灭的记忆		2022-09-14
@@ -133,7 +131,6 @@ Infest		2024-07-31
 Dystopika: 未来城市沙盒		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
-AI LIMIT 无限机兵		2024-12-31
 Soulslinger: Envoy of Death		2023-12-14
 Hidden Pass		2025-02-04
 威赫战线 MENACE		2024-12-31
@@ -141,7 +138,9 @@ Shape of Dreams		2025-05-31
 阿蛋等什么 While Waiting		2025-02-28
 Trash of the Titans		2024-05-29
 浪漫沙加2 七英雄的复仇		2024-10-24
+inZOI		2025-03-28
 Avowed		2025-02-18
+New Arc Line		2024-11-26
 Thor's Ascension: Nine Realms		2024-04-15
 Dark Pact		2024-11-30
 骰子浪游者		2024-10-10
@@ -150,7 +149,7 @@ Penny Blood: Hellbound		2024-03-07
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-09-15
 Lost Eidolons: Veil of the Witch		2024-11-05
-Astral Throne		2024-11-30
+Astral Throne		2025-02-28
 Burning Sword: Death Sun		2025-02-28
 安尼姆的无尽旅途		2024-10-31
 DemonStar - Original Missions		2023-12-12
@@ -163,6 +162,7 @@ Spellbound Shuffle		2024-12-31
 野狗子: Slitterhead		2024-11-08
 首都高赛车		2025-09-15
 Warmage		2024-10-26
+暗喻幻想：ReFantazio		2024-10-11
 YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
 彼方的她-Aliya		2024-04-25
 再見的備份		2024-10-25
@@ -181,7 +181,7 @@ Food Devils		2025-11-30
 Become the Moon		2025-09-15
 Heretical		2024-10-30
 《法外枭雄：滚石城》Crime Boss: Rockay City		2024-06-18
-Call of Duty®: Black Ops 6		2024-10-24
+Call of Duty®: Black Ops 6		2024-10-25
 深 四目朝生-阴阳之巫女-		2024-12-31
 Project DOSA		2026-09-15
 Moonless Moon		2024-08-08
@@ -190,10 +190,12 @@ The End of You		2024-06-20
 BANSHEE: Demon Girl		2025-09-30
 Salt Player for Windows		2025-09-15
 《方块战记》《Legend Square》		2025-03-04
-武林求生		2024-10-30
 枪火重生 - 墨雪画境		2024-09-12
 Photo Studio Simulator		2024-11-30
 Moon and Away		2025-09-15
 Dragons Invade Scotland		2025-02-28
 恐怖迷途		2024-12-31
 Little Fighter 2 Remastered		2025-02-28
+无人		2024-12-31
+Rogue Loops		2025-02-28
+Paradise		2025-09-15
