@@ -22,7 +22,7 @@ JDM: 漂移大师		2025-09-15
 Shady Knight		2024-10-09
 海参2		2023-06-21
 Neverlooted Dungeon		2025-09-15
-叛逆神魂GODSOUL		2024-11-30
+叛逆神魂GODSOUL		2025-01-31
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Helskate		2024-02-15
@@ -41,14 +41,12 @@ Eternal Strands		2025-02-28
 化身大唐		2025-09-15
 Dreadhunter		2023-10-18
 Skillsworn		2024-08-09
-Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 合金弹头：战略版		2024-11-05
 多重人生		2025-02-28
 夜族崛起		2024-05-08
 白日梦的构想图		2022-02-09
 沉没意志		2024-07-31
-The Star Named EOS：未晓星程		2024-07-23
 纵横命途		2023-11-29
 潜行者2：切尔诺贝利之心		2024-11-20
 Wild Bastards		2024-09-12
@@ -57,7 +55,6 @@ Fortune's Run		2023-09-28
 Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
-候鸟		2023-01-11
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2024-10-23
 笠鬼		2024-04-09
@@ -65,6 +62,7 @@ Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2025-01-31
 燧石枪：黎明之围 Flintlock: The Siege of Dawn		2024-07-18
+真·女神转生Ⅴ Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Cryptmaster		2024-05-09
 The Last of Us™ Part I		2023-03-28
@@ -93,10 +91,9 @@ Yggdra Union		2023-07-27
 火湖		2024-10-28
 亡者之地		2024-05-13
 《赛博朋克 2077：往日之影》		2023-09-25
-Still Joking		2024-05-16
 战姬拉斯蒂尔 无限的迷宫城		2024-04-25
 Streets of Rogue 2		2024-11-30
-Sniper Elite: Resistance		2025-01-30
+狙击精英：抵抗		2025-01-30
 百剑讨妖传绮谭		2025-02-28
 魂宠猎人		2024-11-22
 零异机动队		2024-07-11
@@ -104,13 +101,13 @@ Toads of the Bayou		2024-11-19
 Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
-House Hopper		2024-11-08
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 纺织者之咏		2024-11-30
 REMORE: INFESTED KINGDOM		2023-10-31
 [REDACTED]		2024-10-28
 失落矿场		2024-07-23
 勇闯死人谷：暗黑之日		2025-09-15
+夺魄机兵		2024-11-18
 Endless Samurai 無限武者		2025-09-15
 Turbo Dismount® 2		2025-01-31
 Shoulders of Giants: Ultimate		2024-08-12
@@ -127,7 +124,7 @@ Infest		2024-07-31
 抓抓地牢		2024-11-21
 符文竞技场		2024-09-24
 人中之龙7外传 无名之龙		2023-11-08
-Dystopika: 未来城市沙盒		2024-06-21
+Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
 Soulslinger: Envoy of Death		2023-12-14
@@ -159,7 +156,6 @@ Evercore Heroes : Ascension		2025-09-15
 Spellbound Shuffle		2024-12-31
 静脉注射2		2024-08-15
 首都高赛车		2025-09-15
-Warmage		2024-10-26
 暗喻幻想：ReFantazio		2024-10-11
 YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
 彼方的她-Aliya		2024-04-25
@@ -167,7 +163,7 @@ YARISUTEMESUBUTA ~ 一次性交易大师 ~		2024-08-30
 Afterplace		2024-07-23
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
-魔幻砖域		2024-11-19
+魔幻砖域		2024-11-20
 坠落：金属女仆救世录		2025-05-31
 虐杀熔炉：竞技场		2024-08-13
 Dragon Is Dead		2024-06-07
