@@ -41,6 +41,7 @@ Eternal Strands		2025-02-28
 化身大唐		2025-09-15
 Dreadhunter		2023-10-18
 Skillsworn		2024-08-09
+Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 合金弹头：战略版		2024-11-05
 多重人生		2025-02-28
@@ -57,7 +58,7 @@ Tokyo Stranger 东京诡事		2025-01-02
 Superstar Strategy		2025-09-15
 星球大战 绝地：幸存者™		2023-04-28
 ZERO Sievert		2024-10-23
-笠鬼		2024-04-09
+笠鬼		2024-11-21
 Marvel’s Spider-Man Remastered		2022-08-12
 炎姬		2025-09-15
 Those Who Rule		2025-01-31
@@ -97,7 +98,6 @@ Streets of Rogue 2		2024-11-30
 百剑讨妖传绮谭		2025-02-28
 魂宠猎人		2024-11-22
 零异机动队		2024-07-11
-Toads of the Bayou		2024-11-19
 Wizard of Legend 2		2024-10-03
 Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
@@ -128,7 +128,7 @@ Dystopika		2024-06-21
 托尼·霍克™：职业滑板手™ 1 + 2		2023-10-03
 拾光集		2023-08-28
 Soulslinger: Envoy of Death		2023-12-14
-Hidden Pass		2025-02-04
+Hidden Pass		2025-02-28
 威赫战线 MENACE		2024-12-31
 Shape of Dreams		2025-05-31
 阿蛋等什么 While Waiting		2025-02-28
@@ -138,6 +138,7 @@ inZOI		2025-03-28
 Avowed		2025-02-18
 New Arc Line		2024-11-26
 Thor's Ascension: Nine Realms		2024-04-15
+雷霆孤影 (VOIN)		2024-12-10
 Dark Pact		2024-11-30
 骰子浪游者		2024-10-10
 Penny Blood: Hellbound		2024-03-07
@@ -152,6 +153,7 @@ DemonStar - Original Missions		2023-12-12
 Mixtape		2025-09-15
 Maraka		2025-02-28
 Evercore Heroes : Ascension		2025-09-15
+Cosmorons		2025-09-15
 夏日彼方 beyond		2024-06-20
 Spellbound Shuffle		2024-12-31
 静脉注射2		2024-08-15
@@ -169,6 +171,7 @@ The Roottrees are Dead		2025-01-15
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
 ATTA -Spot the Oddities in the Strange Hotel-		2024-02-27
+Blightstone		2025-09-15
 深夏时光！　二十世纪的暑假		2024-06-26
 Food Devils		2025-11-30
 Become the Moon		2025-09-15
