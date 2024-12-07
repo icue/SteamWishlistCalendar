@@ -132,7 +132,7 @@ for appid in wishlist_appids:
         game_details = get_game_details(appid)
         if game_details.name:
             break
-        time.sleep(3)
+        time.sleep(5)
     else:
         bad_appids.append(str(appid))
         continue
