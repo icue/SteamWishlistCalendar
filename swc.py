@@ -127,8 +127,8 @@ bad_appids = []
 wishlist_appids = get_wishlist_appids(args.id)
 
 for appid in wishlist_appids:
-    # Try 15 times, as there can be transient errors with this API
-    for retry in range(15):
+    # Try 20 times, as there can be transient errors with this API
+    for retry in range(20):
         game_details = get_game_details(appid)
         if game_details.name:
             break
