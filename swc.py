@@ -78,7 +78,13 @@ failed_deductions = []
 for index in range(0, args.max_page):
     params['p'] = index
     response = requests.get(url, params=params, timeout=10)
-    response_data = response.json()
+
+    # Steam API broken
+    try:
+        response_data = response.json()
+    except requests.exceptions.JSONDecodeError:
+        exit()
+
     if not response_data:
         # No more remaining items.
         break
