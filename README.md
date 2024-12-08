@@ -13,7 +13,6 @@ Example track history output:
     
    Optional parameters:
    * `-d`: whether to include DLCs. Default is `False`.
-   * `-p`: maximum number of pages to process. Default is `20`. This determines how many items on the wishlist get processed in total. It's unclear how many items each page contains by Steam API design, but 20 should generally be enough if you don't have thousands of items on your wishlist. If you find that the result is cut-off, try set a higher number.
 4. When finished, the script generates 5 files in [`/output`](output/) directory.
     * [`wishlist.ics`](output/wishlist.ics): an `.ICS` file, which can be imported into common calendar applications, such as Google Calendar and Outlook. Learn more about this format on [Wikipedia](https://en.wikipedia.org/wiki/ICalendar).
     * [`history.json`](output/history.json): stores the number of wishlisted items, as well as the number of pre-releases among them, of the day. Keeps growing.

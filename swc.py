@@ -195,7 +195,6 @@ def get_game_details_via_get_items_api(appids):
 # Arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--id', type=str, required=True)
-parser.add_argument('-p', '--max-page', type=int, default=20)
 parser.add_argument('-d', '--include-dlc', type=bool, default=False)
 args = parser.parse_args()
 
