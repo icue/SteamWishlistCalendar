@@ -46,7 +46,7 @@ The Alters		2025-02-28
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Minds Beneath Us		2024-07-31
 Cross Blitz		2023-11-29
-S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
+潜行者2：切尔诺贝利之心		2024-11-20
 Forspoken		2023-01-24
 Fortune's Run		2023-09-27
 Starfield		2023-09-05
@@ -145,8 +145,10 @@ Natsuno-Kanata: Beyond Summer		2024-06-19
 Spellbound Shuffle		2024-12-31
 Intravenous 2		2024-08-15
 Tokyo Xtreme Racer		2025-12-31
-Metaphor: ReFantazio		2024-10-11
+Metaphor: ReFantazio		2024-10-10
 Yarimono		2024-08-30
+Aliya: Timelink		2024-04-25
+Some Goodbyes We Made		2024-10-24
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
 CleanFall		2025-05-31
