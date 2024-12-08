@@ -9,10 +9,10 @@ UID:34010
 DESCRIPTION:https://store.steampowered.com/app/34010\n\nLoyalty carries a 
  price and no one knows this more than agent Michael Thorton. A talented 
  young agent cast out by his government\, Thorton is the only one with the 
- information needed to stop an impending international 
- catastrophe.\n\nOriginal date string from steam: "Jun 1\, 2010"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ information needed to stop an impending international catastrophe.\n\nDate
+  string from steam: "2010-06-01"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -23,10 +23,10 @@ UID:206190
 DESCRIPTION:https://store.steampowered.com/app/206190\n\nGunpoint is a 
  stealth puzzle game that lets you rewire its levels to trick people. You 
  play a freelance spy who takes jobs from his clients to break into high 
- security buildings and steal sensitive data.\n\nOriginal date string from 
- steam: "Jun 3\, 2013"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ security buildings and steal sensitive data.\n\nDate string from steam: 
+ "2013-06-03"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -38,10 +38,10 @@ DESCRIPTION:https://store.steampowered.com/app/290100\n\nBulwark: Evolution
   mixes elements of a chill builder with grand strategy and exploration 
  elements. It's a genre bending experimental game that can be both a 
  peaceful building experience or a total conquest with airships\, warbirds 
- and fortresses. It's up to the player to decide.\n\nOriginal date string 
- from steam: "Mar 26\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and fortresses. It's up to the player to decide.\n\nDate string from 
+ steam: "2024-03-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -53,51 +53,50 @@ DESCRIPTION:https://store.steampowered.com/app/443190\n\nProject Haven is a
   squad tactics game set on the mean streets of Earth’s last city. Lead the
   Steel Dragons—a mismatched mercenary crew—on high-risk missions\, invest 
  in equipment and stay ahead of the game one bullet at a time. Play the 
- story solo or co-op\, plus procedural skirmishes for 1-4 
- players.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ story solo or co-op\, plus procedural skirmishes for 1-4 players.\n\nDate 
+ string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20171016
-DTEND;VALUE=DATE:20171017
+DTSTART;VALUE=DATE:20171017
+DTEND;VALUE=DATE:20171018
 SUMMARY:Cogmind
 UID:722730
 DESCRIPTION:https://store.steampowered.com/app/722730\n\nCogmind is a sci-
  fi roguelike epic in which you play a robot building yourself from 
  components found or salvaged from other robots. Explore a living\, 
  breathing world through turn-based tactical combat\, or sneak\, hack\, and
-  fly your way to victory.\n\nOriginal date string from steam: "Oct 16\, 
- 2017"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  fly your way to victory.\n\nDate string from steam: "2017-10-17"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180510
-DTEND;VALUE=DATE:20180511
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180512
 SUMMARY:Fortune-499
 UID:840610
 DESCRIPTION:https://store.steampowered.com/app/840610\n\nThere is no future
-  in the future.\n\nOriginal date string from steam: "May 10\, 2018"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  in the future.\n\nDate string from steam: "2018-05-11"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240131
-DTEND;VALUE=DATE:20240201
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240202
 SUMMARY:Granblue Fantasy: Relink
 UID:881020
 DESCRIPTION:https://store.steampowered.com/app/881020\n\nA grand adventure 
  in the skies awaits! Form a party of four from a diverse roster of 
  skyfarers and slash—or shoot or hex—your way to victory against 
  treacherous foes in this action RPG. Take on quests solo or with the help 
- of others in up to 4-player co-op play!\n\nOriginal date string from 
- steam: "Jan 31\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ of others in up to 4-player co-op play!\n\nDate string from steam: 
+ "2024-02-01"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -108,10 +107,9 @@ UID:917950
 DESCRIPTION:https://store.steampowered.com/app/917950\n\nDive into the 
  magic tomes of Vellum\, a cooperative action roguelike. Discover pages of 
  increasing power\, sling ink-infused spells\, and choose how your foes 
- evolve - as a group or solo!\n\nOriginal date string from steam: "Mar 28\,
-  2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ evolve - as a group or solo!\n\nDate string from steam: "2024-03-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -123,10 +121,9 @@ DESCRIPTION:https://store.steampowered.com/app/934700\n\nA deadly virus is
  spreading across Los Angeles\, turning its inhabitants into zombies. 
  Bitten\, infected\, but more than just immune\, uncover the truth behind 
  the outbreak and discover who - or what - you are. Survive\, evolve and 
- become the ultimate Zombie Slayer.\n\nOriginal date string from steam: 
- "Apr 22\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ become the ultimate Zombie Slayer.\n\nDate string from steam: "2024-04-22"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -138,10 +135,9 @@ DESCRIPTION:https://store.steampowered.com/app/986130\n\nAn immersive
  sandbox detective stealth game set in a fully simulated sci-fi noir city 
  of crime and corruption. Think like a private investigator and take on 
  jobs to earn cash on your path to catching a serial killer. If you don’t 
- catch them - they will kill again…\n\nOriginal date string from steam: 
- "Sep 26\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ catch them - they will kill again…\n\nDate string from steam: "2024-09-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -152,9 +148,9 @@ UID:990080
 DESCRIPTION:https://store.steampowered.com/app/990080\n\nHogwarts Legacy is
   an immersive\, open-world action RPG. Now you can take control of the 
  action and be at the center of your own adventure in the wizarding 
- world.\n\nOriginal date string from steam: "10 Feb\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ world.\n\nDate string from steam: "2023-02-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -167,9 +163,9 @@ DESCRIPTION:https://store.steampowered.com/app/1021210\n\nCyberpunk
  strategy. Build your crew wisely\; their stories will become interwoven 
  with your own. Pull off heists with powerful cyberware\, faction 
  connections\, multiclassing\, weapon modding\, stealth\, hacking\, and 
- more!\n\nOriginal date string from steam: "Oct 17\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ more!\n\nDate string from steam: "2023-10-17"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -181,10 +177,10 @@ DESCRIPTION:https://store.steampowered.com/app/1040200\n\nOnce you get
  tangled with the mob\, you will forever be a part of the mob. At least 
  they pay a decent salary and all you have to do is clean up after their 
  dirty work\, but you know what you’re doing. So clean crime scenes\, earn 
- as much money as you can\, and get ready for the next mission.\n\nOriginal
-  date string from steam: "Aug 14\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ as much money as you can\, and get ready for the next mission.\n\nDate 
+ string from steam: "2024-08-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -195,23 +191,23 @@ UID:1116170
 DESCRIPTION:https://store.steampowered.com/app/1116170\n\nBrutal fast-paced
   isometric Co-op Loot Shooter in Cyberpunk world. Equipment-based combos. 
  Exotic Weapons and Armor. Easy to start\, hard to master. Play solo or 
- with friends.\n\nOriginal date string from steam: "Aug 19\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ with friends.\n\nDate string from steam: "2024-08-19"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240321
-DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
 SUMMARY:Reverse Collapse: Code Name Bakery
 UID:1127700
 DESCRIPTION:https://store.steampowered.com/app/1127700\n\nExperience the 
  newest tactical RPG from the creators of Girls’ Frontline. Some 30 years 
  in the future\, AU agent Mendo and the mysterious girl Jefuty find 
- themselves in gruesome battles against armed URNC forces…\n\nOriginal date
-  string from steam: "Mar 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ themselves in gruesome battles against armed URNC forces…\n\nDate string 
+ from steam: "2024-03-22"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -220,13 +216,13 @@ DTEND;VALUE=DATE:20240202
 SUMMARY:Dominion
 UID:1131620
 DESCRIPTION:https://store.steampowered.com/app/1131620\n\nExpand a small 
- kingdom to a mighty Dominion! Play the Spiel des Jahres winning boardgame 
- beloved by millions around the world. Discover the game that defined a 
+ kingdom to a mighty Dominion!  Play the Spiel des Jahres winning boardgame
+  beloved by millions around the world. Discover the game that defined a 
  genre\, Dominion was first to popularize deck-building and remains a 
  staple of tabletop. This is the officially licensed 
- implementation.\n\nOriginal date string from steam: "Feb 1\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ implementation.\n\nDate string from steam: "2024-02-01"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -236,10 +232,10 @@ SUMMARY:Hades II
 UID:1145350
 DESCRIPTION:https://store.steampowered.com/app/1145350\n\nBattle beyond the
   Underworld using dark sorcery to take on the Titan of Time in this 
- bewitching sequel to the award-winning rogue-like dungeon 
- crawler.\n\nOriginal date string from steam: "May 6\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ bewitching sequel to the award-winning rogue-like dungeon crawler.\n\nDate
+  string from steam: "2024-05-06"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -252,9 +248,9 @@ DESCRIPTION:https://store.steampowered.com/app/1150760\n\nTrapped in a
  survival and daring escape using nothing but stealth\, an arsenal of 
  eccentric weapons\, and your wit in this haunting adventure inspired by 
  the immersive sims and survival horror greats of the late 90s and early 
- 2000s.\n\nOriginal date string from steam: "Sep 5\, 2022"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ 2000s.\n\nDate string from steam: "2022-09-05"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -266,10 +262,10 @@ DESCRIPTION:https://store.steampowered.com/app/1153410\n\nDiscover Japan’s
  legendary car culture in JDM: Japanese Drift Master! Take on challenging 
  roads with refined simcade physics\, immerse in the story through manga 
  pages\, and explore an open world inspired by stunning real-life areas. 
- Every turn invites you to master the art of drift.\n\nOriginal date string
-  from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Every turn invites you to master the art of drift.\n\nDate string from 
+ steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -281,9 +277,9 @@ DESCRIPTION:https://store.steampowered.com/app/1155650\n\nShady Knight is a
   first-person skill-driven melee action game centered around swift 
  swordplay\, acrobatic archery\, and fluid platforming that seamlessly 
  blends combat and parkour skills into a stylish dance of death full of 
- creative chaos.\n\nOriginal date string from steam: "Oct 9\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ creative chaos.\n\nDate string from steam: "2024-10-09"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -294,10 +290,10 @@ UID:1164940
 DESCRIPTION:https://store.steampowered.com/app/1164940\n\nBecome the 
  ultimate badass in Trepang2: A gory\, action-packed FPS set in the near 
  future. Unleash all hell on your enemies\, dodge bullets and leave a trail
-  of destruction in this hardcore and frenetic shooter.\n\nOriginal date 
- string from steam: "Jun 21\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  of destruction in this hardcore and frenetic shooter.\n\nDate string from
+  steam: "2023-06-21"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -307,12 +303,12 @@ SUMMARY:Neverlooted Dungeon
 UID:1171980
 DESCRIPTION:https://store.steampowered.com/app/1171980\n\nVenture deep into
   the Neverlooted Dungeon in search of its legendary treasure\, and face 
- its treacherous\, deadly traps. Using your creativity and magical items in
-  a highly interactive physics-based world\, find your own ways to outsmart
-  the dangers\, and be the first to uncover its darkest 
- secrets.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ its treacherous\, deadly traps. \r\nUsing your creativity and magical 
+ items in a highly interactive physics-based world\, find your own ways to 
+ outsmart the dangers\, and be the first to uncover its darkest 
+ secrets.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -320,13 +316,13 @@ DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Rebellion GODSOUL: Awakening
 UID:1213300
-DESCRIPTION:https://store.steampowered.com/app/1213300\n\n&quot\;GODSOUL&qu
- ot\; is a story-driven\,Hyper-visually RPG. Team with &quot\;rebel&quot\; 
- girls who love gaming and drawing（and more）\, resist villains and enjoy a 
- mix of cyber reality\, fantastical worlds\, and card game 
- action.\n\nOriginal date string from steam: "January 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+DESCRIPTION:https://store.steampowered.com/app/1213300\n\n"GODSOUL" is a 
+ story-driven\,Hyper-visually RPG. Team with "rebel" girls who love gaming 
+ and drawing（and more）\, resist villains  and enjoy a mix of cyber 
+ reality\, fantastical worlds\, and card game action.\n\nDate string from 
+ steam: "2025-01-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -338,10 +334,10 @@ DESCRIPTION:https://store.steampowered.com/app/1255980\n\nPortal Reloaded
  is a free\, community made modification for Portal 2. The mod builds on 
  the concepts of the main game by allowing you to place a third portal\, 
  which enables traveling between two different timelines. Thinking in four 
- dimensions is vital to solving 25 brand new mind-bending 
- puzzles.\n\nOriginal date string from steam: "Apr 19\, 2021"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ dimensions is vital to solving 25 brand new mind-bending puzzles.\n\nDate 
+ string from steam: "2021-04-19"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -353,10 +349,9 @@ DESCRIPTION:https://store.steampowered.com/app/1267210\n\nA fantasy
  gladiator strategy RPG with vibrant characters\, funny random events\, 
  team management mechanics\, and emergent relationship-building. Uncover a 
  sinister conspiracy\; fight deep turn-based tactical battles\; watch your 
- characters grow together!\n\nOriginal date string from steam: "Apr 25\, 
- 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ characters grow together!\n\nDate string from steam: "2023-04-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -368,10 +363,10 @@ DESCRIPTION:https://store.steampowered.com/app/1295630\n\nHelskate is a
  skateboarding action roguelite. Grind\, perform tricks\, and chain combos 
  to power up your attacks to slay the monsters of Vertheim. Combine unique 
  weapons and gear to suit your playstyle as you fight\, die\, and upgrade 
- your abilities to come back to this labyrinth over and over 
- again!\n\nOriginal date string from steam: "Feb 15\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ your abilities to come back to this labyrinth over and over again!\n\nDate
+  string from steam: "2024-02-15"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -382,10 +377,10 @@ UID:1371980
 DESCRIPTION:https://store.steampowered.com/app/1371980\n\nFrom Moon 
  Studios\, the award-winning developers of Ori and the Blind Forest and Ori
   and the Will of the Wisps comes No Rest for the Wicked\, a visceral\, 
- precision Action RPG set to reinvent the genre.\n\nOriginal date string 
- from steam: "Apr 18\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ precision Action RPG set to reinvent the genre.\n\nDate string from steam:
+  "2024-04-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -397,9 +392,9 @@ DESCRIPTION:https://store.steampowered.com/app/1382070\n\nChallenge
  perception\, redefine reality\, and reshape the world around you with an 
  instant camera. Viewfinder is a new single player game offering gamers 
  hours of interesting and fun experiences while uncovering the mysteries 
- left behind.\n\nOriginal date string from steam: "Jul 18\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ left behind.\n\nDate string from steam: "2023-07-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -412,9 +407,9 @@ DESCRIPTION:https://store.steampowered.com/app/1384060\n\nBattleJuice
  system to the classic aRPG formula. Focus on isometric combat or opt for 
  JRPG-style one-on-one fights. Explore the wilderness\, learn ritual 
  magic\, build a tower and craft potions to fight the demonic hordes of 
- Samhain.\n\nOriginal date string from steam: "Mar 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Samhain.\n\nDate string from steam: "2024-03-21"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -424,10 +419,9 @@ SUMMARY:Plasma
 UID:1409160
 DESCRIPTION:https://store.steampowered.com/app/1409160\n\nPlasma is a pure 
  engineering sandbox. Use advanced visual programming and robotics tools to
-  create anything you can imagine.\n\nOriginal date string from steam: "Sep
-  13\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  create anything you can imagine.\n\nDate string from steam: "2023-09-13"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -439,10 +433,10 @@ DESCRIPTION:https://store.steampowered.com/app/1411910\n\nThe A.C.E.S\,
  watchful guardians of Switchblade City\, are being taken down\, one by 
  one. Now it's up to one man\, with two fists\, to get to the bottom of it 
  all. Fallen Aces is a crime noir FPS that plays right out of the '90s and 
- looks like it's right outta the comics.\n\nOriginal date string from 
- steam: "Jun 14\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ looks like it's right outta the comics.\n\nDate string from steam: 
+ "2024-06-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -454,9 +448,9 @@ DESCRIPTION:https://store.steampowered.com/app/1421290\n\nBattle Shapers is
   an action-packed\, sci-fi FPS roguelite in which you shoot and smash your
   way through swarms of corrupt robots. Wield powerful weapons\, 
  abilities\, and game-changing new powers stolen from ruthless 
- Overlords.\n\nOriginal date string from steam: "Dec 4\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Overlords.\n\nDate string from steam: "2024-12-04"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -467,11 +461,11 @@ UID:1428100
 DESCRIPTION:https://store.steampowered.com/app/1428100\n\nBreak thru 
  walls\, tear down buildings\, and send structures crashing into each other
   in Instruments of Destruction\, a vehicle-action game featuring advanced 
- physics-based destruction. Pilot a variety of vehicles across dozens of 
+ physics-based destruction.  Pilot a variety of vehicles across dozens of 
  missions and high score challenges in this highly-interactive 
- world.\n\nOriginal date string from steam: "May 10\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ world.\n\nDate string from steam: "2024-05-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -482,10 +476,10 @@ UID:1429850
 DESCRIPTION:https://store.steampowered.com/app/1429850\n\nLead an unlikely 
  team of commando scientists behind enemy lines to fight Nazis\, uncover 
  arcane mysteries\, and wield experimental technology to turn the tide of 
- WWII in this real-time tactical stealth adventure.\n\nOriginal date string
-  from steam: "Sep 2\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ WWII in this real-time tactical stealth adventure.\n\nDate string from 
+ steam: "2024-09-02"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -497,10 +491,10 @@ DESCRIPTION:https://store.steampowered.com/app/1464220\n\nNetherguild is a
  turn-based roguelite dungeon-crawler on a grid\, where you command 
  expeditions below the earth in a desperate attempt to cure a strange 
  plague. Explore\, camp\, and fight as far as you can before heading back 
- to resupply. What will you discover underground?\n\nOriginal date string 
- from steam: "Mar 27\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ to resupply. What will you discover underground?\n\nDate string from 
+ steam: "2023-03-27"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -511,10 +505,10 @@ UID:1488490
 DESCRIPTION:https://store.steampowered.com/app/1488490\n\nGrow your 
  business\, manage restaurants and nightclubs\, make friends and enemies\, 
  buy and decorate apartments\, go fishing and maybe even find love in 
- Nivalis\, the city that stretches from the ocean to the 
- clouds.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Nivalis\, the city that stretches from the ocean to the clouds.\n\nDate 
+ string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -525,9 +519,9 @@ UID:1491410
 DESCRIPTION:https://store.steampowered.com/app/1491410\n\nFight epic\, 
  towering creatures while blending magical abilities with an arsenal of 
  powerful weapons to keep the world from crumbling in this third-person\, 
- action-adventure game.\n\nOriginal date string from steam: "28 Jan\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ action-adventure game.\n\nDate string from steam: "2025-01-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -539,9 +533,9 @@ DESCRIPTION:https://store.steampowered.com/app/1496590\n\nA Tropical Open-
  World adventure. Climb\, glide\, swim\, and sail your boat around a 
  beautiful archipelago in this physics-driven sandbox. Take control of any 
  animal or object you can find\, and Jam on your fully playable 
- Ukulele.\n\nOriginal date string from steam: "Mar 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Ukulele.\n\nDate string from steam: "2024-03-21"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -550,13 +544,13 @@ DTEND;VALUE=DATE:20260101
 SUMMARY:Eastern Tactics
 UID:1497910
 DESCRIPTION:https://store.steampowered.com/app/1497910\n\nEastern Tactics 
- is a classical Turn-base Tactic RPG (SRPG). Players need to train their 
- team through battles\, manipulate the character pieces to move\, give 
- orders correctly\, selectively upgrade their characters with reasonable 
- equipment and use skills to pass one level challenge after 
- another.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ is a classical Turn-base Tactic RPG (SRPG).\r\n\r\nPlayers need to train 
+ their team through battles\, manipulate the character pieces to move\, 
+ give orders correctly\, selectively upgrade their characters with 
+ reasonable equipment and use skills to pass one level challenge after 
+ another.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -567,25 +561,25 @@ UID:1553710
 DESCRIPTION:https://store.steampowered.com/app/1553710\n\nPlough through 
  hordes of deadly monsters and defeat vicious bosses in an intense fast 
  paced shooter RPG where all items are “legendary”\, levels are ever-
- changing and combat is razor-sharp.\n\nOriginal date string from steam: 
- "Oct 18\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ changing and combat is razor-sharp.\n\nDate string from steam: 
+ "2023-10-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240808
-DTEND;VALUE=DATE:20240809
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
 SUMMARY:Skillsworn
 UID:1565240
 DESCRIPTION:https://store.steampowered.com/app/1565240\n\nSkillsworn is a 
  tactical turn based adventure game. Take on the role of a fresh party 
- leader and embark on a journey through the wilds of Thera to stabilize the
-  lands in the name of the King! Defeat a variety of dangerous foes and 
+ leader and embark on a journey through the wilds of Thera  to stabilize 
+ the lands in the name of the King! Defeat a variety of dangerous foes and 
  prove that you are not just another bored peasant seeking a 
- thrill.\n\nOriginal date string from steam: "Aug 8\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ thrill.\n\nDate string from steam: "2024-08-09"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -597,21 +591,21 @@ DESCRIPTION:https://store.steampowered.com/app/1574820\n\nA fateful meeting
   sets off a chain reaction\, upending Mark's life. People disappear and 
  memories prove unreliable. Uncover a hidden truth with Mark and his 
  friends in this narrative adventure and race to unravel the mystery before
-  it's too late.\n\nOriginal date string from steam: "Jun 25\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  it's too late.\n\nDate string from steam: "2024-06-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20210609
-DTEND;VALUE=DATE:20210610
+DTSTART;VALUE=DATE:20210610
+DTEND;VALUE=DATE:20210611
 SUMMARY:[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2
 UID:1580790
 DESCRIPTION:https://store.steampowered.com/app/1580790\n\n3 high speed 
- ninja action titles are now available in one package!\n\nOriginal date 
- string from steam: "Jun 9\, 2021"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ ninja action titles are now available in one package!\n\nDate string from 
+ steam: "2021-06-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -623,25 +617,25 @@ DESCRIPTION:https://store.steampowered.com/app/1590760\n\nMETAL SLUG makes
  an explosive return! Dive into this dynamic tactical RPG with a roguelite 
  thrill and experience the iconic run'n'gun action of the original series\,
   redefined. Grab your weapons\, assemble your squad and conquer the 
- battlefield to defeat the infamous Rebel Army.\n\nOriginal date string 
- from steam: "Nov 5\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ battlefield to defeat the infamous Rebel Army.\n\nDate string from steam: 
+ "2024-11-05"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:The Alters
 UID:1601570
 DESCRIPTION:https://store.steampowered.com/app/1601570\n\nExplore an 
  emotional sci-fi game that features a unique blend of adventure\, 
  survival\, and base-building elements. Play as Jan Dolski\, a simple 
  worker who creates alternative versions of himself in a desperate attempt 
- to escape from a planet where even sun rays can prove deadly.\n\nOriginal 
- date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ to escape from a planet where even sun rays can prove deadly.\n\nDate 
+ string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -654,9 +648,9 @@ DESCRIPTION:https://store.steampowered.com/app/1607200\n\nKaito wakes to
  named Yonagi by his side. Upon learning of his role\, he immerses himself 
  into three wondrous dream worlds with her. When all three stories meet a 
  bitter end\, Kaito recovers his memories\, and the true story 
- unfolds.\n\nOriginal date string from steam: "Feb 9\, 2022"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ unfolds.\n\nDate string from steam: "2022-02-09"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -669,9 +663,9 @@ DESCRIPTION:https://store.steampowered.com/app/1610440\n\nMINDS BENEATH US
  individual\, experience a mad world where humans are exploited as 
  computing devices for AI. Listen to the concerns of those you meet and 
  offer guidance. Together\, face challenges and confront an uncertain 
- destiny.\n\nOriginal date string from steam: "Jul 31\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ destiny.\n\nDate string from steam: "2024-07-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -683,9 +677,9 @@ DESCRIPTION:https://store.steampowered.com/app/1619520\n\nCross Blitz is a
  unique RPG deckbuilder featuring fast-paced tactical combat with loads of 
  cards to collect and synergies to wield. Explore\, level up\, craft new 
  cards and build the perfect decks as you carve your own path to 
- victory!\n\nOriginal date string from steam: "Nov 29\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ victory!\n\nDate string from steam: "2023-11-29"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -697,9 +691,9 @@ DESCRIPTION:https://store.steampowered.com/app/1643320\n\nDiscover the vast
   Chornobyl Exclusion Zone full of dangerous enemies\, deadly anomalies and
   powerful artifacts. Unveil your own epic story as you make your way to 
  the Heart of Chornobyl. Make your choices wisely\, as they will determine 
- your fate in the end.\n\nOriginal date string from steam: "Nov 20\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ your fate in the end.\n\nDate string from steam: "2024-11-20"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -711,51 +705,51 @@ DESCRIPTION:https://store.steampowered.com/app/1680880\n\nForspoken follows
   the journey of Frey\, a young New Yorker transported to the beautiful and
   cruel land of Athia. In search of a way home\, Frey must use her newfound
   magical abilities to traverse sprawling landscapes and battle monstrous 
- creatures.\n\nOriginal date string from steam: "Jan 24\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ creatures.\n\nDate string from steam: "2023-01-24"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230927
-DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20230928
+DTEND;VALUE=DATE:20230929
 SUMMARY:Fortune's Run
 UID:1692240
 DESCRIPTION:https://store.steampowered.com/app/1692240\n\nExplore a 
  decaying industrial world left behind in humanity's never-ending race to 
  conquer the stars. Beneath its iron skies\, desperate souls kill and steal
   for passage to the still-plentiful frontier worlds. Sink or swim in this 
- high-octane first-person shooter with immersive sim elements.\n\nOriginal 
- date string from steam: "Sep 27\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ high-octane first-person shooter with immersive sim elements.\n\nDate 
+ string from steam: "2023-09-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230905
-DTEND;VALUE=DATE:20230906
+DTSTART;VALUE=DATE:20230906
+DTEND;VALUE=DATE:20230907
 SUMMARY:Starfield
 UID:1716740
 DESCRIPTION:https://store.steampowered.com/app/1716740\n\nStarfield is the 
  first new universe in 25 years from Bethesda Game Studios\, the award-
- winning creators of The Elder Scrolls V: Skyrim and Fallout 4.\n\nOriginal
-  date string from steam: "Sep 5\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ winning creators of The Elder Scrolls V: Skyrim and Fallout 4.\n\nDate 
+ string from steam: "2023-09-06"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Tokyo Stranger 东京诡事
 UID:1719930
 DESCRIPTION:https://store.steampowered.com/app/1719930\n\nTokyo Stranger is
   an aerial genre of text horror game inspired by the opening ceremony of 
- the 2020 Tokyo Olympic Games. You play as a tourist from an exotic 
+ the 2020 Tokyo Olympic Games.\r\nYou play as a tourist from an exotic 
  country\, looking for any possibility to escape Tokyo in a static 
- world.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ world.\n\nDate string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -767,22 +761,21 @@ DESCRIPTION:https://store.steampowered.com/app/1756730\n\nMuster your army
  and launch your campaign in this turn-based Tactical RPG. Draft units and 
  use unique skills and terrain to wage war! Play alone\, together with your
   friends\, or against them in PvE and PvP modes across a wide variety of 
- maps with distinct objectives.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ maps with distinct objectives.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230427
-DTEND;VALUE=DATE:20230428
+DTSTART;VALUE=DATE:20230428
+DTEND;VALUE=DATE:20230429
 SUMMARY:STAR WARS Jedi: Survivor™
 UID:1774580
 DESCRIPTION:https://store.steampowered.com/app/1774580\n\nThe story of Cal 
  Kestis continues in STAR WARS Jedi: Survivor™\, a galaxy-spanning\, third-
- person\, action-adventure game.\n\nOriginal date string from steam: "27 
- Apr\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ person\, action-adventure game.\n\nDate string from steam: "2023-04-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -794,24 +787,22 @@ DESCRIPTION:https://store.steampowered.com/app/1782120\n\nZERO Sievert is a
   tense top-down extraction shooter that challenges you to scavenge a 
  procedurally-generated wasteland\, loot gear\, and explore what’s left of 
  a devastated world. When the odds are stacked against you\, you’ll need to
-  do more than just survive...\n\nOriginal date string from steam: "Oct 
- 23\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  do more than just survive...\n\nDate string from steam: "2024-10-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DTEND;VALUE=DATE:20250601
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
 SUMMARY:Hell Clock
 UID:1782460
 DESCRIPTION:https://store.steampowered.com/app/1782460\n\nForge powerful 
  builds with endless loot in this relentless combination of Roguelike and 
  ARPG. Blast through dungeons and unleash inhuman powers in a dark fantasy 
- twist on Brazil’s War of Canudos.\n\nOriginal date string from steam: "Q2 
- 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ twist on Brazil’s War of Canudos.\n\nDate string from steam: "2025-06-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -824,9 +815,9 @@ DESCRIPTION:https://store.steampowered.com/app/1817070\n\nIn Marvel’s
  in an original action-packed story. Play as an experienced Peter Parker\, 
  fighting big crime and iconic villains in Marvel’s New York. Web-swing 
  through vibrant neighborhoods and defeat villains with epic 
- takedowns.\n\nOriginal date string from steam: "Aug 12\, 2022"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ takedowns.\n\nDate string from steam: "2022-08-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -838,10 +829,10 @@ DESCRIPTION:https://store.steampowered.com/app/1820000\n\nHomura Hime is a
  third person action game\, featuring anime-styled visuals and intense 3D 
  bullet hell gameplay. Alongside Homura Hime\, fight against archdemons 
  possessed by deviant emotions\, and get closer to discovering the truth 
- behind both the archdemons and her own veiled legacy.\n\nOriginal date 
- string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ behind both the archdemons and her own veiled legacy.\n\nDate string from 
+ steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -853,38 +844,37 @@ DESCRIPTION:https://store.steampowered.com/app/1822060\n\nJoin three fresh
  recruits caught in a web of betrayal as war looms over the land. Lead your
   band of heroes through tactical turn-based battles\, master unique 
  abilities\, and forge powerful gear to turn the tide of battle. Will you 
- unravel the conspiracy driving the conflict—or be consumed by 
- it?\n\nOriginal date string from steam: "January 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ unravel the conspiracy driving the conflict—or be consumed by it?\n\nDate 
+ string from steam: "2025-01-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240717
-DTEND;VALUE=DATE:20240718
+DTSTART;VALUE=DATE:20240718
+DTEND;VALUE=DATE:20240719
 SUMMARY:Flintlock: The Siege of Dawn
 UID:1832040
 DESCRIPTION:https://store.steampowered.com/app/1832040\n\nFrom games studio
   A44\, makers of Ashen\, comes an explosive Souls-lite\, where Gods and 
- guns collide in a battle for the future of humanity.\n\nOriginal date 
- string from steam: "Jul 17\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ guns collide in a battle for the future of humanity.\n\nDate string from 
+ steam: "2024-07-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240613
-DTEND;VALUE=DATE:20240614
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
 SUMMARY:Shin Megami Tensei V: Vengeance
 UID:1875830
 DESCRIPTION:https://store.steampowered.com/app/1875830\n\nBecome a mighty 
  demigod and battle through a decimated Tokyo in a war between angels and 
  demons. Make new allies along your journey\, engage in intense\, turn-
  based combat\, recruit hundreds of demons and forge your own path to 
- dictate the fate of all existence.\n\nOriginal date string from steam: "13
-  Jun\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ dictate the fate of all existence.\n\nDate string from steam: "2024-06-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -895,9 +885,9 @@ UID:1876590
 DESCRIPTION:https://store.steampowered.com/app/1876590\n\nHunt the 
  military-industrial complex across stylish comic book micro-sandboxes in 
  this fast-paced covert revenge thriller FPS from the developers of El 
- Paso\, Elsewhere.\n\nOriginal date string from steam: "Sep 10\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Paso\, Elsewhere.\n\nDate string from steam: "2024-09-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -908,10 +898,10 @@ UID:1888930
 DESCRIPTION:https://store.steampowered.com/app/1888930\n\nDiscover the 
  award-winning game that inspired the critically acclaimed television show.
   Guide Joel and Ellie through a post-apocalyptic America\, and encounter 
- unforgettable allies and enemies in The Last of Us™.\n\nOriginal date 
- string from steam: "28 Mar\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ unforgettable allies and enemies in The Last of Us™.\n\nDate string from 
+ steam: "2023-03-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -923,24 +913,24 @@ DESCRIPTION:https://store.steampowered.com/app/1897650\n\nDream Tactics is
  a GBA-styled strategy RPG with cunning card combos and deep character 
  customization. Pick your party\, manage cards to create unique 
  playstyles\, and outsmart hordes of pillows in turn-based combat to save 
- the Dream World from its inevitable collapse.\n\nOriginal date string from
-  steam: "Apr 15\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ the Dream World from its inevitable collapse.\n\nDate string from steam: 
+ "2024-04-15"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Demonschool
 UID:1900250
 DESCRIPTION:https://store.steampowered.com/app/1900250\n\nDemonschool is a 
  new-style tactics RPG where motion equals action. Defeat big weirdos in 
  between the human and demon worlds as Faye and her misfit companions\, 
- while navigating university life on a mysterious island.\n\nOriginal date 
- string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ while navigating university life on a mysterious island.\n\nDate string 
+ from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -951,9 +941,9 @@ UID:1903560
 DESCRIPTION:https://store.steampowered.com/app/1903560\n\nSwing and dash 
  across the wasteland to slay monsters\, smash loot pinatas\, and synergize
   your upgrades with powerful weapons in this co-op roguelike 
- shooter!\n\nOriginal date string from steam: "Nov 7\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ shooter!\n\nDate string from steam: "2024-11-07"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -965,9 +955,9 @@ DESCRIPTION:https://store.steampowered.com/app/1911360\n\nSundered Spaces
  Free DLC #2 OUT NOW! Take control of your parallel selves and explore 
  dark\, Sci-Fi worlds. Slash\, bash and shoot your way through this unique 
  rogue-lite metroidvania where the only way to save the multiverse is to 
- end it.\n\nOriginal date string from steam: "Dec 15\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ end it.\n\nDate string from steam: "2023-12-15"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -979,10 +969,9 @@ DESCRIPTION:https://store.steampowered.com/app/1911610\n\nBrave the Vortex
  and dash your way to greatness in this lightning-fast action roguelite for
   1-3 players from the crafters of Dead Cells. Absorb the powers of fallen 
  warriors\, rebuild their weapons\, and WIPE THE FLOOR with those Sentinels
-  in search of that perfect run!\n\nOriginal date string from steam: "Oct 
- 24\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  in search of that perfect run!\n\nDate string from steam: "2024-10-24"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -994,9 +983,9 @@ DESCRIPTION:https://store.steampowered.com/app/1915780\n\nDelve into grid-
  based tactical combat in this roguelike deckbuilder. Coordinate your 
  heroes\, modify your cards with unique runes\, construct powerful item 
  builds\, and sidestep card-corrupting terrain to survive a gauntlet of 
- befouled enemies.\n\nOriginal date string from steam: "Apr 30\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ befouled enemies.\n\nDate string from steam: "2024-04-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,10 +996,10 @@ UID:1963210
 DESCRIPTION:https://store.steampowered.com/app/1963210\n\nLong ago\, 
  Ragnarok—the End Times—loomed upon the realms. The All-Father Odin\, with 
  the last of his strength\, created an emissary of redemption\, Valkyrie\; 
- her sole task being the salvation of a doomed world.\n\nOriginal date 
- string from steam: "11 Nov\, 2022"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ her sole task being the salvation of a doomed world.\n\nDate string from 
+ steam: "2022-11-11"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,9 +1011,9 @@ DESCRIPTION:https://store.steampowered.com/app/1990110\n\nSpellRogue is a
  turn-based\, deckbuilding roguelike where you cast powerful spells using 
  your Mana Dice\, gain legendary artifacts\, upgrade your spells and 
  experiment with potent combinations to annihilate the Voidwalkers 
- corrupting the world.\n\nOriginal date string from steam: "Feb 12\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ corrupting the world.\n\nDate string from steam: "2024-02-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1035,10 +1024,10 @@ UID:2004640
 DESCRIPTION:https://store.steampowered.com/app/2004640\n\nAwaken as a soul 
  from the Underworld. Discover who you are and explore an ever-changing 
  open world full of mystery. Battle beasts and gods\, or forge alliances 
- with them. Die and be reborn in this adventure.\n\nOriginal date string 
- from steam: "Dec 4\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ with them. Die and be reborn in this adventure.\n\nDate string from steam:
+  "2023-12-04"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1049,39 +1038,39 @@ UID:2026000
 DESCRIPTION:https://store.steampowered.com/app/2026000\n\nBecome the new 
  Guild Master of the Adventurer Guild and lead your adventurers in 
  explorations and turnbased tactical battles. Will the Guild thrive under 
- your leadership? Or will it finally disband under it?\n\nOriginal date 
- string from steam: "Apr 12\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ your leadership? Or will it finally disband under it?\n\nDate string from 
+ steam: "2024-04-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240321
-DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
 SUMMARY:Dragon's Dogma 2
 UID:2054970
 DESCRIPTION:https://store.steampowered.com/app/2054970\n\nDragon’s Dogma 2 
  is a single player\, narrative driven action-RPG that challenges the 
  players to choose their own experience – from the appearance of their 
  Arisen\, their vocation\, their party\, how to approach different 
- situations and more - in a truly immersive fantasy world.\n\nOriginal date
-  string from steam: "Mar 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ situations and more - in a truly immersive fantasy world.\n\nDate string 
+ from steam: "2024-03-22"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Grand Arms: March of the Red Dragon
 UID:2056130
 DESCRIPTION:https://store.steampowered.com/app/2056130\n\nSquad-based 
  tactical RPG\, with auto turn-based combat and real-time-with-pause map 
  movement. Build your army\, defend your territory\, and unite Wales 
  against the English invaders. Inspired by classic JRPGs including Ogre 
- Battle and Ogre Battle 64.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Battle and Ogre Battle 64.\n\nDate string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1091,11 +1080,11 @@ SUMMARY:Lost Judgment
 UID:2058190
 DESCRIPTION:https://store.steampowered.com/app/2058190\n\nWhen a police 
  officer discloses the murder of the student teacher who bullied his son to
-  suicide\, the twisted secrets of a Yokohama\, high school bleed out. 
- Nothing\, in this case\, is black and white.\n\nOriginal date string from 
- steam: "14 Sep\, 2022"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  suicide\,  the twisted secrets of a Yokohama\, high school bleed out. 
+ Nothing\, in this case\, is black and white.\n\nDate string from steam: 
+ "2022-09-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1107,9 +1096,9 @@ DESCRIPTION:https://store.steampowered.com/app/2060160\n\nProgram and
  optimize a drone to automate a farm and watch it do the work for you. 
  Collect resources to unlock better technology and become the most 
  efficient farmer in the world. Improve your problem solving and coding 
- skills.\n\nOriginal date string from steam: "Feb 10\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ skills.\n\nDate string from steam: "2023-02-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1119,10 +1108,10 @@ SUMMARY:Simulakros
 UID:2067160
 DESCRIPTION:https://store.steampowered.com/app/2067160\n\nFight the evil 
  CORP from the inside. Confront deadly robots in this fast-paced third 
- person shooter with rogue-lite elements.\n\nOriginal date string from 
- steam: "Oct 10\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ person shooter with rogue-lite elements.\n\nDate string from steam: 
+ "2024-10-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1132,11 +1121,11 @@ SUMMARY:Like a Dragon: Infinite Wealth
 UID:2072450
 DESCRIPTION:https://store.steampowered.com/app/2072450\n\nTwo larger-than-
  life heroes\, Ichiban Kasuga and Kazuma Kiryu are brought together by the 
- hand of fate\, or perhaps something more sinister… Live it up in Japan and
-  explore all that Hawaii has to offer in an RPG adventure so big it spans 
- the Pacific.\n\nOriginal date string from steam: "Jan 25\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ hand of fate\, or perhaps something more sinister… \r\nLive it up in Japan
+  and explore all that Hawaii has to offer in an RPG adventure so big it 
+ spans the Pacific.\n\nDate string from steam: "2024-01-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1147,23 +1136,23 @@ UID:2085540
 DESCRIPTION:https://store.steampowered.com/app/2085540\n\nStick it to the 
  Stickman is a groin-kicking\, staple-gunning\, chainsaw-wielding roguelike
   brawler loaded with high-impact\, physics-based combat\, copious amounts 
- of coffee and weaponised farts!\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ of coffee and weaponised farts!\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240422
-DTEND;VALUE=DATE:20240423
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240424
 SUMMARY:Shadow of the Depth
 UID:2100150
 DESCRIPTION:https://store.steampowered.com/app/2100150\n\nShadow of the 
  Depth is a top-down action Roguelite game. Delve into a dungeon world of 
  light and shadow to eradicate the monsters that ravage your home. Be 
- prepared to step into the abyss before you!\n\nOriginal date string from 
- steam: "Apr 22\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ prepared to step into the abyss before you!\n\nDate string from steam: 
+ "2024-04-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1174,10 +1163,10 @@ UID:2102640
 DESCRIPTION:https://store.steampowered.com/app/2102640\n\nIndoor Kickball 
  is fast paced 1v1 game of kickball played where your parents wouldn't let 
  you. Destroy the living room\, kitchen\, bedroom\, basement\, and many 
- other rooms of the house with a chaotic game of kickball.\n\nOriginal date
-  string from steam: "May 26\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ other rooms of the house with a chaotic game of kickball.\n\nDate string 
+ from steam: "2023-05-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1187,40 +1176,39 @@ SUMMARY:PARANORMASIGHT: The Seven Mysteries of Honjo
 UID:2106840
 DESCRIPTION:https://store.steampowered.com/app/2106840\n\nHow far would you
   go to bring someone back from the dead? Discover the depths that some 
- will go to in this horror-adventure game.\n\nOriginal date string from 
- steam: "Mar 8\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ will go to in this horror-adventure game.\n\nDate string from steam: 
+ "2023-03-08"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230726
-DTEND;VALUE=DATE:20230727
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230728
 SUMMARY:Yggdra Union
 UID:2107860
 DESCRIPTION:https://store.steampowered.com/app/2107860\n\nIn order to 
  recapture her homeland\, Yggdra gathers her allies and confronts the 
- empire. &quot\;Yggdra Union&quot\; is a tactics RPG that features three 
- elements: the &quot\;Union System&quot\;\, in which players team up with 
- her allies to launch attacks\, the exhilarating &quot\;Clash&quot\; 
- through army battles\, and the &quot\;Tactics Card&quot\;.\n\nOriginal 
- date string from steam: "26 Jul\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ empire. "Yggdra Union" is a tactics RPG that features three elements: the 
+ "Union System"\, in which players team up with her allies to launch 
+ attacks\, the exhilarating "Clash" through army battles\, and the "Tactics
+  Card".\n\nDate string from steam: "2023-07-27"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20230525
-DTEND;VALUE=DATE:20230526
+DTSTART;VALUE=DATE:20230526
+DTEND;VALUE=DATE:20230527
 SUMMARY:十五
 UID:2112880
 DESCRIPTION:https://store.steampowered.com/app/2112880\n\nThis is a plot 
  exploration game set in the 1990s. In the game\, you will go back to the 
  age of 15\, make up for those regrets and mistakes\, rewrite our story and
-  destiny\, and explore different life and destination!\n\nOriginal date 
- string from steam: "May 25\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  destiny\, and explore different life and destination!\n\nDate string from
+  steam: "2023-05-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1231,9 +1219,9 @@ UID:2124120
 DESCRIPTION:https://store.steampowered.com/app/2124120\n\nSULFUR is a 
  modern old-school action-adventure: Outsmart enemies\, find treasure\, 
  improve weapons\, harness powers. Delve deeper\, find answers\, make it 
- end.\n\nOriginal date string from steam: "Oct 28\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ end.\n\nDate string from steam: "2024-10-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1245,9 +1233,9 @@ DESCRIPTION:https://store.steampowered.com/app/2131010\n\nThe Land Beneath
  Us: A turn-based rogue-lite dungeon crawler rooted in Welsh mythology. 
  Unleash skill combos and wield stylish weaponry in Annwn's Underworld. 
  Conquer the Seven Lords\, save The Creator\, and retrieve vital Soul-
- Tech.\n\nOriginal date string from steam: "May 13\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Tech.\n\nDate string from steam: "2024-05-13"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1259,9 +1247,9 @@ DESCRIPTION:https://store.steampowered.com/app/2138330\n\nPhantom Liberty
  is a new spy-thriller expansion for the open-world action-adventure RPG 
  Cyberpunk 2077. As cyber-enhanced mercenary V\, join secret agent Solomon 
  Reed to unravel a web of shattered loyalties and sinister political 
- machinations.\n\nOriginal date string from steam: "25 Sep\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ machinations.\n\nDate string from steam: "2023-09-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1274,9 +1262,9 @@ DESCRIPTION:https://store.steampowered.com/app/2165810\n\nStreets of Rogue
   world where freedom and fun are dialed up to 11. Fight\, sneak\, hack\, 
  farm\, build\, steal\, or talk your way to power as you try to topple a 
  corrupt president in countless possible ways – solo or with 
- friends.\n\nOriginal date string from steam: "Q4 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ friends.\n\nDate string from steam: "2024-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,25 +1276,24 @@ DESCRIPTION:https://store.steampowered.com/app/2169200\n\nOffering
  unparalleled sniping mechanics\, stealth and tactical third-person 
  combat\, Sniper Elite: Resistance turns the attention of the award-winning
   series towards a hidden war\, far from the front lines\, deep within the 
- heart of occupied France.\n\nOriginal date string from steam: "Jan 30\, 
- 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ heart of occupied France.\n\nDate string from steam: "2025-01-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Yasha: Legends of the Demon Blade
 UID:2169950
 DESCRIPTION:https://store.steampowered.com/app/2169950\n\nDefeat malevolent
   forces in this stunning Japanese-inspired roguelite world! Become a 
  master of the Demon Blades and combat swarms of demons in a fantasy realm 
  set in the Edo period. Through every journey\, you will unveil the hidden 
- truths concealed within troubled times.\n\nOriginal date string from 
- steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ truths concealed within troubled times.\n\nDate string from steam: 
+ "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1318,9 +1305,9 @@ DESCRIPTION:https://store.steampowered.com/app/2172580\n\nSlash\, Shoot and
   Break demons. Capture their spirits and summon them out into your battle 
  in the beautiful yet dangerous world of Inferno. Fight against hordes of 
  demons and stop the evil queen with the power of the Spirit 
- Mancer.\n\nOriginal date string from steam: "Nov 22\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Mancer.\n\nDate string from steam: "2024-11-22"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1332,10 +1319,9 @@ DESCRIPTION:https://store.steampowered.com/app/2181950\n\nA roguelite
  deckbuilder crossed with a CCG\, set in a dark cyberpunk world. You will 
  lead a three-man squad against competing factions fighting among the ashes
   of a world-wide war. Each operator comes with a unique deck that can be 
- customized and augmented.\n\nOriginal date string from steam: "Jul 11\, 
- 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ customized and augmented.\n\nDate string from steam: "2024-07-11"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1344,13 +1330,13 @@ DTEND;VALUE=DATE:20240924
 SUMMARY:Tiny Glade
 UID:2198150
 DESCRIPTION:https://store.steampowered.com/app/2198150\n\nTiny Glade is a 
- small diorama builder where you doodle whimsical castles\, cozy cottages 
- &amp\; romantic ruins. Explore gridless building chemistry as the game 
- adorns your glades with procedural detail. No management\, combat or 
- goals: just kick back and turn forgotten meadows into lovable 
- dioramas.\n\nOriginal date string from steam: "Sep 23\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ small diorama builder where you doodle whimsical castles\, cozy cottages &
+  romantic ruins. Explore gridless building chemistry as the game adorns 
+ your glades with procedural detail. No management\, combat or goals: just 
+ kick back and turn forgotten meadows into lovable dioramas.\n\nDate string
+  from steam: "2024-09-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1360,11 +1346,11 @@ SUMMARY:Chronicon - The Mechanist
 UID:2206120
 DESCRIPTION:https://store.steampowered.com/app/2206120\n\nPlay as the 
  Mechanist\, laying waste to your foes with high tech weaponry and 
- machinery!Equipped with a medium range Gun\, an Axe for close encounters 
- (or throwing!)\, and a Jetpack for mobility\, the Mechanist is an intense 
- and powerful class.\n\nOriginal date string from steam: "Jan 25\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ machinery!\r\nEquipped with a medium range Gun\, an Axe for close 
+ encounters (or throwing!)\, and a Jetpack for mobility\, the Mechanist is 
+ an intense and powerful class.\n\nDate string from steam: "2023-01-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1376,10 +1362,10 @@ DESCRIPTION:https://store.steampowered.com/app/2216770\n\nUse real Python
  code to automate machines\, robots\, drones and more: Program self-driving
   vehicles\; crack passwords\; apply machine learning\; automate 
  logistics\; use image processing to guide missiles. Gain real coding 
- skills and solve exciting bite-sized programming challenges.\n\nOriginal 
- date string from steam: "Jan 30\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ skills and solve exciting bite-sized programming challenges.\n\nDate 
+ string from steam: "2024-01-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1390,25 +1376,24 @@ UID:2223420
 DESCRIPTION:https://store.steampowered.com/app/2223420\n\nVoice of Belldona
   weaves a story of swords\, magic\, and sci-fi! The game features 
  roguelike decks\, turn-based combat\, JRPG elements\, and customizable 
- builds. Choose a character and combat style\, explore randomly generated 
- maps\, power up your team\, crush your enemies and... interact with a cute
-  loli?\n\nOriginal date string from steam: "Q4 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ builds.\r\n\r\nChoose a character and combat style\, explore randomly 
+ generated maps\, power up your team\, crush your enemies and... interact 
+ with a cute loli?\n\nDate string from steam: "2024-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241027
-DTEND;VALUE=DATE:20241028
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241029
 SUMMARY:[REDACTED]
 UID:2229940
 DESCRIPTION:https://store.steampowered.com/app/2229940\n\nGet ready to 
  massacre monsters\, race your rivals\, and combat corpses of your fellow 
  guards as you race to escape Black Iron Prison in the critically acclaimed
-  roguelike\, [REDACTED].\n\nOriginal date string from steam: "Oct 27\, 
- 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  roguelike\, [REDACTED].\n\nDate string from steam: "2024-10-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1419,10 +1404,10 @@ UID:2238630
 DESCRIPTION:https://store.steampowered.com/app/2238630\n\nWreak vengeance 
  and retake lost mines from goblins\, orcs\, skeletons\, and demons in this
   small-scale tactical roguelite RPG. Build the perfect expedition team and
-  turn the underworld red with each challenging\, fast-paced 
- run.\n\nOriginal date string from steam: "Jul 23\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  turn the underworld red with each challenging\, fast-paced run.\n\nDate 
+ string from steam: "2024-07-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1434,10 +1419,10 @@ DESCRIPTION:https://store.steampowered.com/app/2239710\n\nTexas\, 1980.
  Walton City has fallen to a zombie outbreak. Lead a band of desperate 
  survivors from refuge to refuge by scavenging\, crafting\, and fighting in
   a relentless struggle for survival. Plan wisely\, stick together\, and — 
- above all — keep moving if you want to make it out alive.\n\nOriginal date
-  string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ above all — keep moving if you want to make it out alive.\n\nDate string 
+ from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,9 +1434,9 @@ DESCRIPTION:https://store.steampowered.com/app/2256450\n\nRAM: a top-down
  roguelike shooter with no player character. Seize control of diverse 
  robotic enemies\, turn them against each other in frantically paced 
  combat\, and fluidly swap to fresh hosts as old ones collapse into 
- smoldering rubble.\n\nOriginal date string from steam: "Nov 18\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ smoldering rubble.\n\nDate string from steam: "2024-11-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1459,13 +1444,12 @@ DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
 SUMMARY:Endless Samurai
 UID:2263450
-DESCRIPTION:https://store.steampowered.com/app/2263450\n\n&quot\;Endless 
- Samurai&quot\; is a roguelite where you grow stronger by overcoming death.
-  You can experience a new combat system that aims to fuse &quot\;turn-
- based mechanics with fast-paced action.&quot\;\n\nOriginal date string 
- from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+DESCRIPTION:https://store.steampowered.com/app/2263450\n\n"Endless Samurai"
+   is a roguelite where you grow stronger by overcoming death. You can 
+ experience a new combat system that aims to fuse "turn-based mechanics 
+ with fast-paced action."\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1477,9 +1461,9 @@ DESCRIPTION:https://store.steampowered.com/app/2280350\n\nTurbo Dismount 2
  is a comedy physics racing sandbox with Mr. Dismount and his friends. It 
  is the officially ambitious sequel to the wildly popular\, immensely 
  successful\, world-renowned entertainment juggernaut - Turbo 
- Dismount.\n\nOriginal date string from steam: "January 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Dismount.\n\nDate string from steam: "2025-01-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1491,9 +1475,9 @@ DESCRIPTION:https://store.steampowered.com/app/2284600\n\nThe new open
  world\, spellcasting action-RPG. The grimoires have been stolen\, 
  civilisation is in ruins. Rise\, Curator! Craft ancient elemental magics 
  and challenge the great lords who threaten to fracture reality 
- itself.\n\nOriginal date string from steam: "Nov 14\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ itself.\n\nDate string from steam: "2024-11-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1504,11 +1488,11 @@ UID:2294160
 DESCRIPTION:https://store.steampowered.com/app/2294160\n\nGrab your cards\,
   it's time to swap! Battle your school pals in this roguelite deckbuilder 
  where you'll trade for new cards when you win defeat them and rip open 
- booster packs looking for rare cards. Conquer everyones dungeon decks to 
- become Critter Champion of the Playground!\n\nOriginal date string from 
- steam: "Sep 27\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ booster packs looking for rare cards. \r\nConquer everyones dungeon decks 
+ to become Critter Champion of the Playground!\n\nDate string from steam: 
+ "2024-09-27"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1520,9 +1504,9 @@ DESCRIPTION:https://store.steampowered.com/app/2306620\n\nAn ancient threat
   awakens on Petrichor V. Master new Survivors\, wield new items\, and 
  fight your way across uncharted regions. Ascend the levels of the Colossus
   in a race to confront The False Son. Defeat him and unlock the true power
-  of his Soul!\n\nOriginal date string from steam: "Aug 27\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  of his Soul!\n\nDate string from steam: "2024-08-27"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1532,10 +1516,10 @@ SUMMARY:SpongeBob SquarePants™: The Patrick Star Game
 UID:2322380
 DESCRIPTION:https://store.steampowered.com/app/2322380\n\nStep into 
  Patrick’s shorts and create hilarious\, physics-based mayhem\, as you make
-  the open world of Bikini Bottom your playground!\n\nOriginal date string 
- from steam: "Oct 4\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  the open world of Bikini Bottom your playground!\n\nDate string from 
+ steam: "2024-10-04"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1547,10 +1531,10 @@ DESCRIPTION:https://store.steampowered.com/app/2333510\n\nBlade Prince
  Academy is a new take on tactical RPGs\, where you lead your squad of 
  Blade Princes to defend the city of Abjectalia in real-time with pause 
  combat. Use your team's power to devastate any threat\, but be vigilant\, 
- there is always a price to pay when you make a pact with 
- darkness.\n\nOriginal date string from steam: "Mar 7\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ there is always a price to pay when you make a pact with darkness.\n\nDate
+  string from steam: "2024-03-07"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1559,12 +1543,12 @@ DTEND;VALUE=DATE:20260101
 SUMMARY:Metal Bringer
 UID:2334170
 DESCRIPTION:https://store.steampowered.com/app/2334170\n\nIn this roguelike
-  action-adventure\, control humanoid &quot\;Labor&quot\; and giant 
- &quot\;Arms&quot\; to uncover the mysteries of the world. Create fully-
- customizable robots\, strengthen them\, and take down hordes of 
- enemies!\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  action-adventure\, control humanoid "Labor" and giant "Arms" to uncover 
+ the mysteries of the world. Create fully-customizable robots\, strengthen 
+ them\, and take down hordes of enemies!\n\nDate string from steam: 
+ "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1574,9 +1558,9 @@ SUMMARY:Enjoy the Diner
 UID:2336980
 DESCRIPTION:https://store.steampowered.com/app/2336980\n\nWhy not enjoy the
   diner? The moon is as full as it'll ever be\, and there's even a drink 
- fountain.\n\nOriginal date string from steam: "Jul 31\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ fountain.\n\nDate string from steam: "2023-07-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1588,10 +1572,10 @@ DESCRIPTION:https://store.steampowered.com/app/2341560\n\nInfest is a
  roguelike deckbuilder where every pixel on the battlefield can burn\, 
  freeze\, corrode\, shock\, and melt. Carefully craft your deck and deploy 
  cards to alter the environment\, buff your stats\, and unleash stunning 
- pixel-by-pixel damage upon your enemies!\n\nOriginal date string from 
- steam: "Jul 31\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ pixel-by-pixel damage upon your enemies!\n\nDate string from steam: 
+ "2024-07-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1604,9 +1588,9 @@ DESCRIPTION:https://store.steampowered.com/app/2347550\n\nStep into the
  hell and roguelike elements. Play solo or team up with friends\, as 
  various heroes with unique abilities. Take on notorious alien outlaws\, 
  forge unique builds in every run and rise to become top gun of 
- 3030!\n\nOriginal date string from steam: "May 28\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ 3030!\n\nDate string from steam: "2024-05-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1618,25 +1602,25 @@ DESCRIPTION:https://store.steampowered.com/app/2356780\n\nDungeon Clawler
  is a Roguelike Claw Machine Deckbuilder. Build your deck\, grab weapons 
  and items from the claw machine to battle enemies\, discover powerful 
  perks that create game-changing synergies and unleash crazy combos as you 
- fight your way through the dungeon!\n\nOriginal date string from steam: 
- "Nov 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ fight your way through the dungeon!\n\nDate string from steam: 
+ "2024-11-21"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240923
-DTEND;VALUE=DATE:20240924
+DTSTART;VALUE=DATE:20240924
+DTEND;VALUE=DATE:20240925
 SUMMARY:Rune Coliseum
 UID:2360210
 DESCRIPTION:https://store.steampowered.com/app/2360210\n\nA deck-building 
  roguelike game with unique semi-real-time combat system. Step into the 
  shoes of an ancient gladiator and do your best to survive in the coliseum.
   Combine various skills and equipment\, develop your own fighting style\, 
- and defeat all the enemies to become the next champion!\n\nOriginal date 
- string from steam: "Sep 23\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and defeat all the enemies to become the next champion!\n\nDate string 
+ from steam: "2024-09-24"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1645,13 +1629,12 @@ DTEND;VALUE=DATE:20231109
 SUMMARY:Like a Dragon Gaiden: The Man Who Erased His Name
 UID:2375550
 DESCRIPTION:https://store.steampowered.com/app/2375550\n\nERASE YOUR PAST 
- TO PROTECT YOUR FUTURE Once a legendary yakuza\, Kazuma Kiryu faked his 
- own death and abandoned his name for the sake of protecting his family. 
+ TO PROTECT YOUR FUTURE\r\nOnce a legendary yakuza\, Kazuma Kiryu faked his
+  own death and abandoned his name for the sake of protecting his family. 
  Now\, he is thrust into conflict by a mysterious figure attempting to 
- drive him out of hiding.\n\nOriginal date string from steam: "8 Nov\, 
- 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ drive him out of hiding.\n\nDate string from steam: "2023-11-08"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1661,9 +1644,9 @@ SUMMARY:Dystopika
 UID:2379910
 DESCRIPTION:https://store.steampowered.com/app/2379910\n\nA city-building 
  sandbox for futuristic cities. No goals\, no management\, just creativity 
- and dark cozy vibes.\n\nOriginal date string from steam: "Jun 21\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and dark cozy vibes.\n\nDate string from steam: "2024-06-21"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1672,11 +1655,11 @@ DTEND;VALUE=DATE:20231004
 SUMMARY:Tony Hawk's™ Pro Skater™ 1 + 2
 UID:2395210
 DESCRIPTION:https://store.steampowered.com/app/2395210\n\nPlay the fully-
- remastered Tony Hawk’s™ Pro Skater™ &amp\; Tony Hawk’s™ Pro Skater™ 2 
- games in one epic collection\, rebuilt from the ground up in incredible 
- HD.\n\nOriginal date string from steam: "3 Oct\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ remastered Tony Hawk’s™ Pro Skater™ & Tony Hawk’s™ Pro Skater™ 2 games in 
+ one epic collection\, rebuilt from the ground up in incredible HD.\n\nDate
+  string from steam: "2023-10-03"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1685,43 +1668,43 @@ DTEND;VALUE=DATE:20231215
 SUMMARY:Soulslinger: Envoy of Death
 UID:2429240
 DESCRIPTION:https://store.steampowered.com/app/2429240\n\nYou are a 
- gunslinger in limbo\, involved in a gritty war against &quot\;The 
- Cartel&quot\;\, a ruthless organization harvesting souls to break free of 
- the shackles of the afterlife. Grow stronger with each new run\, gather 
- the essence of lost souls to take on the biggest threats in this rogue-
- lite FPS!\n\nOriginal date string from steam: "Dec 14\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ gunslinger in limbo\, involved in a gritty war against "The Cartel"\, a 
+ ruthless organization harvesting souls to break free of the shackles of 
+ the afterlife. Grow stronger with each new run\, gather the essence of 
+ lost souls to take on the biggest threats in this rogue-lite FPS!\n\nDate 
+ string from steam: "2023-12-14"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Hidden Pass
 UID:2430170
 DESCRIPTION:https://store.steampowered.com/app/2430170\n\nChart a course in
   a Tactical Turn-Based RPG with arena-like combat. Become a Wanderer - 
  explorer\, warrior\, leader and tactician all in one. Build a team of 
  skyfaring heroes\, wield techno-magical devices and construct automatons 
- as you explore sky-islands rich in secrets and Elyrium 
- crystals.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ as you explore sky-islands rich in secrets and Elyrium crystals.\n\nDate 
+ string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250831
-DTEND;VALUE=DATE:20250901
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
 SUMMARY:MENACE
 UID:2432860
 DESCRIPTION:https://store.steampowered.com/app/2432860\n\nLead a strike 
  force against an alien threat in this turn-based tactical RPG from the 
  developers of Battle Brothers. Answer distress calls across different 
  worlds\, train and equip infantry\, deploy tanks and mechs\, and plan and 
- execute missions in detailed turn-based battles.\n\nOriginal date string 
- from steam: "Q3 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ execute missions in detailed turn-based battles.\n\nDate string from 
+ steam: "2025-09-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1733,25 +1716,24 @@ DESCRIPTION:https://store.steampowered.com/app/2444750\n\nShape of Dreams
  is a unique blend of action roguelite and MOBA-style gameplay. Embark on 
  an adventure into the realm of dreams\, edit the Memories of heroes to 
  craft your own champion. Face all challenges alone\, or team up with 
- friends in up to 4-player co-op.\n\nOriginal date string from steam: "May 
- 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ friends in up to 4-player co-op.\n\nDate string from steam: "2025-05-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:While Waiting
 UID:2449160
 DESCRIPTION:https://store.steampowered.com/app/2449160\n\nPresented by the 
- team behind critically acclaimed &quot\;Moncage&quot\;\, this is a 
- transformative adventure exploring the art of waiting. Clear the game by 
- doing nothing\, but discover the power of acceptance and patience in 
- numerous situations from birth to death. Learn to embrace life as you 
- wait.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ team behind critically acclaimed "Moncage"\, this is a transformative 
+ adventure exploring the art of waiting. Clear the game by doing nothing\, 
+ but discover the power of acceptance and patience in numerous situations 
+ from birth to death. Learn to embrace life as you wait.\n\nDate string 
+ from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1763,9 +1745,9 @@ DESCRIPTION:https://store.steampowered.com/app/2450400\n\nIt's turn-based
  fantasy tactics with trash animals. Defend your trash from invading rats\,
   and eat your trash to upgrade your team. Think your way out of ruin by 
  using the shape of each level to your advantage. Be creative\, and try to 
- not die.\n\nOriginal date string from steam: "May 29\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ not die.\n\nDate string from steam: "2024-05-29"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1777,9 +1759,9 @@ DESCRIPTION:https://store.steampowered.com/app/2455640\n\nIn this non-
  linear RPG\, rule and expand the Empire of Varennes across multiple 
  generations. Discover a vast array of story experiences as you fight the 
  Seven Heroes in an epic battle that plays out over thousands of 
- years.\n\nOriginal date string from steam: "Oct 24\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ years.\n\nDate string from steam: "2024-10-24"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1787,14 +1769,14 @@ DTSTART;VALUE=DATE:20250328
 DTEND;VALUE=DATE:20250329
 SUMMARY:inZOI
 UID:2456740
-DESCRIPTION:https://store.steampowered.com/app/2456740\n\n&quot\;Every life
-  becomes a story&quot\; Create your unique story by controlling and 
- observing the lives of 'Zois'. Customize characters and build houses using
-  inZOI's easy-to-use tools to live the life of your dreams and experience 
- the different emotions of life created by its deep and detailed 
- simulation.\n\nOriginal date string from steam: "Mar 28\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+DESCRIPTION:https://store.steampowered.com/app/2456740\n\n"Every life 
+ becomes a story" Create your unique story by controlling and observing the
+  lives of 'Zois'. Customize characters and build houses using inZOI's 
+ easy-to-use tools to live the life of your dreams and experience the 
+ different emotions of life created by its deep and detailed 
+ simulation.\n\nDate string from steam: "2025-03-28"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1803,10 +1785,10 @@ DTEND;VALUE=DATE:20250219
 SUMMARY:Avowed
 UID:2457220
 DESCRIPTION:https://store.steampowered.com/app/2457220\n\nAvowed is a 
- first-person fantasy RPG from Obsidian Entertainment.\n\nOriginal date 
- string from steam: "18 Feb\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ first-person fantasy RPG from Obsidian Entertainment.\n\nDate string from 
+ steam: "2025-02-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1818,10 +1800,10 @@ DESCRIPTION:https://store.steampowered.com/app/2458310\n\nTake a stand in
  the eternal conflict between Arcane Magic and Steampunk Revolution and tip
   the uneasy balance between sorcery\, elves\, dwarves and mysterious 
  monsters on one side and steampunk gadgets\, zeppelins\, and tesla guns on
-  the other in this single-player\, party-based\, story-rich 
- RPG.\n\nOriginal date string from steam: "Nov 26\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  the other in this single-player\, party-based\, story-rich RPG.\n\nDate 
+ string from steam: "2024-11-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1833,10 +1815,10 @@ DESCRIPTION:https://store.steampowered.com/app/2464530\n\nCrafted by a solo
   developer\, VOIN is a first-person hack-and-slash. Cleave through hordes 
  of enemies in fast-paced combat. Explore dark fantasy realms filled with 
  secrets and dangers. Discover powerful gear and weapons\, and face 
- menacing bosses in your quest to cleanse a broken world.\n\nOriginal date 
- string from steam: "Dec 10\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ menacing bosses in your quest to cleanse a broken world.\n\nDate string 
+ from steam: "2024-12-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1847,25 +1829,25 @@ UID:2498740
 DESCRIPTION:https://store.steampowered.com/app/2498740\n\nManipulate enemy 
  positioning and use the environment to your advantage. Utilize clever 
  combos to defeat overwhelming odds in this tactical turn-based strategy 
- game with a focus on creativity rather than number crunching.\n\nOriginal 
- date string from steam: "March 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ game with a focus on creativity rather than number crunching.\n\nDate 
+ string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241009
-DTEND;VALUE=DATE:20241010
+DTSTART;VALUE=DATE:20241010
+DTEND;VALUE=DATE:20241011
 SUMMARY:DICEOMANCER
 UID:2501600
 DESCRIPTION:https://store.steampowered.com/app/2501600\n\nDICEOMANCER is a 
  roguelike deck-building game. Though you long for a peaceful life\, you're
   forced to embark on an adventure. In this world of swords\, magic\, and 
  guns\, make good use of your dice and deck to find a way back to 
- tranquility! What can the dice be used for? To change... 
- anything.\n\nOriginal date string from steam: "Oct 9\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ tranquility! What can the dice be used for? To change... anything.\n\nDate
+  string from steam: "2024-10-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1876,23 +1858,23 @@ UID:2507400
 DESCRIPTION:https://store.steampowered.com/app/2507400\n\nUnleash the 
  hounds from hell and fight your way free of this otherworldly prison in a 
  roguelike adventure that explores the world of Penny Blood’s darker side! 
- Can you find the distinction between good and evil…?\n\nOriginal date 
- string from steam: "Mar 7\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Can you find the distinction between good and evil…?\n\nDate string from 
+ steam: "2024-03-07"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240718
-DTEND;VALUE=DATE:20240719
+DTSTART;VALUE=DATE:20240719
+DTEND;VALUE=DATE:20240720
 SUMMARY:Kunitsu-Gami: Path of the Goddess
 UID:2510710
 DESCRIPTION:https://store.steampowered.com/app/2510710\n\nA new tale of the
-  Kami awaits... Kunitsu-Gami: Path of the Goddess is a unique Japanese-
- inspired\, single player Kagura Action Strategy game.\n\nOriginal date 
- string from steam: "Jul 18\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  Kami awaits...\r\nKunitsu-Gami: Path of the Goddess is a unique Japanese-
+ inspired\, single player Kagura Action Strategy game.\n\nDate string from 
+ steam: "2024-07-19"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1904,10 +1886,10 @@ DESCRIPTION:https://store.steampowered.com/app/2525660\n\nHack\, Slash\,
  Parry and Dodge your foes in this Souls-like Action RPG. Explore the 
  countryside in search of The Devil Fragment while fighting enemies with a 
  multi game inspired combat system where you can launch foes into the air 
- and then juggle them to build your combo meter for multiple 
- buffs.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and then juggle them to build your combo meter for multiple buffs.\n\nDate
+  string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1916,71 +1898,71 @@ DTEND;VALUE=DATE:20241106
 SUMMARY:Lost Eidolons: Veil of the Witch
 UID:2530490
 DESCRIPTION:https://store.steampowered.com/app/2530490\n\nFrom the world of
-  &quot\;Lost Eidolons&quot\; comes an all-new roguelite tactical RPG! 
- Stranded on a mysterious island with scattered memories\, your only means 
- of survival is to fight. Recruit allies\, undertake a perilous journey\, 
- and battle to reclaim what you've lost... no matter how many deaths it 
- takes.\n\nOriginal date string from steam: "Nov 5\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  "Lost Eidolons" comes an all-new roguelite tactical RPG! Stranded on a 
+ mysterious island with scattered memories\, your only means of survival is
+  to fight. Recruit allies\, undertake a perilous journey\, and battle to 
+ reclaim what you've lost... no matter how many deaths it takes.\n\nDate 
+ string from steam: "2024-11-05"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Astral Throne
 UID:2560500
 DESCRIPTION:https://store.steampowered.com/app/2560500\n\nUncover the 
  mystery of a land beset by a Falling Star's curse in this Roguelike 
  Strategy RPG inspired by the classics. Build your party\, recruit new 
- allies\, and synergize your team's skills for decisive 
- victory.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ allies\, and synergize your team's skills for decisive victory.\n\nDate 
+ string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Burning Sword: Death Sun
 UID:2561460
 DESCRIPTION:https://store.steampowered.com/app/2561460\n\nBurning Sword: 
  Death Sun is a Wuxia hack n' slash game. Play as the great fighter\, Zhāng
   Yì Xiàn\, who seeks revenge for the death of his family at the hands of 
  China's powerful Gāo Tiān Qí. Dive into a tale of revenge\, redemption\, 
- martial arts\, and intense swordplay.\n\nOriginal date string from steam: 
- "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ martial arts\, and intense swordplay.\n\nDate string from steam: 
+ "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241030
-DTEND;VALUE=DATE:20241031
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
 SUMMARY:DONG WU: ODYSSEY
 UID:2562400
 DESCRIPTION:https://store.steampowered.com/app/2562400\n\nDONG WU: ODYSSEY 
  is a challenging RPG about legendary beasts. You will form a 4-person 
  party and fight a battle of succession to claim the throne. In this 
  thousand-year war\, your enemy could be the noble or Miasma. Your fate 
- depends on your strategy\, luck and courage. Good luck!\n\nOriginal date 
- string from steam: "Oct 30\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ depends on your strategy\, luck and courage. Good luck!\n\nDate string 
+ from steam: "2024-10-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20231211
-DTEND;VALUE=DATE:20231212
+DTSTART;VALUE=DATE:20231212
+DTEND;VALUE=DATE:20231213
 SUMMARY:DemonStar - Original Missions
 UID:2577180
 DESCRIPTION:https://store.steampowered.com/app/2577180\n\nThe shareware 
  legend DemonStar comes soaring back with new game modes and revised 
  gameplay. Originally published in 1997\, DemonStar has earned the Computer
-  Gaming World's &quot\;Shareware Game of the Year 1999&quot\; 
- award..\n\nOriginal date string from steam: "Dec 11\, 2023"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  Gaming World's "Shareware Game of the Year 1999" award..\n\nDate string 
+ from steam: "2023-12-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -1991,23 +1973,23 @@ UID:2582320
 DESCRIPTION:https://store.steampowered.com/app/2582320\n\nOn their last 
  night of high school\, three friends embark on one more adventure 
  together. Play through a mixtape of memories\, set to the soundtrack of a 
- generation.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ generation.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Maraka
 UID:2586720
 DESCRIPTION:https://store.steampowered.com/app/2586720\n\nShoot magnets and
   send enemy flying! Push\, pull\, propel and shatter hordes of frenzied 
  creatures with magnetic manipulation. Use environment as your weapon. 
- Kill\, collect and craft in this fast-paced action-roguelike 
- game!\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Kill\, collect and craft in this fast-paced action-roguelike game!\n\nDate
+  string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2019,9 +2001,9 @@ DESCRIPTION:https://store.steampowered.com/app/2586780\n\nEvercore Heroes:
  Ascension is a Co-Op first Hero Action Roguelite for 1-3 players. Choose 
  from 15 unique heroes and defeat powerful enemies\, create the ultimate 
  build\, and save the beautiful but deadly world of Lumerea with the best 
- run!\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ run!\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2032,21 +2014,21 @@ UID:2590750
 DESCRIPTION:https://store.steampowered.com/app/2590750\n\nA unique mix of 
  gravity-defying gameplay\, slapstick-tinged parody\, and a classic low-
  poly-inspired aesthetic all wrapped up in an addictive arcade shooter for 
- 1-4 players!\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ 1-4 players!\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240619
-DTEND;VALUE=DATE:20240620
+DTSTART;VALUE=DATE:20240620
+DTEND;VALUE=DATE:20240621
 SUMMARY:Natsuno-Kanata: Beyond Summer
 UID:2597260
 DESCRIPTION:https://store.steampowered.com/app/2597260\n\n──終わってしまった世界の夏、少女
- はあてのない旅をする。通話を介して終わってしまった世界を共に生きるアドベンチャーゲーム。\n\nOriginal date string from 
- steam: "Jun 19\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ はあてのない旅をする。通話を介して終わってしまった世界を共に生きるアドベンチャーゲーム。\n\nDate string from steam: 
+ "2024-06-20"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2058,9 +2040,9 @@ DESCRIPTION:https://store.steampowered.com/app/2604210\n\nA roguelike
  deckbuilding game with turn based tactical combats. Choose your hero\, 
  build a powerful deck and collect augments to beat the challenges ahead ! 
  Use clever positioning and tactics and build a strategy around your 
- playstyle.\n\nOriginal date string from steam: "2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ playstyle.\n\nDate string from steam: "2024-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2072,10 +2054,9 @@ DESCRIPTION:https://store.steampowered.com/app/2608270\n\nIntravenous 2 is
  the ultimate blend of tactical gameplay and immersive storytelling. Will 
  you embrace the shadows or confront your foes head-on? The choice is 
  yours. Experience a new era of tactical stealth action. Save lives. 
- Uncover secrets. Take vengeance.\n\nOriginal date string from steam: "Aug 
- 15\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Uncover secrets. Take vengeance.\n\nDate string from steam: "2024-08-15"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2083,28 +2064,28 @@ DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
 SUMMARY:Tokyo Xtreme Racer
 UID:2634950
-DESCRIPTION:https://store.steampowered.com/app/2634950\n\n&quot\;Tokyo 
- Xtreme Racer&quot\; is a racing game set in a blocked-off future Tokyo\, 
- where players aim to be the fastest by driving their best cars on the 
- highways that weave through the city. A new title\, &quot\;Tokyo Xtreme 
- Racer&quot\; now in development please look forward to the release of more
-  information.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+DESCRIPTION:https://store.steampowered.com/app/2634950\n\n"Tokyo Xtreme 
+ Racer" is a racing game set in a blocked-off future Tokyo\, where players 
+ aim to be the fastest by driving their best cars on the highways that 
+ weave through the city.\r\n\r\nA new title\, "Tokyo Xtreme Racer" now in 
+ development\r\nplease look forward to the release of more 
+ information.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241010
-DTEND;VALUE=DATE:20241011
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
 SUMMARY:Metaphor: ReFantazio
 UID:2679460
 DESCRIPTION:https://store.steampowered.com/app/2679460\n\nThe throne sits 
  empty after the king’s assassination. With no heirs\, the will of the late
-  king decrees that the next monarch will be elected by the people\, &amp\;
-  thus begins your fight for the throne..\n\nOriginal date string from 
- steam: "Oct 10\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  king decrees that the next monarch will be elected by the people\, & thus
+  begins your fight for the throne..\n\nDate string from steam: 
+ "2024-10-11"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2114,12 +2095,12 @@ SUMMARY:Yarimono
 UID:2696050
 DESCRIPTION:https://store.steampowered.com/app/2696050\n\nThe protagonist's
   life takes a turn after their partner Yarimon learns the ultra-invincible
-  move\, the &quot\;Cheat Tackle&quot\;. While challenging various trainers
-  to participate in the Yarimon tournament\, the protagonist unexpectedly 
- discovers the secrets of this world.\n\nOriginal date string from steam: 
- "Aug 30\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  move\, the "Cheat Tackle". While challenging various trainers to 
+ participate in the Yarimon tournament\, the protagonist unexpectedly 
+ discovers the secrets of this world.\n\nDate string from steam: 
+ "2024-08-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2131,23 +2112,23 @@ DESCRIPTION:https://store.steampowered.com/app/2704110\n\nThe player
  connects to a girl in distress in space thousands of years later? How will
   they resolve the crisis and discover the truth? Through the mechanism of 
  real-time synchronization\, the game breaks through the dimensional wall 
- and creates an immersive dialogue across time and space.\n\nOriginal date 
- string from steam: "Apr 25\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and creates an immersive dialogue across time and space.\n\nDate string 
+ from steam: "2024-04-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241024
-DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
 SUMMARY:Some Goodbyes We Made
 UID:2705820
 DESCRIPTION:https://store.steampowered.com/app/2705820\n\nI have some 
  memories of saying goodbye that I don't want to forget\, so I turned them 
- into 11 minigames and backed them up in this collection.\n\nOriginal date 
- string from steam: "Oct 24\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ into 11 minigames and backed them up in this collection.\n\nDate string 
+ from steam: "2024-10-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2159,10 +2140,10 @@ DESCRIPTION:https://store.steampowered.com/app/2738750\n\nFantasy meets
  reality in Shibuya\, Tokyo\, where magic is something to be feared. In 
  this action RPG\, a young wizard seeks freedom through strength\, and an 
  officer seeks to control magic and restore order. When their paths cross\,
-  a darkness that will transform the world descends.\n\nOriginal date 
- string from steam: "27 Sep\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  a darkness that will transform the world descends.\n\nDate string from 
+ steam: "2024-09-27"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2173,24 +2154,23 @@ UID:2754380
 DESCRIPTION:https://store.steampowered.com/app/2754380\n\nA genealogical 
  mystery straight out of 1998. Scour the early Internet for clues\, uncover
   hidden connections\, and piece together the family tree behind the 
- secretive Roottree Corporation.\n\nOriginal date string from steam: "Jan 
- 15\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ secretive Roottree Corporation.\n\nDate string from steam: "2025-01-15"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DTEND;VALUE=DATE:20250601
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
 SUMMARY:CleanFall
 UID:2769780
 DESCRIPTION:https://store.steampowered.com/app/2769780\n\nCleanFall is a 
  survival rogue-lite that prizes player freedom and creativity. Build 
  mobile death machines to fight off ravenous hordes\, craft and alchemize 
  gun turrets\, and tunnel through subterranean ecosystems crawling with 
- nameless horrors.\n\nOriginal date string from steam: "Q2 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ nameless horrors.\n\nDate string from steam: "2025-06-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2199,11 +2179,11 @@ DTEND;VALUE=DATE:20240814
 SUMMARY:KIBORG: Arena
 UID:2796130
 DESCRIPTION:https://store.steampowered.com/app/2796130\n\nFight for cash 
- and glory in a prison planet’s Coliseum in this free prologue to KIBORG\, 
- the fast-paced action rogue-lite with brutal\, cybernetic-enhanced 
- combat.\n\nOriginal date string from steam: "Aug 13\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ and glory in a prison planet’s Coliseum in this free prologue to KIBORG\,
+   the fast-paced action rogue-lite with brutal\, cybernetic-enhanced 
+ combat.\n\nDate string from steam: "2024-08-13"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2215,23 +2195,23 @@ DESCRIPTION:https://store.steampowered.com/app/2803280\n\nDragon is Dead is
   a hack-and-slash\, roguelite action platformer. It offers tons of 
  customization fun with different character skill trees and legendary 
  equipment. Overcome repeated deaths to defeat Guernian\, the leader of the
-  Dark Dragons.\n\nOriginal date string from steam: "Jun 7\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  Dark Dragons.\n\nDate string from steam: "2024-06-07"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240306
-DTEND;VALUE=DATE:20240307
+DTSTART;VALUE=DATE:20240307
+DTEND;VALUE=DATE:20240308
 SUMMARY:Fountain
 UID:2817270
 DESCRIPTION:https://store.steampowered.com/app/2817270\n\nLead a squad of 
  up to 7 members entering a constantly changing barrier. In this mysterious
   adventure\, meet interesting companions\, fight against various enemies\,
   collect rare treasures\, and reveal the secrets concealed within the 
- barrier.\n\nOriginal date string from steam: "Mar 6\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ barrier.\n\nDate string from steam: "2024-03-07"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2244,9 +2224,9 @@ DESCRIPTION:https://store.steampowered.com/app/2832280\n\nBlightstone is a
  to combat through freedom of character placement\, interactive 
  environments and hardcore resource management. Dying\, learning\, and 
  meta-progression will be key in your mission to destroy the Blightstone 
- itself\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ itself\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2257,15 +2237,15 @@ UID:2839280
 DESCRIPTION:https://store.steampowered.com/app/2839280\n\nA circus troupe 
  comes to Yomogi Town\, a rural town in Japan situated between mountains 
  and the ocean. As the son of the circus ringmaster\, enjoy a special 
- summer filled with wholesome adventures!\n\nOriginal date string from 
- steam: "Jun 26\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ summer filled with wholesome adventures!\n\nDate string from steam: 
+ "2024-06-26"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251130
-DTEND;VALUE=DATE:20251201
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
 SUMMARY:Food Devils
 UID:2861730
 DESCRIPTION:https://store.steampowered.com/app/2861730\n\nYou're the last 
@@ -2273,9 +2253,9 @@ DESCRIPTION:https://store.steampowered.com/app/2861730\n\nYou're the last
  food\, make them sign contracts with the Food Devils and organize 
  expeditions to collect wicked ingredients! Customize your characters\, 
  build the perfect restaurant and plan every move in this Strategy-RPG 
- Roguelike.\n\nOriginal date string from steam: "Q4 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Roguelike.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2286,9 +2266,9 @@ UID:2862890
 DESCRIPTION:https://store.steampowered.com/app/2862890\n\nThe deckbuilding 
  auto battler. Draft cards\, collect relics\, and cast spells to create 
  game-breaking combos. Assemble a team of oddballs and misfits\, and shoot 
- for the moon!\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ for the moon!\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2301,9 +2281,9 @@ DESCRIPTION:https://store.steampowered.com/app/2877540\n\nChoose your hero
  reach the mountaintop and dethrone Abidan\, a ruthless demigod cult 
  leader. In a familiar rogue-lite manner\, dying is part of progression\, 
  granting you new game mechanics\, playable characters\, skills\, and 
- weapons.\n\nOriginal date string from steam: "Oct 30\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ weapons.\n\nDate string from steam: "2024-10-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2315,36 +2295,34 @@ DESCRIPTION:https://store.steampowered.com/app/2933080\n\nWelcome to the
  90’s Rockay City! Heist\, loot and shoot your way to the top of the 
  criminal underworld! Build your criminal empire in the singleplayer rogue-
  lite campaign or put together a crew with your friends in action-packed 
- co-op multiplayer heists!\n\nOriginal date string from steam: "Jun 18\, 
- 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ co-op multiplayer heists!\n\nDate string from steam: "2024-06-18"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241024
-DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+DTEND;VALUE=DATE:20241026
 SUMMARY:Call of Duty®: Black Ops 6
 UID:2933620
 DESCRIPTION:https://store.steampowered.com/app/2933620\n\nCall of Duty®: 
  Black Ops 6 is signature Black Ops across a cinematic single-player 
  Campaign\, a best-in-class Multiplayer experience and with the epic return
-  of Round-Based Zombies.\n\nOriginal date string from steam: "Oct 24\, 
- 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  of Round-Based Zombies.\n\nDate string from steam: "2024-10-25"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241208
-DTEND;VALUE=DATE:20241209
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241210
 SUMMARY:Doraemon Dorayaki Shop Story
 UID:2934180
 DESCRIPTION:https://store.steampowered.com/app/2934180\n\nA simulation game
-  where you create a wonderful sweets shop with Doraemon\n\nOriginal date 
- string from steam: "Dec 8\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  where you create a wonderful sweets shop with Doraemon\n\nDate string 
+ from steam: "2024-12-09"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2355,9 +2333,9 @@ UID:2948080
 DESCRIPTION:https://store.steampowered.com/app/2948080\n\nUse your supply 
  of items and traps to survive in a mansion haunted by yokai and vengeful 
  spirits as shrine maiden Yono in this strategy roguelike horror action 
- game!\n\nOriginal date string from steam: "2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ game!\n\nDate string from steam: "2024-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2369,36 +2347,36 @@ DESCRIPTION:https://store.steampowered.com/app/2950710\n\nPlatform through
  a vibrant world in an upgradeable mech and cook delicious meals. Fight off
   corpos in turn based combat\, discover new recipes\, build up your 
  reputation with local communities\, and bond with friends and family on a 
- journey to taste everything life has to offer.\n\nOriginal date string 
- from steam: "2026"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ journey to taste everything life has to offer.\n\nDate string from steam: 
+ "2026-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240807
-DTEND;VALUE=DATE:20240808
+DTSTART;VALUE=DATE:20240808
+DTEND;VALUE=DATE:20240809
 SUMMARY:Moonless Moon
 UID:2951340
 DESCRIPTION:https://store.steampowered.com/app/2951340\n\nWhen night 
  falls\, she wanders into another world... Moonless Moon is a text-based 
  adventure game following a girl as she travels through a variety of 
- different worlds.\n\nOriginal date string from steam: "Aug 7\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ different worlds.\n\nDate string from steam: "2024-08-08"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241022
-DTEND;VALUE=DATE:20241023
+DTSTART;VALUE=DATE:20241023
+DTEND;VALUE=DATE:20241024
 SUMMARY:Arisen Force: HeroTest
 UID:2951840
 DESCRIPTION:https://store.steampowered.com/app/2951840\n\nJoin the 
- exquisite pixel world of &quot\;HeroTest\,&quot\; team up with heroes 
- across time and space\, and engage in thrilling battles against the 
- 「Void」!\n\nOriginal date string from steam: "Oct 22\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ exquisite pixel world of "HeroTest\," team up with heroes across time and 
+ space\, and engage in thrilling battles against the 「Void」!\n\nDate string
+  from steam: "2024-10-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2408,10 +2386,10 @@ SUMMARY:The End of You
 UID:2962000
 DESCRIPTION:https://store.steampowered.com/app/2962000\n\nThe End of You is
   a short\, emotional narrative game about love lost\, the ghosts of the 
- past\, and the painful crawl towards closure.\n\nOriginal date string from
-  steam: "Jun 20\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ past\, and the painful crawl towards closure.\n\nDate string from steam: 
+ "2024-06-20"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2423,10 +2401,10 @@ DESCRIPTION:https://store.steampowered.com/app/2989840\n\nBANSHEE is a
  single-player third-person soulsborne stealth action game. The first 
  Japanese kunoichi in 16th century Europe: an incredible story of revenge 
  from beyond the grave. Fight with a katana\, move like a ninja\, seduce 
- like a geisha\, and use vampiric abilities\, learn from 
- mistakes.\n\nOriginal date string from steam: "September 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ like a geisha\, and use vampiric abilities\, learn from mistakes.\n\nDate 
+ string from steam: "2025-09-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2438,10 +2416,10 @@ DESCRIPTION:https://store.steampowered.com/app/2994010\n\nEmbark on a
  thrilling journey in a high-stakes\, turn-based tactics game. Lead an 
  elite squad in a fictional\, dystopian Eastern Europe as you unravel a 
  sinister conspiracy threatening the nation. Navigate intense strategic 
- battles and adapt to ever-evolving challenges to prevail.\n\nOriginal date
-  string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ battles and adapt to ever-evolving challenges to prevail.\n\nDate string 
+ from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2452,40 +2430,40 @@ UID:3009140
 DESCRIPTION:https://store.steampowered.com/app/3009140\n\nSalt Player for 
  Windows (SPW) is a brand new production version of Salt Player on the 
  Windows platform\, bringing excellent and unique audio playback and 
- management functions to Windows users!\n\nOriginal date string from steam:
-  "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ management functions to Windows users!\n\nDate string from steam: 
+ "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-DTEND;VALUE=DATE:20250305
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250306
 SUMMARY:《方块战记》《Legend Square》
 UID:3012120
 DESCRIPTION:https://store.steampowered.com/app/3012120\n\nRubik's Cube + 
- Chess + Roguelike = ?Playing chess on a Rubik's Cube? And I brought a 
- shotgun?--They say I'm not fit for this prison--A prison for the guilty--I
-  agree--But they only got it half right--I can twist this space with ease
- --Leaving here is a piece of cake for me!\n\nOriginal date string from 
- steam: "Mar 4\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Chess + Roguelike = ?\r\nPlaying chess on a Rubik's Cube? And I brought a 
+ shotgun?\r\n--\r\nThey say I'm not fit for this prison--\r\nA prison for 
+ the guilty--\r\nI agree--\r\nBut they only got it half right--\r\nI can 
+ twist this space with ease--\r\nLeaving here is a piece of cake for 
+ me!\n\nDate string from steam: "2025-03-05"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240911
-DTEND;VALUE=DATE:20240912
+DTSTART;VALUE=DATE:20240912
+DTEND;VALUE=DATE:20240913
 SUMMARY:Gunfire Reborn - Realm of Frost and Inkwash
 UID:3063250
 DESCRIPTION:https://store.steampowered.com/app/3063250\n\nThe Realm of 
- Frost and Inkwash is arrivingBrush and ink swing\, frost chills the scene.
-  Two new heroes Momo and Lyn are waiting to depart on a journey with you! 
- Before the journey begins\, Momo wields the calligraphy brush and brings 
- us four unique and fantasy weapons from the painting world.\n\nOriginal 
- date string from steam: "Sep 11\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ Frost and Inkwash is arriving\r\nBrush and ink swing\, frost chills the 
+ scene. Two new heroes Momo and Lyn are waiting to depart on a journey with
+  you! \r\nBefore the journey begins\, Momo wields the calligraphy brush 
+ and brings us four unique and fantasy weapons from the painting 
+ world.\n\nDate string from steam: "2024-09-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2497,10 +2475,9 @@ DESCRIPTION:https://store.steampowered.com/app/3098660\n\nManage your own
  photography studio and adjust every joint of your customers to meet their 
  needs. You can create countless poses and styles\, showcasing your unique 
  creativity. Upgrade cameras and equipment\, take photos that satisfy 
- customers\, and earn more rewards.\n\nOriginal date string from steam: "Q4
-  2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ customers\, and earn more rewards.\n\nDate string from steam: "2024-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2512,10 +2489,10 @@ DESCRIPTION:https://store.steampowered.com/app/3124200\n\nA thrilling\,
  poignant story-driven experience about a daughter who returns to her 
  childhood home after receiving a letter that her estranged mother has left
   something mysterious for her. Explore\, interact and experience a 
- narrative about love\, hope and umm.... HAUNTING DARK PAST!? 
- WHAT?\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ narrative about love\, hope and umm.... HAUNTING DARK PAST!? WHAT?\n\nDate
+  string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,23 +2502,23 @@ SUMMARY:Witchfire
 UID:3156770
 DESCRIPTION:https://store.steampowered.com/app/3156770\n\nWitchfire is a 
  first-person dark fantasy RPG shooter in which you play as a wicked sinner
-  turned witch hunter on his final mission to reach salvation.\n\nOriginal 
- date string from steam: "Sep 23\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  turned witch hunter on his final mission to reach salvation.\n\nDate 
+ string from steam: "2024-09-23"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Dragons Invade Scotland
 UID:3166900
 DESCRIPTION:https://store.steampowered.com/app/3166900\n\nMatch-3 Tower 
  Defense. Defend real Scottish castles from waves of dragons. Real Scottish
   stories and legends. Includes a full map of Scotland to scale where 1 
- tile is 19.5 meters.\n\nOriginal date string from steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ tile is 19.5 meters.\n\nDate string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2552,53 +2529,52 @@ UID:3190430
 DESCRIPTION:https://store.steampowered.com/app/3190430\n\nThis is a text-
  based horror game in which you investigate mysterious urban legends. Along
   the way\, the player takes on the role of a character who gets “lost” and
-  encounters a series of random events.\n\nOriginal date string from steam:
-  "Jan 10\, 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  encounters a series of random events.\n\nDate string from steam: 
+ "2025-01-10"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
 SUMMARY:Little Fighter 2 Remastered
 UID:3249650
 DESCRIPTION:https://store.steampowered.com/app/3249650\n\nRediscover the 
- classic combat charm of &quot\;Little Fighter 2\,&quot\; now with fully 
- upgraded and redrawn graphics\, support for local connections up to 8 
- computers\, and every character move more detailed and extravagant\, 
- providing an unprecedented combat experience.\n\nOriginal date string from
-  steam: "Q1 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ classic combat charm of "Little Fighter 2\," now with fully upgraded and 
+ redrawn graphics\, support for local connections up to 8 computers\, and 
+ every character move more detailed and extravagant\, providing an 
+ unprecedented combat experience.\n\nDate string from steam: "2025-03-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241211
-DTEND;VALUE=DATE:20241212
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241213
 SUMMARY:There Exists Nobody
 UID:3257490
 DESCRIPTION:https://store.steampowered.com/app/3257490\n\nYou arrive at a 
  deserted street that feels familiar yet is filled with unease. Pick up 
  your camera\, capture the hidden anomalies\, and break this endless 
- loop.\n\nOriginal date string from steam: "Dec 11\, 2024"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ loop.\n\nDate string from steam: "2024-12-12"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DTEND;VALUE=DATE:20250601
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250701
 SUMMARY:Rogue Loops
 UID:3275010
 DESCRIPTION:https://store.steampowered.com/app/3275010\n\nRogue Loops is a 
  roguelite action game where a trapped family battles to escape an endless 
  loop. Combine unique skills and relics to create powerful synergies 
  against the loop’s guardians. As you grow stronger\, so does the loop—can 
- you break free from this relentless cycle?\n\nOriginal date string from 
- steam: "Q2 2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ you break free from this relentless cycle?\n\nDate string from steam: 
+ "2025-06-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2608,10 +2584,10 @@ SUMMARY:Paradise
 UID:3281420
 DESCRIPTION:https://store.steampowered.com/app/3281420\n\nPARADISE is a 
  free-to-play life simulation game with limitless possibilities\, realistic
-  graphics\, and advanced AI. Endless World\, Endless Play.\n\nOriginal 
- date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+  graphics\, and advanced AI. Endless World\, Endless Play.\n\nDate string 
+ from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
@@ -2624,23 +2600,23 @@ DESCRIPTION:https://store.steampowered.com/app/3306400\n\nThis is a 3D
  third installment of the Ryukyu Hidden series and the Ryukyu Hidden Nine 
  Absolute Reincarnation Chapter\, the game is designed with the principle 
  of promoting offense and hesitation to defeat in its combat 
- system.\n\nOriginal date string from steam: "2025"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ system.\n\nDate string from steam: "2025-12-31"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
 SUMMARY:CORING
 UID:3349900
 DESCRIPTION:https://store.steampowered.com/app/3349900\n\nCORING is a fast-
  paced\, turn-based strategy game with rogue-like elements. Play as Pruner 
  'III'\, a reborn entity tasked with severing abnormal branches to protect 
  the World Tree. Piece together memories to uncover the truth of your 
- endless rebirth.\n\nOriginal date string from steam: "Q2 2026"
-LAST-MODIFIED:20241208T042510Z
-DTSTAMP:20241208T042510Z
+ endless rebirth.\n\nDate string from steam: "2026-06-30"
+LAST-MODIFIED:20241208T064105Z
+DTSTAMP:20241208T064105Z
 CATEGORIES:game_release
 END:VEVENT
 END:VCALENDAR
