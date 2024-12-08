@@ -3,6 +3,7 @@ import json
 import os
 import re
 import time
+import urllib
 from collections import namedtuple
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -13,6 +14,7 @@ from ics import Calendar, Event
 from matplotlib import pyplot, ticker
 
 
+_GET_ITEMS_BATCH_SIZE = 200
 _LAST_DAY = '-12-31'
 _NAME = 'name'
 _PRERELEASE = 'prerelease'
@@ -23,10 +25,11 @@ _SEP = '-09-15'
 _SHORT_DESCRIPTION = 'short_description'
 _TOTAL = 'total'
 _TYPE = 'type'
+# The GetItems API is more reliable. It should be preferred in most cases.
+_USE_GET_ITEMS_API = True
 _UTC = timezone.utc
 _YEAR_ONLY_REGEX = '^(\\d{4}) \\.$'
 
-# TODO: English phrases should be enough here
 _BLOCK_LIST = ('tbd', 'tba', 'to be announced', 'when it\'s done', 'when it\'s ready', '即将推出', '即将宣布', 'coming soon')
 _TO_REPLACE = (
     ('spring', 'mar'), ('summer', 'june'), ('fall', 'sep'), ('winter', 'dec'),
@@ -87,20 +90,106 @@ def get_game_details(appid):
         response = requests.get(url, timeout=30)
     except Exception as e:
         print(f'Unexpected error: {e}')
-        return GameDetails('', '', '', '', False)
+        return GameDetails(
+            name='',
+            type='',
+            release_string='',
+            short_description='',
+            prerelease=False
+        )
 
     if response.status_code != 200:
-        return GameDetails('', '', '', '', False)
+        return GameDetails(
+            name='',
+            type='',
+            release_string='',
+            short_description='',
+            prerelease=False
+        )
 
     response_data = response.json()
     app_data_wrapper = response_data.get(str(appid), {})
     if not app_data_wrapper.get('success'):
-        return GameDetails('', '', '', '', False)
+        return GameDetails(
+            name='',
+            type='',
+            release_string='',
+            short_description='',
+            prerelease=False
+        )
 
     app_data = app_data_wrapper.get('data', {})
     release_date = app_data.get(_RELEASE_DATE, {})
     prerelease = release_date.get('coming_soon', False)
-    return GameDetails(app_data.get(_NAME, ''), app_data.get(_TYPE, ''), release_date.get('date', ''), app_data.get(_SHORT_DESCRIPTION, ''), prerelease)
+    return GameDetails(
+        name=app_data.get(_NAME, ''),
+        type=app_data.get(_TYPE, ''),
+        release_string=release_date.get('date', ''),
+        short_description=app_data.get(_SHORT_DESCRIPTION, ''),
+        prerelease=prerelease
+    )
+
+
+def get_game_details_via_get_items_api(appids):
+    request_json = {
+        'ids': [{'appid': appid} for appid in appids],
+        'context': {
+            # TODO: maybe expose this to config
+            'language': 'english',
+            'country_code': 'US',
+            'steam_realm': 1
+        },
+        'data_request': {
+            'include_release': True,
+            'include_basic_info': True
+        }
+    }
+
+    encoded_json_string = urllib.parse.quote(json.dumps(request_json))
+
+    url = f'https://api.steampowered.com/IStoreBrowseService/GetItems/v1?input_json={encoded_json_string}'
+    try:
+        response = requests.get(url, timeout=30)
+    except Exception as e:
+        print(f'Unexpected error: {e}')
+        return {}
+
+    if response.status_code != 200:
+        return {}
+
+    response_data = response.json()
+    store_items = response_data.get('response', {}).get('store_items', [])
+    game_details_dict = {}
+
+    for item in store_items:
+        appid = item.get('appid')
+        if not appid:
+            continue
+
+        name = item.get(_NAME)
+        type_ = item.get(_TYPE)
+        release = item.get('release', {})
+        basic_info = item.get('basic_info', {})
+
+        # Extract relevant fields
+        steam_release_date = release.get('steam_release_date', 0)
+        short_description = basic_info.get(_SHORT_DESCRIPTION, '')
+        prerelease_ = release.get('is_coming_soon', False)
+        custom_release_date_message = release.get('custom_release_date_message', '')
+
+        # Create a GameDetails tuple
+        game_details = GameDetails(
+            name=name,
+            type=type_,
+            release_string=datetime.utcfromtimestamp(steam_release_date).strftime('%Y-%m-%d') if steam_release_date > 0 else custom_release_date_message,
+            short_description=short_description,
+            prerelease=prerelease_
+        )
+
+        # Add to dictionary
+        game_details_dict[appid] = game_details
+
+    return game_details_dict
 
 
 # Arguments
@@ -120,35 +209,39 @@ now = datetime.now(_UTC)
 wishlist_data = {}
 prerelease_count = 0
 successful_deductions = []
-# TODO: this may no longer be needed at all
-failed_deductions = []
-bad_appids = []
 
 wishlist_appids = get_wishlist_appids(args.id)
 
-for appid in wishlist_appids:
-    # Try 20 times, as there can be transient errors with this API
-    for retry in range(20):
-        game_details = get_game_details(appid)
-        if game_details.name:
-            break
-        time.sleep(5)
-    else:
-        bad_appids.append(str(appid))
-        continue
-    wishlist_data.update({appid: {_NAME: game_details.name, _TYPE: game_details.type, _RELEASE_STRING: game_details.release_string, _SHORT_DESCRIPTION: game_details.short_description, _PRERELEASE: game_details.prerelease}})
-    time.sleep(0.5)
+if _USE_GET_ITEMS_API:
+    # Process the appids in batches, as the GetItems API will return error for request that is too large
+    wishlist_appid_batches = [wishlist_appids[i:i + _GET_ITEMS_BATCH_SIZE] for i in range(0, len(wishlist_appids), _GET_ITEMS_BATCH_SIZE)]
+    for batch in wishlist_appid_batches:
+        wishlist_data.update(get_game_details_via_get_items_api(batch))
+        time.sleep(3)
+else:
+    for appid in wishlist_appids:
+        # Try 20 times, as there can be transient errors with this API
+        for retry in range(20):
+            game_details = get_game_details(appid)
+            if game_details.name:
+                break
+            time.sleep(5)
+        else:
+            print(f'Bad appid:{appid}')
+            continue
+        wishlist_data.update({appid: game_details})
+        time.sleep(0.5)
 
 # Process the wishlist data
 cal = Calendar(creator='SteamWishlistCalendar')
 for key, value in wishlist_data.items():
-    game_name = value[_NAME]
+    game_name = value.name
     description_suffix = ''
 
-    if value[_PRERELEASE]:
+    if value.prerelease:
         prerelease_count += 1
 
-    release_string = value[_RELEASE_STRING].lower()
+    release_string = value.release_string.lower()
     if any(substring in release_string for substring in _BLOCK_LIST):
         # Release date not announced.
         continue
@@ -173,20 +266,20 @@ for key, value in wishlist_data.items():
                                            'PREFER_DATES_FROM': 'future'})
     if translated_date:
         release_date = translated_date
-        while value[_PRERELEASE] and release_date.date() < now.date():
+        while value.prerelease and release_date.date() < now.date():
             # A game is pre-release but the estimated release date has already passed. In this case, pick the earliest last-of-a-month date in the future.
             # Note the difference between this case and the case where only a year is provided, which has been addressed above.
             release_date = last_day_of_next_month(release_date)
-        description_suffix = f'\n\n{value[_SHORT_DESCRIPTION]}\n\nOriginal date string from steam: "{value[_RELEASE_STRING]}"'
+        description_suffix = f'\n\n{value.short_description}\n\nDate string from steam: "{value.release_string}"'
     else:
-        failed_deductions.append(f'{game_name}\t\t{value[_RELEASE_STRING]}')
+        print(f'Failed deduction: {key}\t\t{game_name}\t\t{value.release_string}')
         continue
 
     if not release_date:
         continue
 
     successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
-    if value[_TYPE] == 'dlc' and not args.include_dlc:
+    if value.type == 'dlc' and not args.include_dlc:
         continue
 
     event = Event(uid=str(key), summary=game_name,
@@ -200,8 +293,6 @@ for key, value in wishlist_data.items():
 # File outputs
 _OUTPUT_FOLDER = 'output'
 _SUCCESS_FILE = 'successful.txt'
-_FAILURE_FILE = 'failed_deductions.txt'
-_BAD_APPIDS_FILE = 'bad_appids.txt'
 _ICS_FILE = 'wishlist.ics'
 _HISTORY_FILE = 'history.json'
 _HISTORY_CHART_FILE = 'wishlist_history_chart.png'
@@ -223,18 +314,6 @@ output_folder.mkdir(exist_ok=True)
 success_file = output_folder.joinpath(_SUCCESS_FILE)
 with success_file.open('w', encoding='utf-8') as f:
     f.write('\n'.join(successful_deductions))
-
-# Write failed deductions
-if failed_deductions:
-    failure_file = output_folder.joinpath(_FAILURE_FILE)
-    with failure_file.open('w', encoding='utf-8') as f:
-        f.write('\n'.join(failed_deductions))
-
-# Write bad appids
-if bad_appids:
-    bad_appids_file = output_folder.joinpath(_BAD_APPIDS_FILE)
-    with bad_appids_file.open('w', encoding='utf-8') as f:
-        f.write('\n'.join(bad_appids))
 
 # Write the calendar
 ics_file = output_folder.joinpath(_ICS_FILE)
