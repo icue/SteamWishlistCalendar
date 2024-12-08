@@ -181,7 +181,11 @@ def get_game_details_via_get_items_api(appids):
         game_details = GameDetails(
             name=name,
             type=type_,
-            release_string=datetime.utcfromtimestamp(steam_release_date).strftime('%Y-%m-%d') if steam_release_date > 0 else custom_release_date_message,
+            release_string=(
+                datetime.fromtimestamp(steam_release_date, tz=_UTC).strftime("%Y-%m-%d")
+                if steam_release_date > 0
+                else custom_release_date_message
+            ),
             short_description=short_description,
             prerelease=prerelease_
         )
