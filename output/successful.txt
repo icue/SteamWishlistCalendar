@@ -21,8 +21,10 @@ Shady Knight		2024-10-09
 Trepang2		2023-06-21
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-01-31
+SYNDUALITY Echo of Ada		2025-01-23
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
+Crawl Tactics		2022-12-09
 Helskate		2024-02-15
 No Rest for the Wicked		2024-04-18
 Viewfinder		2023-07-18
@@ -32,12 +34,15 @@ Fallen Aces		2024-06-14
 Battle Shapers		2024-12-04
 Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
+Killing Floor 3		2025-03-31
 Netherguild		2023-03-27
 Nivalis		2025-12-31
 Eternal Strands		2025-01-28
 Tchia		2024-03-21
 Eastern Tactics		2025-12-31
+Hyper Light Breaker		2025-01-14
 Dreadhunter		2023-10-18
+10 Dead Doves		2024-12-13
 Skillsworn		2024-08-09
 Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
@@ -110,14 +115,15 @@ Blade Prince Academy		2024-03-07
 Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
 Infest		2024-07-31
-Cowboy 3030		2024-05-28
+Cowboy 3030		2024-12-13
 Dungeon Clawler		2024-11-21
 Rune Coliseum		2024-09-24
 Like a Dragon Gaiden: The Man Who Erased His Name		2023-11-08
 Dystopika		2024-06-21
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
+AI LIMIT		2025-03-27
 Soulslinger: Envoy of Death		2023-12-14
-Hidden Pass		2025-03-31
+Hidden Pass		2025-09-30
 MENACE		2025-09-30
 Shape of Dreams		2025-05-31
 While Waiting		2025-03-31
@@ -143,8 +149,8 @@ Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 Spellbound Shuffle		2024-12-31
-Intravenous 2		2024-08-15
 Tokyo Xtreme Racer		2025-12-31
+Dead Weight		2025-03-31
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
 Aliya: Timelink		2024-04-25
@@ -173,7 +179,9 @@ Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
 Gunfire Reborn - Realm of Frost and Inkwash		2024-09-12
+WhatRogue：Exile Land		2024-12-12
 Photo Studio Simulator		2024-12-31
+Sa[meow]rai: Silverwing Stray		2025-06-30
 Moon and Away		2025-12-31
 Witchfire		2024-09-23
 Dragons Invade Scotland		2025-03-31
@@ -184,3 +192,4 @@ Rogue Loops		2025-06-30
 Paradise		2025-12-31
 Redemption of Liuyin		2025-12-31
 CORING		2026-06-30
+Reflections of the void		2025-07-15
