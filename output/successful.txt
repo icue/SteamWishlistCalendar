@@ -24,7 +24,6 @@ Rebellion GODSOUL: Awakening		2025-01-31
 SYNDUALITY Echo of Ada		2025-01-23
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
-Crawl Tactics		2022-12-09
 Helskate		2024-02-15
 No Rest for the Wicked		2024-04-18
 Viewfinder		2023-07-18
@@ -60,6 +59,8 @@ Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
 ZERO Sievert		2024-10-23
 Hell Clock		2025-06-30
+Snufkin: Melody of Moominvalley		2024-03-07
+Dice Gambit		2025-06-30
 Marvel’s Spider-Man Remastered		2022-08-12
 Homura Hime		2025-12-31
 Those Who Rule		2025-01-31
@@ -92,7 +93,7 @@ Yggdra Union		2023-07-27
 SULFUR		2024-10-28
 The Land Beneath Us		2024-05-13
 Cyberpunk 2077: Phantom Liberty		2023-09-25
-Streets of Rogue 2		2024-12-31
+Streets of Rogue 2		2025-12-31
 Sniper Elite: Resistance		2025-01-30
 Yasha: Legends of the Demon Blade		2025-03-31
 Spirit Mancer		2024-11-22
@@ -100,7 +101,7 @@ Zero Division		2024-07-11
 Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
-Voice of Belldona		2024-12-31
+Voice of Belldona		2025-03-31
 [REDACTED]		2024-10-28
 Forgotten Mines		2024-07-23
 Into the Dead: Our Darkest Days		2025-12-31
@@ -110,6 +111,7 @@ Turbo Dismount® 2		2025-01-31
 Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
 Risk of Rain 2: Seekers of the Storm		2024-08-27
+Knights in Tight Spaces		2025-12-31
 SpongeBob SquarePants™: The Patrick Star Game		2024-10-04
 Blade Prince Academy		2024-03-07
 Metal Bringer		2025-12-31
@@ -135,7 +137,6 @@ New Arc Line		2024-11-26
 VOIN		2024-12-10
 Dark Pact		2025-03-31
 DICEOMANCER		2024-10-10
-Penny Blood: Hellbound		2024-03-07
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-12-31
 Lost Eidolons: Veil of the Witch		2024-11-05
@@ -184,12 +185,14 @@ Photo Studio Simulator		2024-12-31
 Sa[meow]rai: Silverwing Stray		2025-06-30
 Moon and Away		2025-12-31
 Witchfire		2024-09-23
-Dragons Invade Scotland		2025-03-31
+Lynked: Banner of the Spark		2024-10-22
+Dragons Invade Scotland		2025-12-31
 Terror Diversion		2025-01-10
 Little Fighter 2 Remastered		2025-03-31
 There Exists Nobody		2024-12-12
 Rogue Loops		2025-06-30
 Paradise		2025-12-31
 Redemption of Liuyin		2025-12-31
+刻印战记1：法利兹传		2024-12-20
 CORING		2026-06-30
 Reflections of the void		2025-07-15
