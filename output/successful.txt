@@ -42,8 +42,6 @@ Eastern Tactics		2025-12-31
 Hyper Light Breaker		2025-01-14
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
-Skillsworn		2024-08-09
-Until Then		2024-06-25
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Metal Slug Tactics		2024-11-05
 The Alters		2025-03-31
@@ -65,6 +63,7 @@ Marvel’s Spider-Man Remastered		2022-08-12
 Homura Hime		2025-12-31
 Those Who Rule		2025-01-31
 Flintlock: The Siege of Dawn		2024-07-18
+Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
@@ -86,17 +85,14 @@ Simulakros		2024-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Stick It to the Stickman		2025-12-31
 Shadow of the Depth		2024-04-23
-Indoor Kickball		2023-05-26
 PARANORMASIGHT: The Seven Mysteries of Honjo		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
 SULFUR		2024-10-28
-The Land Beneath Us		2024-05-13
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
 Sniper Elite: Resistance		2025-01-30
 Yasha: Legends of the Demon Blade		2025-03-31
-Spirit Mancer		2024-11-22
 Zero Division		2024-07-11
 Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
@@ -113,7 +109,6 @@ Isle of Swaps		2024-09-27
 Risk of Rain 2: Seekers of the Storm		2024-08-27
 Knights in Tight Spaces		2025-12-31
 SpongeBob SquarePants™: The Patrick Star Game		2024-10-04
-Blade Prince Academy		2024-03-07
 Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
 Infest		2024-07-31
@@ -151,11 +146,10 @@ Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 Spellbound Shuffle		2024-12-31
 Tokyo Xtreme Racer		2025-12-31
-Dead Weight		2025-03-31
+Dead Weight		2025-06-30
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
 Aliya: Timelink		2024-04-25
-Some Goodbyes We Made		2024-10-25
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
 CleanFall		2025-06-30
@@ -169,18 +163,17 @@ Become the Moon		2025-12-31
 Heretical		2024-10-30
 Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
+Tetra Dungeon		2024-12-20
 Doraemon Dorayaki Shop Story		2024-12-09
-SHINONOME ABYSS The Maiden Exorcist		2024-12-31
+SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Project DOSA		2026-12-31
 Moonless Moon		2024-08-08
 Arisen Force: HeroTest		2024-10-23
-The End of You		2024-06-20
 BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
 Gunfire Reborn - Realm of Frost and Inkwash		2024-09-12
-WhatRogue：Exile Land		2024-12-12
 Photo Studio Simulator		2024-12-31
 Sa[meow]rai: Silverwing Stray		2025-06-30
 Moon and Away		2025-12-31
@@ -189,7 +182,6 @@ Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
 Terror Diversion		2025-01-10
 Little Fighter 2 Remastered		2025-03-31
-There Exists Nobody		2024-12-12
 Rogue Loops		2025-06-30
 Paradise		2025-12-31
 Redemption of Liuyin		2025-12-31
