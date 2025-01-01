@@ -20,7 +20,7 @@ JDM: Japanese Drift Master		2025-12-31
 Shady Knight		2024-10-09
 Trepang2		2023-06-21
 Neverlooted Dungeon		2025-12-31
-Rebellion GODSOUL: Awakening		2025-01-31
+Rebellion GODSOUL: Awakening		2025-03-31
 SYNDUALITY Echo of Ada		2025-01-23
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
@@ -61,7 +61,7 @@ Snufkin: Melody of Moominvalley		2024-03-07
 Dice Gambit		2025-06-30
 Marvel’s Spider-Man Remastered		2022-08-12
 Homura Hime		2025-12-31
-Those Who Rule		2025-01-31
+Those Who Rule		2025-01-27
 Flintlock: The Siege of Dawn		2024-07-18
 Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
@@ -144,7 +144,6 @@ Maraka		2025-03-31
 Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
-Spellbound Shuffle		2024-12-31
 Tokyo Xtreme Racer		2025-12-31
 Dead Weight		2025-06-30
 Metaphor: ReFantazio		2024-10-11
@@ -163,7 +162,6 @@ Become the Moon		2025-12-31
 Heretical		2024-10-30
 Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
-Tetra Dungeon		2024-12-20
 Doraemon Dorayaki Shop Story		2024-12-09
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Project DOSA		2026-12-31
@@ -174,7 +172,6 @@ Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
 Gunfire Reborn - Realm of Frost and Inkwash		2024-09-12
-Photo Studio Simulator		2024-12-31
 Sa[meow]rai: Silverwing Stray		2025-06-30
 Moon and Away		2025-12-31
 Witchfire		2024-09-23
