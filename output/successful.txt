@@ -1,6 +1,5 @@
 Alpha Protocol™		2010-06-01
 Gunpoint		2013-06-03
-Bulwark Evolution: Falconeer Chronicles		2024-03-26
 Project Haven		2025-12-31
 Cogmind		2017-10-17
 Fortune-499		2018-05-11
@@ -37,13 +36,11 @@ Killing Floor 3		2025-03-31
 Netherguild		2023-03-27
 Nivalis		2025-12-31
 Eternal Strands		2025-01-28
-Tchia		2024-03-21
 Eastern Tactics		2025-12-31
 Hyper Light Breaker		2025-01-14
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
-Metal Slug Tactics		2024-11-05
 The Alters		2025-03-31
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Minds Beneath Us		2024-07-31
@@ -55,7 +52,6 @@ Starfield		2023-09-06
 Tokyo Stranger 东京诡事		2025-03-31
 Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
-ZERO Sievert		2024-10-23
 Hell Clock		2025-06-30
 Snufkin: Melody of Moominvalley		2024-03-07
 Dice Gambit		2025-06-30
@@ -72,9 +68,11 @@ Demonschool		2025-03-31
 Atomic Picnic		2024-11-07
 Trinity Fusion		2023-12-15
 Windblown		2024-10-24
+Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
+School Days		2025-01-17
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -94,7 +92,6 @@ Streets of Rogue 2		2025-12-31
 Sniper Elite: Resistance		2025-01-30
 Yasha: Legends of the Demon Blade		2025-03-31
 Zero Division		2024-07-11
-Tiny Glade		2024-09-23
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Voice of Belldona		2025-03-31
@@ -108,7 +105,6 @@ Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
 Risk of Rain 2: Seekers of the Storm		2024-08-27
 Knights in Tight Spaces		2025-12-31
-SpongeBob SquarePants™: The Patrick Star Game		2024-10-04
 Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
 Infest		2024-07-31
@@ -125,6 +121,7 @@ MENACE		2025-09-30
 Shape of Dreams		2025-05-31
 While Waiting		2025-03-31
 Trash of the Titans		2024-05-29
+Dreamcore		2025-01-23
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
 inZOI		2025-03-28
 Avowed		2025-02-18
@@ -144,7 +141,7 @@ Maraka		2025-03-31
 Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
-Tokyo Xtreme Racer		2025-12-31
+Tokyo Xtreme Racer		2025-01-23
 Dead Weight		2025-06-30
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
@@ -171,7 +168,6 @@ BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
-Gunfire Reborn - Realm of Frost and Inkwash		2024-09-12
 Sa[meow]rai: Silverwing Stray		2025-06-30
 Moon and Away		2025-12-31
 Witchfire		2024-09-23
@@ -185,3 +181,4 @@ Redemption of Liuyin		2025-12-31
 刻印战记1：法利兹传		2024-12-20
 CORING		2026-06-30
 Reflections of the void		2025-07-15
+Dungeon Warfare 3		2025-12-31
