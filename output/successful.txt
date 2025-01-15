@@ -45,11 +45,12 @@ The Alters		2025-03-31
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Minds Beneath Us		2024-07-31
 Cross Blitz		2023-11-29
+Shashingo: Learn Japanese with Photography		2024-02-27
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
-Tokyo Stranger 东京诡事		2025-03-31
+Tokyo Stranger 东京诡事		2025-12-31
 Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
 Hell Clock		2025-06-30
@@ -72,7 +73,6 @@ Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
-School Days		2025-01-17
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -90,17 +90,17 @@ SULFUR		2024-10-28
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
 Sniper Elite: Resistance		2025-01-30
-Yasha: Legends of the Demon Blade		2025-03-31
+Yasha: Legends of the Demon Blade		2025-04-23
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2024-01-30
 Voice of Belldona		2025-03-31
 [REDACTED]		2024-10-28
 Forgotten Mines		2024-07-23
-Into the Dead: Our Darkest Days		2025-12-31
+Into the Dead: Our Darkest Days		2025-06-30
 RAM: Random Access Mayhem		2024-11-18
 Endless Samurai		2025-12-31
-Turbo Dismount® 2		2025-01-31
+Turbo Dismount® 2		2025-01-23
 Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
 Risk of Rain 2: Seekers of the Storm		2024-08-27
@@ -109,7 +109,6 @@ Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
 Infest		2024-07-31
 Cowboy 3030		2024-12-13
-Dungeon Clawler		2024-11-21
 Rune Coliseum		2024-09-24
 Like a Dragon Gaiden: The Man Who Erased His Name		2023-11-08
 Dystopika		2024-06-21
@@ -132,7 +131,7 @@ DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-12-31
 Lost Eidolons: Veil of the Witch		2024-11-05
-Astral Throne		2025-03-31
+Astral Throne		2025-02-07
 Burning Sword: Death Sun		2025-03-31
 DONG WU: ODYSSEY		2024-10-31
 DemonStar - Original Missions		2023-12-12
@@ -173,7 +172,7 @@ Moon and Away		2025-12-31
 Witchfire		2024-09-23
 Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
-Terror Diversion		2025-01-10
+Lone Soul		2025-03-31
 Little Fighter 2 Remastered		2025-03-31
 Rogue Loops		2025-06-30
 Paradise		2025-12-31
@@ -181,4 +180,5 @@ Redemption of Liuyin		2025-12-31
 刻印战记1：法利兹传		2024-12-20
 CORING		2026-06-30
 Reflections of the void		2025-07-15
+Debugging Hero		2025-12-31
 Dungeon Warfare 3		2025-12-31
