@@ -16,12 +16,11 @@ Reverse Collapse: Code Name Bakery		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
-JDM: Japanese Drift Master		2025-12-31
+JDM: Japanese Drift Master		2025-03-26
 Shady Knight		2024-10-09
 Trepang2		2023-06-21
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-03-31
-SYNDUALITY Echo of Ada		2025-01-23
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 No Rest for the Wicked		2024-04-18
@@ -66,11 +65,13 @@ I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
 Dream Tactics		2024-04-15
 Demonschool		2025-03-31
+Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
 Trinity Fusion		2023-12-15
 Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
+Mark of the Deep		2025-01-24
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
 Svarog's Dream		2023-12-04
@@ -87,6 +88,7 @@ PARANORMASIGHT: The Seven Mysteries of Honjo		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
 SULFUR		2024-10-28
+SILENT HILL 2		2024-10-08
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
 Sniper Elite: Resistance		2025-01-30
@@ -106,7 +108,7 @@ Risk of Rain 2: Seekers of the Storm		2024-08-27
 Knights in Tight Spaces		2025-12-31
 Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
-Infest		2024-07-31
+Infest		2025-01-23
 Cowboy 3030		2024-12-13
 Rune Coliseum		2024-09-24
 Like a Dragon Gaiden: The Man Who Erased His Name		2023-11-08
@@ -120,7 +122,6 @@ MENACE		2025-09-30
 Shape of Dreams		2025-05-31
 While Waiting		2025-02-05
 Trash of the Titans		2024-05-29
-Dreamcore		2025-01-23
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
 inZOI		2025-03-28
 Avowed		2025-02-18
@@ -140,6 +141,7 @@ Maraka		2025-03-31
 Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
+NINJA GAIDEN 4		2025-12-31
 Tokyo Xtreme Racer		2025-01-23
 Dead Weight		2025-06-30
 Metaphor: ReFantazio		2024-10-11
@@ -148,6 +150,7 @@ Aliya: Timelink		2024-04-25
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
 CleanFall		2025-06-30
+Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
 Dragon Is Dead		2024-06-07
 Fountain		2024-03-07
@@ -167,8 +170,10 @@ BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
-Sa[meow]rai: Silverwing Stray		2025-06-30
+Sa[meow]rai: Silverwing Stray		2025-09-30
+NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
+Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
 Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
@@ -176,6 +181,8 @@ Lone Soul		2025-03-31
 Little Fighter 2 Remastered		2025-03-31
 Rogue Loops		2025-06-30
 Paradise		2025-12-31
+NINJA GAIDEN 2 Black		2025-01-23
+Neon Spellstorm		2025-12-31
 Redemption of Liuyin		2025-12-31
 刻印战记1：法利兹传		2024-12-20
 CORING		2026-12-31
