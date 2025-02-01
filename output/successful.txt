@@ -32,7 +32,7 @@ Battle Shapers		2024-12-04
 Endless Alice		2025-01-15
 Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
-Killing Floor 3		2025-03-31
+Killing Floor 3		2025-03-25
 Netherguild		2023-03-27
 Nivalis		2025-12-31
 Eternal Strands		2025-01-28
@@ -42,10 +42,10 @@ Dreadhunter		2023-10-18
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 The Alters		2025-03-31
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
-Minds Beneath Us		2024-07-31
 Cross Blitz		2023-11-29
 Shashingo: Learn Japanese with Photography		2024-02-27
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
+Coridden		2025-01-29
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
 Starfield		2023-09-06
@@ -74,6 +74,7 @@ Tendryll		2024-04-30
 Mark of the Deep		2025-01-24
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
+School Days		2025-01-30
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -91,7 +92,6 @@ SULFUR		2024-10-28
 SILENT HILL 2		2024-10-08
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
-Sniper Elite: Resistance		2025-01-30
 Yasha: Legends of the Demon Blade		2025-04-23
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
@@ -101,6 +101,7 @@ Voice of Belldona		2025-03-31
 Into the Dead: Our Darkest Days		2025-06-30
 RAM: Random Access Mayhem		2024-11-18
 Endless Samurai		2025-12-31
+Ascendant		2025-01-31
 Turbo Dismount® 2		2025-01-23
 Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
@@ -170,6 +171,7 @@ BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-12-31
 Salt Player for Windows		2025-12-31
 《方块战记》《Legend Square》		2025-03-05
+FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2025-09-30
 NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
