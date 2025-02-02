@@ -19,26 +19,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
+      - name: setup Python with uv
+        id: setup-uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: ${{ matrix.python-version }}
+            version: latest
+            python-version: ${{ matrix.python-version }}
+            enable-cache: true
+            prune-cache: false # do not remove pre-built wheels
+            ignore-nothing-to-cache: true
+            cache-dependency-glob: "**/requirements.txt"
 
-      - name: get site-packages path
-        id: site_packages
-        run: echo "site_dir=$(python -c 'import site; print(site.getsitepackages()[0])')" > "$GITHUB_OUTPUT"
+      - name: hint on cache hit
+        if: steps.setup-uv.outputs.cache-hit == 'true'
+        run: echo "Hit cache"
 
-      - name: cache installed packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ steps.site_packages.outputs.site_dir }}
-          key: ${{ runner.os }}-pip-${{ matrix.python-version }}-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: ${{ runner.os }}-pip-
-
-      - name: install python packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+      - name: install dependencies
+        run: uv pip install -r requirements.txt
 
       - name: execute py script
         run: python swc.py -i=${{ secrets.STEAM_ID }} -d=True
