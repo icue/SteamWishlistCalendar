@@ -9,6 +9,7 @@ Vellum		2024-03-28
 Dead Island 2		2024-04-22
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
+METAL EDEN		2025-05-06
 Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
 CyberCorp		2024-08-19
@@ -18,7 +19,6 @@ Hades II		2024-05-06
 Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2025-03-26
 Shady Knight		2024-10-09
-Trepang2		2023-06-21
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-03-31
 Portal Reloaded		2021-04-19
@@ -40,7 +40,7 @@ Eastern Tactics		2025-12-31
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
-The Alters		2025-03-31
+The Alters		2025-12-31
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Cross Blitz		2023-11-29
 Shashingo: Learn Japanese with Photography		2024-02-27
@@ -70,7 +70,6 @@ Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
-School Days		2025-01-30
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -98,8 +97,7 @@ Into the Dead: Our Darkest Days		2025-06-30
 RAM: Random Access Mayhem		2024-11-18
 Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
-Risk of Rain 2: Seekers of the Storm		2024-08-27
-Knights in Tight Spaces		2025-12-31
+Knights in Tight Spaces		2025-03-04
 Metal Bringer		2025-12-31
 Enjoy the Diner		2023-07-31
 Infest		2025-01-23
@@ -131,10 +129,10 @@ Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 NINJA GAIDEN 4		2025-12-31
-Tokyo Xtreme Racer		2025-01-23
 Dead Weight		2025-06-30
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
+Shift'n Slay		2025-02-27
 Aliya: Timelink		2024-04-25
 REYNATIS		2024-09-27
 The Roottrees are Dead		2025-01-15
@@ -178,3 +176,4 @@ CORING		2026-12-31
 Reflections of the void		2025-07-15
 Debugging Hero		2025-12-31
 Dungeon Warfare 3		2025-12-31
+Stellar Blade™		2025-06-30
