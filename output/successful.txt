@@ -24,6 +24,7 @@ Rebellion GODSOUL: Awakening		2025-03-31
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 No Rest for the Wicked		2024-04-18
+KARMA: The Dark World		2025-03-27
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
@@ -51,6 +52,7 @@ Starfield		2023-09-06
 Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
 Hell Clock		2025-06-30
+Guns Undarkness		2025-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
 Dice Gambit		2025-06-30
 Marvel’s Spider-Man Remastered		2022-08-12
@@ -61,7 +63,6 @@ Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 The Last of Us™ Part I		2023-03-28
-Dream Tactics		2024-04-15
 Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
 Trinity Fusion		2023-12-15
@@ -98,7 +99,7 @@ RAM: Random Access Mayhem		2024-11-18
 Codex Lost		2024-11-14
 Isle of Swaps		2024-09-27
 Knights in Tight Spaces		2025-03-04
-Metal Bringer		2025-12-31
+Metal Bringer		2025-03-12
 Enjoy the Diner		2023-07-31
 Infest		2025-01-23
 Cowboy 3030		2024-12-13
@@ -124,12 +125,12 @@ Astral Throne		2025-02-07
 Burning Sword: Death Sun		2025-03-31
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
-Maraka		2025-02-14
+Promise Mascot Agency		2025-12-31
 Evercore Heroes : Ascension		2025-12-31
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 NINJA GAIDEN 4		2025-12-31
-Dead Weight		2025-06-30
+Dead Weight		2025-09-30
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
 Shift'n Slay		2025-02-27
@@ -170,10 +171,11 @@ Rogue Loops		2025-06-30
 Paradise		2025-12-31
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
-Redemption of Liuyin		2025-12-31
+Redemption of Liuyin		2025-03-24
 刻印战记1：法利兹传		2024-12-20
 CORING		2026-12-31
 Reflections of the void		2025-07-15
 Debugging Hero		2025-12-31
 Dungeon Warfare 3		2025-12-31
 Stellar Blade™		2025-06-30
+Pirate's Gambit		2025-12-31
