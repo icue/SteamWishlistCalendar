@@ -3,6 +3,7 @@ Gunpoint		2013-06-03
 Skin Deep		2025-04-30
 Project Haven		2025-12-31
 Cogmind		2017-10-17
+Atomfall		2025-03-27
 Fortune-499		2018-05-11
 Goat Simulator 3		2024-02-15
 Granblue Fantasy: Relink		2024-02-01
@@ -22,7 +23,7 @@ JDM: Japanese Drift Master		2025-05-21
 Shady Knight		2024-10-09
 Neverlooted Dungeon		2025-12-31
 Bleak Faith: Forsaken		2023-03-10
-Rebellion GODSOUL: Awakening		2025-06-30
+Rebellion GODSOUL: Awakening		2025-04-30
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
 Old Skies		2025-04-23
@@ -66,6 +67,7 @@ Flintlock: The Siege of Dawn		2024-07-18
 Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
+Deliver At All Costs		2025-05-22
 The Last of Us™ Part I		2023-03-28
 Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
@@ -91,16 +93,15 @@ Yggdra Union		2023-07-27
 十五		2023-05-26
 Creepy Redneck Dinosaur Mansion 3		2025-12-31
 SILENT HILL 2		2024-10-08
-Reignbreaker		2025-03-18
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
-Yasha: Legends of the Demon Blade		2025-04-23
+Yasha: Legends of the Demon Blade		2025-04-24
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-06-30
 [REDACTED]		2024-10-28
-Into the Dead: Our Darkest Days		2025-06-30
+Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
 Codex Lost		2024-11-14
 The Art of Reflection		2025-12-31
@@ -119,6 +120,7 @@ AI LIMIT		2025-03-27
 Soulslinger: Envoy of Death		2023-12-14
 Hidden Pass		2025-09-30
 MENACE		2025-09-30
+Sephiria		2025-04-03
 Shape of Dreams		2025-05-31
 Dark Deity 2		2025-03-24
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
@@ -142,6 +144,7 @@ NINJA GAIDEN 4		2025-12-31
 Dead Weight		2025-09-30
 Metaphor: ReFantazio		2024-10-11
 Yarimono		2024-08-30
+Commander Quest		2025-04-04
 Shift'n Slay		2025-02-27
 Aliya: Timelink		2024-04-25
 Edge of Memories		2025-12-31
@@ -166,7 +169,7 @@ Project DOSA		2026-12-31
 Moonless Moon		2024-08-08
 Arisen Force: HeroTest		2024-10-23
 BANSHEE: Demon Girl		2025-09-30
-Chains of Freedom		2025-12-31
+Chains of Freedom		2025-04-15
 Salt Player for Windows		2025-12-31
 Chaos Caster		2025-03-11
 Hordes of Fate : A Hand of Fate Adventure		2025-09-30
@@ -176,11 +179,12 @@ NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
 Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
+Assassin’s Creed Shadows		2025-03-20
 Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
 Lone Soul		2025-06-30
 Little Fighter 2 Remastered		2025-03-31
-Rogue Loops		2025-06-30
+Rogue Loops		2025-04-04
 Paradise		2025-04-02
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
@@ -194,3 +198,4 @@ Stellar Blade™		2025-06-30
 Gunlocked 2		2025-12-31
 Grabbus		2025-03-24
 Pirate's Gambit		2025-12-31
+High Above		2025-12-31
