@@ -45,6 +45,7 @@ Eastern Tactics		2025-12-31
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
+Drova - Forsaken Kin		2024-10-15
 The Alters		2025-12-31
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Cross Blitz		2023-11-29
@@ -74,6 +75,7 @@ Trinity Fusion		2023-12-15
 Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
+Nobody Wants to Die		2024-07-17
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2024-02-12
 Svarog's Dream		2023-12-04
@@ -121,7 +123,6 @@ Hidden Pass		2025-09-30
 MENACE		2025-09-30
 Sephiria		2025-04-03
 Shape of Dreams		2025-05-31
-Dark Deity 2		2025-03-24
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
 inZOI		2025-03-28
 Avowed		2025-02-18
@@ -142,6 +143,7 @@ Natsuno-Kanata: Beyond Summer		2024-06-20
 NINJA GAIDEN 4		2025-12-31
 Dead Weight		2025-09-30
 Metaphor: ReFantazio		2024-10-11
+The First Berserker: Khazan		2025-03-27
 Yarimono		2024-08-30
 Commander Quest		2025-04-04
 Shift'n Slay		2025-02-27
@@ -158,8 +160,6 @@ Blightstone		2025-12-31
 Natsu-Mon: 20th Century Summer Kid		2024-06-26
 Food Devils		2025-12-31
 Heretical		2024-10-30
-Rogueformer		2025-03-25
-ELDRADOR® CREATURES SHADOWFALL		2025-03-05
 Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
 Doraemon Dorayaki Shop Story		2024-12-09
@@ -183,7 +183,6 @@ Assassin’s Creed Shadows		2025-03-20
 Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
 Lone Soul		2025-06-30
-Little Fighter 2 Remastered		2025-03-31
 Rogue Loops		2025-04-04
 Paradise		2025-04-02
 NINJA GAIDEN 2 Black		2025-01-23
@@ -196,6 +195,5 @@ Debugging Hero		2025-06-30
 Dungeon Warfare 3		2025-12-31
 Stellar Blade™		2025-06-30
 Gunlocked 2		2025-12-31
-Grabbus		2025-03-24
 Pirate's Gambit		2025-12-31
 High Above		2025-12-31
