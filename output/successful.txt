@@ -46,7 +46,7 @@ Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 [NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Drova - Forsaken Kin		2024-10-15
-The Alters		2025-12-31
+The Alters		2025-06-13
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Cross Blitz		2023-11-29
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
@@ -89,15 +89,15 @@ Simulakros		2024-10-10
 Cloudheim		2025-12-31
 Like a Dragon: Infinite Wealth		2024-01-25
 Stick It to the Stickman		2025-12-31
-Shadow of the Depth		2024-04-23
+Shadow of the Depth		2025-04-10
 PARANORMASIGHT: The Seven Mysteries of Honjo		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
-Creepy Redneck Dinosaur Mansion 3		2025-12-31
+Creepy Redneck Dinosaur Mansion 3		2025-04-22
 SILENT HILL 2		2024-10-08
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
-Yasha: Legends of the Demon Blade		2025-05-15
+Yasha: Legends of the Demon Blade		2025-05-14
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
@@ -115,6 +115,7 @@ Infest		2025-01-23
 Cowboy 3030		2024-12-13
 Rune Coliseum		2024-09-24
 Like a Dragon Gaiden: The Man Who Erased His Name		2023-11-08
+Willow Guard		2025-04-10
 Dystopika		2024-06-21
 DYNASTY WARRIORS: ORIGINS		2025-01-17
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
@@ -185,12 +186,13 @@ Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Lynked: Banner of the Spark		2024-10-22
 Dragons Invade Scotland		2025-12-31
+Magic Rune Stone		2025-04-26
 Lone Soul		2025-06-30
-Rogue Loops		2025-04-04
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
 Redemption of Liuyin		2025-03-24
 刻印战记1：法利兹传		2024-12-20
+The Fool's Apprentice		2025-04-14
 CORING		2026-12-31
 Reflections of the void		2025-12-31
 Debugging Hero		2025-06-30
