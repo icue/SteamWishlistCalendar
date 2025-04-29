@@ -14,7 +14,7 @@ Hogwarts Legacy		2023-02-10
 METAL EDEN		2025-09-30
 Cyber Knights: Flashpoint		2023-10-17
 Crime Scene Cleaner		2024-08-14
-CyberCorp		2024-08-19
+CyberCorp		2025-04-22
 Reverse Collapse: Code Name Bakery		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
@@ -26,6 +26,7 @@ Bleak Faith: Forsaken		2023-03-10
 Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
 Together in Battle		2023-04-25
+Wartorn		2025-06-17
 Old Skies		2025-04-23
 No Rest for the Wicked		2024-04-18
 KARMA: The Dark World		2025-03-27
@@ -76,7 +77,7 @@ Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 Nobody Wants to Die		2024-07-17
 VALKYRIE ELYSIUM		2022-11-11
-SpellRogue		2024-02-12
+SpellRogue		2025-04-24
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -126,6 +127,7 @@ inZOI		2025-03-28
 Avowed		2025-02-18
 New Arc Line		2024-11-26
 VOIN		2024-12-10
+Spellslayer		2025-04-29
 DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-12-31
@@ -149,7 +151,7 @@ Aliya: Timelink		2024-04-25
 Edge of Memories		2025-12-31
 REYNATIS		2024-09-27
 Monster Train 2		2025-05-21
-Dive The Depths 潜入深渊		2025-04-16
+Dive The Depths		2025-04-16
 The Roottrees are Dead		2025-01-15
 CleanFall		2025-09-30
 Lunavania		2025-01-24
@@ -171,6 +173,7 @@ BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-04-15
 DeadWire		2025-06-30
 Salt Player for Windows		2025-12-31
+The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Hordes of Fate : A Hand of Fate Adventure		2025-09-30
 FlyKnight		2025-01-31
@@ -181,12 +184,12 @@ Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
-Magic Rune Stone		2025-04-26
 Lone Soul		2025-06-30
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
 Redemption of Liuyin		2025-03-24
 刻印战记1：法利兹传		2024-12-20
+Cubic Cosmos		2025-07-31
 CORING		2026-12-31
 Reflections of the void		2025-12-31
 Debugging Hero		2025-06-30
