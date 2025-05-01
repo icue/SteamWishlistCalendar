@@ -38,6 +38,7 @@ Battle Shapers		2024-12-04
 Endless Alice		2025-01-15
 Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
+Little Sim World		2025-05-01
 Netherguild		2023-03-27
 Memory Lost		2025-03-06
 Nivalis		2025-12-31
@@ -53,6 +54,7 @@ Cross Blitz		2023-11-29
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
+Wizordum		2025-04-29
 Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
 Superstar Strategy		2025-12-31
@@ -76,6 +78,7 @@ Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 Nobody Wants to Die		2024-07-17
+To Pixelia		2025-05-01
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Svarog's Dream		2023-12-04
@@ -88,7 +91,6 @@ Simulakros		2024-10-10
 Cloudheim		2025-12-31
 Like a Dragon: Infinite Wealth		2024-01-25
 Stick It to the Stickman		2025-12-31
-PARANORMASIGHT: The Seven Mysteries of Honjo		2023-03-08
 Yggdra Union		2023-07-27
 十五		2023-05-26
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
@@ -103,6 +105,7 @@ Voice of Belldona		2025-06-30
 [REDACTED]		2024-10-28
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
+WUCHANG: Fallen Feathers		2025-07-24
 Codex Lost		2024-11-14
 The Art of Reflection		2025-12-31
 Isle of Swaps		2024-09-27
@@ -116,6 +119,7 @@ Willow Guard		2025-04-10
 Dystopika		2024-06-21
 DYNASTY WARRIORS: ORIGINS		2025-01-17
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
+KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Soulslinger: Envoy of Death		2025-04-17
 Hidden Pass		2025-09-30
@@ -146,7 +150,6 @@ Metaphor: ReFantazio		2024-10-11
 The First Berserker: Khazan		2025-03-27
 Yarimono		2024-08-30
 Commander Quest		2025-04-04
-Shift'n Slay		2025-02-27
 Aliya: Timelink		2024-04-25
 Edge of Memories		2025-12-31
 REYNATIS		2024-09-27
@@ -184,6 +187,7 @@ Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
+Deadzone: Rogue		2025-04-29
 Lone Soul		2025-06-30
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
