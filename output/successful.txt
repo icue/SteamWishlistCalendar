@@ -7,7 +7,7 @@ Atomfall		2025-03-27
 Fortune-499		2018-05-11
 Goat Simulator 3		2024-02-15
 Granblue Fantasy: Relink		2024-02-01
-Vellum		2024-03-28
+Vellum		2025-05-02
 Dead Island 2		2024-04-22
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
@@ -25,7 +25,7 @@ Neverlooted Dungeon		2025-12-31
 Bleak Faith: Forsaken		2023-03-10
 Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
-Together in Battle		2023-04-25
+Together in Battle		2025-05-06
 Wartorn		2025-06-17
 Old Skies		2025-04-23
 No Rest for the Wicked		2024-04-18
@@ -38,7 +38,6 @@ Battle Shapers		2024-12-04
 Endless Alice		2025-01-15
 Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
-Little Sim World		2025-05-01
 Netherguild		2023-03-27
 Memory Lost		2025-03-06
 Nivalis		2025-12-31
@@ -54,7 +53,6 @@ Cross Blitz		2023-11-29
 S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
 Forspoken		2023-01-24
 Fortune's Run		2023-09-28
-Wizordum		2025-04-29
 Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
 Superstar Strategy		2025-12-31
@@ -78,7 +76,6 @@ Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
 Nobody Wants to Die		2024-07-17
-To Pixelia		2025-05-01
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Svarog's Dream		2023-12-04
@@ -97,7 +94,7 @@ Creepy Redneck Dinosaur Mansion 3		2025-04-22
 SILENT HILL 2		2024-10-08
 Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
-Yasha: Legends of the Demon Blade		2025-05-14
+Yasha: Legends of the Demon Blade		2025-05-15
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
@@ -131,7 +128,6 @@ inZOI		2025-03-28
 Avowed		2025-02-18
 New Arc Line		2024-11-26
 VOIN		2024-12-10
-Spellslayer		2025-04-29
 DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-12-31
