@@ -1,6 +1,5 @@
 Alpha Protocol™		2010-06-01
 Gunpoint		2013-06-03
-Skin Deep		2025-04-30
 Project Haven		2025-12-31
 Cogmind		2017-10-17
 Atomfall		2025-03-27
@@ -38,6 +37,8 @@ Battle Shapers		2024-12-04
 Endless Alice		2025-01-15
 Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
+Killing Floor 3		2025-07-24
+Peripeteia		2025-02-21
 Netherguild		2023-03-27
 Memory Lost		2025-03-06
 Nivalis		2025-12-31
@@ -96,6 +97,7 @@ Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
 Yasha: Legends of the Demon Blade		2025-05-15
 Zero Division		2024-07-11
+Shuffle Tactics		2025-06-24
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-06-30
@@ -131,6 +133,7 @@ VOIN		2024-12-10
 DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 Dead Wells: The Devil Fragment		2025-12-31
+The Last of Us™ Part II Remastered		2025-04-03
 Shadowveil: Legend of The Five Rings		2025-03-04
 Astral Throne		2025-02-07
 Burning Sword: Death Sun		2025-06-30
@@ -142,6 +145,7 @@ Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 NINJA GAIDEN 4		2025-12-31
 Dead Weight		2025-09-30
+Marvel's Spider-Man 2		2025-01-30
 Metaphor: ReFantazio		2024-10-11
 The First Berserker: Khazan		2025-03-27
 Yarimono		2024-08-30
@@ -170,11 +174,11 @@ Moonless Moon		2024-08-08
 Arisen Force: HeroTest		2024-10-23
 BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-04-15
-DeadWire		2025-06-30
+DeadWire		2025-09-30
 Salt Player for Windows		2025-12-31
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
-Hordes of Fate : A Hand of Fate Adventure		2025-09-30
+Hordes of Fate : A Hand of Fate Adventure		2025-12-31
 FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2025-09-30
 NOOK FALL: West Town		2025-12-31
@@ -187,7 +191,6 @@ Deadzone: Rogue		2025-04-29
 Lone Soul		2025-06-30
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
-Redemption of Liuyin		2025-03-24
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-07-31
 CORING		2026-12-31
