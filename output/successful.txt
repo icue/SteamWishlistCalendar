@@ -7,7 +7,6 @@ Fortune-499		2018-05-11
 Goat Simulator 3		2024-02-15
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
-Dead Island 2		2024-04-22
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
 METAL EDEN		2025-09-30
@@ -21,7 +20,6 @@ Gloomwood		2022-09-05
 JDM: Japanese Drift Master		2025-05-21
 Shady Knight		2024-10-09
 Neverlooted Dungeon		2025-12-31
-Bleak Faith: Forsaken		2023-03-10
 Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
 Together in Battle		2025-05-06
@@ -57,7 +55,6 @@ Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
 Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
-Hell Clock		2025-06-30
 Guns Undarkness		2025-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
 Dice Gambit		2025-12-31
@@ -69,7 +66,6 @@ Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
 Deliver At All Costs		2025-05-22
-The Last of Us™ Part I		2023-03-28
 Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
 Windblown		2024-10-24
@@ -92,7 +88,6 @@ Yggdra Union		2023-07-27
 十五		2023-05-26
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
 SILENT HILL 2		2024-10-08
-Cyberpunk 2077: Phantom Liberty		2023-09-25
 Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
 Shuffle Tactics		2025-06-24
@@ -100,6 +95,7 @@ Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-06-30
 [REDACTED]		2024-10-28
+GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
 WUCHANG: Fallen Feathers		2025-07-24
@@ -118,7 +114,7 @@ Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Soulslinger: Envoy of Death		2025-04-17
-Hidden Pass		2025-09-30
+Hidden Pass		2025-08-14
 MENACE		2025-09-30
 Sephiria		2025-04-03
 Shape of Dreams		2025-12-31
@@ -134,12 +130,12 @@ The Last of Us™ Part II Remastered		2025-04-03
 Shadowveil: Legend of The Five Rings		2025-03-04
 Bonaparte - A Mechanized Revolution		2025-05-21
 Astral Throne		2025-02-07
-Burning Sword: Death Sun		2025-06-30
+Burning Sword: Death Sun		2025-09-30
 Lost in Random: The Eternal Die		2025-06-17
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
 Promise Mascot Agency		2025-04-10
-Evercore Heroes : Ascension		2025-12-31
+Evercore Heroes : Ascension		2025-06-19
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 NINJA GAIDEN 4		2025-12-31
@@ -150,7 +146,7 @@ The First Berserker: Khazan		2025-03-27
 Yarimono		2024-08-30
 Commander Quest		2025-04-04
 Aliya: Timelink		2024-04-25
-Netherworld Covenant		2025-06-19
+Netherworld Covenant		2025-06-18
 Edge of Memories		2025-12-31
 REYNATIS		2024-09-27
 Monster Train 2		2025-05-21
@@ -183,17 +179,18 @@ FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2025-09-30
 NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
+Fated Land		2025-05-29
 Small Spaces		2025-05-27
 Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
 Deadzone: Rogue		2025-04-29
-Lone Soul		2025-06-30
+Lone Soul		2025-09-30
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
 刻印战记1：法利兹传		2024-12-20
-Cubic Cosmos		2025-07-31
+Cubic Cosmos		2025-07-23
 CORING		2026-12-31
 Reflections of the void		2025-12-31
 Debugging Hero		2025-05-30
