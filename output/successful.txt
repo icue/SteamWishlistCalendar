@@ -23,6 +23,7 @@ Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
 Together in Battle		2025-05-06
+Successor		2025-05-29
 Wartorn		2025-06-17
 Old Skies		2025-04-23
 No Rest for the Wicked		2024-04-18
@@ -49,7 +50,6 @@ Drova - Forsaken Kin		2024-10-15
 The Alters		2025-06-13
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Cross Blitz		2023-11-29
-S.T.A.L.K.E.R. 2: Heart of Chornobyl		2024-11-20
 Forspoken		2023-01-24
 Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
@@ -151,7 +151,6 @@ Edge of Memories		2025-12-31
 REYNATIS		2024-09-27
 Monster Train 2		2025-05-21
 Dive The Depths		2025-04-16
-The Roottrees are Dead		2025-01-15
 CleanFall		2025-09-30
 Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
@@ -179,7 +178,6 @@ FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2025-09-30
 NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
-Fated Land		2025-05-29
 Small Spaces		2025-05-27
 Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
@@ -187,13 +185,13 @@ Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
 Deadzone: Rogue		2025-04-29
 Lone Soul		2025-09-30
+Little Fighter 2 Remastered		2025-12-31
 NINJA GAIDEN 2 Black		2025-01-23
 Neon Spellstorm		2025-12-31
 刻印战记1：法利兹传		2024-12-20
-Cubic Cosmos		2025-07-23
+Cubic Cosmos		2025-07-31
 CORING		2026-12-31
 Reflections of the void		2025-12-31
-Debugging Hero		2025-05-30
 Dungeon Warfare 3		2025-12-31
 Pure Pool Pro		2025-12-31
 Stellar Blade™		2025-06-11
