@@ -10,7 +10,7 @@ Vellum		2025-05-02
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
 METAL EDEN		2025-09-30
-Cyber Knights: Flashpoint		2023-10-17
+Cyber Knights: Flashpoint		2025-06-02
 Crime Scene Cleaner		2024-08-14
 CyberCorp		2025-04-22
 Reverse Collapse: Code Name Bakery		2024-03-22
@@ -25,6 +25,7 @@ Portal Reloaded		2021-04-19
 Together in Battle		2025-05-06
 Successor		2025-05-29
 Wartorn		2025-06-17
+Daemon X Machina: Titanic Scion		2025-09-05
 Old Skies		2025-04-23
 No Rest for the Wicked		2024-04-18
 An Amazing Wizard		2025-05-22
@@ -50,6 +51,7 @@ Drova - Forsaken Kin		2024-10-15
 The Alters		2025-06-13
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Cross Blitz		2023-11-29
+Hell is Us		2025-09-04
 Forspoken		2023-01-24
 Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
@@ -68,6 +70,7 @@ I Am Your Beast		2024-09-10
 Deliver At All Costs		2025-05-22
 Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
+Towa and the Guardians of the Sacred Tree		2025-09-18
 Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
@@ -84,6 +87,7 @@ Simulakros		2024-10-10
 Cloudheim		2025-12-31
 Like a Dragon: Infinite Wealth		2024-01-25
 Stick It to the Stickman		2025-12-31
+Perfect Tides: Station to Station		2026-01-22
 Yggdra Union		2023-07-27
 十五		2023-05-26
 Creepy Redneck Dinosaur Mansion 3		2025-04-22
@@ -93,7 +97,7 @@ Zero Division		2024-07-11
 Shuffle Tactics		2025-06-24
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
-Voice of Belldona		2025-06-30
+Voice of Belldona		2025-09-30
 [REDACTED]		2024-10-28
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
@@ -113,10 +117,10 @@ DYNASTY WARRIORS: ORIGINS		2025-01-17
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
-Soulslinger: Envoy of Death		2025-04-17
 Hidden Pass		2025-08-14
 MENACE		2025-09-30
 Sephiria		2025-04-03
+Dagger Directive		2025-06-03
 Shape of Dreams		2025-12-31
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
 inZOI		2025-03-28
@@ -138,6 +142,7 @@ Promise Mascot Agency		2025-04-10
 Evercore Heroes : Ascension		2025-06-19
 Cosmorons		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
+Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-12-31
 Dead Weight		2025-09-30
 Marvel's Spider-Man 2		2025-01-30
@@ -154,7 +159,7 @@ Dive The Depths		2025-04-16
 CleanFall		2025-09-30
 Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
-Dragon Is Dead		2024-06-07
+Dragon Is Dead		2025-06-06
 Fountain		2024-03-07
 Blightstone		2025-12-31
 Natsu-Mon: 20th Century Summer Kid		2024-06-26
@@ -163,8 +168,9 @@ Heretical		2024-10-30
 Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
 Doraemon Dorayaki Shop Story		2024-12-09
+SILENT HILL f		2025-09-25
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
-Project DOSA		2026-12-31
+Dosa Divas		2026-12-31
 Moonless Moon		2024-08-08
 Arisen Force: HeroTest		2024-10-23
 BANSHEE: Demon Girl		2025-09-30
@@ -175,9 +181,10 @@ The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Hordes of Fate : A Hand of Fate Adventure		2025-12-31
 FlyKnight		2025-01-31
-Sa[meow]rai: Silverwing Stray		2025-09-30
+Sa[meow]rai: Silverwing Stray		2026-12-31
 NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
+Demeo x Dungeons & Dragons: Battlemarked		2025-12-31
 Small Spaces		2025-05-27
 Echoes Of Spellcraft		2025-01-24
 Witchfire		2024-09-23
@@ -187,7 +194,7 @@ Deadzone: Rogue		2025-04-29
 Lone Soul		2025-09-30
 Little Fighter 2 Remastered		2025-12-31
 NINJA GAIDEN 2 Black		2025-01-23
-Neon Spellstorm		2025-12-31
+Neon Spellstorm		2025-08-31
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-07-31
 CORING		2026-12-31
@@ -200,3 +207,5 @@ Pirate's Gambit		2025-12-31
 High Above		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
+Nioh 3		2026-12-31
+007 First Light		2026-12-31
