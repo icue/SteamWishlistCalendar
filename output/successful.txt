@@ -9,7 +9,6 @@ Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
-METAL EDEN		2025-09-30
 Cyber Knights: Flashpoint		2025-06-02
 Crime Scene Cleaner		2024-08-14
 CyberCorp		2025-04-22
@@ -46,11 +45,9 @@ Eternal Strands		2025-01-28
 Eastern Tactics		2025-12-31
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
-[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2		2021-06-10
 Drova - Forsaken Kin		2024-10-15
 The Alters		2025-06-13
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
-Cross Blitz		2023-11-29
 Hell is Us		2025-09-04
 Forspoken		2023-01-24
 Starfield		2023-09-06
@@ -77,6 +74,7 @@ Tendryll		2024-04-30
 Nobody Wants to Die		2024-07-17
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
+Beast of Reincarnation		2026-12-31
 Svarog's Dream		2023-12-04
 Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
@@ -98,6 +96,7 @@ Shuffle Tactics		2025-06-24
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-09-30
+OVIS LOOP		2025-12-31
 [REDACTED]		2024-10-28
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
@@ -110,14 +109,13 @@ Metal Bringer		2025-03-12
 Enjoy the Diner		2023-07-31
 Infest		2025-01-23
 Rune Coliseum		2024-09-24
-Like a Dragon Gaiden: The Man Who Erased His Name		2023-11-08
 Willow Guard		2025-04-10
 Dystopika		2024-06-21
-DYNASTY WARRIORS: ORIGINS		2025-01-17
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Hidden Pass		2025-08-14
+Vilde		2025-06-12
 MENACE		2025-09-30
 Sephiria		2025-04-03
 Dagger Directive		2025-06-03
@@ -141,9 +139,10 @@ Mixtape		2025-12-31
 Promise Mascot Agency		2025-04-10
 Evercore Heroes : Ascension		2025-06-19
 Cosmorons		2025-12-31
+Dispatch		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
 Robots at Midnight		2025-06-19
-NINJA GAIDEN 4		2025-12-31
+NINJA GAIDEN 4		2025-10-21
 Dead Weight		2025-09-30
 Marvel's Spider-Man 2		2025-01-30
 Metaphor: ReFantazio		2024-10-11
@@ -192,18 +191,15 @@ Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
 Deadzone: Rogue		2025-04-29
 Lone Soul		2025-09-30
-Little Fighter 2 Remastered		2025-12-31
-NINJA GAIDEN 2 Black		2025-01-23
+Little Fighter 2 Remastered		2025-07-18
 Neon Spellstorm		2025-08-31
+Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-07-31
 CORING		2026-12-31
-Reflections of the void		2025-12-31
 Dungeon Warfare 3		2025-12-31
 Pure Pool Pro		2025-12-31
-Stellar Blade™		2025-06-11
 Gunlocked 2		2025-12-31
-Pirate's Gambit		2025-12-31
 High Above		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
