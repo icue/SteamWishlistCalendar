@@ -23,7 +23,6 @@ Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
 Together in Battle		2025-05-06
 Successor		2025-05-29
-Wartorn		2025-06-17
 Daemon X Machina: Titanic Scion		2025-09-05
 Old Skies		2025-04-23
 No Rest for the Wicked		2024-04-18
@@ -96,13 +95,12 @@ Shuffle Tactics		2025-06-24
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-09-30
-OVIS LOOP		2025-12-31
+OVIS LOOP		2025-08-14
 [REDACTED]		2024-10-28
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
 WUCHANG: Fallen Feathers		2025-07-24
-Codex Lost		2024-11-14
 The Art of Reflection		2025-12-31
 Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
@@ -127,6 +125,7 @@ New Arc Line		2024-11-26
 VOIN		2024-12-10
 DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
+NITRO GEN OMEGA		2025-06-17
 Dead Wells: The Devil Fragment		2025-12-31
 The Last of Us™ Part II Remastered		2025-04-03
 Shadowveil: Legend of The Five Rings		2025-03-04
@@ -137,7 +136,7 @@ Lost in Random: The Eternal Die		2025-06-17
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
 Promise Mascot Agency		2025-04-10
-Evercore Heroes : Ascension		2025-06-19
+Evercore Heroes : Ascension		2025-06-24
 Cosmorons		2025-12-31
 Dispatch		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
@@ -164,13 +163,13 @@ Blightstone		2025-12-31
 Natsu-Mon: 20th Century Summer Kid		2024-06-26
 Food Devils		2025-12-31
 Heretical		2024-10-30
+MUDANG: Two Hearts		2026-12-31
 Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
 Doraemon Dorayaki Shop Story		2024-12-09
 SILENT HILL f		2025-09-25
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Dosa Divas		2026-12-31
-Moonless Moon		2024-08-08
 Arisen Force: HeroTest		2024-10-23
 BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-04-15
@@ -178,6 +177,7 @@ DeadWire		2025-09-30
 Salt Player for Windows		2025-12-31
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
+Net.Attack()		2025-06-19
 Hordes of Fate : A Hand of Fate Adventure		2025-12-31
 FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2026-12-31
@@ -192,14 +192,14 @@ Dragons Invade Scotland		2025-12-31
 Deadzone: Rogue		2025-04-29
 Lone Soul		2025-09-30
 Little Fighter 2 Remastered		2025-07-18
-Neon Spellstorm		2025-08-31
+Neon Spellstorm		2025-08-11
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-07-31
 CORING		2026-12-31
 Dungeon Warfare 3		2025-12-31
 Pure Pool Pro		2025-12-31
-Gunlocked 2		2025-12-31
+Gunlocked 2		2025-08-31
 High Above		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
