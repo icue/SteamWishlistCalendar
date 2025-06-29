@@ -4,7 +4,6 @@ Project Haven		2025-12-31
 Cogmind		2017-10-17
 Atomfall		2025-03-27
 Fortune-499		2018-05-11
-Goat Simulator 3		2024-02-15
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Shadows of Doubt		2024-09-26
@@ -48,7 +47,6 @@ Drova - Forsaken Kin		2024-10-15
 The Alters		2025-06-13
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Hell is Us		2025-09-04
-Forspoken		2023-01-24
 Starfield		2023-09-06
 Mandragora: Whispers of the Witch Tree		2025-04-17
 Superstar Strategy		2025-12-31
@@ -63,6 +61,7 @@ Flintlock: The Siege of Dawn		2024-07-18
 Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
+Gales of Nayeli		2025-06-23
 Deliver At All Costs		2025-05-22
 Clair Obscur: Expedition 33		2025-04-24
 Atomic Picnic		2024-11-07
@@ -70,7 +69,6 @@ Towa and the Guardians of the Sacred Tree		2025-09-18
 Windblown		2024-10-24
 Tears of Metal		2025-12-31
 Tendryll		2024-04-30
-Nobody Wants to Die		2024-07-17
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Beast of Reincarnation		2026-12-31
@@ -91,7 +89,6 @@ Creepy Redneck Dinosaur Mansion 3		2025-04-22
 SILENT HILL 2		2024-10-08
 Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
-Shuffle Tactics		2025-06-24
 Chronicon - The Mechanist		2023-01-25
 JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-09-30
@@ -106,9 +103,10 @@ Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
 Enjoy the Diner		2023-07-31
 Infest		2025-01-23
+Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
+SHINOBI: Art of Vengeance		2025-08-29
 Willow Guard		2025-04-10
-Dystopika		2024-06-21
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
@@ -136,7 +134,7 @@ Lost in Random: The Eternal Die		2025-06-17
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
 Promise Mascot Agency		2025-04-10
-Evercore Heroes : Ascension		2025-06-24
+Evercore Heroes : Ascension		2025-06-25
 Cosmorons		2025-12-31
 Dispatch		2025-12-31
 Natsuno-Kanata: Beyond Summer		2024-06-20
@@ -160,13 +158,10 @@ KIBORG: Arena		2024-08-13
 Dragon Is Dead		2025-06-06
 Fountain		2024-03-07
 Blightstone		2025-12-31
-Natsu-Mon: 20th Century Summer Kid		2024-06-26
 Food Devils		2025-12-31
 Heretical		2024-10-30
 MUDANG: Two Hearts		2026-12-31
-Crime Boss: Rockay City		2024-06-18
 Call of Duty®: Black Ops 6		2024-10-25
-Doraemon Dorayaki Shop Story		2024-12-09
 SILENT HILL f		2025-09-25
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Dosa Divas		2026-12-31
@@ -185,7 +180,7 @@ NOOK FALL: West Town		2025-12-31
 Moon and Away		2025-12-31
 Demeo x Dungeons & Dragons: Battlemarked		2025-12-31
 Small Spaces		2025-05-27
-Echoes Of Spellcraft		2025-01-24
+Echoes Of Spellcraft		2025-06-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
