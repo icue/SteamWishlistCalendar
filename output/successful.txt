@@ -15,7 +15,6 @@ Reverse Collapse: Code Name Bakery		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
-JDM: Japanese Drift Master		2025-05-21
 Shady Knight		2024-10-09
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-05-01
@@ -68,7 +67,6 @@ Atomic Picnic		2024-11-07
 Towa and the Guardians of the Sacred Tree		2025-09-18
 Windblown		2024-10-24
 Tears of Metal		2025-12-31
-Tendryll		2024-04-30
 VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Beast of Reincarnation		2026-12-31
@@ -90,7 +88,6 @@ SILENT HILL 2		2024-10-08
 Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
-JOY OF PROGRAMMING - Software Engineering Simulator		2025-01-18
 Voice of Belldona		2025-09-30
 OVIS LOOP		2025-08-14
 [REDACTED]		2024-10-28
@@ -126,7 +123,6 @@ Kunitsu-Gami: Path of the Goddess		2024-07-19
 NITRO GEN OMEGA		2025-06-17
 Dead Wells: The Devil Fragment		2025-12-31
 The Last of Us™ Part II Remastered		2025-04-03
-Shadowveil: Legend of The Five Rings		2025-03-04
 Bonaparte - A Mechanized Revolution		2025-05-21
 Astral Throne		2025-02-07
 Burning Sword: Death Sun		2025-09-30
@@ -137,7 +133,6 @@ Promise Mascot Agency		2025-04-10
 Evercore Heroes : Ascension		2025-06-25
 Cosmorons		2025-12-31
 Dispatch		2025-12-31
-Natsuno-Kanata: Beyond Summer		2024-06-20
 Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-10-21
 Dead Weight		2025-09-30
@@ -149,7 +144,6 @@ Commander Quest		2025-04-04
 Aliya: Timelink		2024-04-25
 Netherworld Covenant		2025-06-18
 Edge of Memories		2025-12-31
-REYNATIS		2024-09-27
 Monster Train 2		2025-05-21
 Dive The Depths		2025-04-16
 CleanFall		2025-09-30
@@ -190,7 +184,7 @@ Little Fighter 2 Remastered		2025-07-18
 Neon Spellstorm		2025-08-11
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
-Cubic Cosmos		2025-07-31
+Cubic Cosmos		2025-09-30
 CORING		2026-12-31
 Dungeon Warfare 3		2025-12-31
 Pure Pool Pro		2025-12-31
