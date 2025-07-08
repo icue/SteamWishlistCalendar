@@ -40,6 +40,7 @@ Memory Lost		2025-03-06
 Nivalis		2025-12-31
 Eternal Strands		2025-01-28
 Eastern Tactics		2025-12-31
+Every Day We Fight		2025-07-10
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 Drova - Forsaken Kin		2024-10-15
@@ -107,6 +108,7 @@ Willow Guard		2025-04-10
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
+Valiant Tactics		2025-08-04
 Hidden Pass		2025-08-14
 Vilde		2025-06-12
 MENACE		2025-09-30
@@ -135,7 +137,7 @@ Cosmorons		2025-12-31
 Dispatch		2025-12-31
 Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-10-21
-Dead Weight		2025-09-30
+Dead Weight		2025-12-31
 Marvel's Spider-Man 2		2025-01-30
 Metaphor: ReFantazio		2024-10-11
 The First Berserker: Khazan		2025-03-27
@@ -186,10 +188,11 @@ Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-30
 CORING		2026-12-31
-Dungeon Warfare 3		2025-12-31
+Dungeon Warfare 3		2025-08-12
 Pure Pool Pro		2025-12-31
 Gunlocked 2		2025-08-31
 High Above		2025-12-31
+Balls, Dice & Stickers		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-12-31
