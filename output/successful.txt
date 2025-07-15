@@ -15,7 +15,6 @@ Reverse Collapse: Code Name Bakery		2024-03-22
 Dominion		2024-02-01
 Hades II		2024-05-06
 Gloomwood		2022-09-05
-Shady Knight		2024-10-09
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-05-01
 Portal Reloaded		2021-04-19
@@ -23,7 +22,6 @@ Together in Battle		2025-05-06
 Successor		2025-05-29
 Daemon X Machina: Titanic Scion		2025-09-05
 Old Skies		2025-04-23
-No Rest for the Wicked		2024-04-18
 An Amazing Wizard		2025-05-22
 KARMA: The Dark World		2025-03-27
 Viewfinder		2023-07-18
@@ -31,16 +29,13 @@ BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Battle Shapers		2024-12-04
-Instruments of Destruction		2024-05-10
 Sumerian Six		2024-09-02
 Killing Floor 3		2025-07-24
 Peripeteia		2025-02-21
 Netherguild		2023-03-27
 Memory Lost		2025-03-06
 Nivalis		2025-12-31
-Eternal Strands		2025-01-28
 Eastern Tactics		2025-12-31
-Every Day We Fight		2025-07-10
 Dreadhunter		2023-10-18
 10 Dead Doves		2024-12-13
 Drova - Forsaken Kin		2024-10-15
@@ -53,11 +48,10 @@ Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
 Guns Undarkness		2025-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
-Dice Gambit		2025-12-31
+Dice Gambit		2025-08-31
 Marvel’s Spider-Man Remastered		2022-08-12
 Homura Hime		2025-12-31
 Those Who Rule		2025-01-27
-Flintlock: The Siege of Dawn		2024-07-18
 Veterum		2025-12-31
 Shin Megami Tensei V: Vengeance		2024-06-14
 I Am Your Beast		2024-09-10
@@ -72,7 +66,6 @@ VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Beast of Reincarnation		2026-12-31
 Svarog's Dream		2023-12-04
-Our Adventurer Guild		2024-04-12
 Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2025-12-31
 Lost Judgment		2022-09-14
@@ -95,7 +88,6 @@ OVIS LOOP		2025-08-14
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
-WUCHANG: Fallen Feathers		2025-07-24
 The Art of Reflection		2025-12-31
 Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
@@ -135,8 +127,10 @@ Promise Mascot Agency		2025-04-10
 Evercore Heroes : Ascension		2025-06-25
 Cosmorons		2025-12-31
 Dispatch		2025-12-31
+Coreless		2025-07-11
 Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-10-21
+Critter Crossfire		2025-07-10
 Dead Weight		2025-12-31
 Marvel's Spider-Man 2		2025-01-30
 Metaphor: ReFantazio		2024-10-11
@@ -148,20 +142,20 @@ Netherworld Covenant		2025-06-18
 Edge of Memories		2025-12-31
 Monster Train 2		2025-05-21
 Dive The Depths		2025-04-16
-CleanFall		2025-09-30
+CleanFall		2025-08-08
 Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
 Dragon Is Dead		2025-06-06
 Fountain		2024-03-07
 Blightstone		2025-12-31
-Food Devils		2025-12-31
+Lost in Prayer		2025-07-15
+Food Devils		2026-12-31
 Heretical		2024-10-30
 MUDANG: Two Hearts		2026-12-31
 Call of Duty®: Black Ops 6		2024-10-25
 SILENT HILL f		2025-09-25
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Dosa Divas		2026-12-31
-Arisen Force: HeroTest		2024-10-23
 BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-04-15
 DeadWire		2025-09-30
@@ -188,7 +182,9 @@ Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-30
 CORING		2026-12-31
+Death Ring: Second Impact		2025-07-11
 Dungeon Warfare 3		2025-08-12
+Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
 Gunlocked 2		2025-08-31
 High Above		2025-12-31
@@ -196,4 +192,5 @@ Balls, Dice & Stickers		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-12-31
+放学后		2025-08-01
 007 First Light		2026-12-31
