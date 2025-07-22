@@ -88,7 +88,7 @@ OVIS LOOP		2025-08-14
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
-The Art of Reflection		2025-12-31
+The Art of Reflection		2025-09-22
 Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
 Enjoy the Diner		2023-07-31
@@ -130,7 +130,6 @@ Dispatch		2025-12-31
 Coreless		2025-07-11
 Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-10-21
-Critter Crossfire		2025-07-10
 Dead Weight		2025-12-31
 Marvel's Spider-Man 2		2025-01-30
 Metaphor: ReFantazio		2024-10-11
@@ -147,6 +146,7 @@ Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
 Dragon Is Dead		2025-06-06
 Fountain		2024-03-07
+Echoes of the End		2025-08-12
 Blightstone		2025-12-31
 Lost in Prayer		2025-07-15
 Food Devils		2026-12-31
@@ -159,7 +159,6 @@ Dosa Divas		2026-12-31
 BANSHEE: Demon Girl		2025-09-30
 Chains of Freedom		2025-04-15
 DeadWire		2025-09-30
-Salt Player for Windows		2025-12-31
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Net.Attack()		2025-06-19
@@ -176,13 +175,12 @@ Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
 Deadzone: Rogue		2025-04-29
 Lone Soul		2025-09-30
-Little Fighter 2 Remastered		2025-07-18
 Neon Spellstorm		2025-08-11
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-30
 CORING		2026-12-31
-Death Ring: Second Impact		2025-07-11
+Cell Command		2025-06-19
 Dungeon Warfare 3		2025-08-12
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
