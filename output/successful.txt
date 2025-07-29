@@ -48,7 +48,7 @@ Superstar Strategy		2025-12-31
 STAR WARS Jedi: Survivor™		2023-04-28
 Guns Undarkness		2025-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
-Dice Gambit		2025-08-31
+Dice Gambit		2025-08-14
 Marvel’s Spider-Man Remastered		2022-08-12
 Homura Hime		2025-12-31
 Those Who Rule		2025-01-27
@@ -170,6 +170,7 @@ Moon and Away		2025-12-31
 Demeo x Dungeons & Dragons: Battlemarked		2025-12-31
 Small Spaces		2025-05-27
 Echoes Of Spellcraft		2025-06-24
+Anomaly President		2026-03-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
@@ -181,7 +182,7 @@ Nightmare Frontier		2025-06-16
 Cubic Cosmos		2025-09-30
 CORING		2026-12-31
 Cell Command		2025-06-19
-Dungeon Warfare 3		2025-08-12
+Dungeon Warfare 3		2025-08-29
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
 Gunlocked 2		2025-08-31
