@@ -34,6 +34,7 @@ Killing Floor 3		2025-07-24
 Peripeteia		2025-02-21
 Netherguild		2023-03-27
 The Knightling		2025-08-28
+The Lonesome Guild		2025-10-23
 Nivalis		2025-12-31
 Eastern Tactics		2025-12-31
 Dreadhunter		2023-10-18
@@ -64,28 +65,25 @@ VALKYRIE ELYSIUM		2022-11-11
 SpellRogue		2025-04-24
 Beast of Reincarnation		2026-12-31
 Svarog's Dream		2023-12-04
-Dragon's Dogma 2		2024-03-22
 Grand Arms: March of the Red Dragon		2025-12-31
 Lost Judgment		2022-09-14
 The Farmer Was Replaced		2023-02-10
 Simulakros		2024-10-10
 Cloudheim		2025-12-31
 Like a Dragon: Infinite Wealth		2024-01-25
-Stick It to the Stickman		2025-08-18
 Perfect Tides: Station to Station		2026-01-22
 Yggdra Union		2023-07-27
 十五		2023-05-26
 SILENT HILL 2		2024-10-08
+Skygard Arena		2024-11-18
 Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
 Chronicon - The Mechanist		2023-01-25
-Voice of Belldona		2025-12-31
 OVIS LOOP		2025-08-14
 [REDACTED]		2024-10-28
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
-The Berlin Apartment		2025-11-17
 The Art of Reflection		2025-09-22
 Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
@@ -96,7 +94,7 @@ Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Vilde		2025-06-12
-MENACE		2025-09-30
+MENACE		2025-12-31
 Sephiria		2025-04-03
 Dagger Directive		2025-06-03
 Shape of Dreams		2025-09-11
@@ -106,7 +104,6 @@ New Arc Line		2024-11-26
 VOIN		2024-12-10
 DICEOMANCER		2024-10-10
 Kunitsu-Gami: Path of the Goddess		2024-07-19
-Dead Wells: The Devil Fragment		2025-12-31
 The Last of Us™ Part II Remastered		2025-04-03
 Bonaparte - A Mechanized Revolution		2025-05-21
 Astral Throne		2025-02-07
@@ -150,11 +147,9 @@ DeadWire		2025-09-30
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Net.Attack()		2025-06-19
-Hordes of Fate : A Hand of Fate Adventure		2025-12-31
 FlyKnight		2025-01-31
 Sa[meow]rai: Silverwing Stray		2026-12-31
 NOOK FALL: West Town		2025-12-31
-Moon and Away		2025-12-31
 Demeo x Dungeons & Dragons: Battlemarked		2025-12-31
 Small Spaces		2025-05-27
 Echoes Of Spellcraft		2025-06-24
@@ -162,7 +157,6 @@ Anomaly President		2026-03-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
-Deadzone: Rogue		2025-08-11
 Lone Soul		2025-09-30
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
@@ -172,7 +166,6 @@ Dungeon Warfare 3		2025-08-29
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
 High Above		2025-12-31
-Balls, Dice & Stickers		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-12-31
