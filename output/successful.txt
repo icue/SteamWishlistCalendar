@@ -8,6 +8,7 @@ Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
+METAL EDEN		2025-09-02
 Cyber Knights: Flashpoint		2025-06-02
 Crime Scene Cleaner		2024-08-14
 CyberCorp		2025-04-22
@@ -30,7 +31,6 @@ Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Battle Shapers		2024-12-04
 Sumerian Six		2024-09-02
-Killing Floor 3		2025-07-24
 Peripeteia		2025-02-21
 Netherguild		2023-03-27
 The Knightling		2025-08-28
@@ -68,7 +68,6 @@ Svarog's Dream		2023-12-04
 Grand Arms: March of the Red Dragon		2025-12-31
 Lost Judgment		2022-09-14
 The Farmer Was Replaced		2023-02-10
-Simulakros		2024-10-10
 Cloudheim		2025-12-31
 Like a Dragon: Infinite Wealth		2024-01-25
 Perfect Tides: Station to Station		2026-01-22
@@ -84,7 +83,7 @@ OVIS LOOP		2025-08-14
 GLUM		2025-05-22
 Into the Dead: Our Darkest Days		2025-04-09
 RAM: Random Access Mayhem		2024-11-18
-The Art of Reflection		2025-09-22
+The Art of Reflection		2025-11-24
 Isle of Swaps		2024-09-27
 Metal Bringer		2025-03-12
 Enjoy the Diner		2023-07-31
@@ -115,11 +114,9 @@ Cosmorons		2026-12-31
 Dispatch		2025-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
-Robots at Midnight		2025-06-19
 NINJA GAIDEN 4		2025-10-21
 Dead Weight		2025-12-31
 Marvel's Spider-Man 2		2025-01-30
-Metaphor: ReFantazio		2024-10-11
 The First Berserker: Khazan		2025-03-27
 Yarimono		2024-08-30
 Aliya: Timelink		2024-04-25
