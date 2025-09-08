@@ -8,7 +8,6 @@ Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
-METAL EDEN		2025-09-02
 Cyber Knights: Flashpoint		2025-06-02
 Crime Scene Cleaner		2024-08-14
 CyberCorp		2025-04-22
@@ -24,12 +23,10 @@ Successor		2025-05-29
 Daemon X Machina: Titanic Scion		2025-09-05
 Old Skies		2025-04-23
 An Amazing Wizard		2025-05-22
-KARMA: The Dark World		2025-03-27
 Viewfinder		2023-07-18
 BattleJuice Alchemist		2024-03-21
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
-Battle Shapers		2024-12-04
 Sumerian Six		2024-09-02
 Peripeteia		2025-02-21
 Netherguild		2023-03-27
@@ -123,7 +120,6 @@ Aliya: Timelink		2024-04-25
 Netherworld Covenant		2025-06-18
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
-Dive The Depths		2025-04-16
 CleanFall		2025-08-08
 Lunavania		2025-01-24
 KIBORG: Arena		2024-08-13
@@ -140,7 +136,7 @@ SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Dosa Divas		2026-12-31
 Escape Everlit		2025-07-31
 Chains of Freedom		2025-04-15
-DeadWire		2025-09-30
+DeadWire		2025-09-18
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Net.Attack()		2025-06-19
@@ -154,7 +150,7 @@ Anomaly President		2026-03-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2025-12-31
-Lone Soul		2025-09-30
+Puzzle Quest: Immortal Edition		2025-09-18
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-30
@@ -167,4 +163,4 @@ Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-12-31
 放学后		2025-08-01
-007 First Light		2026-12-31
+007 First Light		2026-03-27
