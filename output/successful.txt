@@ -89,6 +89,7 @@ Rune Coliseum		2024-09-24
 Tony Hawk's™ Pro Skater™ 1 + 2		2023-10-03
 KIBORG		2025-04-30
 AI LIMIT		2025-03-27
+Grey Heritage: Noble Duty		2025-09-15
 Vilde		2025-06-12
 MENACE		2025-12-31
 Sephiria		2025-04-03
@@ -149,12 +150,13 @@ Echoes Of Spellcraft		2025-06-24
 Anomaly President		2026-03-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
-Dragons Invade Scotland		2025-12-31
+Dragons Invade Scotland		2026-06-30
 Puzzle Quest: Immortal Edition		2025-09-18
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
-Cubic Cosmos		2025-09-30
+Cubic Cosmos		2025-09-17
 CORING		2026-12-31
+Raiders of Blackveil		2025-12-31
 Dungeon Warfare 3		2025-08-29
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
@@ -162,5 +164,6 @@ High Above		2025-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-12-31
+Danganronpa 2x2		2026-12-31
 放学后		2025-08-01
 007 First Light		2026-03-27
