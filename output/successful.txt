@@ -10,10 +10,9 @@ Shadows of Doubt		2024-09-26
 Hogwarts Legacy		2023-02-10
 Cyber Knights: Flashpoint		2025-06-02
 Crime Scene Cleaner		2024-08-14
-CyberCorp		2025-04-22
 Reverse Collapse: Code Name Bakery		2024-03-22
 Dominion		2024-02-01
-Hades II		2024-05-06
+Hades II		2025-09-25
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2025-12-31
 Rebellion GODSOUL: Awakening		2025-05-01
@@ -97,6 +96,7 @@ Romancing SaGa 2: Revenge of the Seven		2024-10-24
 Avowed		2025-02-18
 New Arc Line		2024-11-26
 VOIN		2024-12-10
+Deconstruction Simulator		2025-09-23
 DICEOMANCER		2024-10-10
 Bloodgrounds		2025-12-31
 Kunitsu-Gami: Path of the Goddess		2024-07-19
@@ -106,7 +106,6 @@ Bonaparte - A Mechanized Revolution		2025-05-21
 Astral Throne		2025-02-07
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
-Promise Mascot Agency		2025-04-10
 Evercore Heroes : Ascension		2025-09-18
 Cosmorons		2026-12-31
 Dispatch		2025-10-22
@@ -152,18 +151,21 @@ Anomaly President		2026-03-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Dragons Invade Scotland		2026-06-30
+Lone Soul		2025-10-20
 Nightmare Frontier		2025-06-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-17
 CORING		2026-12-31
 Raiders of Blackveil		2025-12-31
+UltraGirl Alters		2025-10-24
 Dungeon Warfare 3		2025-08-29
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
 High Above		2026-12-31
 Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
-Nioh 3		2026-12-31
+Nioh 3		2026-02-06
 Danganronpa 2x2		2026-12-31
 放学后		2025-08-01
 007 First Light		2026-03-27
+Yakuza Kiwami 3 & Dark Ties		2026-02-11
