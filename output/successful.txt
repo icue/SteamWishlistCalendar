@@ -89,7 +89,7 @@ KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Vilde		2025-06-12
-MENACE		2025-12-31
+MENACE		2026-02-05
 Sephiria		2025-04-03
 Dagger Directive		2025-06-03
 Romancing SaGa 2: Revenge of the Seven		2024-10-24
@@ -131,13 +131,12 @@ Lost in Prayer		2025-07-15
 Food Devils		2026-12-31
 Heretical		2024-10-30
 MUDANG: Two Hearts		2026-12-31
-Call of Duty®: Black Ops 6		2024-10-25
+Call of Duty®: Black Ops 6		2024-11-01
 SILENT HILL f		2025-09-25
 SHINONOME ABYSS The Maiden Exorcist		2025-12-31
 Dosa Divas		2026-12-31
 Escape Everlit		2025-07-31
 Chains of Freedom		2025-04-15
-DeadWire		2025-09-18
 The Hundred Line -Last Defense Academy-		2025-04-24
 Chaos Caster		2025-03-11
 Net.Attack()		2025-06-19
@@ -162,7 +161,6 @@ Dungeon Warfare 3		2025-08-29
 Mecharashi		2025-07-31
 Pure Pool Pro		2025-12-31
 High Above		2026-12-31
-Puzzle Tales: Arcane Voyager		2025-09-30
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-02-06
 Danganronpa 2x2		2026-12-31
