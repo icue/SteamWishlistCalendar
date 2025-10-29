@@ -5,17 +5,15 @@ Cyber Knights: Flashpoint		2025-06-02
 Dominion		2024-02-01
 Hades II		2025-09-25
 Gloomwood		2022-09-05
-Neverlooted Dungeon		2025-12-31
+Neverlooted Dungeon		2026-12-31
 Portal Reloaded		2021-04-19
-Successor		2025-05-29
 Old Skies		2025-04-23
 An Amazing Wizard		2025-05-22
 Viewfinder		2023-07-18
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Sumerian Six		2024-09-02
-The Lonesome Guild		2025-10-23
-Nivalis		2025-12-31
+Nivalis		2026-12-31
 Eastern Tactics		2025-12-31
 10 Dead Doves		2024-12-13
 Drova - Forsaken Kin		2024-10-15
@@ -47,7 +45,7 @@ Dagger Directive		2025-06-03
 Avowed		2025-02-18
 VOIN		2024-12-10
 DICEOMANCER		2024-10-10
-Bloodgrounds		2025-12-31
+Bloodgrounds		2025-11-05
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 DemonStar - Original Missions		2023-12-12
 Mixtape		2025-12-31
@@ -62,7 +60,7 @@ Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
 Lunavania		2025-01-24
-SWAPMEAT		2025-10-21
+Risk of Rain 2: Alloyed Collective		2025-11-18
 Blightstone		2025-12-31
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
@@ -73,7 +71,6 @@ Demeo x Dungeons & Dragons: Battlemarked		2025-11-20
 Echoes Of Spellcraft		2025-06-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
-Escape From Duckov		2025-10-16
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-17
 Raiders of Blackveil		2025-12-31
@@ -81,6 +78,7 @@ Pure Pool Pro		2025-12-31
 High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
 Nioh 3		2026-02-06
+Goat Simulator 3 – Baadlands: Furry Road		2025-11-19
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-03-27
 Gunfire Reborn - Echoes From Primal Grove		2025-10-23
