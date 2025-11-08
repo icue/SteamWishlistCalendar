@@ -55,13 +55,11 @@ VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
 Marvel's Spider-Man 2		2025-01-30
 The First Berserker: Khazan		2025-03-27
-Netherworld Covenant		2025-06-18
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
 Lunavania		2025-01-24
 Risk of Rain 2: Alloyed Collective		2025-11-18
-Blightstone		2026-12-31
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
 SILENT HILL f		2025-09-25
@@ -81,5 +79,4 @@ Nioh 3		2026-02-06
 Goat Simulator 3 – Baadlands: Furry Road		2025-11-19
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-03-27
-Gunfire Reborn - Echoes From Primal Grove		2025-10-23
 Yakuza Kiwami 3 & Dark Ties		2026-02-11
