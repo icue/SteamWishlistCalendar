@@ -2,6 +2,7 @@ Alpha Protocol™		2010-06-01
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Cyber Knights: Flashpoint		2025-06-02
+Nightmare Reaper		2022-03-28
 Dominion		2024-02-01
 Hades II		2025-09-25
 Gloomwood		2022-09-05
@@ -34,7 +35,9 @@ Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
+ANIWARS: Call of the Void		2025-11-17
 Isle of Swaps		2024-09-27
+Tales of Berseria Remastered		2026-02-26
 Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
 KIBORG		2025-04-30
@@ -48,7 +51,7 @@ DICEOMANCER		2024-10-10
 Bloodgrounds		2025-11-05
 Kunitsu-Gami: Path of the Goddess		2024-07-19
 DemonStar - Original Missions		2023-12-12
-Mixtape		2025-12-31
+Mixtape		2026-12-31
 Evercore Heroes : Ascension		2025-09-18
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
@@ -59,7 +62,6 @@ Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
 Lunavania		2025-01-24
-Risk of Rain 2: Alloyed Collective		2025-11-18
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
 SILENT HILL f		2025-09-25
@@ -69,12 +71,14 @@ Demeo x Dungeons & Dragons: Battlemarked		2025-11-20
 Echoes Of Spellcraft		2025-06-24
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
+Erosion		2026-06-30
 刻印战记1：法利兹传		2024-12-20
 Cubic Cosmos		2025-09-17
 Raiders of Blackveil		2025-12-14
-Pure Pool Pro		2025-12-31
+Pure Pool Pro		2026-03-31
 High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
+Silberheim Evolving Card Game		2026-09-30
 Nioh 3		2026-02-06
 Goat Simulator 3 – Baadlands: Furry Road		2025-11-19
 Danganronpa 2x2		2026-12-31
