@@ -22,6 +22,7 @@ Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 Starfield		2023-09-06
 Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
+Pathbreakers: Roaming Blades		2026-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
 Those Who Rule		2025-01-27
 Clair Obscur: Expedition 33		2025-04-24
@@ -31,7 +32,6 @@ Never's End		2026-12-31
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 SILENT HILL 2		2024-10-08
-Streets of Rogue 2		2025-12-31
 Zero Division		2024-07-11
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
@@ -82,6 +82,8 @@ Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Nioh 3		2026-02-06
 Goat Simulator 3 – Baadlands: Furry Road		2025-11-19
+Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-03-27
 Yakuza Kiwami 3 & Dark Ties		2026-02-11
+HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
