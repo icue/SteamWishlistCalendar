@@ -5,30 +5,32 @@ on:
     - cron: '0 4 */7 * *' # 4:00 UTC every 7 days
   workflow_dispatch:
 
-permissions:
-  contents: write
+permissions: {}
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.13"]
+        python-version: ["3.14"]
     steps:
-
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: checkout repo
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
 
       - name: setup Python with uv
         id: setup-uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v7
         with:
-            version: latest
-            python-version: ${{ matrix.python-version }}
-            enable-cache: true
-            prune-cache: false # do not remove pre-built wheels
-            ignore-nothing-to-cache: true
-            cache-dependency-glob: "**/requirements.txt"
+          python-version: ${{ matrix.python-version }}
+          activate-environment: true
+          enable-cache: true
+          prune-cache: false # do not remove pre-built wheels
+          ignore-nothing-to-cache: true
+          cache-dependency-glob: "**/requirements.txt"
 
       - name: hint on cache hit
         if: steps.setup-uv.outputs.cache-hit == 'true'
@@ -54,12 +56,12 @@ jobs:
 
       - name: push changes
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
 
-      - name: Stash png outputs
+      - name: stash png outputs
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           git add -f output/*.png
@@ -67,11 +69,12 @@ jobs:
 
       - name: checkout output branch
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: output
+          persist-credentials: true
 
-      - name: Get png outputs from stash
+      - name: get png outputs from stash
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
         run: |
           set -e
@@ -89,7 +92,7 @@ jobs:
 
       - name: push plots to output branch
         if: ${{ steps.check_changes.outputs.changes == 'true' }}
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
