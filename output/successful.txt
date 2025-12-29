@@ -1,7 +1,6 @@
 Alpha Protocol™		2010-06-01
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
-Cyber Knights: Flashpoint		2025-06-02
 Nightmare Reaper		2022-03-28
 Dominion		2024-02-01
 Hades II		2025-09-25
@@ -22,7 +21,6 @@ Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2026-12-31
 Snufkin: Melody of Moominvalley		2024-03-07
-Those Who Rule		2025-01-27
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
@@ -43,7 +41,6 @@ KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Sephiria		2025-04-03
-Dagger Directive		2025-06-03
 Avowed		2025-02-18
 VOIN		2024-12-10
 Fading Echo		2026-12-31
@@ -53,11 +50,9 @@ Mixtape		2026-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
-The First Berserker: Khazan		2025-03-27
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
-Lunavania		2025-01-24
 Blightstone		2026-01-20
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
@@ -80,7 +75,8 @@ Nioh 3		2026-02-06
 Goat Simulator 3 – Baadlands: Furry Road		2025-11-19
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
-007 First Light		2026-03-27
+007 First Light		2026-05-27
+Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Yakuza Kiwami 3 & Dark Ties		2026-02-11
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
