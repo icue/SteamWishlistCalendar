@@ -44,7 +44,7 @@ Avowed		2025-02-18
 VOIN		2024-12-10
 Fading Echo		2026-12-31
 Bloodgrounds		2025-11-05
-DemonStar - Original Missions		2023-12-12
+DemonStar		2023-12-12
 Mixtape		2026-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
@@ -66,6 +66,7 @@ Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
 Raiders of Blackveil		2025-12-15
 Pure Pool Pro		2026-03-31
+Millennium Dream		2026-01-31
 High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
@@ -79,3 +80,4 @@ Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Yakuza Kiwami 3 & Dark Ties		2026-02-11
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
+Jukai Maze		2026-01-21
