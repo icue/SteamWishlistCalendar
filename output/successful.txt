@@ -43,6 +43,7 @@ Sephiria		2025-04-03
 Avowed		2025-02-18
 VOIN		2024-12-10
 Fading Echo		2026-12-31
+DDoD		2026-12-31
 Bloodgrounds		2025-11-05
 DemonStar		2023-12-12
 Mixtape		2026-12-31
@@ -57,10 +58,12 @@ Lost in Prayer		2025-07-15
 Heretical		2024-10-30
 SILENT HILL f		2025-09-25
 Net.Attack()		2025-06-19
+Deep Fringe		2026-01-15
 Sa[meow]rai: Silverwing Stray		2026-12-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 Erosion		2026-06-30
+Cinderia		2026-03-30
 刻印战记1：法利兹传		2024-12-20
 Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
