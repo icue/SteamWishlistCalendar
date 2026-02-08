@@ -50,6 +50,8 @@ Mixtape		2026-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
+SealChain: Call of Blood		2026-02-20
+Valor of Man		2026-03-31
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
@@ -68,7 +70,7 @@ Cinderia		2026-03-30
 Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
 Raiders of Blackveil		2025-12-15
-Pure Pool Pro		2026-03-31
+Pure Pool Pro		2026-02-12
 High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
@@ -81,4 +83,3 @@ Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Yakuza Kiwami 3 & Dark Ties		2026-02-11
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
-Jukai Maze		2026-01-21
