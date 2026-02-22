@@ -1,9 +1,9 @@
 Alpha Protocol™		2010-06-01
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
+Echoes of Mystralia		2026-12-31
 Nightmare Reaper		2022-03-28
 Dominion		2024-02-01
-Hades II		2025-09-25
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
 Portal Reloaded		2021-04-19
@@ -29,6 +29,7 @@ The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Blades of Fire		2026-05-14
 SILENT HILL 2		2024-10-08
+Wish Me Well		2026-02-16
 Zero Division		2024-07-11
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
@@ -46,22 +47,22 @@ Avowed		2025-02-18
 VOIN		2024-12-10
 Fading Echo		2026-09-30
 DDoD		2026-12-31
+Forza Horizon 6		2026-05-19
 Bloodgrounds		2025-11-05
 DemonStar		2023-12-12
 Mixtape		2026-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
-SealChain: Call of Blood		2026-02-20
-Valor of Man		2026-03-31
+Valor of Man		2026-03-19
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
 CleanFall		2025-08-08
 Blightstone		2026-01-20
+Sniper Dan		2026-12-31
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
-SILENT HILL f		2025-09-25
-Net.Attack()		2025-06-19
+Net.Attack() - Code or Die!		2025-06-19
 Deep Fringe		2026-01-15
 Sa[meow]rai: Silverwing Stray		2026-12-31
 Witchfire		2024-09-23
@@ -72,7 +73,6 @@ Cinderia		2026-03-30
 刻印战记1：法利兹传		2024-12-20
 Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
-Raiders of Blackveil		2025-12-15
 Pure Pool Pro		2026-02-12
 High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
@@ -84,5 +84,4 @@ Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
 Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
-Yakuza Kiwami 3 & Dark Ties		2026-02-11
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
