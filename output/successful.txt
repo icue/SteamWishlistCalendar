@@ -2,7 +2,6 @@ Alpha Protocol™		2010-06-01
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Echoes of Mystralia		2026-12-31
-Nightmare Reaper		2022-03-28
 Dominion		2024-02-01
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
@@ -12,7 +11,6 @@ Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Sumerian Six		2024-09-02
 Nivalis		2026-12-31
-10 Dead Doves		2024-12-13
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 SILENT HILL: Townfall		2026-12-31
@@ -20,22 +18,20 @@ Starfield		2023-09-06
 Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2026-12-31
-Snufkin: Melody of Moominvalley		2024-03-07
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
 Never's End		2026-12-31
+Voidling Bound		2026-06-09
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Blades of Fire		2026-05-14
 SILENT HILL 2		2024-10-08
-Wish Me Well		2026-02-16
 Zero Division		2024-07-11
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
 ANIWARS: Call of the Void		2025-11-17
 Tales of Berseria Remastered		2026-02-26
-Primal Fray		2025-11-24
 Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
 Re:Night		2026-12-31
@@ -49,8 +45,6 @@ Fading Echo		2026-09-30
 DDoD		2026-12-31
 Forza Horizon 6		2026-05-19
 Bloodgrounds		2025-11-05
-DemonStar		2023-12-12
-Mixtape		2026-12-31
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
@@ -73,8 +67,6 @@ Cinderia		2026-03-30
 刻印战记1：法利兹传		2024-12-20
 Kats Trigger		2025-12-18
 Cubic Cosmos		2025-09-17
-Pure Pool Pro		2026-02-12
-High Above		2026-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
@@ -84,4 +76,5 @@ Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
 Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
+Spot Zero		2026-12-31
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
