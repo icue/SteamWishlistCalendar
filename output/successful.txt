@@ -5,6 +5,7 @@ Echoes of Mystralia		2026-12-31
 Dominion		2024-02-01
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
+Wobbly Life		2025-09-18
 Portal Reloaded		2021-04-19
 Old Skies		2025-04-23
 Plasma		2023-09-13
@@ -22,6 +23,7 @@ Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
 Never's End		2026-12-31
+Split Fiction		2025-03-06
 Voidling Bound		2026-06-09
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
