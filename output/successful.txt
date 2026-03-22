@@ -7,7 +7,6 @@ Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
 Portal Reloaded		2021-04-19
 Old Skies		2025-04-23
-Breach Wanderers		2023-06-09
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Sumerian Six		2024-09-02
@@ -22,6 +21,7 @@ Pathbreakers: Roaming Blades		2026-12-31
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
+Enter the Chronosphere		2026-12-31
 Never's End		2026-12-31
 Split Fiction		2025-03-06
 Voidling Bound		2026-06-09
@@ -38,7 +38,6 @@ Tales of Berseria Remastered		2026-02-26
 Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
 Re:Night		2026-12-31
-KIBORG		2025-04-30
 AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Sephiria		2025-04-03
@@ -48,7 +47,6 @@ Fading Echo		2026-09-30
 DDoD		2026-12-31
 Gray Zone Warfare		2024-04-30
 Forza Horizon 6		2026-05-19
-Bloodgrounds		2026-03-12
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
@@ -73,6 +71,7 @@ Cubic Cosmos		2025-09-17
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
+Everything Will Be Fine!		2026-03-18
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
