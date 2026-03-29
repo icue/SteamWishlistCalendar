@@ -1,4 +1,5 @@
 Alpha Protocol™		2010-06-01
+Enemy		2015-03-17
 Granblue Fantasy: Relink		2024-02-01
 Vellum		2025-05-02
 Echoes of Mystralia		2026-12-31
@@ -30,7 +31,6 @@ Like a Dragon: Infinite Wealth		2024-01-25
 Blades of Fire		2026-05-14
 Incursion Red River		2024-04-10
 SILENT HILL 2		2024-10-08
-Zero Division		2024-07-11
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
 ANIWARS: Call of the Void		2025-11-17
@@ -41,11 +41,10 @@ Re:Night		2026-12-31
 AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Sephiria		2025-04-03
+Vaunted		2026-12-31
 Avowed		2025-02-18
-VOIN		2024-12-10
 Fading Echo		2026-09-30
 DDoD		2026-12-31
-Gray Zone Warfare		2024-04-30
 Forza Horizon 6		2026-05-19
 Coreless		2025-07-11
 VOID/BREAKER		2025-08-19
@@ -58,6 +57,7 @@ Blightstone		2026-01-20
 Sniper Dan		2026-12-31
 Lost in Prayer		2025-07-15
 Heretical		2024-10-30
+Artificial Detective		2027-12-31
 Deep Fringe		2026-01-15
 Sa[meow]rai: Silverwing Stray		2026-12-31
 Witchfire		2024-09-23
@@ -71,7 +71,7 @@ Cubic Cosmos		2025-09-17
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
-Everything Will Be Fine!		2026-03-18
+NOMIA		2025-10-10
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
