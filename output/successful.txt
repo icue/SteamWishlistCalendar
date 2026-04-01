@@ -34,6 +34,7 @@ SILENT HILL 2		2024-10-08
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
 ANIWARS: Call of the Void		2025-11-17
+Sniper Elite 5 Season Pass Two		2023-03-07
 Tales of Berseria Remastered		2026-02-26
 Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
@@ -63,7 +64,6 @@ Sa[meow]rai: Silverwing Stray		2026-12-31
 Witchfire		2024-09-23
 Assassin’s Creed Shadows		2025-03-20
 BRIGANDINE ABYSS		2026-12-31
-Erosion		2026-06-30
 Cinderia		2026-03-30
 刻印战记1：法利兹传		2024-12-20
 Kats Trigger		2025-12-18
