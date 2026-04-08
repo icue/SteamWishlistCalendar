@@ -19,6 +19,7 @@ Starfield		2023-09-06
 Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2026-12-31
+Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
@@ -29,7 +30,6 @@ Voidling Bound		2026-06-09
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Blades of Fire		2026-05-14
-Incursion Red River		2024-04-10
 SILENT HILL 2		2024-10-08
 OVIS LOOP		2025-08-14
 RAM: Random Access Mayhem		2025-09-15
@@ -72,6 +72,7 @@ Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
 NOMIA		2025-10-10
+Samson		2026-04-08
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
@@ -79,3 +80,4 @@ Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Spot Zero		2026-12-31
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
+Goat Simulator 3 – Buck to the Future Pack		2026-04-01
