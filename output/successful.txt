@@ -23,7 +23,7 @@ Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
-Enter the Chronosphere		2026-06-30
+Enter the Chronosphere		2026-05-14
 Never's End		2026-12-31
 Split Fiction		2025-03-06
 Voidling Bound		2026-06-09
@@ -49,6 +49,7 @@ Fading Echo		2026-09-30
 DDoD		2026-12-31
 Forza Horizon 6		2026-05-19
 Coreless		2025-07-11
+Better Than Dead		2026-05-12
 VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
 Valor of Man		2026-03-19
@@ -78,6 +79,7 @@ Ravenswatch - Merlin		2026-01-19
 NOMIA		2025-10-10
 Deified		2026-04-27
 S-mail		2026-04-24
+Demon Lord: Just a Block		2026-04-29
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
