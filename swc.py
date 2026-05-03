@@ -199,13 +199,24 @@ def get_game_details_via_get_items_api(appids):
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--id', type=str, required=True)
 parser.add_argument('-d', '--include-dlc', type=bool, default=False)
+parser.add_argument('-f', '--from-date', type=str, default=None)
 args = parser.parse_args()
 
 if not args.id.isnumeric():
     print('Steam ID should be numeric.')
     exit()
 
+
 now = datetime.now(_UTC)
+if args.from_date != "now" and args.from_date is not None:
+    try:
+        minimum_date = datetime.strptime(args.from_date, "%Y-%m-%d")
+    except Exception:
+        print(f"Invalid minimum date: '{args.from_date}'")
+        print("Format must be in the form Year-month-day")
+        exit()
+else:
+    minimum_date = now
 
 # Initialize empty containers and counters
 wishlist_data = {}
@@ -277,7 +288,7 @@ for key, value in wishlist_data.items():
         print(f'Failed deduction: {key}\t\t{game_name}\t\t{value.release_string}')
         continue
 
-    if not release_date:
+    if not release_date or (minimun_date is not None and release_date < minimum_date):
         continue
 
     successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
