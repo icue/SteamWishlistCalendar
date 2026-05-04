@@ -199,6 +199,7 @@ def get_game_details_via_get_items_api(appids):
 parser = argparse.ArgumentParser()
 parser.add_argument('-i', '--id', type=str, required=True)
 parser.add_argument('-d', '--include-dlc', type=bool, default=False)
+parser.add_argument('-f', '--from-date', type=str, default=None)
 args = parser.parse_args()
 
 if not args.id.isnumeric():
@@ -206,6 +207,18 @@ if not args.id.isnumeric():
     exit()
 
 now = datetime.now(_UTC)
+minimum_date = None
+
+if args.from_date is not None:
+    if args.from_date.lower() == 'now':
+        minimum_date = now.date()
+    else:
+        try:
+            minimum_date = datetime.strptime(args.from_date, '%Y-%m-%d').date()
+        except ValueError:
+            print(f'Invalid minimum date: "{args.from_date}"')
+            print('Format must be in the form Year-month-day')
+            exit()
 
 # Initialize empty containers and counters
 wishlist_data = {}
@@ -277,7 +290,7 @@ for key, value in wishlist_data.items():
         print(f'Failed deduction: {key}\t\t{game_name}\t\t{value.release_string}')
         continue
 
-    if not release_date:
+    if not release_date or (minimum_date is not None and release_date.date() < minimum_date):
         continue
 
     successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
