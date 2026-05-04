@@ -206,17 +206,19 @@ if not args.id.isnumeric():
     print('Steam ID should be numeric.')
     exit()
 
-
 now = datetime.now(_UTC)
-if args.from_date != "now" and args.from_date is not None:
-    try:
-        minimum_date = datetime.strptime(args.from_date, "%Y-%m-%d")
-    except Exception:
-        print(f"Invalid minimum date: '{args.from_date}'")
-        print("Format must be in the form Year-month-day")
-        exit()
-else:
-    minimum_date = now
+minimum_date = None
+
+if args.from_date is not None:
+    if args.from_date.lower() == 'now':
+        minimum_date = now.date()
+    else:
+        try:
+            minimum_date = datetime.strptime(args.from_date, '%Y-%m-%d').date()
+        except ValueError:
+            print(f'Invalid minimum date: "{args.from_date}"')
+            print('Format must be in the form Year-month-day')
+            exit()
 
 # Initialize empty containers and counters
 wishlist_data = {}
@@ -288,7 +290,7 @@ for key, value in wishlist_data.items():
         print(f'Failed deduction: {key}\t\t{game_name}\t\t{value.release_string}')
         continue
 
-    if not release_date or (minimun_date is not None and release_date < minimum_date):
+    if not release_date or (minimum_date is not None and release_date.date() < minimum_date):
         continue
 
     successful_deductions.append(f'{game_name}\t\t{release_date.date()}')
