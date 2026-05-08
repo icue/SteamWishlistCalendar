@@ -11,6 +11,7 @@ Old Skies		2025-04-23
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Sumerian Six		2024-09-02
+Beyond Enemy Lines - Vietnam		2026-05-22
 Nivalis		2026-12-31
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
@@ -23,7 +24,7 @@ Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
-Enter the Chronosphere		2026-05-14
+Enter the Chronosphere		2026-05-25
 Never's End		2026-12-31
 Split Fiction		2025-03-06
 Voidling Bound		2026-06-09
@@ -71,7 +72,6 @@ Deadzone: Rogue		2025-08-11
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert		2026-03-19
 Kats Trigger		2025-12-18
-Cubic Cosmos		2026-04-28
 I Have No Change		2027-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
@@ -79,7 +79,6 @@ Ravenswatch - Merlin		2026-01-19
 NOMIA		2025-10-10
 Deified		2026-04-27
 S-mail		2026-04-24
-Demon Lord: Just a Block		2026-04-29
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 007 First Light		2026-05-27
@@ -88,4 +87,5 @@ Tiny Delivery		2026-09-30
 ABYSS REBEL		2026-12-31
 Spot Zero		2026-12-31
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
+Kugayama Shiori's Death Diary		2026-04-29
 Goat Simulator 3 – Buck to the Future Pack		2026-04-01
