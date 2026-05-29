@@ -12,7 +12,6 @@ Old Skies		2025-04-23
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
 Sumerian Six		2024-09-02
-Beyond Enemy Lines - Vietnam		2026-05-22
 Nivalis		2026-12-31
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
@@ -68,6 +67,7 @@ Witchfire		2024-09-23
 BRIGANDINE ABYSS		2026-08-26
 Cinderia		2026-03-30
 Deadzone: Rogue		2025-08-11
+Rhell: Warped Worlds & Troubled Times		2026-03-12
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert		2026-03-19
 Kats Trigger		2025-12-18
@@ -80,10 +80,11 @@ Deified		2026-04-27
 S-mail		2026-04-24
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
-007 First Light		2026-05-27
 Divineblaze : March Tactics		2026-04-22
 Tiny Delivery		2026-09-30
+Feywood Wanderers		2026-05-28
 ABYSS REBEL		2026-12-31
+STARDUST: Wish of Witch		2026-05-28
 Spot Zero		2026-12-31
 The Legend of Fancy Realm Remake		2026-12-31
 HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
