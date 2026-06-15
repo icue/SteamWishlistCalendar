@@ -21,6 +21,7 @@ Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2026-12-31
 Morbid Metal		2026-04-08
+Gales of Nayeli		2025-06-23
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
@@ -29,7 +30,6 @@ Voidling Bound		2026-06-09
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Perfect Tides: Station to Station		2026-01-22
-Blades of Fire		2026-05-14
 SILENT HILL 2		2024-10-08
 Fatekeeper		2026-06-02
 OVIS LOOP		2025-08-14
@@ -49,7 +49,6 @@ Fading Echo		2026-07-21
 DDoD		2026-12-31
 Forza Horizon 6		2026-05-19
 Coreless		2025-07-11
-VOID/BREAKER		2025-08-19
 NINJA GAIDEN 4		2025-10-20
 The Adventures of Sir Kicksalot		2026-05-15
 Indiana Jones and the Great Circle		2024-12-09
@@ -61,6 +60,7 @@ Sniper Dan		2026-12-31
 Lost in Prayer		2025-07-15
 Slay the Spire 2		2026-03-05
 Artificial Detective		2027-12-31
+Expelled!		2025-03-12
 Deep Fringe		2026-01-15
 Sa[meow]rai: Silverwing Stray		2026-12-31
 Witchfire		2024-09-23
@@ -69,7 +69,7 @@ Cinderia		2026-03-30
 Deadzone: Rogue		2025-08-11
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Ved: Recure		2026-09-30
-Mistfall Hunter		2026-07-31
+Mistfall Hunter		2026-07-30
 Magicians: The Devil's Deal		2027-12-31
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert		2026-03-19
@@ -81,11 +81,12 @@ Ravenswatch - Merlin		2026-01-19
 NOMIA		2026-05-31
 Deified		2026-04-27
 S-mail		2026-04-24
-Deep Pixel Melancholy		2026-09-30
+Deep Pixel Melancholy		2026-12-31
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
 Divineblaze : March Tactics		2026-04-22
 Tiny Delivery		2026-09-30
+TR-49		2026-01-21
 ABYSS REBEL		2026-12-31
 Spot Zero		2026-12-31
 The Legend of Fancy Realm Remake		2026-12-31
