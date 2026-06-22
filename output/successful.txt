@@ -26,7 +26,6 @@ Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
 Split Fiction		2025-03-06
-Voidling Bound		2026-06-09
 The Farmer Was Replaced		2025-10-10
 Like a Dragon: Infinite Wealth		2024-01-25
 Perfect Tides: Station to Station		2026-01-22
@@ -74,13 +73,13 @@ Magicians: The Devil's Deal		2027-12-31
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert		2026-03-19
 Kats Trigger		2025-12-18
+Empire in Decay		2026-07-23
 I Have No Change		2027-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
 NOMIA		2026-05-31
 Deified		2026-04-27
-S-mail		2026-04-24
 Deep Pixel Melancholy		2026-12-31
 Neath		2026-12-31
 Danganronpa 2x2		2026-12-31
@@ -94,3 +93,4 @@ HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
 Kugayama Shiori's Death Diary		2026-04-29
 STRANGER THAN HEAVEN		2027-01-15
 Goat Simulator 3 – Buck to the Future Pack		2026-04-01
+Locked in love : The Office		2026-09-30
