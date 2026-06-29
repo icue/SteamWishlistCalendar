@@ -11,7 +11,6 @@ Portal Reloaded		2021-04-19
 Old Skies		2025-04-23
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
-Sumerian Six		2024-09-02
 Nivalis		2026-12-31
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
@@ -21,7 +20,6 @@ Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2026-12-31
 Morbid Metal		2026-04-08
-Gales of Nayeli		2025-06-23
 Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
@@ -38,7 +36,7 @@ Sniper Elite 5 Season Pass Two		2023-03-07
 Tales of Berseria Remastered		2026-02-26
 Black Myth: Wukong		2024-08-20
 Rune Coliseum		2024-09-24
-Re:Night		2026-08-12
+Re:Night		2026-08-05
 AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Sephiria		2025-04-03
@@ -75,6 +73,7 @@ Crimson Desert		2026-03-19
 Kats Trigger		2025-12-18
 Empire in Decay		2026-07-23
 I Have No Change		2027-12-31
+DEMONS' NIGHT FEVER		2026-12-31
 Slain 2: The Beast Within		2026-12-31
 Silberheim Evolving Card Game		2026-09-30
 Ravenswatch - Merlin		2026-01-19
@@ -93,4 +92,5 @@ HITMAN 3 - The Eminem vs. Slim Shady Pack		2025-12-01
 Kugayama Shiori's Death Diary		2026-04-29
 STRANGER THAN HEAVEN		2027-01-15
 Goat Simulator 3 – Buck to the Future Pack		2026-04-01
+Muv-Luv: Tactics Kalidasa at Nightmare		2027-12-31
 Locked in love : The Office		2026-09-30
