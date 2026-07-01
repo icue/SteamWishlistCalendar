@@ -11,7 +11,7 @@ Portal Reloaded		2021-04-19
 Old Skies		2025-04-23
 Plasma		2023-09-13
 Fallen Aces		2024-06-14
-Nivalis		2026-12-31
+Nivalis Nights		2026-09-29
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
 SILENT HILL: Townfall		2026-09-24
@@ -51,6 +51,7 @@ The Adventures of Sir Kicksalot		2026-05-15
 Indiana Jones and the Great Circle		2024-12-09
 Edge of Memories		2026-12-31
 Monster Train 2		2025-05-21
+Celestial Descends		2026-07-23
 CleanFall		2025-08-08
 Blightstone		2026-01-20
 Sniper Dan		2026-12-31
@@ -71,7 +72,6 @@ Magicians: The Devil's Deal		2027-12-31
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert		2026-03-19
 Kats Trigger		2025-12-18
-Empire in Decay		2026-07-23
 I Have No Change		2027-12-31
 DEMONS' NIGHT FEVER		2026-12-31
 Slain 2: The Beast Within		2026-12-31
