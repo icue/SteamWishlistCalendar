@@ -25,10 +25,8 @@ Clair Obscur: Expedition 33		2025-04-24
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
 Split Fiction		2025-03-06
-CORPUS EDAX		2024-09-05
 The Farmer Was Replaced		2025-10-10
 Perfect Tides: Station to Station		2026-01-22
-SILENT HILL 2		2024-10-08
 NO LAW		2027-12-31
 Fatekeeper		2026-06-02
 Expeditions: Samurai		2026-08-07
@@ -68,18 +66,18 @@ Kats Trigger		2025-12-18
 PIGFACE		2025-09-18
 I Have No Change		2027-12-31
 DEMONS' NIGHT FEVER		2026-10-22
-Slain 2: The Beast Within		2026-12-31
+Silberheim Evolving Card Game		2026-10-30
 Ravenswatch - Merlin		2026-01-19
 NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
 Deep Pixel Melancholy		2026-12-31
-SPRAWL zero		2026-09-08
 Danganronpa 2x2		2027-12-31
 Divineblaze : March Tactics		2026-04-22
 ABYSS REBEL		2027-12-31
 Spot Zero		2026-12-31
 The Legend of Fancy Realm Remake		2026-09-10
+SlashZero		2027-03-31
 HITMAN WOA - The Eminem vs. Slim Shady Pack		2025-12-01
 Kugayama Shiori's Death Diary		2026-04-29
 STRANGER THAN HEAVEN		2027-01-15
@@ -90,3 +88,4 @@ Locked in love : The Office		2026-11-30
 The End of Allegoria		2027-12-31
 Camp Whittlewood		2026-09-28
 Rogue Fortune		2027-12-31
+Astonishia Story		2027-02-11
