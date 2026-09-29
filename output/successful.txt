@@ -39,6 +39,7 @@ Grey Heritage: Noble Duty		2025-09-15
 Vaunted		2026-12-31
 Avowed		2025-02-18
 Forza Horizon 6		2026-05-19
+Gobs and Gods		2024-07-19
 PARKSIDE: DECAYED SOUL MANIPULATION		2026-07-30
 Coreless		2025-07-11
 NINJA GAIDEN 4		2025-10-20
@@ -56,7 +57,6 @@ Deep Fringe		2026-01-15
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Witchfire		2024-09-23
 Rhell: Warped Worlds & Troubled Times		2026-03-12
-Ved: Recure		2026-09-22
 Magicians: The Devil's Deal		2027-12-31
 刻印战记1：法利兹传		2024-12-20
 Crimson Desert Enhanced		2026-03-19
@@ -69,6 +69,7 @@ Ravenswatch - Merlin		2026-01-19
 NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
+Wavecrashers		2026-09-25
 Deep Pixel Melancholy		2026-12-31
 Danganronpa 2x2		2027-12-31
 Divineblaze : March Tactics		2026-04-22
@@ -83,6 +84,6 @@ Muv-Luv: Tactics Kalidasa at Nightmare		2027-12-31
 The Incentive Program		2027-03-31
 Locked in love : The Office		2026-11-30
 The End of Allegoria		2027-12-31
-Camp Whittlewood		2026-09-28
+Camp Whittlewood		2026-09-29
 Rogue Fortune		2027-12-31
 Astonishia Story		2027-02-11
