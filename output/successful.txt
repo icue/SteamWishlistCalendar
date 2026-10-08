@@ -1,5 +1,6 @@
 Alpha Protocol™		2010-06-01
 Enemy		2015-03-17
+DARK SOULS™ III		2016-04-11
 Granblue Fantasy: Relink		2024-02-01
 Brigador Killers		2026-08-20
 Monomyth		2024-10-03
@@ -9,12 +10,10 @@ Dominion		2024-02-01
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
 Portal Reloaded		2021-04-19
-Rise of the Ronin		2025-03-11
 Old Skies		2025-04-23
 Plasma		2023-09-13
 Drova - Forsaken Kin		2024-10-15
 Cyanotype Daydream -The Girl Who Dreamed the World-		2022-02-09
-SILENT HILL: Townfall		2026-09-24
 Starfield		2023-09-06
 SPINE - This is Gun Fu		2027-12-31
 Superstar Strategy		2025-11-28
@@ -22,6 +21,7 @@ STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2027-12-31
 Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
+Absolum		2025-10-09
 Windblown		2024-10-24
 VALKYRIE ELYSIUM		2022-11-11
 Split Fiction		2025-03-06
@@ -30,32 +30,28 @@ Perfect Tides: Station to Station		2026-01-22
 NO LAW		2027-12-31
 Fatekeeper		2026-06-02
 OVIS LOOP		2025-08-14
-RAM: Random Access Mayhem		2025-09-15
 ANIWARS: Call of the Void		2025-11-17
 RIFTSTORM		2026-08-11
 Tales of Berseria Remastered		2026-02-26
 Rune Coliseum		2024-09-24
-AI LIMIT		2025-03-27
 Grey Heritage: Noble Duty		2025-09-15
 Vaunted		2026-12-31
 Avowed		2025-02-18
 Forza Horizon 6		2026-05-19
 Gobs and Gods		2024-07-19
 PARKSIDE: DECAYED SOUL MANIPULATION		2026-07-30
+Mortal Shell II		2026-08-20
 Coreless		2025-07-11
 NINJA GAIDEN 4		2025-10-20
 Onimusha: Way of the Sword		2026-09-04
-Indiana Jones and the Great Circle		2024-12-09
 Monster Train 2		2025-05-21
 Celestial Descends		2026-07-23
 CleanFall		2025-08-08
-Blightstone		2026-01-20
 Lost in Prayer		2025-07-15
 Slay the Spire 2		2026-03-05
 Artificial Detective		2027-12-31
 Expelled!		2025-03-12
 DOOM: The Dark Ages		2025-05-15
-Dunebound Tactics		2026-09-14
 Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
 Witchfire		2024-09-23
 Rhell: Warped Worlds & Troubled Times		2026-03-12
@@ -68,14 +64,12 @@ Steel Judgment		2026-07-31
 I Have No Change		2027-12-31
 DEMONS' NIGHT FEVER		2026-10-22
 Silberheim Evolving Card Game		2026-10-30
-Ravenswatch - Merlin		2026-01-19
 NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
 Wavecrashers		2026-09-25
 Deep Pixel Melancholy		2026-12-31
 Danganronpa 2x2		2027-12-31
-Trials of Valor		2026-03-05
 Divineblaze : March Tactics		2026-04-22
 ABYSS REBEL		2027-12-31
 Spot Zero		2026-12-31
@@ -88,7 +82,7 @@ Muv-Luv: Tactics Kalidasa at Nightmare		2027-12-31
 The Incentive Program		2027-03-31
 Locked in love : The Office		2026-11-30
 The End of Allegoria		2027-12-31
-DragonSword : Awakening		2026-07-23
+Ravenswatch - Kintaro		2026-10-12
 Camp Whittlewood		2026-09-29
 Goat Simulator 3 – Ticket to Dizzyworld		2026-11-19
 Rogue Fortune		2027-12-31
