@@ -1,11 +1,13 @@
 Alpha Protocol™		2010-06-01
 Enemy		2015-03-17
-DARK SOULS™ III		2016-04-11
+Abiotic Factor		2025-07-22
 Granblue Fantasy: Relink		2024-02-01
+Death's Door		2021-07-20
 Brigador Killers		2026-08-20
 Monomyth		2024-10-03
 Vellum		2025-05-02
 Echoes of Mystralia		2026-08-11
+UNSIGHTED		2021-09-30
 Dominion		2024-02-01
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
@@ -19,6 +21,7 @@ SPINE - This is Gun Fu		2027-12-31
 Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2027-12-31
+Promenade		2024-02-23
 Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
 Absolum		2025-10-09
@@ -47,12 +50,13 @@ Onimusha: Way of the Sword		2026-09-04
 Monster Train 2		2025-05-21
 Celestial Descends		2026-07-23
 CleanFall		2025-08-08
+SLOWBURN		2026-10-14
 Lost in Prayer		2025-07-15
 Slay the Spire 2		2026-03-05
 Artificial Detective		2027-12-31
 Expelled!		2025-03-12
 DOOM: The Dark Ages		2025-05-15
-Secret Agent Wizard Boy and the International Crime Syndicate		2025-03-06
+Secret Agent Wizard Boy		2025-03-06
 Witchfire		2024-09-23
 Rhell: Warped Worlds & Troubled Times		2026-03-12
 Magicians: The Devil's Deal		2027-12-31
@@ -60,6 +64,7 @@ Magicians: The Devil's Deal		2027-12-31
 Crimson Desert Enhanced		2026-03-19
 Kats Trigger		2025-12-18
 PIGFACE		2025-09-18
+Raiders of Blackveil		2025-12-15
 Steel Judgment		2026-07-31
 I Have No Change		2027-12-31
 DEMONS' NIGHT FEVER		2026-10-22
