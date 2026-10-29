@@ -52,6 +52,7 @@ CleanFall		2025-08-08
 Valor Mortis		2026-10-13
 SLOWBURN		2026-10-14
 Slay the Spire 2		2026-03-05
+Lunarium		2026-07-29
 Artificial Detective		2027-12-31
 Expelled!		2025-03-12
 DOOM: The Dark Ages		2025-05-15
@@ -72,11 +73,9 @@ NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
 Wavecrashers		2026-09-25
-Deep Pixel Melancholy		2026-12-31
-Danganronpa 2x2		2027-12-31
+Danganronpa 2x2		2027-01-14
 Divineblaze : March Tactics		2026-04-22
 ABYSS REBEL		2027-12-31
-Spot Zero		2026-12-31
 SlashZero		2027-03-31
 HITMAN WOA - The Eminem vs. Slim Shady Pack		2025-12-01
 Kugayama Shiori's Death Diary		2026-04-29
@@ -90,5 +89,6 @@ Ravenswatch - Kintaro		2026-10-12
 Camp Whittlewood		2026-09-29
 Goat Simulator 3 – Ticket to Dizzyworld		2026-11-19
 Rogue Fortune		2027-12-31
+Arcane Abyss		2026-11-30
 Astonishia Story		2027-02-11
-Collapsle		2026-12-31
+Collapsle		2026-11-30
