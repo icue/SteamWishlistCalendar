@@ -20,6 +20,7 @@ Superstar Strategy		2025-11-28
 STAR WARS Jedi: Survivor™		2023-04-28
 Pathbreakers: Roaming Blades		2027-12-31
 Promenade		2024-02-23
+Queen's Domain		2026-10-30
 FOUNTAINS		2024-12-20
 Morbid Metal		2026-04-08
 Clair Obscur: Expedition 33		2025-04-24
@@ -68,7 +69,6 @@ Raiders of Blackveil		2025-12-15
 Steel Judgment		2026-07-31
 I Have No Change		2027-12-31
 DEMONS' NIGHT FEVER		2026-10-22
-Silberheim Evolving Card Game		2026-10-30
 NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
@@ -89,6 +89,6 @@ Ravenswatch - Kintaro		2026-10-12
 Camp Whittlewood		2026-09-29
 Goat Simulator 3 – Ticket to Dizzyworld		2026-11-19
 Rogue Fortune		2027-12-31
-Arcane Abyss		2026-11-30
+Arcane Abyss		2026-11-29
 Astonishia Story		2027-02-11
 Collapsle		2026-11-30
