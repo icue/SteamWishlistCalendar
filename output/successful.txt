@@ -8,6 +8,7 @@ Axiom Verge 2		2022-08-11
 Echoes of Mystralia		2026-08-11
 UNSIGHTED		2021-09-30
 Dominion		2024-02-01
+Hades II		2025-09-25
 Gloomwood		2022-09-05
 Neverlooted Dungeon		2026-12-31
 Portal Reloaded		2021-04-19
@@ -39,7 +40,7 @@ RIFTSTORM		2026-08-11
 Tales of Berseria Remastered		2026-02-26
 Rune Coliseum		2024-09-24
 Grey Heritage: Noble Duty		2025-09-15
-Vaunted		2026-12-31
+Vaunted		2027-12-31
 Avowed		2025-02-18
 Forza Horizon 6		2026-05-19
 Gobs and Gods		2024-07-19
@@ -78,6 +79,7 @@ Divineblaze : March Tactics		2026-04-22
 ABYSS REBEL		2027-12-31
 SlashZero		2027-03-31
 HITMAN WOA - The Eminem vs. Slim Shady Pack		2025-12-01
+Phantom Blade Zero		2026-10-29
 Kugayama Shiori's Death Diary		2026-04-29
 STRANGER THAN HEAVEN		2027-01-15
 Goat Simulator 3 – Buck to the Future Pack		2026-04-01
@@ -92,3 +94,4 @@ Rogue Fortune		2027-12-31
 Arcane Abyss		2026-11-29
 Astonishia Story		2027-02-11
 Collapsle		2026-11-30
+Death Pool Club		2026-11-30
