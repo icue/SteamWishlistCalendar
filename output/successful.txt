@@ -73,9 +73,11 @@ DEMONS' NIGHT FEVER		2026-10-22
 NOMIA		2026-05-31
 Tom Clancy’s Rainbow Six Tactics		2027-12-31
 No Man's Home		2025-12-12
+Armatus		2027-01-07
 Wavecrashers		2026-09-25
 Danganronpa 2x2		2027-01-14
 Divineblaze : March Tactics		2026-04-22
+DEADBOOT		2026-11-12
 ABYSS REBEL		2027-12-31
 SlashZero		2027-03-31
 HITMAN WOA - The Eminem vs. Slim Shady Pack		2025-12-01
@@ -94,4 +96,4 @@ Rogue Fortune		2027-12-31
 Arcane Abyss		2026-11-29
 Astonishia Story		2027-02-11
 Collapsle		2026-11-30
-Death Pool Club		2026-11-30
+Death Pool Club		2026-11-09
