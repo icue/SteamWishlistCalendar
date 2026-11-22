@@ -10,7 +10,7 @@ UNSIGHTED		2021-09-30
 Dominion		2024-02-01
 Hades II		2025-09-25
 Gloomwood		2022-09-05
-Neverlooted Dungeon		2026-12-31
+Neverlooted Dungeon		2027-12-31
 Portal Reloaded		2021-04-19
 Old Skies		2025-04-23
 Plasma		2023-09-13
@@ -57,6 +57,7 @@ Slay the Spire 2		2026-03-05
 Lunarium		2026-07-29
 Artificial Detective		2027-12-31
 Expelled!		2025-03-12
+Stonemachia		2026-05-26
 DOOM: The Dark Ages		2025-05-15
 HARK THE GHOUL		2027-03-31
 Secret Agent Wizard Boy		2025-03-06
